@@ -1,7 +1,10 @@
 use rkb::AppError;
-use rkb::config::{ArchiveConfig, InventoryConfig, ParsingConfig};
+use rkb::config::{ArchiveConfig, InventoryConfig, ParsingConfig, RetrievalConfig};
 use rkb::paths::get_packaged_data_path;
-use rkb::records::{ArchiveManifestRow, ChunkMetadata, InventoryRow};
+use rkb::records::{
+  ArchiveManifestRow, ChunkMetadata, DatasetMetadataRow, DocumentMetadataRow, InventoryRow,
+  VariableMetadataRow,
+};
 use std::fs;
 use std::path::{Path, PathBuf};
 
@@ -93,6 +96,87 @@ fn test_config_limits_validation() {
 }
 
 #[test]
+fn test_config_nan_and_infinite_validation() {
+  // Inventory NaN and infinity
+  let mut inv_nan = InventoryConfig {
+    timeout_seconds: f64::NAN,
+    ..InventoryConfig::default()
+  };
+  assert!(matches!(
+    inv_nan.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+
+  let mut inv_inf = InventoryConfig {
+    timeout_seconds: f64::INFINITY,
+    ..InventoryConfig::default()
+  };
+  assert!(matches!(
+    inv_inf.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+
+  // Archive NaN and infinity
+  let arch_nan = ArchiveConfig {
+    timeout_seconds: f64::NAN,
+    ..ArchiveConfig::default()
+  };
+  assert!(matches!(
+    arch_nan.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+
+  let arch_inf = ArchiveConfig {
+    rate_limit_cooldown_seconds: f64::NEG_INFINITY,
+    ..ArchiveConfig::default()
+  };
+  assert!(matches!(
+    arch_inf.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+}
+
+#[test]
+fn test_retrieval_semantic_weight_validation() {
+  // Valid weight
+  let r_config = RetrievalConfig {
+    semantic_weight: 0.5,
+    ..RetrievalConfig::default()
+  };
+  assert!(r_config.validate().is_ok());
+
+  // Weight too low
+  let r_config2 = RetrievalConfig {
+    semantic_weight: -0.1,
+    ..RetrievalConfig::default()
+  };
+  assert!(matches!(
+    r_config2.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+
+  // Weight too high
+  let r_config3 = RetrievalConfig {
+    semantic_weight: 1.1,
+    ..RetrievalConfig::default()
+  };
+  assert!(matches!(
+    r_config3.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+
+  // Weight NaN
+  let r_config4 = RetrievalConfig {
+    semantic_weight: f64::NAN,
+    ..RetrievalConfig::default()
+  };
+  assert!(matches!(
+    r_config4.validate(),
+    Err(AppError::ConfigValidationError(_))
+  ));
+}
+
+#[test]
 fn test_path_resolution() {
   let subpath = "metadata/datasets.csv";
   let resolved = get_packaged_data_path(subpath);
@@ -155,6 +239,60 @@ fn test_archive_manifest_csv_roundtrip() {
 }
 
 #[test]
+fn test_datasets_csv_roundtrip() {
+  let path = baseline_path().join("datasets.csv");
+  let content = fs::read_to_string(&path).expect("failed to read datasets.csv");
+
+  let mut rdr = csv::Reader::from_reader(content.as_bytes());
+  let mut records = Vec::new();
+  for result in rdr.deserialize::<DatasetMetadataRow>() {
+    let record = result.expect("failed to deserialize DatasetMetadataRow");
+    records.push(record);
+  }
+
+  assert!(!records.is_empty(), "expected non-empty datasets rows");
+  assert_eq!(records[0].dataset_id, "ahc-model");
+  assert_eq!(
+    records[0].sha256,
+    "cc5309cccfb2a3216d4098df2d8a69b69c4efa819f1fbbd5275eb4b7de90610b"
+  );
+}
+
+#[test]
+fn test_documents_csv_roundtrip() {
+  let path = baseline_path().join("documents.csv");
+  let content = fs::read_to_string(&path).expect("failed to read documents.csv");
+
+  let mut rdr = csv::Reader::from_reader(content.as_bytes());
+  let mut records = Vec::new();
+  for result in rdr.deserialize::<DocumentMetadataRow>() {
+    let record = result.expect("failed to deserialize DocumentMetadataRow");
+    records.push(record);
+  }
+
+  assert!(!records.is_empty(), "expected non-empty documents rows");
+  assert_eq!(records[0].document_id, "hha-ffs__bp102c07_pdf__551d41d9a2");
+  assert_eq!(records[0].dataset_id, "hha-ffs");
+}
+
+#[test]
+fn test_variables_csv_roundtrip() {
+  let path = baseline_path().join("variables.csv");
+  let content = fs::read_to_string(&path).expect("failed to read variables.csv");
+
+  let mut rdr = csv::Reader::from_reader(content.as_bytes());
+  let mut records = Vec::new();
+  for result in rdr.deserialize::<VariableMetadataRow>() {
+    let record = result.expect("failed to deserialize VariableMetadataRow");
+    records.push(record);
+  }
+
+  assert!(!records.is_empty(), "expected non-empty variables rows");
+  assert_eq!(records[0].variable_id, "ahc-model__var__ahc-bene-id");
+  assert_eq!(records[0].variable_name, "AHC_BENE_ID");
+}
+
+#[test]
 fn test_chunk_metadata_jsonl_roundtrip() {
   let path = baseline_path().join("chunks.jsonl");
   let content = fs::read_to_string(&path).expect("failed to read chunks.jsonl");
@@ -174,4 +312,12 @@ fn test_chunk_metadata_jsonl_roundtrip() {
   );
   assert_eq!(records[0].chunk_id, "ahc-model__chunk_0");
   assert_eq!(records[0].dataset, "ahc-model");
+
+  // Roundtrip serialization
+  for record in &records {
+    let json_str = serde_json::to_string(record).expect("failed to serialize ChunkMetadata");
+    let roundtripped: ChunkMetadata =
+      serde_json::from_str(&json_str).expect("failed to deserialize serialized ChunkMetadata");
+    assert_eq!(*record, roundtripped);
+  }
 }

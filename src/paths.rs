@@ -2,7 +2,7 @@
 
 use std::path::{Path, PathBuf};
 
-/// Resolves the absolute path to a file packaged inside the knowledge base data,
+/// Resolves the relative path fallback to a file packaged inside the knowledge base data,
 /// falling back to local `data/`.
 #[must_use]
 pub fn get_packaged_data_path(subpath: &str) -> PathBuf {

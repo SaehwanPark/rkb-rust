@@ -4,7 +4,7 @@ use std::error::Error;
 use std::fmt::{self, Display, Formatter};
 
 /// Recoverable failures returned by command dispatch and domain operations.
-#[derive(Debug)]
+#[derive(Clone, Debug, Eq, PartialEq)]
 pub enum AppError {
   /// The command name is stable, but its behavior has not passed parity review.
   CommandUnavailable { command: &'static str },

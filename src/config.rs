@@ -74,12 +74,12 @@ impl InventoryConfig {
     }
 
     // Validate timeouts and delays
-    if self.timeout_seconds <= 0.0 {
+    if !self.timeout_seconds.is_finite() || self.timeout_seconds <= 0.0 {
       return Err(AppError::ConfigValidationError(
-        "timeout_seconds must be greater than 0".to_string(),
+        "timeout_seconds must be a finite number greater than 0".to_string(),
       ));
     }
-    if self.request_delay_seconds < 0.0 {
+    if !self.request_delay_seconds.is_finite() || self.request_delay_seconds < 0.0 {
       return Err(AppError::ConfigValidationError(
         "request_delay_seconds cannot be negative".to_string(),
       ));
@@ -133,12 +133,12 @@ impl ArchiveConfig {
   ///
   /// Returns `AppError::ConfigValidationError` if validation fails.
   pub fn validate(&self) -> Result<(), AppError> {
-    if self.timeout_seconds <= 0.0 {
+    if !self.timeout_seconds.is_finite() || self.timeout_seconds <= 0.0 {
       return Err(AppError::ConfigValidationError(
-        "timeout_seconds must be greater than 0".to_string(),
+        "timeout_seconds must be a finite number greater than 0".to_string(),
       ));
     }
-    if self.request_delay_seconds < 0.0 {
+    if !self.request_delay_seconds.is_finite() || self.request_delay_seconds < 0.0 {
       return Err(AppError::ConfigValidationError(
         "request_delay_seconds must be greater than or equal to 0".to_string(),
       ));
@@ -148,7 +148,7 @@ impl ArchiveConfig {
         "max_consecutive_rate_limits must be greater than 0".to_string(),
       ));
     }
-    if self.rate_limit_cooldown_seconds < 0.0 {
+    if !self.rate_limit_cooldown_seconds.is_finite() || self.rate_limit_cooldown_seconds < 0.0 {
       return Err(AppError::ConfigValidationError(
         "rate_limit_cooldown_seconds must be greater than or equal to 0".to_string(),
       ));
@@ -305,6 +305,22 @@ impl Default for RetrievalConfig {
   }
 }
 
+impl RetrievalConfig {
+  /// Validates configuration constraints.
+  ///
+  /// # Errors
+  ///
+  /// Returns `AppError::ConfigValidationError` if validation fails.
+  pub fn validate(&self) -> Result<(), AppError> {
+    if !self.semantic_weight.is_finite() || !(0.0..=1.0).contains(&self.semantic_weight) {
+      return Err(AppError::ConfigValidationError(
+        "semantic_weight must be a finite number between 0.0 and 1.0 inclusive".to_string(),
+      ));
+    }
+    Ok(())
+  }
+}
+
 #[derive(Clone, Debug, PartialEq)]
 pub struct AgentContextConfig {
   pub retrieval: RetrievalConfig,
@@ -319,6 +335,17 @@ impl Default for AgentContextConfig {
       archive_manifest_path: PathBuf::from("manifests/archive_manifest.csv"),
       default_limit: 5,
     }
+  }
+}
+
+impl AgentContextConfig {
+  /// Validates configuration constraints.
+  ///
+  /// # Errors
+  ///
+  /// Returns `AppError::ConfigValidationError` if validation fails.
+  pub fn validate(&self) -> Result<(), AppError> {
+    self.retrieval.validate()
   }
 }
 
@@ -340,5 +367,16 @@ impl Default for VariableEvaluationConfig {
       seed: 20_260_616,
       limit: 5,
     }
+  }
+}
+
+impl VariableEvaluationConfig {
+  /// Validates configuration constraints.
+  ///
+  /// # Errors
+  ///
+  /// Returns `AppError::ConfigValidationError` if validation fails.
+  pub fn validate(&self) -> Result<(), AppError> {
+    self.retrieval.validate()
   }
 }
