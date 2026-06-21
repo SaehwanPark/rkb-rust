@@ -4,9 +4,9 @@ Each phase is delivered as a thin test-first slice. A phase is complete only
 when its behavior is represented by parity tests, implementation, SDD updates,
 and QA review.
 
-1. Foundation: repository, CLI namespace, fixtures, SDD, harness, and CI.
-2. Domain foundation: record types, configuration, paths, and typed failures.
-3. Preservation: inventory discovery, archive downloads, rate limiting, and progress.
+1. Foundation: repository, CLI namespace, fixtures, SDD, harness, and CI. (Complete)
+2. Domain foundation: record types, configuration, paths, and typed failures. (Complete)
+3. Preservation: inventory discovery, archive downloads, rate limiting, and progress. (Complete)
 4. Transformation: metadata extraction, HTML/PDF/XLSX parsing, and chunking.
 5. Knowledge model: variables, graph seeds, and provenance QA.
 6. Retrieval: SQLite FTS5 index, exact-term behavior, search, and evaluation.
