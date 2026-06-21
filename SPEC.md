@@ -28,13 +28,24 @@ Verification:
 - Site inventory, archive manifest, and chunks JSONL baseline fixtures are successfully parsed (roundtrip checks).
 - Clippy, formatting, and tests pass.
 
+### Preservation (Inventory Crawl, Archive Downloader, Rate Limiting, Progress Logs)
+
+Status: Verified
+
+Ported crawler to discover listing pages, classify resource kinds, execute HTTP probes, and record inventory CSV rows/edges. Ported archiver to download resources under structured directories, verify SHA-256 integrity, write manifests, and implement HTTP 429 rate limit backoff and circuit-breaking.
+
+Verification:
+- CLI subcommands `inventory` and `archive` are wired and verified.
+- Integration/unit tests run hermetically using mock closures for crawling, downloading, and sleeping.
+- Output formats, schema fields, sorting, and rate-limiting limits verified.
+- Formatting, Clippy, and tests pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port inventory discovery and archive preservation.
 - Port metadata extraction and document parsing.
 - Port variable extraction and provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.

@@ -17,3 +17,17 @@ Each entry should state context, cause, resolution, and prevention concisely.
 - Resolution: Derive only `Clone`, `Debug`, and `PartialEq` on configurations containing float properties.
 - Prevention: Check for floating point properties before automatically deriving `Eq` on new structs.
 
+## URL Classification Priority Ordering
+
+- Context: Classifying resource kinds using path patterns.
+- Cause: A mismatch occurred where certain URLs containing specific path substrings (like `/cms-data/files/`) had to be classified as `dataset_page` even if they ended with file extensions like `.pdf`. If file extension checks were placed first, they incorrectly matched `asset` instead of `dataset_page`.
+- Resolution: Prioritize substring contains matches over suffix checks when evaluating classification rules.
+- Prevention: Re-verify classification ordering logic explicitly with real/mock fixtures that exercise borderline/overlapping conditions.
+
+## Move Semantics in Test Closures
+
+- Context: Inspecting thread/closure execution counts or delays inside test assertions.
+- Cause: Rust closure capture rules require moving ownership of variables (like counter variables) when passed into pipeline runners, making them inaccessible for post-run assertions in the outer test scope.
+- Resolution: Wrap shared state/counter variables in thread-safe reference counters like `std::sync::Arc` (or `Arc<AtomicUsize>`) to allow clone-based sharing and mutation.
+- Prevention: Identify shared assertion counters in mock testing early and initialize them using `Arc` counters.
+

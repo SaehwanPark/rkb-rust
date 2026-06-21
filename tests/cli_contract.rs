@@ -1,8 +1,6 @@
 use std::process::{Command, Output};
 
 const RESERVED_COMMANDS: &[&str] = &[
-  "inventory",
-  "archive",
   "extract",
   "parse",
   "variables",
