@@ -16,13 +16,24 @@ Verification:
 - Reserved commands return deterministic typed unavailable errors.
 - Formatting, Clippy, tests, documentation, and harness-contract checks pass.
 
+### Record schemas and validated configuration boundaries
+
+Status: Verified
+
+Ported 9 domain configuration structures with custom validators, path resolution helper, 12 domain record structures (CSV/JSONL compatible), and extended typed application error variants.
+
+Verification:
+
+- Unit and integration tests verify invalid configurations are rejected.
+- Site inventory, archive manifest, and chunks JSONL baseline fixtures are successfully parsed (roundtrip checks).
+- Clippy, formatting, and tests pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port typed record schemas and validated configuration boundaries.
 - Port inventory discovery and archive preservation.
 - Port metadata extraction and document parsing.
 - Port variable extraction and provenance QA.

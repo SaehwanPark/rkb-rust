@@ -5,10 +5,13 @@
 //! unavailable result with a tested implementation in a later rewrite slice.
 
 pub mod cli;
+pub mod config;
 pub mod error;
+pub mod paths;
+pub mod records;
 
 use cli::Command;
-use error::AppError;
+pub use error::AppError;
 
 /// Dispatches one parsed command.
 ///
