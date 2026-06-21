@@ -1,0 +1,2 @@
+variable_id,variable_name,dataset_id,definition,aliases,years,source_document,source_url,page,chunk_id,extraction_notes
+ahc-model__var__ahc-bene-id,AHC_BENE_ID,ahc-model,AHC Beneficiary Identifier,,,data/raw/html/variable_page/c7b69e2ac1934e621c1b30a851c026f182074065.html,https://resdac.org/cms-data/variables/ahc-beneficiary-identifier,,ahc-model__data-documentation__2617b90539__chunk_2,

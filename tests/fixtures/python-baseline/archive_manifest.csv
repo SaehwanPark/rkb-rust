@@ -1,0 +1,2 @@
+url,resource_kind,asset_kind,source_url,source_title,content_type,http_status,archive_state,downloaded_at_utc,sha256,local_path,error
+https://resdac.org/cms-data/variables/encrypted-ccw-beneficiary-id,variable_page,,https://resdac.org/cms-data/files/cmds-beneficiary/data-documentation,Data Documentation | ResDAC,,,archived,2026-06-17T17:57:57.326887Z,afd7f96c4b33e954afbec9e56af4cd890b0723504ea7ec4bf31d9f4615e01dad,data/raw/html/variable_page/69950b21ed36af6e7ed6c908dc18142a50445d3c.html,

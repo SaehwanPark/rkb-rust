@@ -1,0 +1,2 @@
+dataset_id,name,program,category,availability,source_url,local_path,sha256,extraction_notes
+ahc-model,Accountable Health Communities Model,"Medicare, Medicaid",Special Programs,May 2018-April 2023,https://resdac.org/cms-data/files/ahc-model,data/raw/html/dataset_page/1c35797b5493f4e27d3fcca1632661f8063b4618.html,cc5309cccfb2a3216d4098df2d8a69b69c4efa819f1fbbd5275eb4b7de90610b,

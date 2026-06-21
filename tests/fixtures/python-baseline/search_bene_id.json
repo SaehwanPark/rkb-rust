@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "mbisg__var__bene-id",
+    "record_type": "variable",
+    "title": "BENE_ID",
+    "dataset_id": "mbisg",
+    "score": 23.22608,
+    "snippet": "mbisg__var__bene-id BENE_ID mbisg Encrypted CCW Beneficiary ID",
+    "source_url": "https://resdac.org/cms-data/variables/encrypted-ccw-beneficiary-id",
+    "source_document": "data/raw/html/variable_page/69950b21ed36af6e7ed6c908dc18142a50445d3c.html",
+    "page": null
+  }
+]

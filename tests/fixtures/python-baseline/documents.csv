@@ -1,0 +1,2 @@
+document_id,dataset_id,title,document_kind,source_url,local_path,sha256,content_type,extraction_notes
+hha-ffs__bp102c07_pdf__551d41d9a2,hha-ffs,Find the CMS Data File You Need | ResDAC,pdf,https://cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/bp102c07.pdf,data/raw/assets/pdf/551d41d9a2e0df08a63c3215d57d55efb3708dd1.pdf,a0777bd2428a9a1140b89ae3c2264260696dd07fa38c1a3f8c514d3a7297177f,application/pdf,

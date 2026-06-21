@@ -1,0 +1,53 @@
+{
+  "baseline": {
+    "repository": "https://github.com/SaehwanPark/resdac-knowledge-base",
+    "commit": "d1120cc73367894fb15dc6f44fe3ba452d3e2e10",
+    "package": "resdac-knowledge-base",
+    "version": "1.0.2",
+    "captured_on": "2026-06-21"
+  },
+  "files": [
+    {
+      "path": "archive_manifest.csv",
+      "source": "manifests/archive_manifest.csv",
+      "command": "sed -n '1,2p' manifests/archive_manifest.csv",
+      "sha256": "3d24eb990c9fc9c9c530ed4476815d0929273ae0da708f6ce7313143b76678b6"
+    },
+    {
+      "path": "chunks.jsonl",
+      "source": "data/parsed/chunks.jsonl",
+      "command": "sed -n '1p' data/parsed/chunks.jsonl",
+      "sha256": "4f9143a8e96c8467af297a69355ebd6ac9015655d59b78b51c56481207b72f4e"
+    },
+    {
+      "path": "datasets.csv",
+      "source": "data/metadata/datasets.csv",
+      "command": "sed -n '1,2p' data/metadata/datasets.csv",
+      "sha256": "3e5c05be5bede372454d73fa5d43efd69f9d561a0edfa28ba503cba401a9d910"
+    },
+    {
+      "path": "documents.csv",
+      "source": "data/metadata/documents.csv",
+      "command": "sed -n '1,2p' data/metadata/documents.csv",
+      "sha256": "f47d68222da9c659253234a977818f84cfa264b63e97ae811ac3576f50fd8b1b"
+    },
+    {
+      "path": "search_bene_id.json",
+      "source": "data/index/retrieval.sqlite",
+      "command": "uv run cms-kb-search --query BENE_ID --limit 1 --json",
+      "sha256": "ce13df24878543f5a2e6044d417ad559ccf09aaa6b7a232537123558fc91336a"
+    },
+    {
+      "path": "site_inventory.csv",
+      "source": "manifests/site_inventory.csv",
+      "command": "sed -n '1,2p' manifests/site_inventory.csv",
+      "sha256": "77c98452a31dc86710dbe5fc544d204a1b737c81029faa7ab0bb2569a2855e53"
+    },
+    {
+      "path": "variables.csv",
+      "source": "data/metadata/variables.csv",
+      "command": "sed -n '1,2p' data/metadata/variables.csv",
+      "sha256": "5318437b0ab064b41515fd28a313245bea1a98a38bed3cdc806e840bb5d8a0d1"
+    }
+  ]
+}
