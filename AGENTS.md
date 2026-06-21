@@ -28,3 +28,8 @@ rewrite harness for task-specific detail.
 - Keep `SPEC.md`, `ARCHITECTURE.md`, and `CHANGELOG.md` aligned with implementation.
 - Follow `docs/harness/rkb-rewrite/team-spec.md` for rewrite work.
 - Add recurring setup or debugging traps to `LESSONS.md`.
+
+## Etc.
+
+- Use `which <tool>` to figure out paths if essential tools are not found.
+- You may also add any dependencies that are necessary.
