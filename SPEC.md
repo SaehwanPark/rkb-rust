@@ -64,27 +64,24 @@ Verification:
 - Unit tests verify whitespace normalizations, end-of-chunk word boundary lookbacks, and overlap alignments.
 - Formatting, Clippy, and tests pass.
 
-## Present
+### Variable-Level Metadata and Canonical Variable Extraction
 
-### Variable-level metadata and canonical variable extraction
+Status: Verified
 
-Status: Active
-Started: 2026-06-22
-Branch: `feat/variable-extraction`
-
-Port chunk-based variable definition extraction and archived ResDAC variable-page
-parsing into `rkb variables`. Produce deterministic variable catalogs, containment
-edges, canonical variable records, citation resolution, and a workspace summary.
+Ported conservative variable definition extraction from parsed chunks, source-priority
+deduplication, archived ResDAC variable-page parsing, dataset containment edges, and
+canonical citation resolution.
 
 Verification:
 
-- Focused parity tests cover extraction, deduplication, canonical pages, and failures.
-- `rkb variables` writes the four Python-compatible CSV artifacts deterministically.
-- Formatting, Clippy, tests, documentation, and fixture checks pass.
+- CLI subcommand `variables` is wired with Python-compatible path options.
+- Unit and integration tests verify definition evidence, aliases, years, stable IDs,
+  source priority, canonical HTML parsing, deterministic CSV schemas, and partial failures.
+- Python variable tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
 
-Out of scope:
+## Present
 
-- QA, retrieval indexing, search, semantic reranking, and concurrency.
+No production rewrite slice is active.
 
 ## Future
 

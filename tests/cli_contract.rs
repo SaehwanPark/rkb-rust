@@ -1,6 +1,18 @@
 use std::process::{Command, Output};
 
 const RESERVED_COMMANDS: &[&str] = &[
+  "qa",
+  "index",
+  "search",
+  "agent-context",
+  "mcp",
+  "mcp-setup",
+  "evaluate",
+  "progress",
+  "integration",
+];
+
+const ALL_COMMANDS: &[&str] = &[
   "variables",
   "qa",
   "index",
@@ -27,7 +39,7 @@ fn help_lists_every_reserved_command() {
 
   assert!(output.status.success());
   assert!(output.stderr.is_empty());
-  for command in RESERVED_COMMANDS {
+  for command in ALL_COMMANDS {
     assert!(stdout.contains(command), "help omitted {command}");
   }
 }

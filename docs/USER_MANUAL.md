@@ -160,7 +160,7 @@ cargo run -- extract
     *   `data/metadata/documents.csv`
 
 ### Step 4: Parse and Split Text (`parse`)
-Finally, extract the plain text from your downloads and divide it into overlapping paragraph chunks:
+Extract the plain text from your downloads and divide it into overlapping paragraph chunks:
 
 ```bash
 cargo run -- parse
@@ -168,7 +168,21 @@ cargo run -- parse
 *   **What it does**: Opens HTML, PDF, and XLSX files, extracts their written text, and splits it into searchable segments.
 *   **What is created**:
     *   `data/parsed/chunks.jsonl` (Your search-ready text segments).
-    *   `data/parsed/workspace_parsed.json` (A summary of parsed documents).
+    *   `_workspace/05_parsing_pack.md` (A summary of parsed documents).
+
+### Step 5: Extract Variables (`variables`)
+Extract variable names and definitions from parsed chunks and archived ResDAC variable pages:
+
+```bash
+cargo run -- variables
+```
+*   **What it does**: Finds definition-bearing variable identifiers, deduplicates them, and preserves the URL, local document, page, and chunk evidence.
+*   **What is created**:
+    *   `data/metadata/variables.csv`
+    *   `data/metadata/canonical_variables.csv`
+    *   `data/graph/variable_edges.csv`
+    *   `data/graph/data_source_variable_edges.csv`
+    *   `_workspace/07_variable_pack.md`
 
 ---
 
@@ -230,6 +244,21 @@ cargo run -- parse [FLAGS]
 
 ---
 
+### `variables`
+Extract variable definitions and provenance links.
+
+```bash
+cargo run -- variables [FLAGS]
+```
+
+**Key Parameters (Options)**:
+*   `--chunks-jsonl <PATH>`: Parsed chunk stream (Default: `data/parsed/chunks.jsonl`).
+*   `--archive-manifest <PATH>`: Archived variable-page ledger (Default: `manifests/archive_manifest.csv`).
+*   `--metadata-dir <PATH>`: Variable catalog output directory (Default: `data/metadata`).
+*   `--graph-dir <PATH>`: Variable relationship output directory (Default: `data/graph`).
+
+---
+
 ## 7. Understanding Your Output Data
 
 ### Schema Checklists
@@ -261,7 +290,6 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 | Command | Status | Intended Action |
 | --- | --- | --- |
-| `variables` | Planned | Extract variable data types and schemas from codebooks. |
 | `qa` | Planned | Validate checksum records and citation pathways. |
 | `index` | Planned | Import parsed chunks into a fast, searchable SQLite database. |
 | `search` | Planned | Query the SQLite database using keywords. |
@@ -275,7 +303,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Make sure you are using `inventory`, `archive`, `extract`, or `parse`.
+*   **Solution**: Double check your command spelling. Make sure you are using `inventory`, `archive`, `extract`, `parse`, or `variables`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

@@ -133,6 +133,25 @@ pub struct ParseArgs {
   pub chunk_overlap: usize,
 }
 
+/// Arguments for the `variables` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct VariablesArgs {
+  #[arg(long, default_value = "data/parsed/chunks.jsonl")]
+  pub chunks_jsonl: PathBuf,
+
+  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  pub archive_manifest: PathBuf,
+
+  #[arg(long, default_value = "data/metadata")]
+  pub metadata_dir: PathBuf,
+
+  #[arg(long, default_value = "data/graph")]
+  pub graph_dir: PathBuf,
+
+  #[arg(long, default_value = "_workspace")]
+  pub workspace_dir: PathBuf,
+}
+
 /// Stable command namespace reserved for the Rust rewrite.
 #[derive(Clone, Debug, PartialEq, Subcommand)]
 pub enum Command {
@@ -145,7 +164,7 @@ pub enum Command {
   /// Parse archived documents into provenance-bearing chunks.
   Parse(ParseArgs),
   /// Extract variable-level metadata.
-  Variables,
+  Variables(VariablesArgs),
   /// Validate provenance and cross-artifact integrity.
   Qa,
   /// Build the derived retrieval index.
@@ -175,7 +194,7 @@ impl Command {
       Self::Archive(_) => "archive",
       Self::Extract(_) => "extract",
       Self::Parse(_) => "parse",
-      Self::Variables => "variables",
+      Self::Variables(_) => "variables",
       Self::Qa => "qa",
       Self::Index => "index",
       Self::Search => "search",
