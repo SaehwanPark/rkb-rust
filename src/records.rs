@@ -109,8 +109,26 @@ pub struct VariableEdgeRow {
 pub struct CanonicalVariableRow {
   pub variable_id: String,
   pub variable_name: String,
-  pub dataset_id: String,
+  pub variable_label: String,
   pub definition: String,
+  pub source: String,
+  pub source_url: String,
+  pub source_document: String,
+  pub extraction_notes: Option<String>,
+}
+
+#[derive(Clone, Debug, Deserialize, Serialize, Eq, PartialEq)]
+pub struct DataSourceVariableEdgeRow {
+  pub source_id: String,
+  pub target_id: String,
+  pub relationship: String,
+  pub source_url: String,
+  pub source_document: String,
+  pub variable_url: String,
+  pub variable_document: String,
+  pub evidence_type: String,
+  pub page: Option<usize>,
+  pub chunk_id: String,
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize, Eq, PartialEq)]

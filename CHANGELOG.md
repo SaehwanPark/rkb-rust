@@ -6,6 +6,10 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- CLI subcommand integration for `rkb variables` with configurable chunk, manifest, metadata, graph, and workspace paths.
+- Deterministic variable definition extraction, source-priority deduplication, alias/year capture, and containment edges.
+- Canonical ResDAC variable-page parsing, dataset relationships, and citation resolution to archived evidence.
+- Python-compatible variable CSV artifacts and `_workspace/07_variable_pack.md` partial-failure summary.
 - CLI subcommand integration for `rkb parse` mapping user arguments to parsing config.
 - Document parsing engine supporting HTML (using `scraper` without boilerplate), PDF (using `pdf-extract` page-by-page), and XLSX (custom OpenXML ZIP/XML parser).
 - Word-boundary aligned sliding window text chunker (`chunk_text`) implementing normalizations, lookbacks, and start alignments.

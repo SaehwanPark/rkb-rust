@@ -64,13 +64,28 @@ Verification:
 - Unit tests verify whitespace normalizations, end-of-chunk word boundary lookbacks, and overlap alignments.
 - Formatting, Clippy, and tests pass.
 
+### Variable-Level Metadata and Canonical Variable Extraction
+
+Status: Verified
+
+Ported conservative variable definition extraction from parsed chunks, source-priority
+deduplication, archived ResDAC variable-page parsing, dataset containment edges, and
+canonical citation resolution.
+
+Verification:
+
+- CLI subcommand `variables` is wired with Python-compatible path options.
+- Unit and integration tests verify definition evidence, aliases, years, stable IDs,
+  source priority, canonical HTML parsing, deterministic CSV schemas, and partial failures.
+- Python variable tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port variable extraction and provenance QA.
+- Port provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.

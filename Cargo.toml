@@ -30,6 +30,7 @@ zip = "8.6.0"
 quick-xml = "0.40.1"
 pdf-extract = "0.10.0"
 ego-tree = "0.6.3"
+regex = "1.11"
 
 [lints.rust]
 unsafe_code = "forbid"
@@ -37,4 +38,3 @@ unsafe_code = "forbid"
 [lints.clippy]
 all = "deny"
 pedantic = "deny"
-

@@ -14,6 +14,7 @@ pub mod parse;
 pub mod paths;
 pub mod progress;
 pub mod records;
+pub mod variables;
 
 use cli::Command;
 use config::{ArchiveConfig, InventoryConfig};
@@ -25,6 +26,7 @@ pub use error::AppError;
 ///
 /// Returns [`AppError`] or [`AppError::CommandUnavailable`] until the
 /// selected command has a verified Rust implementation.
+#[allow(clippy::too_many_lines)]
 pub fn run(command: Command) -> Result<(), AppError> {
   match command {
     Command::Inventory(args) => {
@@ -96,6 +98,32 @@ pub fn run(command: Command) -> Result<(), AppError> {
       config.validate()?;
       parse::run_parsing(&config)?;
       Ok(())
+    }
+    Command::Variables(args) => {
+      let config = config::VariableExtractionConfig {
+        chunks_jsonl_path: args.chunks_jsonl,
+        archive_manifest_path: args.archive_manifest,
+        metadata_dir: args.metadata_dir,
+        graph_dir: args.graph_dir,
+        workspace_dir: args.workspace_dir,
+      };
+      let result = variables::run_variable_extraction(&config)?;
+      println!(
+        "wrote {} variables and {} variable edges; wrote {} canonical variables and {} data source variable edges; summary: {}",
+        result.variables.len(),
+        result.edges.len(),
+        result.canonical_variables.len(),
+        result.data_source_variable_edges.len(),
+        result.summary_path.display()
+      );
+      if result.failures.is_empty() {
+        Ok(())
+      } else {
+        Err(AppError::RecordParseError(format!(
+          "variable extraction completed with {} failures; see workspace summary pack",
+          result.failures.len()
+        )))
+      }
     }
     _ => Err(AppError::CommandUnavailable {
       command: command.name(),
