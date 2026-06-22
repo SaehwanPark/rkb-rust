@@ -174,6 +174,8 @@ pub fn chunk_text(text: &str, chunk_size: usize, chunk_overlap: usize) -> Vec<St
       }
     }
 
+    next_start = std::cmp::min(next_start, end);
+
     if next_start <= start {
       start = end;
     } else {
@@ -195,8 +197,48 @@ fn walk_nodes(node: ego_tree::NodeRef<'_, scraper::Node>, out: &mut String) {
       {
         return;
       }
-      for child in node.children() {
-        walk_nodes(child, out);
+      let is_block = matches!(
+        name,
+        "p"
+          | "div"
+          | "h1"
+          | "h2"
+          | "h3"
+          | "h4"
+          | "h5"
+          | "h6"
+          | "li"
+          | "tr"
+          | "br"
+          | "ul"
+          | "ol"
+          | "table"
+          | "tbody"
+          | "thead"
+          | "section"
+          | "article"
+          | "aside"
+          | "header"
+          | "main"
+      );
+      if is_block {
+        if name == "br" {
+          out.push('\n');
+        } else {
+          if !out.is_empty() && !out.ends_with('\n') {
+            out.push('\n');
+          }
+          for child in node.children() {
+            walk_nodes(child, out);
+          }
+          if !out.is_empty() && !out.ends_with('\n') {
+            out.push('\n');
+          }
+        }
+      } else {
+        for child in node.children() {
+          walk_nodes(child, out);
+        }
       }
     }
     _ => {
@@ -242,6 +284,24 @@ fn sheet_sort_key(name: &str) -> (usize, String) {
   (0, name.to_string())
 }
 
+fn excel_column_to_index(col: &str) -> usize {
+  let mut index = 0;
+  for c in col.chars() {
+    if c.is_ascii_alphabetic() {
+      let val = (c.to_ascii_uppercase() as usize) - ('A' as usize) + 1;
+      index = index * 26 + val;
+    }
+  }
+  if index > 0 { index - 1 } else { 0 }
+}
+
+fn extract_column_letters(r: &str) -> &str {
+  let end = r
+    .find(|c: char| !c.is_ascii_alphabetic())
+    .unwrap_or(r.len());
+  &r[..end]
+}
+
 fn read_xlsx_shared_strings<R: std::io::Read>(
   reader: &mut quick_xml::Reader<BufReader<R>>,
 ) -> Result<Vec<String>, AppError> {
@@ -253,11 +313,11 @@ fn read_xlsx_shared_strings<R: std::io::Read>(
 
   loop {
     match reader.read_event_into(&mut buf) {
-      Ok(Event::Start(ref e)) if e.name().as_ref() == b"si" => {
+      Ok(Event::Start(ref e)) if e.local_name().as_ref() == b"si" => {
         in_si = true;
         current_string.clear();
       }
-      Ok(Event::End(ref e)) if e.name().as_ref() == b"si" => {
+      Ok(Event::End(ref e)) if e.local_name().as_ref() == b"si" => {
         in_si = false;
         shared_strings.push(current_string.trim().to_string());
       }
@@ -288,6 +348,7 @@ fn parse_worksheet_xml<R: std::io::Read>(
   let mut current_row = Vec::new();
   let mut current_cell_value = String::new();
   let mut current_cell_type = String::new();
+  let mut current_cell_ref = String::new();
   let mut in_v = false;
   let mut in_is_t = false;
   let mut in_is = false;
@@ -296,18 +357,26 @@ fn parse_worksheet_xml<R: std::io::Read>(
   loop {
     match reader.read_event_into(&mut buf) {
       Ok(Event::Start(ref e)) => {
-        let name = e.name();
+        let name = e.local_name();
         let name_bytes = name.as_ref();
         if name_bytes == b"row" {
           current_row.clear();
         } else if name_bytes == b"c" {
           current_cell_value.clear();
           current_cell_type.clear();
+          current_cell_ref.clear();
           for attr in e.attributes().flatten() {
-            if attr.key.as_ref() == b"t" {
+            let key = attr.key.local_name();
+            let key_bytes = key.as_ref();
+            if key_bytes == b"t" {
               #[allow(deprecated)]
               if let Ok(val) = attr.unescape_value() {
                 current_cell_type = val.into_owned();
+              }
+            } else if key_bytes == b"r" {
+              #[allow(deprecated)]
+              if let Ok(val) = attr.unescape_value() {
+                current_cell_ref = val.into_owned();
               }
             }
           }
@@ -320,7 +389,7 @@ fn parse_worksheet_xml<R: std::io::Read>(
         }
       }
       Ok(Event::End(ref e)) => {
-        let name = e.name();
+        let name = e.local_name();
         let name_bytes = name.as_ref();
         if name_bytes == b"row" {
           let row_text = current_row.join("\t");
@@ -340,9 +409,16 @@ fn parse_worksheet_xml<R: std::io::Read>(
           } else {
             current_cell_value.clone()
           };
-          if !cell_text.trim().is_empty() {
-            current_row.push(cell_text);
+
+          let cell_text_trimmed = cell_text.trim().to_string();
+          if !current_cell_ref.is_empty() {
+            let col_letters = extract_column_letters(&current_cell_ref);
+            let col_idx = excel_column_to_index(col_letters);
+            while current_row.len() < col_idx {
+              current_row.push(String::new());
+            }
           }
+          current_row.push(cell_text_trimmed);
         } else if name_bytes == b"v" {
           in_v = false;
         } else if name_bytes == b"is" {
@@ -359,7 +435,7 @@ fn parse_worksheet_xml<R: std::io::Read>(
             .map_err(|e| AppError::RecordParseError(format!("XML decode error: {e}")))?;
           let unescaped = quick_xml::escape::unescape(&decoded)
             .map_err(|e| AppError::RecordParseError(format!("XML unescape error: {e}")))?;
-          current_cell_value.push_str(unescaped.trim());
+          current_cell_value.push_str(&unescaped);
         }
       }
       Ok(Event::Eof) => break,
@@ -675,14 +751,16 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
 
           // Save individual chunk JSON
           let chunk_path = chunks_out.join(format!("{}.json", chunk_id));
-          if let Ok(json_str) = serde_json::to_string_pretty(&chunk) {
-            let _ = fs::write(chunk_path, json_str);
-          }
+          let json_str = serde_json::to_string_pretty(&chunk)
+            .map_err(|e| AppError::RecordParseError(format!("failed to serialize chunk: {e}")))?;
+          fs::write(&chunk_path, json_str)
+            .map_err(|e| AppError::RecordParseError(format!("failed to write chunk file: {e}")))?;
 
           // Write to jsonl
-          if let Ok(json_str) = serde_json::to_string(&chunk) {
-            let _ = writeln!(jsonl_file, "{}", json_str);
-          }
+          let json_str = serde_json::to_string(&chunk)
+            .map_err(|e| AppError::RecordParseError(format!("failed to serialize chunk: {e}")))?;
+          writeln!(jsonl_file, "{}", json_str)
+            .map_err(|e| AppError::RecordParseError(format!("failed to write to jsonl: {e}")))?;
           chunks_count += 1;
         }
       }
@@ -778,7 +856,9 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
           }
 
           let txt_path = pdf_out.join(format!("{}.txt", doc.document_id));
-          let _ = fs::write(txt_path, &combined_text);
+          fs::write(&txt_path, &combined_text).map_err(|e| {
+            AppError::RecordParseError(format!("failed to write PDF text file: {e}"))
+          })?;
           parsed_documents_count += 1;
 
           for (page_num, page_text) in pages {
@@ -798,13 +878,19 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
               };
 
               let chunk_path = chunks_out.join(format!("{}.json", chunk_id));
-              if let Ok(json_str) = serde_json::to_string_pretty(&chunk) {
-                let _ = fs::write(chunk_path, json_str);
-              }
+              let json_str = serde_json::to_string_pretty(&chunk).map_err(|e| {
+                AppError::RecordParseError(format!("failed to serialize chunk: {e}"))
+              })?;
+              fs::write(&chunk_path, json_str).map_err(|e| {
+                AppError::RecordParseError(format!("failed to write chunk file: {e}"))
+              })?;
 
-              if let Ok(json_str) = serde_json::to_string(&chunk) {
-                let _ = writeln!(jsonl_file, "{}", json_str);
-              }
+              let json_str = serde_json::to_string(&chunk).map_err(|e| {
+                AppError::RecordParseError(format!("failed to serialize chunk: {e}"))
+              })?;
+              writeln!(jsonl_file, "{}", json_str).map_err(|e| {
+                AppError::RecordParseError(format!("failed to write to jsonl: {e}"))
+              })?;
               chunks_count += 1;
             }
           }
@@ -830,7 +916,9 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
           }
 
           let txt_path = html_out.join(format!("{}.txt", doc.document_id));
-          let _ = fs::write(txt_path, &text);
+          fs::write(&txt_path, &text).map_err(|e| {
+            AppError::RecordParseError(format!("failed to write HTML text file: {e}"))
+          })?;
           parsed_documents_count += 1;
 
           let txt_chunks = chunk_text(&text, config.chunk_size, config.chunk_overlap);
@@ -846,13 +934,16 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
             };
 
             let chunk_path = chunks_out.join(format!("{}.json", chunk_id));
-            if let Ok(json_str) = serde_json::to_string_pretty(&chunk) {
-              let _ = fs::write(chunk_path, json_str);
-            }
+            let json_str = serde_json::to_string_pretty(&chunk)
+              .map_err(|e| AppError::RecordParseError(format!("failed to serialize chunk: {e}")))?;
+            fs::write(&chunk_path, json_str).map_err(|e| {
+              AppError::RecordParseError(format!("failed to write chunk file: {e}"))
+            })?;
 
-            if let Ok(json_str) = serde_json::to_string(&chunk) {
-              let _ = writeln!(jsonl_file, "{}", json_str);
-            }
+            let json_str = serde_json::to_string(&chunk)
+              .map_err(|e| AppError::RecordParseError(format!("failed to serialize chunk: {e}")))?;
+            writeln!(jsonl_file, "{}", json_str)
+              .map_err(|e| AppError::RecordParseError(format!("failed to write to jsonl: {e}")))?;
             chunks_count += 1;
           }
         }
@@ -882,7 +973,9 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
           }
 
           let txt_path = xlsx_out.join(format!("{}.txt", doc.document_id));
-          let _ = fs::write(txt_path, &combined_text);
+          fs::write(&txt_path, &combined_text).map_err(|e| {
+            AppError::RecordParseError(format!("failed to write XLSX text file: {e}"))
+          })?;
           parsed_documents_count += 1;
 
           for (sheet_num, sheet_text) in sheets {
@@ -902,13 +995,19 @@ pub fn run_parsing(config: &ParsingConfig) -> Result<(), AppError> {
               };
 
               let chunk_path = chunks_out.join(format!("{}.json", chunk_id));
-              if let Ok(json_str) = serde_json::to_string_pretty(&chunk) {
-                let _ = fs::write(chunk_path, json_str);
-              }
+              let json_str = serde_json::to_string_pretty(&chunk).map_err(|e| {
+                AppError::RecordParseError(format!("failed to serialize chunk: {e}"))
+              })?;
+              fs::write(&chunk_path, json_str).map_err(|e| {
+                AppError::RecordParseError(format!("failed to write chunk file: {e}"))
+              })?;
 
-              if let Ok(json_str) = serde_json::to_string(&chunk) {
-                let _ = writeln!(jsonl_file, "{}", json_str);
-              }
+              let json_str = serde_json::to_string(&chunk).map_err(|e| {
+                AppError::RecordParseError(format!("failed to serialize chunk: {e}"))
+              })?;
+              writeln!(jsonl_file, "{}", json_str).map_err(|e| {
+                AppError::RecordParseError(format!("failed to write to jsonl: {e}"))
+              })?;
               chunks_count += 1;
             }
           }
@@ -964,5 +1063,26 @@ mod tests {
     for c in &chunks {
       assert!(c.len() <= 30);
     }
+  }
+
+  #[test]
+  fn test_excel_column_converters() {
+    assert_eq!(extract_column_letters("A1"), "A");
+    assert_eq!(extract_column_letters("AB12"), "AB");
+    assert_eq!(excel_column_to_index("A"), 0);
+    assert_eq!(excel_column_to_index("B"), 1);
+    assert_eq!(excel_column_to_index("Z"), 25);
+    assert_eq!(excel_column_to_index("AA"), 26);
+    assert_eq!(excel_column_to_index("AB"), 27);
+  }
+
+  #[test]
+  fn test_html_block_newlines() {
+    let html = "<div>Hello</div><p>World</p>";
+    let doc = scraper::Html::parse_document(html);
+    let mut out = String::new();
+    walk_nodes(doc.tree.root(), &mut out);
+    let normalized = normalize_text(&out);
+    assert_eq!(normalized, "Hello\nWorld");
   }
 }

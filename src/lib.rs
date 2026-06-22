@@ -23,7 +23,7 @@ pub use error::AppError;
 ///
 /// # Errors
 ///
-/// Returns [`AppError::AppError`] or [`AppError::CommandUnavailable`] until the
+/// Returns [`AppError`] or [`AppError::CommandUnavailable`] until the
 /// selected command has a verified Rust implementation.
 pub fn run(command: Command) -> Result<(), AppError> {
   match command {
