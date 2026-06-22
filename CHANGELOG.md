@@ -6,6 +6,10 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- CLI subcommand integration for `rkb qa` with Python-compatible artifact path options.
+- Deterministic provenance validation across metadata, manifests, graph records, local evidence,
+  checksums, URLs, identifiers, and cross-artifact references.
+- Typed QA findings and pass/fix/redo verdicts with `_workspace/06_qa_review.md` reporting.
 - CLI subcommand integration for `rkb variables` with configurable chunk, manifest, metadata, graph, and workspace paths.
 - Deterministic variable definition extraction, source-priority deduplication, alias/year capture, and containment edges.
 - Canonical ResDAC variable-page parsing, dataset relationships, and citation resolution to archived evidence.

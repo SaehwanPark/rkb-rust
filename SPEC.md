@@ -79,13 +79,27 @@ Verification:
   source priority, canonical HTML parsing, deterministic CSV schemas, and partial failures.
 - Python variable tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
 
+### Provenance QA
+
+Status: Verified
+
+Ported required and optional artifact loading, SHA-256 and local evidence checks, URL and
+archive-manifest validation, identifier and cross-artifact reference checks, deterministic
+findings, pass/fix/redo verdicts, and workspace reporting.
+
+Verification:
+
+- CLI subcommand `qa` is wired with Python-compatible artifact path options.
+- Focused tests verify valid provenance, bounded integrity failures, fatal missing inputs,
+  report generation, counters, and command failure status.
+- Python QA tests, formatting, Clippy, Rust tests, and documentation pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.
