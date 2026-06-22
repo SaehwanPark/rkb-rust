@@ -26,6 +26,10 @@ sha2 = "0.10"
 sha-1 = "0.10"
 chrono = { version = "0.4", features = ["serde"] }
 url = "2.5"
+zip = "8.6.0"
+quick-xml = "0.40.1"
+pdf-extract = "0.10.0"
+ego-tree = "0.6.3"
 
 [lints.rust]
 unsafe_code = "forbid"

@@ -52,13 +52,24 @@ Verification:
 - Output formats, sorting, deduplication, and workspace summary output verified.
 - Formatting, Clippy, and tests pass.
 
+### Document Parsing and Chunking (HTML, PDF, and XLSX text extraction, sliding window chunker)
+
+Status: Verified
+
+Ported document parsing pipeline for HTML (using scraper), PDF (using pdf-extract), and XLSX (custom OpenXML zip/XML reader) page-by-page. Ported the sliding window word-boundary-aligned chunker to divide extracted text into overlapping chunks, outputting JSON records, unified JSONL stream, and workspace summary logs.
+
+Verification:
+- CLI subcommand `parse` is wired and verified.
+- Integration tests verify raw text files, chunks JSON/JSONL output, workspace pack summaries, and pipeline failure modes (missing files, empty content, invalid IDs).
+- Unit tests verify whitespace normalizations, end-of-chunk word boundary lookbacks, and overlap alignments.
+- Formatting, Clippy, and tests pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port document text parsing and chunking.
 - Port variable extraction and provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.
