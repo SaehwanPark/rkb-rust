@@ -40,13 +40,25 @@ Verification:
 - Output formats, schema fields, sorting, and rate-limiting limits verified.
 - Formatting, Clippy, and tests pass.
 
+### Metadata Extraction (Dataset details, document mapping, ontology graph edges)
+
+Status: Verified
+
+Ported dataset parser to scrape program type, category, and availability. Ported document parser to associate documentation and assets to parent datasets, construct stable document IDs, and serialize to datasets, documents, document edges, and ontology CSV listings.
+
+Verification:
+- CLI subcommand `extract` is wired and verified.
+- Integration tests verify HTML scraper parsing, file existence checks, and SHA-256 verification failures.
+- Output formats, sorting, deduplication, and workspace summary output verified.
+- Formatting, Clippy, and tests pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port metadata extraction and document parsing.
+- Port document text parsing and chunking.
 - Port variable extraction and provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.

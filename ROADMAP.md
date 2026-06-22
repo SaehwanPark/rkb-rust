@@ -7,7 +7,7 @@ and QA review.
 1. Foundation: repository, CLI namespace, fixtures, SDD, harness, and CI. (Complete)
 2. Domain foundation: record types, configuration, paths, and typed failures. (Complete)
 3. Preservation: inventory discovery, archive downloads, rate limiting, and progress. (Complete)
-4. Transformation: metadata extraction, HTML/PDF/XLSX parsing, and chunking.
+4. Transformation: metadata extraction (Complete), HTML/PDF/XLSX parsing, and chunking.
 5. Knowledge model: variables, graph seeds, and provenance QA.
 6. Retrieval: SQLite FTS5 index, exact-term behavior, search, and evaluation.
 7. Agent serving: agent context, MCP, setup, and downstream integration helpers.

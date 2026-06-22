@@ -6,6 +6,11 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- Subcommand integration for `rkb extract` mapping CLI arguments to extraction config.
+- Metadata extraction engine implementing HTML scraping (using CSS selectors via `scraper`), validation of files (checksum/existence), document ID hashing (10-char SHA-1 URL prefix), and parent-child relations.
+- CSV serialization for datasets, documents, document edges, ontology nodes, and ontology edges.
+- Workspace summary pack output to `_workspace/04_extraction_pack.md`.
+- Comprehensive integration and unit tests for the metadata extraction pipeline.
 - Crawling pipeline to discover ResDAC listing pages, classify resource kinds, and execute HTTP HEAD probes.
 - Preservation downloader saving files atomically, verifying SHA-256 digests, and recording manifests.
 - Rate limiter handling HTTP 429 status codes with request delay, rate limit cooldowns, and circuit-breaking.

@@ -95,6 +95,22 @@ pub struct ArchiveArgs {
   pub progress_interval: usize,
 }
 
+/// Arguments for the `extract` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct ExtractArgs {
+  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  pub archive_manifest: PathBuf,
+
+  #[arg(long, default_value = "data/metadata")]
+  pub metadata_dir: PathBuf,
+
+  #[arg(long, default_value = "data/graph")]
+  pub graph_dir: PathBuf,
+
+  #[arg(long, default_value = "_workspace")]
+  pub workspace_dir: PathBuf,
+}
+
 /// Stable command namespace reserved for the Rust rewrite.
 #[derive(Clone, Debug, PartialEq, Subcommand)]
 pub enum Command {
@@ -103,7 +119,7 @@ pub enum Command {
   /// Preserve discovered sources with provenance.
   Archive(ArchiveArgs),
   /// Extract metadata and graph seeds.
-  Extract,
+  Extract(ExtractArgs),
   /// Parse archived documents into provenance-bearing chunks.
   Parse,
   /// Extract variable-level metadata.
@@ -135,7 +151,7 @@ impl Command {
     match self {
       Self::Inventory(_) => "inventory",
       Self::Archive(_) => "archive",
-      Self::Extract => "extract",
+      Self::Extract(_) => "extract",
       Self::Parse => "parse",
       Self::Variables => "variables",
       Self::Qa => "qa",

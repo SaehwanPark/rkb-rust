@@ -8,6 +8,7 @@ pub mod archive;
 pub mod cli;
 pub mod config;
 pub mod error;
+pub mod extract;
 pub mod inventory;
 pub mod paths;
 pub mod progress;
@@ -21,8 +22,8 @@ pub use error::AppError;
 ///
 /// # Errors
 ///
-/// Returns [`AppError::CommandUnavailable`] until the selected command has a
-/// verified Rust implementation.
+/// Returns [`AppError::AppError`] or [`AppError::CommandUnavailable`] until the
+/// selected command has a verified Rust implementation.
 pub fn run(command: Command) -> Result<(), AppError> {
   match command {
     Command::Inventory(args) => {
@@ -70,6 +71,16 @@ pub fn run(command: Command) -> Result<(), AppError> {
       };
       config.validate()?;
       archive::run_archive_default(&config)?;
+      Ok(())
+    }
+    Command::Extract(args) => {
+      let config = config::ExtractionConfig {
+        archive_manifest_path: args.archive_manifest,
+        metadata_dir: args.metadata_dir,
+        graph_dir: args.graph_dir,
+        workspace_dir: args.workspace_dir,
+      };
+      extract::run_extraction(&config)?;
       Ok(())
     }
     _ => Err(AppError::CommandUnavailable {
