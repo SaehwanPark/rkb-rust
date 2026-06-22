@@ -723,6 +723,15 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       &row.variable_id,
       true,
     );
+    if row.definition.trim().is_empty() {
+      findings.push(finding(
+        "variables.csv",
+        &row.variable_id,
+        "definition",
+        QaSeverity::Warning,
+        "Variable row has empty definition",
+      ));
+    }
     duplicate(
       &mut findings,
       &mut seen,
@@ -1069,6 +1078,18 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       &row.node_id,
       &row.source_url,
     );
+    if valid_url(&row.source_url) && !manifest_by_url.contains_key(row.source_url.as_str()) {
+      findings.push(finding(
+        "ontology_nodes.csv",
+        &row.node_id,
+        "source_url",
+        QaSeverity::Error,
+        format!(
+          "source_url not found in archive manifest: {}",
+          row.source_url
+        ),
+      ));
+    }
     check_evidence(
       &mut findings,
       "ontology_nodes.csv",
@@ -1111,6 +1132,21 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       ));
     }
     check_url(&mut findings, "ontology_edges.csv", &item, &row.source_url);
+    if !row.source_url.is_empty()
+      && valid_url(&row.source_url)
+      && !manifest_by_url.contains_key(row.source_url.as_str())
+    {
+      findings.push(finding(
+        "ontology_edges.csv",
+        &item,
+        "source_url",
+        QaSeverity::Error,
+        format!(
+          "source_url not found in archive manifest: {}",
+          row.source_url
+        ),
+      ));
+    }
     check_evidence(
       &mut findings,
       "ontology_edges.csv",
