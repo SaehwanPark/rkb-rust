@@ -66,11 +66,29 @@ Verification:
 
 ## Present
 
-No production rewrite slice is active.
+### Variable-level metadata and canonical variable extraction
+
+Status: Active
+Started: 2026-06-22
+Branch: `feat/variable-extraction`
+
+Port chunk-based variable definition extraction and archived ResDAC variable-page
+parsing into `rkb variables`. Produce deterministic variable catalogs, containment
+edges, canonical variable records, citation resolution, and a workspace summary.
+
+Verification:
+
+- Focused parity tests cover extraction, deduplication, canonical pages, and failures.
+- `rkb variables` writes the four Python-compatible CSV artifacts deterministically.
+- Formatting, Clippy, tests, documentation, and fixture checks pass.
+
+Out of scope:
+
+- QA, retrieval indexing, search, semantic reranking, and concurrency.
 
 ## Future
 
-- Port variable extraction and provenance QA.
+- Port provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.

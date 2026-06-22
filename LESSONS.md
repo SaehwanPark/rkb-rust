@@ -31,3 +31,9 @@ Each entry should state context, cause, resolution, and prevention concisely.
 - Resolution: Wrap shared state/counter variables in thread-safe reference counters like `std::sync::Arc` (or `Arc<AtomicUsize>`) to allow clone-based sharing and mutation.
 - Prevention: Identify shared assertion counters in mock testing early and initialize them using `Arc` counters.
 
+## Pinned Clippy component can be present but unusable
+
+- Context: Baseline `cargo clippy` failed for the pinned Rust 1.96 toolchain even though `rustup component list` reported Clippy as installed.
+- Cause: A concurrent initial toolchain bootstrap left the component registered without an applicable `cargo-clippy` binary.
+- Resolution: Remove and re-add Clippy for the exact pinned toolchain before rerunning the gate.
+- Prevention: Bootstrap the pinned toolchain once before launching Cargo gates in parallel.
