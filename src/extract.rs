@@ -11,7 +11,6 @@
   clippy::redundant_closure,
   clippy::implicit_hasher,
   clippy::doc_markdown,
-  clippy::manual_let_else,
   clippy::too_many_arguments
 )]
 
@@ -19,7 +18,8 @@ use crate::config::ExtractionConfig;
 use crate::error::AppError;
 use crate::inventory;
 use crate::records::{
-  DatasetMetadataRow, DocumentEdgeRow, DocumentMetadataRow, OntologyEdgeRow, OntologyNodeRow,
+  ArchiveManifestRow, DatasetMetadataRow, DocumentEdgeRow, DocumentMetadataRow, OntologyEdgeRow,
+  OntologyNodeRow,
 };
 use sha1::{Digest as Sha1Digest, Sha1};
 use sha2::Sha256;
@@ -38,24 +38,7 @@ pub struct ExtractionFailure {
   pub reason: String,
 }
 
-#[allow(dead_code)]
-#[derive(Clone, Debug, serde::Deserialize)]
-struct RawArchiveManifestRow {
-  pub url: String,
-  pub resource_kind: String,
-  pub asset_kind: Option<String>,
-  pub source_url: Option<String>,
-  pub source_title: Option<String>,
-  pub content_type: Option<String>,
-  pub http_status: Option<u16>,
-  pub archive_state: String,
-  pub downloaded_at_utc: Option<String>,
-  pub sha256: Option<String>,
-  pub local_path: Option<String>,
-  pub error: Option<String>,
-}
-
-fn read_archive_manifest(path: &Path) -> Result<Vec<RawArchiveManifestRow>, AppError> {
+fn read_archive_manifest(path: &Path) -> Result<Vec<ArchiveManifestRow>, AppError> {
   let file = File::open(path).map_err(|e| {
     AppError::RecordParseError(format!(
       "failed to open archive manifest at {}: {e}",
@@ -65,8 +48,8 @@ fn read_archive_manifest(path: &Path) -> Result<Vec<RawArchiveManifestRow>, AppE
   let mut reader = csv::Reader::from_reader(file);
   let mut rows = Vec::new();
   for result in reader.deserialize() {
-    let row: RawArchiveManifestRow = result.map_err(|e| {
-      AppError::RecordParseError(format!("failed to deserialize manifest row: {}", e))
+    let row: ArchiveManifestRow = result.map_err(|e| {
+      AppError::RecordParseError(format!("failed to deserialize manifest row: {e}"))
     })?;
     rows.push(row);
   }
@@ -97,7 +80,7 @@ fn dataset_id_from_url(url_str: &str) -> String {
     return dataset_id;
   }
   if let Ok(parsed) = Url::parse(url_str) {
-    let path = parsed.path();
+    let path = parsed.path().trim_end_matches('/');
     let path_buf = Path::new(path);
     if let Some(stem) = path_buf.file_stem().and_then(|s| s.to_str()) {
       return slugify(stem);
@@ -108,7 +91,7 @@ fn dataset_id_from_url(url_str: &str) -> String {
 
 fn dataset_id_from_resdac_file_url(url_str: &str) -> Option<String> {
   if let Ok(parsed) = Url::parse(url_str) {
-    let path = parsed.path();
+    let path = parsed.path().trim_end_matches('/');
     let parts: Vec<&str> = path.split('/').filter(|s| !s.is_empty()).collect();
     if parts.len() >= 3 && parts[0] == "cms-data" && parts[1] == "files" {
       return Some(slugify(parts[2]));
@@ -119,7 +102,7 @@ fn dataset_id_from_resdac_file_url(url_str: &str) -> Option<String> {
 
 fn document_suffix_from_url(url_str: &str) -> String {
   if let Ok(parsed) = Url::parse(url_str) {
-    let path = parsed.path();
+    let path = parsed.path().trim_end_matches('/');
     let path_parts: Vec<&str> = path.split('/').filter(|s| !s.is_empty()).collect();
     if path.ends_with("/data-documentation") || path_parts.last() == Some(&"data-documentation") {
       return "data-documentation".to_string();
@@ -160,17 +143,14 @@ fn compute_file_sha256(path: &Path) -> Result<String, std::io::Error> {
   Ok(format!("{:x}", hasher.finalize()))
 }
 
-fn verify_archived_row(row: &RawArchiveManifestRow) -> Option<ExtractionFailure> {
-  let local_path_str = match &row.local_path {
-    Some(lp) => lp,
-    None => {
-      return Some(ExtractionFailure {
-        url: row.url.clone(),
-        resource_kind: row.resource_kind.clone(),
-        local_path: String::new(),
-        reason: "archived row has no local path".to_string(),
-      });
-    }
+fn verify_archived_row(row: &ArchiveManifestRow) -> Option<ExtractionFailure> {
+  let Some(local_path_str) = &row.local_path else {
+    return Some(ExtractionFailure {
+      url: row.url.clone(),
+      resource_kind: row.resource_kind.clone(),
+      local_path: String::new(),
+      reason: "archived row has no local path".to_string(),
+    });
   };
 
   let local_path = Path::new(local_path_str);
@@ -183,16 +163,13 @@ fn verify_archived_row(row: &RawArchiveManifestRow) -> Option<ExtractionFailure>
     });
   }
 
-  let expected_sha256 = match &row.sha256 {
-    Some(sha) => sha,
-    None => {
-      return Some(ExtractionFailure {
-        url: row.url.clone(),
-        resource_kind: row.resource_kind.clone(),
-        local_path: local_path_str.clone(),
-        reason: "archived row has no sha256".to_string(),
-      });
-    }
+  let Some(expected_sha256) = &row.sha256 else {
+    return Some(ExtractionFailure {
+      url: row.url.clone(),
+      resource_kind: row.resource_kind.clone(),
+      local_path: local_path_str.clone(),
+      reason: "archived row has no sha256".to_string(),
+    });
   };
 
   match compute_file_sha256(local_path) {
@@ -212,16 +189,20 @@ fn verify_archived_row(row: &RawArchiveManifestRow) -> Option<ExtractionFailure>
       url: row.url.clone(),
       resource_kind: row.resource_kind.clone(),
       local_path: local_path_str.clone(),
-      reason: format!("error hashing file: {}", err),
+      reason: format!("error hashing file: {err}"),
     }),
   }
 }
 
-fn is_eligible_row(row: &RawArchiveManifestRow) -> bool {
+fn is_eligible_row(row: &ArchiveManifestRow) -> bool {
   row.archive_state == "archived"
     && (row.resource_kind == "dataset_page"
       || row.resource_kind == "documentation_page"
       || row.resource_kind == "asset")
+}
+
+fn is_html_content_type(ct: Option<&str>) -> bool {
+  ct.is_some_and(|s| s.to_lowercase().starts_with("text/html"))
 }
 
 fn read_html_title(local_path: &Path) -> String {
@@ -234,7 +215,7 @@ fn read_html_title(local_path: &Path) -> String {
   }
 }
 
-fn document_kind(row: &RawArchiveManifestRow) -> String {
+fn document_kind(row: &ArchiveManifestRow) -> String {
   if row.resource_kind == "documentation_page" {
     return "html".to_string();
   }
@@ -244,12 +225,12 @@ fn document_kind(row: &RawArchiveManifestRow) -> String {
     .unwrap_or_else(|| "other".to_string())
 }
 
-fn extract_document(row: &RawArchiveManifestRow, dataset_id: &str) -> DocumentMetadataRow {
+fn extract_document(row: &ArchiveManifestRow, dataset_id: &str) -> DocumentMetadataRow {
   let local_path_str = row.local_path.clone().unwrap_or_default();
   let local_path = Path::new(&local_path_str);
 
   let title = if row.resource_kind == "documentation_page"
-    && row.content_type.as_deref() == Some("text/html")
+    && is_html_content_type(row.content_type.as_deref())
   {
     read_html_title(local_path)
   } else {
@@ -276,7 +257,7 @@ fn extract_document(row: &RawArchiveManifestRow, dataset_id: &str) -> DocumentMe
   }
 }
 
-fn dataset_id_for_document(row: &RawArchiveManifestRow) -> Option<String> {
+fn dataset_id_for_document(row: &ArchiveManifestRow) -> Option<String> {
   if row.resource_kind == "documentation_page" {
     return dataset_id_from_resdac_file_url(&row.url);
   }
@@ -289,22 +270,23 @@ fn dataset_id_for_document(row: &RawArchiveManifestRow) -> Option<String> {
 }
 
 fn dataset_ids_for_document(
-  row: &RawArchiveManifestRow,
+  row: &ArchiveManifestRow,
   linked_asset_dataset_ids: &HashMap<String, HashSet<String>>,
 ) -> Vec<String> {
+  let mut ids = HashSet::new();
   if let Some(dataset_id) = dataset_id_for_document(row) {
-    return vec![dataset_id];
+    ids.insert(dataset_id);
   }
-  if row.resource_kind != "asset" {
-    return vec![];
+  if row.resource_kind == "asset" {
+    if let Some(ids_set) = linked_asset_dataset_ids.get(&row.url) {
+      for id in ids_set {
+        ids.insert(id.clone());
+      }
+    }
   }
-  if let Some(ids_set) = linked_asset_dataset_ids.get(&row.url) {
-    let mut ids: Vec<String> = ids_set.iter().cloned().collect();
-    ids.sort();
-    ids
-  } else {
-    vec![]
-  }
+  let mut sorted_ids: Vec<String> = ids.into_iter().collect();
+  sorted_ids.sort();
+  sorted_ids
 }
 
 fn edge_for_document(row: &DocumentMetadataRow) -> DocumentEdgeRow {
@@ -364,7 +346,7 @@ fn write_extraction_workspace_summary(
   failures: &[ExtractionFailure],
 ) -> Result<(), AppError> {
   std::fs::create_dir_all(&config.workspace_dir)
-    .map_err(|e| AppError::RecordParseError(format!("failed to create workspace dir: {}", e)))?;
+    .map_err(|e| AppError::RecordParseError(format!("failed to create workspace dir: {e}")))?;
   let summary_path = config.workspace_dir.join("04_extraction_pack.md");
   let mut lines = vec![
     "# Extraction Pack".to_string(),
@@ -449,7 +431,7 @@ fn write_extraction_workspace_summary(
   }
 
   std::fs::write(&summary_path, lines.join("\n") + "\n")
-    .map_err(|e| AppError::RecordParseError(format!("failed to write summary file: {}", e)))?;
+    .map_err(|e| AppError::RecordParseError(format!("failed to write summary file: {e}")))?;
 
   Ok(())
 }
@@ -464,11 +446,18 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
   let mut failures = Vec::new();
   let mut linked_asset_dataset_ids: HashMap<String, HashSet<String>> = HashMap::new();
 
-  let eligible_rows: Vec<RawArchiveManifestRow> = manifest_rows
+  let eligible_rows: Vec<&ArchiveManifestRow> = manifest_rows
     .iter()
     .filter(|r| is_eligible_row(r))
-    .cloned()
     .collect();
+
+  // Compile selectors outside the loop for performance
+  let program_selector =
+    scraper::Selector::parse(".views-field-field-program-type .field-content").unwrap();
+  let category_selector =
+    scraper::Selector::parse(".views-field-field-data-file-category .field-content").unwrap();
+  let availability_selector =
+    scraper::Selector::parse(".views-field-field-availability .field-content").unwrap();
 
   // First pass: process datasets to populate asset mapping
   for row in &eligible_rows {
@@ -490,15 +479,15 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
     let mut availability = String::new();
     let mut links = Vec::new();
 
-    if row.content_type.as_deref() == Some("text/html") {
+    if is_html_content_type(row.content_type.as_deref()) {
       if let Ok(bytes) = std::fs::read(local_path) {
         let html_content = String::from_utf8_lossy(&bytes);
         let (title, parsed_links) = inventory::parse_page(&html_content);
 
         // Normalize title matching Python
         let mut clean_title = title;
-        if clean_title.ends_with(" | ResDAC") {
-          clean_title = clean_title[..clean_title.len() - 9].to_string();
+        if let Some(stripped) = clean_title.strip_suffix(" | ResDAC") {
+          clean_title = stripped.to_string();
         }
         if !clean_title.is_empty() {
           name = clean_title;
@@ -506,12 +495,6 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
 
         // Extracted field selectors using scraper
         let doc = scraper::Html::parse_document(&html_content);
-        let program_selector =
-          scraper::Selector::parse(".views-field-field-program-type .field-content").unwrap();
-        let category_selector =
-          scraper::Selector::parse(".views-field-field-data-file-category .field-content").unwrap();
-        let availability_selector =
-          scraper::Selector::parse(".views-field-field-availability .field-content").unwrap();
 
         program = doc
           .select(&program_selector)
@@ -661,8 +644,34 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
   let mut sorted_datasets: Vec<DatasetMetadataRow> = datasets_by_id.into_values().collect();
   sorted_datasets.sort_by(|a, b| a.dataset_id.cmp(&b.dataset_id));
 
-  let document_edges: Vec<DocumentEdgeRow> =
-    documents.iter().map(|d| edge_for_document(d)).collect();
+  // Sort documents by document_id for determinism
+  documents.sort_by(|a, b| a.document_id.cmp(&b.document_id));
+
+  let mut document_edges: Vec<DocumentEdgeRow> = documents.iter().map(edge_for_document).collect();
+  // Sort document_edges by source_id, then target_id for determinism
+  document_edges.sort_by(|a, b| {
+    a.source_id
+      .cmp(&b.source_id)
+      .then_with(|| a.target_id.cmp(&b.target_id))
+  });
+
+  // Deduplicate and sort ontology edges
+  let mut unique_edges_map = HashMap::new();
+  for edge in ontology_edges {
+    let key = (
+      edge.source_id.clone(),
+      edge.target_id.clone(),
+      edge.relationship.clone(),
+    );
+    unique_edges_map.entry(key).or_insert(edge);
+  }
+  let mut sorted_ontology_edges: Vec<OntologyEdgeRow> = unique_edges_map.into_values().collect();
+  sorted_ontology_edges.sort_by(|a, b| {
+    a.source_id
+      .cmp(&b.source_id)
+      .then_with(|| a.target_id.cmp(&b.target_id))
+      .then_with(|| a.relationship.cmp(&b.relationship))
+  });
 
   // Write files
   write_model_csv(&sorted_datasets, &config.metadata_dir.join("datasets.csv"))?;
@@ -673,7 +682,7 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
   )?;
   write_model_csv(&unique_nodes, &config.graph_dir.join("ontology_nodes.csv"))?;
   write_model_csv(
-    &ontology_edges,
+    &sorted_ontology_edges,
     &config.graph_dir.join("ontology_edges.csv"),
   )?;
 
@@ -685,7 +694,7 @@ pub fn run_extraction(config: &ExtractionConfig) -> Result<(), AppError> {
     &documents,
     &document_edges,
     &unique_nodes,
-    &ontology_edges,
+    &sorted_ontology_edges,
     &failures,
   )?;
 
