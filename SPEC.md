@@ -81,11 +81,24 @@ Verification:
 
 ## Present
 
-No production rewrite slice is active.
+### Provenance QA
+
+Status: Active
+Started: 2026-06-22
+Branch: `feat/provenance-qa`
+
+Port checksum, source URL, local evidence, schema, and cross-artifact reference validation with
+Python-compatible findings, verdicts, CLI behavior, and workspace reporting.
+
+Verification:
+
+- Pinned Python QA tests and focused Rust parity tests pass.
+- Formatting, Clippy, full tests, documentation, harness QA, and review checks pass.
+
+Out of scope: artifact repair, indexing, retrieval, MCP, evaluation, and concurrency.
 
 ## Future
 
-- Port provenance QA.
 - Port SQLite FTS5 indexing and deterministic retrieval.
 - Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.
