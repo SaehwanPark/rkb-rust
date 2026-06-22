@@ -30,6 +30,7 @@ passes parity review.
 
 ## Project State
 
+- [USER_MANUAL.md](docs/USER_MANUAL.md) is the step-by-step user guide for running the pipelines.
 - [SPEC.md](SPEC.md) tracks past, present, and future capabilities.
 - [ARCHITECTURE.md](ARCHITECTURE.md) records boundaries and invariants.
 - [ROADMAP.md](ROADMAP.md) orders the rewrite into thin vertical slices.
