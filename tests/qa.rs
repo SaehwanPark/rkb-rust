@@ -1,6 +1,6 @@
 use rkb::cli::{Command, QaArgs};
 use rkb::config::QAConfig;
-use rkb::qa::{run_qa, QaVerdict};
+use rkb::qa::{QaVerdict, run_qa};
 use sha2::{Digest, Sha256};
 use std::fs;
 use std::path::{Path, PathBuf};
@@ -65,8 +65,19 @@ fn valid_provenance_passes_and_writes_report() {
   let result = run_qa(&config).unwrap();
   assert_eq!(result.verdict, QaVerdict::Pass);
   assert!(result.findings.is_empty());
-  assert_eq!((result.datasets_checked, result.documents_checked, result.edges_checked), (1, 1, 1));
-  assert!(fs::read_to_string(result.summary_path).unwrap().contains("Verdict: **PASS**"));
+  assert_eq!(
+    (
+      result.datasets_checked,
+      result.documents_checked,
+      result.edges_checked
+    ),
+    (1, 1, 1)
+  );
+  assert!(
+    fs::read_to_string(result.summary_path)
+      .unwrap()
+      .contains("Verdict: **PASS**")
+  );
   fs::remove_dir_all(root).unwrap();
 }
 
@@ -74,18 +85,52 @@ fn valid_provenance_passes_and_writes_report() {
 fn bounded_integrity_failures_require_fix() {
   let (root, config) = valid_fixture("qa_fix");
   let mut datasets = fs::read_to_string(&config.datasets_metadata_path).unwrap();
-  datasets = datasets.replace(&fs::read_to_string(&config.archive_manifest_path).unwrap().lines().nth(1).unwrap().split(',').nth(9).unwrap().to_string(), "wrong-sha");
+  datasets = datasets.replace(
+    &fs::read_to_string(&config.archive_manifest_path)
+      .unwrap()
+      .lines()
+      .nth(1)
+      .unwrap()
+      .split(',')
+      .nth(9)
+      .unwrap()
+      .to_string(),
+    "wrong-sha",
+  );
   fs::write(&config.datasets_metadata_path, datasets).unwrap();
   let result = run_qa(&config).unwrap();
   assert_eq!(result.verdict, QaVerdict::Fix);
-  assert!(result.findings.iter().any(|finding| finding.field == "sha256"));
+  assert!(
+    result
+      .findings
+      .iter()
+      .any(|finding| finding.field == "sha256")
+  );
+  fs::remove_dir_all(root).unwrap();
+}
+
+#[test]
+fn failed_archive_state_is_reported() {
+  let (root, config) = valid_fixture("qa_archive_state");
+  let manifest = fs::read_to_string(&config.archive_manifest_path)
+    .unwrap()
+    .replacen(",archived,", ",failed,", 1);
+  fs::write(&config.archive_manifest_path, manifest).unwrap();
+  let result = run_qa(&config).unwrap();
+  assert_eq!(result.verdict, QaVerdict::Fix);
+  assert!(result.findings.iter().any(|finding| {
+    finding.field == "source_url" && finding.message.contains("archive state is 'failed'")
+  }));
   fs::remove_dir_all(root).unwrap();
 }
 
 #[test]
 fn missing_required_files_require_redo() {
   let root = test_dir("qa_redo");
-  let config = QAConfig { workspace_dir: root.join("workspace"), ..QAConfig::default() };
+  let config = QAConfig {
+    workspace_dir: root.join("workspace"),
+    ..QAConfig::default()
+  };
   let result = run_qa(&config).unwrap();
   assert_eq!(result.verdict, QaVerdict::Redo);
   assert_eq!(result.error_count(), 3);
@@ -96,8 +141,15 @@ fn missing_required_files_require_redo() {
 #[test]
 fn qa_command_returns_error_for_non_pass_verdict() {
   let root = test_dir("qa_command");
-  let args = QaArgs::from_config(QAConfig { workspace_dir: root.join("workspace"), ..QAConfig::default() });
+  let args = QaArgs::from_config(QAConfig {
+    workspace_dir: root.join("workspace"),
+    ..QAConfig::default()
+  });
   let error = rkb::run(Command::Qa(args)).unwrap_err();
-  assert!(error.to_string().contains("QA review finished with verdict: REDO"));
+  assert!(
+    error
+      .to_string()
+      .contains("QA review finished with verdict: REDO")
+  );
   fs::remove_dir_all(root).unwrap();
 }

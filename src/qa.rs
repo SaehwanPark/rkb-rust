@@ -244,6 +244,61 @@ fn check_source_document(
   }
 }
 
+fn check_optional_evidence(
+  findings: &mut Vec<QaFinding>,
+  file: &str,
+  item: &str,
+  path_value: &str,
+  expected: &str,
+) {
+  let value = path_value.trim();
+  if value.is_empty() {
+    return;
+  }
+  let path = Path::new(value);
+  if !path.is_file() {
+    findings.push(finding(
+      file,
+      item,
+      "local_path",
+      QaSeverity::Warning,
+      format!("Local file does not exist: {value}"),
+    ));
+  } else if !expected.trim().is_empty() && checksum(path).is_ok_and(|actual| actual != expected) {
+    findings.push(finding(
+      file,
+      item,
+      "sha256",
+      QaSeverity::Warning,
+      "Checksum mismatch",
+    ));
+  }
+}
+
+fn check_manifest_checksum(
+  findings: &mut Vec<QaFinding>,
+  file: &str,
+  item: &str,
+  path: &str,
+  manifest_row: &ArchiveManifestRow,
+) {
+  let Ok(actual) = checksum(Path::new(path.trim())) else {
+    return;
+  };
+  if manifest_row.sha256.as_deref() != Some(actual.as_str()) {
+    findings.push(finding(
+      file,
+      item,
+      "sha256",
+      QaSeverity::Error,
+      format!(
+        "Checksum mismatch with manifest. Manifest: {:?}, Actual: {actual}",
+        manifest_row.sha256
+      ),
+    ));
+  }
+}
+
 fn duplicate(
   findings: &mut Vec<QaFinding>,
   seen: &mut HashSet<String>,
@@ -559,14 +614,27 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
           row.source_url
         ),
       )),
-      Some(item) if item.archive_state != "archived" => findings.push(finding(
-        "datasets.csv",
-        &row.dataset_id,
-        "archive_state",
-        QaSeverity::Error,
-        format!("Manifest entry is not archived: {}", item.archive_state),
-      )),
-      _ => {}
+      Some(item) => {
+        if item.archive_state != "archived" {
+          findings.push(finding(
+            "datasets.csv",
+            &row.dataset_id,
+            "source_url",
+            QaSeverity::Error,
+            format!(
+              "source_url archive state is '{}' (expected 'archived') for dataset: {}",
+              item.archive_state, row.dataset_id
+            ),
+          ));
+        }
+        check_manifest_checksum(
+          &mut findings,
+          "datasets.csv",
+          &row.dataset_id,
+          &row.local_path,
+          item,
+        );
+      }
     }
   }
   seen.clear();
@@ -611,8 +679,8 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       &row.local_path,
       &row.sha256,
     );
-    if !manifest_by_url.contains_key(row.source_url.as_str()) {
-      findings.push(finding(
+    match manifest_by_url.get(row.source_url.as_str()) {
+      None => findings.push(finding(
         "documents.csv",
         &row.document_id,
         "source_url",
@@ -621,7 +689,28 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
           "source_url not found in archive manifest: {}",
           row.source_url
         ),
-      ));
+      )),
+      Some(item) => {
+        if item.archive_state != "archived" {
+          findings.push(finding(
+            "documents.csv",
+            &row.document_id,
+            "source_url",
+            QaSeverity::Error,
+            format!(
+              "source_url archive state is '{}' (expected 'archived') for document: {}",
+              item.archive_state, row.document_id
+            ),
+          ));
+        }
+        check_manifest_checksum(
+          &mut findings,
+          "documents.csv",
+          &row.document_id,
+          &row.local_path,
+          item,
+        );
+      }
     }
   }
   seen.clear();
@@ -747,50 +836,70 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       ));
     }
   }
-  for row in &document_edges {
-    if !dataset_ids.contains(row.source_id.as_str()) {
+  for (index, row) in document_edges.iter().enumerate() {
+    let label = format!("Line {}", index + 2);
+    if !dataset_ids.contains(row.source_id.as_str())
+      && !document_ids.contains(row.source_id.as_str())
+    {
       findings.push(finding(
         "document_edges.csv",
-        &format!("{} -> {}", row.source_id, row.target_id),
+        &label,
         "source_id",
         QaSeverity::Error,
         format!(
-          "source_id does not exist in datasets metadata: {}",
+          "source_id '{}' does not map to any dataset or document",
           row.source_id
         ),
       ));
     }
-    if !document_ids.contains(row.target_id.as_str()) {
+    if !dataset_ids.contains(row.target_id.as_str())
+      && !document_ids.contains(row.target_id.as_str())
+    {
       findings.push(finding(
         "document_edges.csv",
-        &format!("{} -> {}", row.source_id, row.target_id),
+        &label,
         "target_id",
         QaSeverity::Error,
         format!(
-          "target_id does not exist in documents metadata: {}",
+          "target_id '{}' does not map to any dataset or document",
           row.target_id
         ),
       ));
     }
-    check_url(
+    if !row.source_url.is_empty() && !valid_url(&row.source_url) {
+      findings.push(finding(
+        "document_edges.csv",
+        &label,
+        "source_url",
+        QaSeverity::Warning,
+        format!("Invalid source_url: {}", row.source_url),
+      ));
+    } else if !row.source_url.is_empty() && !manifest_by_url.contains_key(row.source_url.as_str()) {
+      findings.push(finding(
+        "document_edges.csv",
+        &label,
+        "source_url",
+        QaSeverity::Warning,
+        format!(
+          "source_url not found in archive manifest: {}",
+          row.source_url
+        ),
+      ));
+    }
+    check_optional_evidence(
       &mut findings,
       "document_edges.csv",
-      &row.target_id,
-      &row.source_url,
-    );
-    check_evidence(
-      &mut findings,
-      "document_edges.csv",
-      &row.target_id,
+      &label,
       &row.local_path,
       &row.sha256,
     );
   }
-  for row in &variable_edges {
+  for (index, row) in variable_edges.iter().enumerate() {
+    let label = format!("Line {}", index + 2);
     if !dataset_ids.contains(row.source_id.as_str()) {
       findings.push(finding(
         "variable_edges.csv",
-        &row.target_id,
+        &label,
         "source_id",
         QaSeverity::Error,
         format!(
@@ -802,7 +911,7 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
     if !variable_ids.contains(row.target_id.as_str()) {
       findings.push(finding(
         "variable_edges.csv",
-        &row.target_id,
+        &label,
         "target_id",
         QaSeverity::Error,
         format!(
@@ -811,33 +920,50 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
         ),
       ));
     }
-    check_url(
+    if row.relationship != "contains" {
+      findings.push(finding(
+        "variable_edges.csv",
+        &label,
+        "relationship",
+        QaSeverity::Warning,
+        format!("Unexpected variable relationship: {}", row.relationship),
+      ));
+    }
+    check_url(&mut findings, "variable_edges.csv", &label, &row.source_url);
+    if valid_url(&row.source_url) && !manifest_by_url.contains_key(row.source_url.as_str()) {
+      findings.push(finding(
+        "variable_edges.csv",
+        &label,
+        "source_url",
+        QaSeverity::Error,
+        format!(
+          "source_url not found in archive manifest: {}",
+          row.source_url
+        ),
+      ));
+    }
+    check_source_document(
       &mut findings,
       "variable_edges.csv",
-      &row.target_id,
-      &row.source_url,
-    );
-    check_evidence(
-      &mut findings,
-      "variable_edges.csv",
-      &row.target_id,
+      &label,
+      "source_document",
       &row.source_document,
-      "",
     );
     check_text(
       &mut findings,
       "variable_edges.csv",
-      &row.target_id,
+      &label,
       "chunk_id",
       &row.chunk_id,
       true,
     );
   }
-  for row in &data_edges {
+  for (index, row) in data_edges.iter().enumerate() {
+    let label = format!("Line {}", index + 2);
     if !dataset_ids.contains(row.source_id.as_str()) {
       findings.push(finding(
         "data_source_variable_edges.csv",
-        &row.target_id,
+        &label,
         "source_id",
         QaSeverity::Error,
         format!(
@@ -849,7 +975,7 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
     if !canonical_ids.contains(row.target_id.as_str()) {
       findings.push(finding(
         "data_source_variable_edges.csv",
-        &row.target_id,
+        &label,
         "target_id",
         QaSeverity::Error,
         format!(
@@ -858,25 +984,46 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
         ),
       ));
     }
-    check_url(
+    if row.relationship != "contains" {
+      findings.push(finding(
+        "data_source_variable_edges.csv",
+        &label,
+        "relationship",
+        QaSeverity::Warning,
+        format!(
+          "Unexpected data source variable relationship: {}",
+          row.relationship
+        ),
+      ));
+    }
+    for (field, value) in [
+      ("source_url", row.source_url.as_str()),
+      ("variable_url", row.variable_url.as_str()),
+    ] {
+      if !valid_url(value) {
+        findings.push(finding(
+          "data_source_variable_edges.csv",
+          &label,
+          field,
+          QaSeverity::Error,
+          format!("Invalid {field}: {value}"),
+        ));
+      } else if !manifest_by_url.contains_key(value) {
+        findings.push(finding(
+          "data_source_variable_edges.csv",
+          &label,
+          field,
+          QaSeverity::Error,
+          format!("{field} not found in archive manifest: {value}"),
+        ));
+      }
+    }
+    check_source_document(
       &mut findings,
       "data_source_variable_edges.csv",
-      &row.target_id,
-      &row.source_url,
-    );
-    check_evidence(
-      &mut findings,
-      "data_source_variable_edges.csv",
-      &row.target_id,
-      &row.source_document,
-      "",
-    );
-    check_evidence(
-      &mut findings,
-      "data_source_variable_edges.csv",
-      &row.target_id,
+      &label,
+      "variable_document",
       &row.variable_document,
-      "",
     );
   }
   seen.clear();
@@ -930,9 +1077,16 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
       &row.sha256,
     );
   }
-  for row in &ontology_edges {
-    let item = format!("{} -> {}", row.source_id, row.target_id);
-    if !node_ids.contains(row.source_id.as_str()) {
+  let valid_ids: HashSet<&str> = dataset_ids
+    .iter()
+    .chain(document_ids.iter())
+    .chain(variable_ids.iter())
+    .chain(node_ids.iter())
+    .copied()
+    .collect();
+  for (index, row) in ontology_edges.iter().enumerate() {
+    let item = format!("Line {}", index + 2);
+    if !valid_ids.contains(row.source_id.as_str()) {
       findings.push(finding(
         "ontology_edges.csv",
         &item,
@@ -944,12 +1098,12 @@ pub fn run_qa(config: &QAConfig) -> Result<QaResult, AppError> {
         ),
       ));
     }
-    if !node_ids.contains(row.target_id.as_str()) {
+    if !valid_ids.contains(row.target_id.as_str()) {
       findings.push(finding(
         "ontology_edges.csv",
         &item,
         "target_id",
-        QaSeverity::Error,
+        QaSeverity::Warning,
         format!(
           "target_id does not exist in ontology nodes: {}",
           row.target_id
