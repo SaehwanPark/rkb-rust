@@ -96,10 +96,24 @@ Verification:
 
 ## Present
 
-No production rewrite slice is active.
+### SQLite FTS5 indexing and deterministic lexical retrieval
+
+Status: Active
+Started: 2026-06-22
+Branch: `feat/lexical-retrieval`
+
+Summary: Port atomic SQLite FTS5 index construction and citation-bearing lexical search through
+`rkb index` and `rkb search`.
+
+Verification:
+
+- Pinned Python retrieval tests and focused Rust parity tests pass.
+- Exact identifiers and chunk text return deterministically ordered cited results.
+- Formatting, Clippy, full tests, documentation, harness QA, and review gates pass.
+
+Out of scope: legacy in-memory search, embeddings, semantic/hybrid reranking, and downstream agent commands.
 
 ## Future
 
-- Port SQLite FTS5 indexing and deterministic retrieval.
-- Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.
+- Port agent context, MCP serving, evaluation, progress, and integration helpers.
