@@ -94,12 +94,25 @@ Verification:
   report generation, counters, and command failure status.
 - Python QA tests, formatting, Clippy, Rust tests, and documentation pass.
 
+### SQLite FTS5 Indexing and Deterministic Lexical Retrieval
+
+Status: Verified
+
+Ported canonical record flattening, atomic SQLite FTS5 index construction, exact-term lexical
+boosting, deterministic result ordering, citation-bearing snippets, and text/JSON CLI output.
+
+Verification:
+
+- CLI subcommands `index` and `search` are wired with Python-compatible path and query options.
+- Focused tests verify required and optional inputs, schema failures, FTS index rebuilds,
+  identifier and chunk ranking, citations, query validation, and JSON output.
+- Python retrieval tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
+
 ## Present
 
 No production rewrite slice is active.
 
 ## Future
 
-- Port SQLite FTS5 indexing and deterministic retrieval.
-- Port agent context, MCP serving, evaluation, progress, and integration helpers.
 - Evaluate semantic reranking only after lexical parity is verified.
+- Port agent context, MCP serving, evaluation, progress, and integration helpers.

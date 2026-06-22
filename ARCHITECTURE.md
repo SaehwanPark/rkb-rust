@@ -4,7 +4,8 @@
 
 `rkb-rust` is organized as one library crate and one `rkb` binary. The binary
 owns process concerns; library modules own typed domain transformations and thin
-side-effect adapters for preservation, extraction, parsing, variable metadata, and provenance QA.
+side-effect adapters for preservation, extraction, parsing, variable metadata, provenance QA,
+and lexical retrieval.
 
 Last Reviewed: 2026-06-22
 Status: Verified
@@ -21,6 +22,8 @@ CLI parsing -> typed command -> pure domain pipeline -> I/O adapter -> artifact
   resolution separate from CSV, HTML, and filesystem adapters.
 - `src/qa.rs` keeps finding and verdict calculation explicit while isolating CSV,
   filesystem, checksum, URL, and Markdown report effects at the command boundary.
+- `src/retrieval.rs` flattens canonical artifacts into typed records, while SQLite and
+  filesystem adapters own FTS5 persistence and query execution.
 - Future modules must preserve the same separation of pure transforms and I/O.
 
 Last Reviewed: 2026-06-22
@@ -51,6 +54,7 @@ Status: Verified
 - Concurrency is introduced only after sequential behavior and rate limits are tested.
 - New dependencies require a concrete slice and a documented reason.
 - The `regex` dependency is limited to variable candidate, year, and alias recognition.
+- Bundled SQLite is used so the rebuildable serving index has consistent FTS5 support.
 - Python parity is defined by tests and fixtures, not by translating implementation structure.
 
 Last Reviewed: 2026-06-22

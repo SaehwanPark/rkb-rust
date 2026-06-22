@@ -52,7 +52,7 @@ graph TD
     C -->|archive_manifest.csv| D[3. extract]
     D -->|Scrapes web structures| E[data/metadata/<br/>Datasets & Documents lists]
     E -->|4. parse| F[data/parsed/<br/>Overlapping word chunks]
-    F -->|Future search indexing| G[Serving SQLite Index / AI Search]
+    F -->|5. index and search| G[Serving SQLite Index / Lexical Search]
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:1px
@@ -273,6 +273,31 @@ Every input artifact can be overridden with its corresponding `--*-metadata`, `-
 
 ---
 
+### `index`
+Build the local SQLite FTS5 search index from canonical metadata and parsed chunks.
+
+```bash
+cargo run -- index
+```
+
+Use `--datasets-metadata`, `--documents-metadata`, `--variables-metadata`,
+`--chunks-jsonl`, and `--database-path` to override artifact locations.
+
+---
+
+### `search`
+Query the built index and return citation-bearing lexical results.
+
+```bash
+cargo run -- search --query "BENE_ID" --limit 5
+cargo run -- search --query "dual eligibility" --json
+```
+
+Run `index` after canonical artifacts change. Search requires the index plus the required
+dataset and document metadata files.
+
+---
+
 ## 7. Understanding Your Output Data
 
 ### Schema Checklists
@@ -304,8 +329,6 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 | Command | Status | Intended Action |
 | --- | --- | --- |
-| `index` | Planned | Import parsed chunks into a fast, searchable SQLite database. |
-| `search` | Planned | Query the SQLite database using keywords. |
 | `agent-context` | Planned | Reformat search results specifically to feed into AI LLMs. |
 | `mcp` | Planned | Connect RKB as a server tool for AI agents (Model Context Protocol). |
 | `mcp-setup` | Planned | Automatically link RKB to popular desktop AI clients (like Claude Desktop). |
@@ -316,7 +339,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, and `qa`.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, and `search`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

@@ -14,6 +14,8 @@ pub enum AppError {
   PathResolutionError(String),
   /// CSV or JSONL record parsing/serialization failure.
   RecordParseError(String),
+  /// `SQLite` index construction or retrieval failure.
+  RetrievalError(String),
 }
 
 impl Display for AppError {
@@ -33,6 +35,9 @@ impl Display for AppError {
       }
       Self::RecordParseError(msg) => {
         write!(formatter, "record parse error: {msg}")
+      }
+      Self::RetrievalError(msg) => {
+        write!(formatter, "retrieval error: {msg}")
       }
     }
   }
