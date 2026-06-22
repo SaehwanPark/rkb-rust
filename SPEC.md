@@ -79,23 +79,24 @@ Verification:
   source priority, canonical HTML parsing, deterministic CSV schemas, and partial failures.
 - Python variable tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
 
-## Present
-
 ### Provenance QA
 
-Status: Active
-Started: 2026-06-22
-Branch: `feat/provenance-qa`
+Status: Verified
 
-Port checksum, source URL, local evidence, schema, and cross-artifact reference validation with
-Python-compatible findings, verdicts, CLI behavior, and workspace reporting.
+Ported required and optional artifact loading, SHA-256 and local evidence checks, URL and
+archive-manifest validation, identifier and cross-artifact reference checks, deterministic
+findings, pass/fix/redo verdicts, and workspace reporting.
 
 Verification:
 
-- Pinned Python QA tests and focused Rust parity tests pass.
-- Formatting, Clippy, full tests, documentation, harness QA, and review checks pass.
+- CLI subcommand `qa` is wired with Python-compatible artifact path options.
+- Focused tests verify valid provenance, bounded integrity failures, fatal missing inputs,
+  report generation, counters, and command failure status.
+- Python QA tests, formatting, Clippy, Rust tests, and documentation pass.
 
-Out of scope: artifact repair, indexing, retrieval, MCP, evaluation, and concurrency.
+## Present
+
+No production rewrite slice is active.
 
 ## Future
 

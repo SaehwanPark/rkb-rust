@@ -13,6 +13,7 @@ pub mod inventory;
 pub mod parse;
 pub mod paths;
 pub mod progress;
+pub mod qa;
 pub mod records;
 pub mod variables;
 
@@ -123,6 +124,22 @@ pub fn run(command: Command) -> Result<(), AppError> {
           "variable extraction completed with {} failures; see workspace summary pack",
           result.failures.len()
         )))
+      }
+    }
+    Command::Qa(args) => {
+      let result = qa::run_qa(&args.into_config())?;
+      let message = format!(
+        "QA review finished with verdict: {}; {} errors, {} warnings; summary written to {}",
+        result.verdict,
+        result.error_count(),
+        result.warning_count(),
+        result.summary_path.display()
+      );
+      println!("{message}");
+      if result.verdict == qa::QaVerdict::Pass {
+        Ok(())
+      } else {
+        Err(AppError::RecordParseError(message))
       }
     }
     _ => Err(AppError::CommandUnavailable {

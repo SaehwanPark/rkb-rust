@@ -152,6 +152,107 @@ pub struct VariablesArgs {
   pub workspace_dir: PathBuf,
 }
 
+/// Arguments for the `qa` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct QaArgs {
+  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  pub datasets_metadata: PathBuf,
+  #[arg(long, default_value = "data/metadata/documents.csv")]
+  pub documents_metadata: PathBuf,
+  #[arg(long, default_value = "data/metadata/variables.csv")]
+  pub variables_metadata: PathBuf,
+  #[arg(long, default_value = "data/metadata/canonical_variables.csv")]
+  pub canonical_variables_metadata: PathBuf,
+  #[arg(long, default_value = "data/graph/document_edges.csv")]
+  pub document_edges: PathBuf,
+  #[arg(long, default_value = "data/graph/variable_edges.csv")]
+  pub variable_edges: PathBuf,
+  #[arg(long, default_value = "data/graph/data_source_variable_edges.csv")]
+  pub data_source_variable_edges: PathBuf,
+  #[arg(long, default_value = "data/graph/ontology_nodes.csv")]
+  pub ontology_nodes: PathBuf,
+  #[arg(long, default_value = "data/graph/ontology_edges.csv")]
+  pub ontology_edges: PathBuf,
+  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  pub archive_manifest: PathBuf,
+  #[arg(long, default_value = "_workspace")]
+  pub workspace_dir: PathBuf,
+}
+
+impl QaArgs {
+  #[must_use]
+  pub fn from_config(config: crate::config::QAConfig) -> Self {
+    Self {
+      datasets_metadata: config.datasets_metadata_path,
+      documents_metadata: config.documents_metadata_path,
+      variables_metadata: config.variables_metadata_path,
+      canonical_variables_metadata: config.canonical_variables_metadata_path,
+      document_edges: config.document_edges_path,
+      variable_edges: config.variable_edges_path,
+      data_source_variable_edges: config.data_source_variable_edges_path,
+      ontology_nodes: config.ontology_nodes_path,
+      ontology_edges: config.ontology_edges_path,
+      archive_manifest: config.archive_manifest_path,
+      workspace_dir: config.workspace_dir,
+    }
+  }
+
+  #[must_use]
+  pub fn into_config(mut self) -> crate::config::QAConfig {
+    let defaults = crate::config::QAConfig::default();
+    if self.datasets_metadata != defaults.datasets_metadata_path {
+      let metadata_dir = self
+        .datasets_metadata
+        .parent()
+        .unwrap_or_else(|| std::path::Path::new(""));
+      let graph_dir = metadata_dir
+        .parent()
+        .unwrap_or_else(|| std::path::Path::new(""))
+        .join("graph");
+      if self.variables_metadata == defaults.variables_metadata_path {
+        self.variables_metadata = metadata_dir.join("variables.csv");
+      }
+      if self.canonical_variables_metadata == defaults.canonical_variables_metadata_path {
+        self.canonical_variables_metadata = metadata_dir.join("canonical_variables.csv");
+      }
+      if self.document_edges == defaults.document_edges_path {
+        self.document_edges = graph_dir.join("document_edges.csv");
+      }
+    }
+    if self.document_edges != defaults.document_edges_path {
+      let graph_dir = self
+        .document_edges
+        .parent()
+        .unwrap_or_else(|| std::path::Path::new(""));
+      if self.variable_edges == defaults.variable_edges_path {
+        self.variable_edges = graph_dir.join("variable_edges.csv");
+      }
+      if self.data_source_variable_edges == defaults.data_source_variable_edges_path {
+        self.data_source_variable_edges = graph_dir.join("data_source_variable_edges.csv");
+      }
+      if self.ontology_nodes == defaults.ontology_nodes_path {
+        self.ontology_nodes = graph_dir.join("ontology_nodes.csv");
+      }
+      if self.ontology_edges == defaults.ontology_edges_path {
+        self.ontology_edges = graph_dir.join("ontology_edges.csv");
+      }
+    }
+    crate::config::QAConfig {
+      datasets_metadata_path: self.datasets_metadata,
+      documents_metadata_path: self.documents_metadata,
+      variables_metadata_path: self.variables_metadata,
+      canonical_variables_metadata_path: self.canonical_variables_metadata,
+      document_edges_path: self.document_edges,
+      variable_edges_path: self.variable_edges,
+      data_source_variable_edges_path: self.data_source_variable_edges,
+      ontology_nodes_path: self.ontology_nodes,
+      ontology_edges_path: self.ontology_edges,
+      archive_manifest_path: self.archive_manifest,
+      workspace_dir: self.workspace_dir,
+    }
+  }
+}
+
 /// Stable command namespace reserved for the Rust rewrite.
 #[derive(Clone, Debug, PartialEq, Subcommand)]
 pub enum Command {
@@ -166,7 +267,7 @@ pub enum Command {
   /// Extract variable-level metadata.
   Variables(VariablesArgs),
   /// Validate provenance and cross-artifact integrity.
-  Qa,
+  Qa(QaArgs),
   /// Build the derived retrieval index.
   Index,
   /// Search indexed knowledge-base records.
@@ -195,7 +296,7 @@ impl Command {
       Self::Extract(_) => "extract",
       Self::Parse(_) => "parse",
       Self::Variables(_) => "variables",
-      Self::Qa => "qa",
+      Self::Qa(_) => "qa",
       Self::Index => "index",
       Self::Search => "search",
       Self::AgentContext => "agent-context",

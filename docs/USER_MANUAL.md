@@ -259,6 +259,20 @@ cargo run -- variables [FLAGS]
 
 ---
 
+### `qa`
+Validate metadata, graph references, archived evidence, and checksums.
+
+```bash
+cargo run -- qa [OPTIONS]
+```
+
+The command writes `_workspace/06_qa_review.md`. A `PASS` verdict exits successfully;
+`FIX` and `REDO` identify bounded or structural provenance failures and exit nonzero.
+Every input artifact can be overridden with its corresponding `--*-metadata`, `--*-edges`,
+`--archive-manifest`, or `--workspace-dir` option.
+
+---
+
 ## 7. Understanding Your Output Data
 
 ### Schema Checklists
@@ -290,7 +304,6 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 | Command | Status | Intended Action |
 | --- | --- | --- |
-| `qa` | Planned | Validate checksum records and citation pathways. |
 | `index` | Planned | Import parsed chunks into a fast, searchable SQLite database. |
 | `search` | Planned | Query the SQLite database using keywords. |
 | `agent-context` | Planned | Reformat search results specifically to feed into AI LLMs. |
@@ -303,7 +316,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Make sure you are using `inventory`, `archive`, `extract`, `parse`, or `variables`.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, and `qa`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

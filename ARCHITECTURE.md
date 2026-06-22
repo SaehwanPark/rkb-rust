@@ -4,7 +4,7 @@
 
 `rkb-rust` is organized as one library crate and one `rkb` binary. The binary
 owns process concerns; library modules own typed domain transformations and thin
-side-effect adapters for preservation, extraction, parsing, and variable metadata.
+side-effect adapters for preservation, extraction, parsing, variable metadata, and provenance QA.
 
 Last Reviewed: 2026-06-22
 Status: Verified
@@ -19,6 +19,8 @@ CLI parsing -> typed command -> pure domain pipeline -> I/O adapter -> artifact
 - `src/error.rs` owns recoverable application failures.
 - `src/variables.rs` keeps candidate extraction, deduplication, and citation
   resolution separate from CSV, HTML, and filesystem adapters.
+- `src/qa.rs` keeps finding and verdict calculation explicit while isolating CSV,
+  filesystem, checksum, URL, and Markdown report effects at the command boundary.
 - Future modules must preserve the same separation of pure transforms and I/O.
 
 Last Reviewed: 2026-06-22
