@@ -6,6 +6,12 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- CLI subcommand integration for `rkb parse` mapping user arguments to parsing config.
+- Document parsing engine supporting HTML (using `scraper` without boilerplate), PDF (using `pdf-extract` page-by-page), and XLSX (custom OpenXML ZIP/XML parser).
+- Word-boundary aligned sliding window text chunker (`chunk_text`) implementing normalizations, lookbacks, and start alignments.
+- JSON serialization for chunk metadata and unified `chunks.jsonl` output stream.
+- Workspace summary pack output to `_workspace/05_parsing_pack.md`.
+- Comprehensive integration and unit tests for document parsing and text chunking.
 - Subcommand integration for `rkb extract` mapping CLI arguments to extraction config.
 - Metadata extraction engine implementing HTML scraping (using CSS selectors via `scraper`), validation of files (checksum/existence), document ID hashing (10-char SHA-1 URL prefix), and parent-child relations.
 - CSV serialization for datasets, documents, document edges, ontology nodes, and ontology edges.

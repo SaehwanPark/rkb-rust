@@ -111,6 +111,28 @@ pub struct ExtractArgs {
   pub workspace_dir: PathBuf,
 }
 
+/// Arguments for the `parse` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct ParseArgs {
+  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  pub datasets_metadata: PathBuf,
+
+  #[arg(long, default_value = "data/metadata/documents.csv")]
+  pub documents_metadata: PathBuf,
+
+  #[arg(long, default_value = "data/parsed")]
+  pub parsed_root: PathBuf,
+
+  #[arg(long, default_value = "_workspace")]
+  pub workspace_dir: PathBuf,
+
+  #[arg(long, default_value_t = 500)]
+  pub chunk_size: usize,
+
+  #[arg(long, default_value_t = 100)]
+  pub chunk_overlap: usize,
+}
+
 /// Stable command namespace reserved for the Rust rewrite.
 #[derive(Clone, Debug, PartialEq, Subcommand)]
 pub enum Command {
@@ -121,7 +143,7 @@ pub enum Command {
   /// Extract metadata and graph seeds.
   Extract(ExtractArgs),
   /// Parse archived documents into provenance-bearing chunks.
-  Parse,
+  Parse(ParseArgs),
   /// Extract variable-level metadata.
   Variables,
   /// Validate provenance and cross-artifact integrity.
@@ -152,7 +174,7 @@ impl Command {
       Self::Inventory(_) => "inventory",
       Self::Archive(_) => "archive",
       Self::Extract(_) => "extract",
-      Self::Parse => "parse",
+      Self::Parse(_) => "parse",
       Self::Variables => "variables",
       Self::Qa => "qa",
       Self::Index => "index",

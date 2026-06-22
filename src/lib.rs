@@ -10,6 +10,7 @@ pub mod config;
 pub mod error;
 pub mod extract;
 pub mod inventory;
+pub mod parse;
 pub mod paths;
 pub mod progress;
 pub mod records;
@@ -81,6 +82,19 @@ pub fn run(command: Command) -> Result<(), AppError> {
         workspace_dir: args.workspace_dir,
       };
       extract::run_extraction(&config)?;
+      Ok(())
+    }
+    Command::Parse(args) => {
+      let config = config::ParsingConfig {
+        datasets_metadata_path: args.datasets_metadata,
+        documents_metadata_path: args.documents_metadata,
+        parsed_root: args.parsed_root,
+        workspace_dir: args.workspace_dir,
+        chunk_size: args.chunk_size,
+        chunk_overlap: args.chunk_overlap,
+      };
+      config.validate()?;
+      parse::run_parsing(&config)?;
       Ok(())
     }
     _ => Err(AppError::CommandUnavailable {
