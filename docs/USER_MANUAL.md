@@ -52,7 +52,7 @@ graph TD
     C -->|archive_manifest.csv| D[3. extract]
     D -->|Scrapes web structures| E[data/metadata/<br/>Datasets & Documents lists]
     E -->|4. parse| F[data/parsed/<br/>Overlapping word chunks]
-    F -->|Future search indexing| G[Serving SQLite Index / AI Search]
+    F -->|5. index and search| G[Serving SQLite Index / Lexical Search]
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:1px
