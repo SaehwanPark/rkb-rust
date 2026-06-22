@@ -15,6 +15,7 @@ pub mod paths;
 pub mod progress;
 pub mod qa;
 pub mod records;
+pub mod retrieval;
 pub mod variables;
 
 use cli::Command;
@@ -141,6 +142,42 @@ pub fn run(command: Command) -> Result<(), AppError> {
       } else {
         Err(AppError::RecordParseError(message))
       }
+    }
+    Command::Index(args) => {
+      let config = args.paths.into_config();
+      println!(
+        "Building search index at {}...",
+        config.database_path.display()
+      );
+      retrieval::build_index(&config)?;
+      println!("Search index built successfully.");
+      Ok(())
+    }
+    Command::Search(args) => {
+      let results = retrieval::run_retrieval(&args.paths.into_config(), &args.query, args.limit)?;
+      if args.json {
+        println!(
+          "{}",
+          serde_json::to_string_pretty(&results)
+            .map_err(|error| AppError::RetrievalError(error.to_string()))?
+        );
+      } else {
+        for result in results {
+          let page = result
+            .page
+            .map_or_else(String::new, |page| format!(" page {page}"));
+          println!(
+            "{:.3}\t{}\t{}\t{}{}\n{}",
+            result.score,
+            result.record_type.as_str(),
+            result.record_id,
+            result.source_url,
+            page,
+            result.snippet
+          );
+        }
+      }
+      Ok(())
     }
     _ => Err(AppError::CommandUnavailable {
       command: command.name(),

@@ -179,6 +179,55 @@ pub struct QaArgs {
   pub workspace_dir: PathBuf,
 }
 
+/// Shared artifact paths for lexical indexing and retrieval.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct RetrievalPathsArgs {
+  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  pub datasets_metadata: PathBuf,
+  #[arg(long, default_value = "data/metadata/documents.csv")]
+  pub documents_metadata: PathBuf,
+  #[arg(long, default_value = "data/metadata/variables.csv")]
+  pub variables_metadata: PathBuf,
+  #[arg(long, default_value = "data/parsed/chunks.jsonl")]
+  pub chunks_jsonl: PathBuf,
+  #[arg(long, default_value = "data/index/retrieval.sqlite")]
+  pub database_path: PathBuf,
+}
+
+impl RetrievalPathsArgs {
+  #[must_use]
+  pub fn into_config(self) -> crate::config::RetrievalConfig {
+    crate::config::RetrievalConfig {
+      datasets_metadata_path: self.datasets_metadata,
+      documents_metadata_path: self.documents_metadata,
+      variables_metadata_path: self.variables_metadata,
+      chunks_jsonl_path: self.chunks_jsonl,
+      database_path: self.database_path,
+      ..crate::config::RetrievalConfig::default()
+    }
+  }
+}
+
+/// Arguments for the `index` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct IndexArgs {
+  #[command(flatten)]
+  pub paths: RetrievalPathsArgs,
+}
+
+/// Arguments for the `search` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct SearchArgs {
+  #[arg(long)]
+  pub query: String,
+  #[arg(long, default_value_t = 10)]
+  pub limit: usize,
+  #[arg(long)]
+  pub json: bool,
+  #[command(flatten)]
+  pub paths: RetrievalPathsArgs,
+}
+
 impl QaArgs {
   #[must_use]
   pub fn from_config(config: crate::config::QAConfig) -> Self {
@@ -269,9 +318,9 @@ pub enum Command {
   /// Validate provenance and cross-artifact integrity.
   Qa(QaArgs),
   /// Build the derived retrieval index.
-  Index,
+  Index(IndexArgs),
   /// Search indexed knowledge-base records.
-  Search,
+  Search(SearchArgs),
   /// Return citation-preserving context for agents.
   AgentContext,
   /// Serve read-only Model Context Protocol tools.
@@ -297,8 +346,8 @@ impl Command {
       Self::Parse(_) => "parse",
       Self::Variables(_) => "variables",
       Self::Qa(_) => "qa",
-      Self::Index => "index",
-      Self::Search => "search",
+      Self::Index(_) => "index",
+      Self::Search(_) => "search",
       Self::AgentContext => "agent-context",
       Self::Mcp => "mcp",
       Self::McpSetup => "mcp-setup",

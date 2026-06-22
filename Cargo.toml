@@ -31,6 +31,7 @@ quick-xml = "0.40.1"
 pdf-extract = "0.10.0"
 ego-tree = "0.6.3"
 regex = "1.11"
+rusqlite = { version = "0.37", features = ["bundled"] }
 
 [lints.rust]
 unsafe_code = "forbid"

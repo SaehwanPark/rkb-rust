@@ -94,24 +94,23 @@ Verification:
   report generation, counters, and command failure status.
 - Python QA tests, formatting, Clippy, Rust tests, and documentation pass.
 
-## Present
+### SQLite FTS5 Indexing and Deterministic Lexical Retrieval
 
-### SQLite FTS5 indexing and deterministic lexical retrieval
+Status: Verified
 
-Status: Active
-Started: 2026-06-22
-Branch: `feat/lexical-retrieval`
-
-Summary: Port atomic SQLite FTS5 index construction and citation-bearing lexical search through
-`rkb index` and `rkb search`.
+Ported canonical record flattening, atomic SQLite FTS5 index construction, exact-term lexical
+boosting, deterministic result ordering, citation-bearing snippets, and text/JSON CLI output.
 
 Verification:
 
-- Pinned Python retrieval tests and focused Rust parity tests pass.
-- Exact identifiers and chunk text return deterministically ordered cited results.
-- Formatting, Clippy, full tests, documentation, harness QA, and review gates pass.
+- CLI subcommands `index` and `search` are wired with Python-compatible path and query options.
+- Focused tests verify required and optional inputs, schema failures, FTS index rebuilds,
+  identifier and chunk ranking, citations, query validation, and JSON output.
+- Python retrieval tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
 
-Out of scope: legacy in-memory search, embeddings, semantic/hybrid reranking, and downstream agent commands.
+## Present
+
+No production rewrite slice is active.
 
 ## Future
 
