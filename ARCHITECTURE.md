@@ -5,7 +5,7 @@
 `rkb-rust` is organized as one library crate and one `rkb` binary. The binary
 owns process concerns; library modules own typed domain transformations, retrieval
 formatting, and thin side-effect adapters for preservation, extraction, parsing,
-variable metadata, provenance QA, and lexical retrieval.
+variable metadata, provenance QA, lexical retrieval, and progress summaries.
 
 Last Reviewed: 2026-06-22
 Status: Verified
@@ -26,6 +26,8 @@ CLI parsing -> typed command -> pure domain pipeline -> I/O adapter -> artifact
   filesystem adapters own FTS5 persistence and query execution.
 - `src/agent_context.rs` formats citation-bearing retrieval results without changing
   retrieval ranking, SQLite persistence, or source artifact schemas.
+- `src/progress.rs` writes progress events at preservation edges and summarizes
+  existing progress JSONL logs without changing producer behavior.
 - Future modules must preserve the same separation of pure transforms and I/O.
 
 Last Reviewed: 2026-06-22
@@ -37,6 +39,7 @@ The intended durable flow is:
 
 ```text
 source discovery -> raw archive -> metadata/chunks -> variables -> QA -> SQLite index -> retrieval -> agent context
+                       \-> progress logs -> progress summary
 ```
 
 CSV and JSONL artifacts remain canonical interchange formats. SQLite is a

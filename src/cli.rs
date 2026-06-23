@@ -241,6 +241,15 @@ pub struct AgentContextArgs {
   pub paths: RetrievalPathsArgs,
 }
 
+/// Arguments for the `progress` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct ProgressArgs {
+  #[arg(long = "log")]
+  pub logs: Vec<PathBuf>,
+  #[arg(long)]
+  pub json: bool,
+}
+
 impl QaArgs {
   #[must_use]
   pub fn from_config(config: crate::config::QAConfig) -> Self {
@@ -343,7 +352,7 @@ pub enum Command {
   /// Evaluate retrieval quality against benchmark questions.
   Evaluate,
   /// Summarize progress from long-running operations.
-  Progress,
+  Progress(ProgressArgs),
   /// Run downstream integration helpers.
   Integration,
 }
@@ -365,7 +374,7 @@ impl Command {
       Self::Mcp => "mcp",
       Self::McpSetup => "mcp-setup",
       Self::Evaluate => "evaluate",
-      Self::Progress => "progress",
+      Self::Progress(_) => "progress",
       Self::Integration => "integration",
     }
   }
