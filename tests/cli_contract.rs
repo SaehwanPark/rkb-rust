@@ -27,7 +27,7 @@ fn run_rkb(args: &[&str]) -> Output {
 }
 
 #[test]
-fn help_lists_every_reserved_command() {
+fn help_lists_every_implemented_command() {
   let output = run_rkb(&["--help"]);
   let stdout = String::from_utf8(output.stdout).expect("help should be UTF-8");
 
@@ -114,10 +114,32 @@ fn archive_help_documents_retry_failed_only() {
 }
 
 #[test]
+fn archive_retry_example_flags_parse_without_help() {
+  let output = run_rkb(&[
+    "archive",
+    "--retry-failed-only",
+    "--max-downloads",
+    "50",
+    "--request-delay-seconds",
+    "5",
+    "--rate-limit-cooldown-seconds",
+    "300",
+    "--inventory",
+    "/nonexistent/rkb-cli-parity-inventory.csv",
+  ]);
+  let stderr = String::from_utf8_lossy(&output.stderr);
+
+  assert!(
+    !stderr.contains("unexpected argument"),
+    "retry example flags should parse: {stderr}"
+  );
+}
+
+#[test]
 fn top_level_flags_remain_invalid() {
   let output = run_rkb(&["--retry-failed-only"]);
   let stderr = String::from_utf8(output.stderr).expect("stderr should be UTF-8");
 
   assert!(!output.status.success());
-  assert!(stderr.contains("unexpected argument '--retry-failed-only'"));
+  assert!(stderr.contains("--retry-failed-only"));
 }

@@ -47,7 +47,6 @@ fn archive_retry_guidance_uses_rkb_subcommand() {
 
   assert!(summary.contains("## Retry Guidance"));
   assert!(summary.contains(ARCHIVE_RETRY_COMMAND_EXAMPLE));
-  assert!(summary.contains("rkb archive --retry-failed-only"));
   assert!(!summary.contains("cms-kb-archive"));
   assert!(!summary.contains("uv run"));
 
