@@ -136,6 +136,22 @@ Verification:
   malformed JSONL line reporting, and reserved-command coherence.
 - Formatting, Clippy, Rust tests, and documentation pass.
 
+### Retrieval Evaluation
+
+Status: Verified
+
+Ported deterministic variable retrieval usefulness checks, benchmark question metrics,
+JSON/text output, and Markdown benchmark report generation. Hybrid benchmark metrics
+fall back to lexical retrieval until semantic reranking is implemented.
+
+Verification:
+
+- CLI subcommand `evaluate` is wired with search-compatible path options, seeded sampling,
+  limit control, JSON output, benchmark input, archive manifest path, and report output.
+- Focused tests verify seeded variable evaluation, metric calculations, benchmark report
+  generation, CLI output, failure status, and reserved-command coherence.
+- Formatting, Clippy, Rust tests, and documentation pass.
+
 ## Present
 
 No production rewrite slice is active.
@@ -143,4 +159,4 @@ No production rewrite slice is active.
 ## Future
 
 - Evaluate semantic reranking only after lexical parity is verified.
-- Port MCP serving, evaluation, and integration helpers.
+- Port MCP serving, setup, and integration helpers.
