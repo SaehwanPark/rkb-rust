@@ -4,8 +4,10 @@
 knowledge base. It will preserve public documentation, derive traceable
 metadata, and expose citation-backed retrieval through one `rkb` executable.
 
-The repository currently contains the rewrite foundation. Command names are
-reserved, but production pipeline behavior has not been ported yet.
+The repository currently contains verified rewrite slices through preservation,
+metadata extraction, parsing, variables, QA, lexical retrieval, and agent-context
+formatting. Remaining integration commands are still reserved until their parity
+slices are implemented.
 
 ## Development
 
@@ -22,11 +24,11 @@ Inspect the CLI contract with:
 
 ```bash
 cargo run -- --help
-cargo run -- index
+cargo run -- agent-context --query BENE_ID
 ```
 
-The second command intentionally exits with status 1 until the indexing slice
-passes parity review.
+Build the SQLite index with `cargo run -- index` before running search or
+agent-context commands against local artifacts.
 
 ## Project State
 

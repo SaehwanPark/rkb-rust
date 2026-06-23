@@ -1,9 +1,9 @@
 //! Shared contracts for the `rkb` command-line program.
 //!
-//! The foundation release reserves the CLI namespace without claiming that
-//! pipeline behavior has been ported. Each command will replace its explicit
-//! unavailable result with a tested implementation in a later rewrite slice.
+//! Implemented subcommands replace reserved namespace entries one verified
+//! rewrite slice at a time.
 
+pub mod agent_context;
 pub mod archive;
 pub mod cli;
 pub mod config;
@@ -176,6 +176,20 @@ pub fn run(command: Command) -> Result<(), AppError> {
             result.snippet
           );
         }
+      }
+      Ok(())
+    }
+    Command::AgentContext(args) => {
+      let results = retrieval::run_retrieval(&args.paths.into_config(), &args.query, args.limit)?;
+      let context = agent_context::build_agent_context(&args.query, results);
+      if args.json {
+        println!(
+          "{}",
+          serde_json::to_string_pretty(&context)
+            .map_err(|error| AppError::RetrievalError(error.to_string()))?
+        );
+      } else {
+        println!("{}", agent_context::format_agent_context_text(&context));
       }
       Ok(())
     }

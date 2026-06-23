@@ -1,13 +1,6 @@
 use std::process::{Command, Output};
 
-const RESERVED_COMMANDS: &[&str] = &[
-  "agent-context",
-  "mcp",
-  "mcp-setup",
-  "evaluate",
-  "progress",
-  "integration",
-];
+const RESERVED_COMMANDS: &[&str] = &["mcp", "mcp-setup", "evaluate", "progress", "integration"];
 
 const ALL_COMMANDS: &[&str] = &[
   "variables",
