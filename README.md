@@ -5,9 +5,9 @@ knowledge base. It will preserve public documentation, derive traceable
 metadata, and expose citation-backed retrieval through one `rkb` executable.
 
 The repository currently contains verified rewrite slices through preservation,
-metadata extraction, parsing, variables, QA, lexical retrieval, agent-context
-formatting, retrieval evaluation, and progress summaries. Remaining MCP, setup,
-and integration commands are still reserved until their parity slices are implemented.
+metadata extraction, parsing, variables, QA, lexical and hybrid retrieval,
+agent-context formatting, MCP serving/setup, retrieval evaluation, progress
+summaries, and downstream integration helpers.
 
 ## Development
 
@@ -27,10 +27,14 @@ cargo run -- --help
 cargo run -- agent-context --query BENE_ID
 cargo run -- evaluate --sample-size 5
 cargo run -- progress
+cargo run -- mcp
+cargo run -- integration availability --dataset carrier-ffs
 ```
 
 Build the SQLite index with `cargo run -- index` before running search or
-agent-context commands against local artifacts.
+agent-context commands against local artifacts. Use `cargo run -- index
+--build-embeddings` and `cargo run -- search --hybrid ...` for deterministic
+hybrid reranking over the local embedding table.
 
 ## Project State
 

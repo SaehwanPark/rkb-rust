@@ -10,7 +10,10 @@ pub mod config;
 pub mod error;
 pub mod evaluation;
 pub mod extract;
+pub mod integration;
 pub mod inventory;
+pub mod mcp;
+pub mod mcp_setup;
 pub mod parse;
 pub mod paths;
 pub mod progress;
@@ -20,6 +23,8 @@ pub mod retrieval;
 pub mod variables;
 
 use cli::Command;
+use cli::IntegrationCommand;
+use cli::McpLifecycleCommand;
 use config::{ArchiveConfig, InventoryConfig};
 pub use error::AppError;
 
@@ -145,17 +150,22 @@ pub fn run(command: Command) -> Result<(), AppError> {
       }
     }
     Command::Index(args) => {
-      let config = args.paths.into_config();
+      let mut config = args.paths.into_config();
+      config.semantic_model_name = args.semantic_model_name;
       println!(
         "Building search index at {}...",
         config.database_path.display()
       );
-      retrieval::build_index(&config)?;
+      retrieval::build_index_with_options(&config, args.build_embeddings)?;
       println!("Search index built successfully.");
       Ok(())
     }
     Command::Search(args) => {
-      let results = retrieval::run_retrieval(&args.paths.into_config(), &args.query, args.limit)?;
+      let mut config = args.paths.into_config();
+      config.hybrid_search_enabled = args.hybrid;
+      config.semantic_weight = args.semantic_weight;
+      config.semantic_model_name = args.semantic_model_name;
+      let results = retrieval::run_retrieval(&config, &args.query, args.limit)?;
       if args.json {
         println!(
           "{}",
@@ -181,7 +191,11 @@ pub fn run(command: Command) -> Result<(), AppError> {
       Ok(())
     }
     Command::AgentContext(args) => {
-      let results = retrieval::run_retrieval(&args.paths.into_config(), &args.query, args.limit)?;
+      let mut config = args.paths.into_config();
+      config.hybrid_search_enabled = args.hybrid;
+      config.semantic_weight = args.semantic_weight;
+      config.semantic_model_name = args.semantic_model_name;
+      let results = retrieval::run_retrieval(&config, &args.query, args.limit)?;
       let context = agent_context::build_agent_context(&args.query, results);
       if args.json {
         println!(
@@ -194,6 +208,46 @@ pub fn run(command: Command) -> Result<(), AppError> {
       }
       Ok(())
     }
+    Command::Mcp(args) => match args.lifecycle {
+      Some(McpLifecycleCommand::Start { host, port }) => {
+        let state = mcp::start_background_state(&args.workspace_dir, &host, port)?;
+        println!("Recording MCP server background state");
+        println!(
+          "MCP server state recorded successfully: PID {} at {}",
+          state.pid, state.endpoint_url
+        );
+        Ok(())
+      }
+      Some(McpLifecycleCommand::Status) => {
+        match mcp::read_background_state(&args.workspace_dir)? {
+          Some(state) => {
+            println!("MCP server status: recorded");
+            println!("PID: {}", state.pid);
+            println!("Host: {}", state.host);
+            println!("Port: {}", state.port);
+            println!("Endpoint: {}", state.endpoint_url);
+            println!("Log: {}", state.log_path.display());
+          }
+          None => println!("MCP server status: stopped"),
+        }
+        Ok(())
+      }
+      Some(McpLifecycleCommand::Stop) => {
+        let state = mcp::stop_background_state(&args.workspace_dir)?;
+        println!("Stopping MCP server (PID: {})", state.pid);
+        println!("MCP server stopped successfully.");
+        Ok(())
+      }
+      None => {
+        let config = mcp::McpConfig {
+          retrieval: args.paths.into_config(),
+          default_limit: args.default_limit,
+        };
+        let stdin = std::io::stdin();
+        let stdout = std::io::stdout();
+        mcp::run_stdio_server(&config, stdin.lock(), stdout.lock())
+      }
+    },
     Command::Progress(args) => {
       let explicit = !args.logs.is_empty();
       let paths = if explicit {
@@ -250,8 +304,95 @@ pub fn run(command: Command) -> Result<(), AppError> {
         }
       }
     }
-    _ => Err(AppError::CommandUnavailable {
-      command: command.name(),
-    }),
+    Command::McpSetup(args) => {
+      if args.clients.is_empty() {
+        return Err(AppError::ConfigValidationError(
+          "at least one --client is required for non-interactive mcp-setup".to_string(),
+        ));
+      }
+      for client in &args.clients {
+        let message = mcp_setup::configure_client(
+          client,
+          args.config_path.as_deref(),
+          &args.project_path,
+          &args.server_name,
+          &args.command,
+          args.dry_run,
+        )?;
+        println!("{message}");
+      }
+      Ok(())
+    }
+    Command::Integration(args) => {
+      match args.command {
+        IntegrationCommand::Availability {
+          dataset,
+          year,
+          paths,
+        } => {
+          let availability = integration::dataset_availability(&paths.into_config(), &dataset)?;
+          if let Some(year) = year {
+            println!("{}", availability.available_years.contains(&year));
+          } else {
+            println!(
+              "{}",
+              serde_json::to_string_pretty(&availability)
+                .map_err(|error| AppError::RecordParseError(error.to_string()))?
+            );
+          }
+        }
+        IntegrationCommand::Crosswalk { variables, paths } => {
+          let variables = variables
+            .into_iter()
+            .map(|variable| variable.trim().to_string())
+            .filter(|variable| !variable.is_empty())
+            .collect::<Vec<_>>();
+          let response = integration::crosswalk_variables(&paths.into_config(), &variables)?;
+          println!(
+            "{}",
+            serde_json::to_string_pretty(&response)
+              .map_err(|error| AppError::RecordParseError(error.to_string()))?
+          );
+        }
+        IntegrationCommand::CohortDictionary { variables, paths } => {
+          let variables = variables
+            .into_iter()
+            .map(|variable| variable.trim().to_string())
+            .filter(|variable| !variable.is_empty())
+            .collect::<Vec<_>>();
+          let response = integration::cohort_dictionary(&paths.into_config(), &variables)?;
+          println!(
+            "{}",
+            serde_json::to_string_pretty(&response)
+              .map_err(|error| AppError::RecordParseError(error.to_string()))?
+          );
+        }
+        IntegrationCommand::FormatContext {
+          query,
+          format,
+          limit,
+          paths,
+        } => {
+          println!(
+            "{}",
+            integration::run_format_context(&paths.into_config(), &query, limit, &format)?
+          );
+        }
+        IntegrationCommand::ScanCaveats {
+          files,
+          keywords,
+          paths,
+        } => {
+          let response =
+            integration::scan_codebase_caveats(&paths.into_config(), &files, &keywords)?;
+          println!(
+            "{}",
+            serde_json::to_string_pretty(&response)
+              .map_err(|error| AppError::RecordParseError(error.to_string()))?
+          );
+        }
+      }
+      Ok(())
+    }
   }
 }

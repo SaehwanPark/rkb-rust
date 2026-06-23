@@ -5,8 +5,8 @@
 `rkb-rust` is organized as one library crate and one `rkb` binary. The binary
 owns process concerns; library modules own typed domain transformations, retrieval
 formatting, evaluation reports, and thin side-effect adapters for preservation,
-extraction, parsing, variable metadata, provenance QA, lexical retrieval, and
-progress summaries.
+extraction, parsing, variable metadata, provenance QA, lexical/hybrid retrieval,
+MCP serving/setup, downstream integration helpers, and progress summaries.
 
 Last Reviewed: 2026-06-22
 Status: Verified
@@ -24,9 +24,15 @@ CLI parsing -> typed command -> pure domain pipeline -> I/O adapter -> artifact
 - `src/qa.rs` keeps finding and verdict calculation explicit while isolating CSV,
   filesystem, checksum, URL, and Markdown report effects at the command boundary.
 - `src/retrieval.rs` flattens canonical artifacts into typed records, while SQLite and
-  filesystem adapters own FTS5 persistence and query execution.
+  filesystem adapters own FTS5 persistence, optional deterministic embedding blobs,
+  and query execution.
 - `src/agent_context.rs` formats citation-bearing retrieval results without changing
   retrieval ranking, SQLite persistence, or source artifact schemas.
+- `src/mcp.rs` exposes read-only retrieval and context tools over line-delimited
+  stdio JSON-RPC and records local lifecycle state without changing retrieval behavior.
+- `src/mcp_setup.rs` updates local client config files while preserving unrelated JSON/TOML content.
+- `src/integration.rs` provides downstream availability, crosswalk, context formatting,
+  and caveat scanning helpers over existing metadata and retrieval artifacts.
 - `src/evaluation.rs` computes deterministic retrieval usefulness metrics and report
   output over retrieval and agent-context results without changing index or ranking behavior.
 - `src/progress.rs` writes progress events at preservation edges and summarizes
@@ -41,7 +47,7 @@ Status: Verified
 The intended durable flow is:
 
 ```text
-source discovery -> raw archive -> metadata/chunks -> variables -> QA -> SQLite index -> retrieval -> agent context/evaluation
+source discovery -> raw archive -> metadata/chunks -> variables -> QA -> SQLite index -> retrieval -> agent context/evaluation/MCP/integration
                        \-> progress logs -> progress summary
 ```
 
@@ -63,8 +69,9 @@ Status: Verified
 - New dependencies require a concrete slice and a documented reason.
 - The `regex` dependency is limited to variable candidate, year, and alias recognition.
 - Bundled SQLite is used so the rebuildable serving index has consistent FTS5 support.
-- Evaluation benchmark hybrid metrics intentionally fall back to lexical retrieval until
-  semantic reranking is implemented in its own verified slice.
+- Hybrid retrieval falls back to lexical results unless the optional embedding table is present.
+- Deterministic local embedding vectors are a reviewable serving artifact; replacing them
+  with a model-backed runtime requires a separate dependency and performance review.
 - Python parity is defined by tests and fixtures, not by translating implementation structure.
 
 Last Reviewed: 2026-06-22

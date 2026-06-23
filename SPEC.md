@@ -152,11 +152,30 @@ Verification:
   generation, CLI output, failure status, and reserved-command coherence.
 - Formatting, Clippy, Rust tests, and documentation pass.
 
+### MCP Serving, Setup, Integration Helpers, and Hybrid Reranking
+
+Status: Verified
+
+Ported read-only MCP tool access over line-delimited stdio JSON-RPC, deterministic
+MCP lifecycle state tracking, non-interactive MCP client setup for JSON/TOML config
+files, downstream research integration helpers, and optional deterministic embedding
+table reranking for hybrid retrieval.
+
+Verification:
+
+- CLI subcommands `mcp`, `mcp-setup`, and `integration` are implemented; no reserved
+  command placeholders remain.
+- Focused tests verify MCP tool registration/calls, lifecycle state transitions,
+  setup config merges, integration helper outputs, hybrid embedding table creation,
+  lexical fallback, exact identifier priority, and CLI contracts.
+- Formatting, Clippy, Rust tests, and documentation pass.
+
 ## Present
 
-No production rewrite slice is active.
+All listed rewrite development slices are implemented locally and awaiting final review/PR handoff.
 
 ## Future
 
-- Evaluate semantic reranking only after lexical parity is verified.
-- Port MCP serving, setup, and integration helpers.
+- Replace deterministic local embedding vectors with a model-backed semantic runtime only
+  after a separate dependency and performance review.
+- Publish release artifacts only after compatibility and performance evidence is reviewed.
