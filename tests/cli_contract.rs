@@ -3,6 +3,10 @@ use std::process::{Command, Output};
 const RESERVED_COMMANDS: &[&str] = &[];
 
 const ALL_COMMANDS: &[&str] = &[
+  "inventory",
+  "archive",
+  "extract",
+  "parse",
   "variables",
   "qa",
   "index",
@@ -61,4 +65,59 @@ fn reserved_commands_fail_deterministically() {
       format!("rkb: '{command}' is reserved but not implemented; see SPEC.md\n")
     );
   }
+}
+
+#[test]
+fn archive_accepts_documented_flags() {
+  let output = run_rkb(&[
+    "archive",
+    "--retry-failed-only",
+    "--max-downloads",
+    "1",
+    "--rate-limit-cooldown-seconds",
+    "5",
+    "--help",
+  ]);
+  let stdout = String::from_utf8(output.stdout).expect("help should be UTF-8");
+
+  assert!(output.status.success(), "archive flags should parse");
+  assert!(stdout.contains("--retry-failed-only"));
+  assert!(stdout.contains("--max-downloads"));
+  assert!(stdout.contains("--rate-limit-cooldown-seconds"));
+}
+
+#[test]
+fn inventory_accepts_documented_flags() {
+  let output = run_rkb(&[
+    "inventory",
+    "--max-listing-pages",
+    "2",
+    "--max-follow-pages",
+    "10",
+    "--help",
+  ]);
+  let stdout = String::from_utf8(output.stdout).expect("help should be UTF-8");
+
+  assert!(output.status.success(), "inventory flags should parse");
+  assert!(stdout.contains("--max-pages"));
+  assert!(stdout.contains("--max-follow-pages"));
+}
+
+#[test]
+fn archive_help_documents_retry_failed_only() {
+  let output = run_rkb(&["archive", "--help"]);
+  let stdout = String::from_utf8(output.stdout).expect("help should be UTF-8");
+
+  assert!(output.status.success());
+  assert!(stdout.contains("--retry-failed-only"));
+  assert!(stdout.contains("previous archive manifest"));
+}
+
+#[test]
+fn top_level_flags_remain_invalid() {
+  let output = run_rkb(&["--retry-failed-only"]);
+  let stderr = String::from_utf8(output.stderr).expect("stderr should be UTF-8");
+
+  assert!(!output.status.success());
+  assert!(stderr.contains("unexpected argument '--retry-failed-only'"));
 }

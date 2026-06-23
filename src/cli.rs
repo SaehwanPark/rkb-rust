@@ -3,6 +3,9 @@
 use clap::{Args, Parser, Subcommand};
 use std::path::PathBuf;
 
+/// Bounded retry example shown in archive workspace summaries when rate limits occur.
+pub const ARCHIVE_RETRY_COMMAND_EXAMPLE: &str = "rkb archive --retry-failed-only --max-downloads 50 --request-delay-seconds 5 --rate-limit-cooldown-seconds 300";
+
 /// ResDAC/CMS documentation knowledge-base tools.
 #[derive(Debug, Parser)]
 #[command(name = "rkb", version, about)]
@@ -15,182 +18,380 @@ pub struct Cli {
 /// Arguments for the `inventory` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct InventoryArgs {
-  #[arg(long, default_value = "https://resdac.org/cms-data")]
+  #[arg(
+    long,
+    default_value = "https://resdac.org/cms-data",
+    help = "ResDAC listing root URL to crawl"
+  )]
   pub base_url: String,
 
-  #[arg(long, default_value_t = 4, aliases = ["max-listing-pages"])]
+  #[arg(
+    long,
+    default_value_t = 4,
+    aliases = ["max-listing-pages"],
+    help = "Maximum ResDAC listing pages to crawl. Follow-up pages are controlled separately"
+  )]
   pub max_pages: usize,
 
-  #[arg(long)]
+  #[arg(
+    long,
+    help = "Maximum discovered dataset/documentation pages to fetch after listing pages"
+  )]
   pub max_follow_pages: Option<usize>,
 
-  #[arg(long)]
+  #[arg(long, help = "Maximum unique asset URLs to inventory and probe")]
   pub max_assets: Option<usize>,
 
-  #[arg(long, default_value = "manifests/site_inventory.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/site_inventory.csv",
+    help = "Inventory CSV output path"
+  )]
   pub output: PathBuf,
 
-  #[arg(long, default_value = "manifests/site_inventory_edges.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/site_inventory_edges.csv",
+    help = "Provenance edge CSV output path"
+  )]
   pub edge_output: PathBuf,
 
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for summaries and logs"
+  )]
   pub workspace_dir: PathBuf,
 
-  #[arg(long, default_value = "_workspace/02_inventory_progress.jsonl")]
+  #[arg(
+    long,
+    default_value = "_workspace/02_inventory_progress.jsonl",
+    help = "JSONL progress log path"
+  )]
   pub progress_log: PathBuf,
 
-  #[arg(long)]
+  #[arg(long, help = "Disable JSONL progress logging")]
   pub no_progress_log: bool,
 
-  #[arg(long, default_value_t = 20.0)]
+  #[arg(long, default_value_t = 20.0, help = "HTTP request timeout in seconds")]
   pub timeout_seconds: f64,
 
-  #[arg(long, default_value_t = 0.5)]
+  #[arg(
+    long,
+    default_value_t = 0.5,
+    help = "Delay between HTTP requests in seconds"
+  )]
   pub request_delay_seconds: f64,
 
-  #[arg(long, default_value_t = 25)]
+  #[arg(
+    long,
+    default_value_t = 25,
+    help = "Emit rollup progress after this many processed rows; use 0 to disable"
+  )]
   pub progress_interval: usize,
 }
 
 /// Arguments for the `archive` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct ArchiveArgs {
-  #[arg(long, default_value = "manifests/site_inventory.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/site_inventory.csv",
+    help = "Site inventory CSV input path"
+  )]
   pub inventory: PathBuf,
 
-  #[arg(long, default_value = "data/raw")]
+  #[arg(
+    long,
+    default_value = "data/raw",
+    help = "Root directory for archived raw files"
+  )]
   pub raw_root: PathBuf,
 
-  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/archive_manifest.csv",
+    help = "Archive manifest CSV output path"
+  )]
   pub manifest_output: PathBuf,
 
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for summaries and logs"
+  )]
   pub workspace_dir: PathBuf,
 
-  #[arg(long, default_value_t = 20.0)]
+  #[arg(long, default_value_t = 20.0, help = "HTTP request timeout in seconds")]
   pub timeout_seconds: f64,
 
-  #[arg(long, default_value_t = 0.5)]
+  #[arg(
+    long,
+    default_value_t = 0.5,
+    help = "Delay between HTTP requests in seconds"
+  )]
   pub request_delay_seconds: f64,
 
-  #[arg(long, default_value_t = 5)]
+  #[arg(
+    long,
+    default_value_t = 5,
+    help = "Defer remaining variable pages after this many consecutive HTTP 429 responses"
+  )]
   pub max_consecutive_rate_limits: usize,
 
-  #[arg(long)]
+  #[arg(
+    long,
+    help = "Only retry rows that failed or were deferred in the previous archive manifest"
+  )]
   pub retry_failed_only: bool,
 
-  #[arg(long)]
+  #[arg(
+    long,
+    help = "Maximum fresh network download attempts for this archive run"
+  )]
   pub max_downloads: Option<usize>,
 
-  #[arg(long, default_value_t = 0.0)]
+  #[arg(
+    long,
+    default_value_t = 0.0,
+    help = "Additional cooldown after a final HTTP 429 response"
+  )]
   pub rate_limit_cooldown_seconds: f64,
 
-  #[arg(long, default_value = "_workspace/03_archive_progress.jsonl")]
+  #[arg(
+    long,
+    default_value = "_workspace/03_archive_progress.jsonl",
+    help = "JSONL progress log path"
+  )]
   pub progress_log: PathBuf,
 
-  #[arg(long)]
+  #[arg(long, help = "Disable JSONL progress logging")]
   pub no_progress_log: bool,
 
-  #[arg(long, default_value_t = 25)]
+  #[arg(
+    long,
+    default_value_t = 25,
+    help = "Emit rollup progress after this many processed inventory rows; use 0 to disable"
+  )]
   pub progress_interval: usize,
 }
 
 /// Arguments for the `extract` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct ExtractArgs {
-  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/archive_manifest.csv",
+    help = "Archive manifest CSV input path"
+  )]
   pub archive_manifest: PathBuf,
 
-  #[arg(long, default_value = "data/metadata")]
+  #[arg(
+    long,
+    default_value = "data/metadata",
+    help = "Metadata output directory"
+  )]
   pub metadata_dir: PathBuf,
 
-  #[arg(long, default_value = "data/graph")]
+  #[arg(
+    long,
+    default_value = "data/graph",
+    help = "Graph artifact output directory"
+  )]
   pub graph_dir: PathBuf,
 
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for summaries"
+  )]
   pub workspace_dir: PathBuf,
 }
 
 /// Arguments for the `parse` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct ParseArgs {
-  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/datasets.csv",
+    help = "Datasets metadata CSV input path"
+  )]
   pub datasets_metadata: PathBuf,
 
-  #[arg(long, default_value = "data/metadata/documents.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/documents.csv",
+    help = "Documents metadata CSV input path"
+  )]
   pub documents_metadata: PathBuf,
 
-  #[arg(long, default_value = "data/parsed")]
+  #[arg(
+    long,
+    default_value = "data/parsed",
+    help = "Parsed text and chunk output root"
+  )]
   pub parsed_root: PathBuf,
 
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for summaries"
+  )]
   pub workspace_dir: PathBuf,
 
-  #[arg(long, default_value_t = 500)]
+  #[arg(long, default_value_t = 500, help = "Maximum words per text chunk")]
   pub chunk_size: usize,
 
-  #[arg(long, default_value_t = 100)]
+  #[arg(
+    long,
+    default_value_t = 100,
+    help = "Word overlap between consecutive chunks"
+  )]
   pub chunk_overlap: usize,
 }
 
 /// Arguments for the `variables` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct VariablesArgs {
-  #[arg(long, default_value = "data/parsed/chunks.jsonl")]
+  #[arg(
+    long,
+    default_value = "data/parsed/chunks.jsonl",
+    help = "Parsed chunks JSONL input path"
+  )]
   pub chunks_jsonl: PathBuf,
 
-  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/archive_manifest.csv",
+    help = "Archive manifest CSV input path"
+  )]
   pub archive_manifest: PathBuf,
 
-  #[arg(long, default_value = "data/metadata")]
+  #[arg(
+    long,
+    default_value = "data/metadata",
+    help = "Variable metadata output directory"
+  )]
   pub metadata_dir: PathBuf,
 
-  #[arg(long, default_value = "data/graph")]
+  #[arg(
+    long,
+    default_value = "data/graph",
+    help = "Variable graph output directory"
+  )]
   pub graph_dir: PathBuf,
 
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for summaries"
+  )]
   pub workspace_dir: PathBuf,
 }
 
 /// Arguments for the `qa` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct QaArgs {
-  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/datasets.csv",
+    help = "Datasets metadata CSV path"
+  )]
   pub datasets_metadata: PathBuf,
-  #[arg(long, default_value = "data/metadata/documents.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/documents.csv",
+    help = "Documents metadata CSV path"
+  )]
   pub documents_metadata: PathBuf,
-  #[arg(long, default_value = "data/metadata/variables.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/variables.csv",
+    help = "Variables metadata CSV path"
+  )]
   pub variables_metadata: PathBuf,
-  #[arg(long, default_value = "data/metadata/canonical_variables.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/canonical_variables.csv",
+    help = "Canonical variables metadata CSV path"
+  )]
   pub canonical_variables_metadata: PathBuf,
-  #[arg(long, default_value = "data/graph/document_edges.csv")]
+  #[arg(
+    long,
+    default_value = "data/graph/document_edges.csv",
+    help = "Document edges CSV path"
+  )]
   pub document_edges: PathBuf,
-  #[arg(long, default_value = "data/graph/variable_edges.csv")]
+  #[arg(
+    long,
+    default_value = "data/graph/variable_edges.csv",
+    help = "Variable edges CSV path"
+  )]
   pub variable_edges: PathBuf,
-  #[arg(long, default_value = "data/graph/data_source_variable_edges.csv")]
+  #[arg(
+    long,
+    default_value = "data/graph/data_source_variable_edges.csv",
+    help = "Data source variable edges CSV path"
+  )]
   pub data_source_variable_edges: PathBuf,
-  #[arg(long, default_value = "data/graph/ontology_nodes.csv")]
+  #[arg(
+    long,
+    default_value = "data/graph/ontology_nodes.csv",
+    help = "Ontology nodes CSV path"
+  )]
   pub ontology_nodes: PathBuf,
-  #[arg(long, default_value = "data/graph/ontology_edges.csv")]
+  #[arg(
+    long,
+    default_value = "data/graph/ontology_edges.csv",
+    help = "Ontology edges CSV path"
+  )]
   pub ontology_edges: PathBuf,
-  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/archive_manifest.csv",
+    help = "Archive manifest CSV path"
+  )]
   pub archive_manifest: PathBuf,
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for QA review output"
+  )]
   pub workspace_dir: PathBuf,
 }
 
 /// Shared artifact paths for lexical indexing and retrieval.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct RetrievalPathsArgs {
-  #[arg(long, default_value = "data/metadata/datasets.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/datasets.csv",
+    help = "Datasets metadata CSV path"
+  )]
   pub datasets_metadata: PathBuf,
-  #[arg(long, default_value = "data/metadata/documents.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/documents.csv",
+    help = "Documents metadata CSV path"
+  )]
   pub documents_metadata: PathBuf,
-  #[arg(long, default_value = "data/metadata/variables.csv")]
+  #[arg(
+    long,
+    default_value = "data/metadata/variables.csv",
+    help = "Variables metadata CSV path"
+  )]
   pub variables_metadata: PathBuf,
-  #[arg(long, default_value = "data/parsed/chunks.jsonl")]
+  #[arg(
+    long,
+    default_value = "data/parsed/chunks.jsonl",
+    help = "Parsed chunks JSONL path"
+  )]
   pub chunks_jsonl: PathBuf,
-  #[arg(long, default_value = "data/index/retrieval.sqlite")]
+  #[arg(
+    long,
+    default_value = "data/index/retrieval.sqlite",
+    help = "SQLite retrieval index path"
+  )]
   pub database_path: PathBuf,
 }
 
@@ -213,26 +414,41 @@ impl RetrievalPathsArgs {
 pub struct IndexArgs {
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
-  #[arg(long)]
+  #[arg(
+    long,
+    help = "Build optional deterministic embedding table for hybrid search"
+  )]
   pub build_embeddings: bool,
-  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  #[arg(
+    long,
+    default_value = "all-MiniLM-L6-v2",
+    help = "SentenceTransformer model name for hybrid embeddings"
+  )]
   pub semantic_model_name: String,
 }
 
 /// Arguments for the `search` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct SearchArgs {
-  #[arg(long)]
+  #[arg(long, help = "Search query text")]
   pub query: String,
-  #[arg(long, default_value_t = 10)]
+  #[arg(
+    long,
+    default_value_t = 10,
+    help = "Maximum number of results to return"
+  )]
   pub limit: usize,
-  #[arg(long)]
+  #[arg(long, help = "Emit JSON output")]
   pub json: bool,
-  #[arg(long)]
+  #[arg(long, help = "Enable hybrid search (semantic reranking)")]
   pub hybrid: bool,
-  #[arg(long, default_value_t = 0.5)]
+  #[arg(long, default_value_t = 0.5, help = "Semantic blend weight (0 to 1)")]
   pub semantic_weight: f64,
-  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  #[arg(
+    long,
+    default_value = "all-MiniLM-L6-v2",
+    help = "SentenceTransformer model name for hybrid search"
+  )]
   pub semantic_model_name: String,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
@@ -241,17 +457,25 @@ pub struct SearchArgs {
 /// Arguments for the `agent-context` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct AgentContextArgs {
-  #[arg(long)]
+  #[arg(long, help = "Context query text")]
   pub query: String,
-  #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+  #[arg(
+    long,
+    default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT,
+    help = "Maximum number of retrieval results to include"
+  )]
   pub limit: usize,
-  #[arg(long)]
+  #[arg(long, help = "Emit JSON output")]
   pub json: bool,
-  #[arg(long)]
+  #[arg(long, help = "Enable hybrid search (semantic reranking)")]
   pub hybrid: bool,
-  #[arg(long, default_value_t = 0.5)]
+  #[arg(long, default_value_t = 0.5, help = "Semantic blend weight (0 to 1)")]
   pub semantic_weight: f64,
-  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  #[arg(
+    long,
+    default_value = "all-MiniLM-L6-v2",
+    help = "SentenceTransformer model name for hybrid search"
+  )]
   pub semantic_model_name: String,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
@@ -260,9 +484,17 @@ pub struct AgentContextArgs {
 /// Arguments for the `mcp` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct McpArgs {
-  #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+  #[arg(
+    long,
+    default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT,
+    help = "Default result limit for MCP retrieval tools"
+  )]
   pub default_limit: usize,
-  #[arg(long, default_value = "_workspace")]
+  #[arg(
+    long,
+    default_value = "_workspace",
+    help = "Workspace directory for MCP lifecycle state"
+  )]
   pub workspace_dir: PathBuf,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
@@ -273,19 +505,31 @@ pub struct McpArgs {
 /// Arguments for the `mcp-setup` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct McpSetupArgs {
-  #[arg(long = "client")]
+  #[arg(long = "client", help = "MCP client to configure (repeatable)")]
   pub clients: Vec<String>,
-  #[arg(long, default_value = ".")]
+  #[arg(
+    long,
+    default_value = ".",
+    help = "Project path containing client config files"
+  )]
   pub project_path: PathBuf,
-  #[arg(long)]
+  #[arg(long, help = "Explicit client config file path")]
   pub config_path: Option<PathBuf>,
-  #[arg(long, default_value = "rkb")]
+  #[arg(
+    long,
+    default_value = "rkb",
+    help = "Server command to write into client config"
+  )]
   pub command: String,
-  #[arg(long, default_value = "rkb")]
+  #[arg(
+    long,
+    default_value = "rkb",
+    help = "Server name to write into client config"
+  )]
   pub server_name: String,
-  #[arg(long)]
+  #[arg(long, help = "Print planned config changes without writing files")]
   pub dry_run: bool,
-  #[arg(long)]
+  #[arg(long, help = "Overwrite existing MCP server entries")]
   pub force: bool,
 }
 
@@ -301,43 +545,59 @@ pub struct IntegrationArgs {
 pub enum IntegrationCommand {
   /// Return dataset availability years or check one year.
   Availability {
-    #[arg(long)]
+    #[arg(long, help = "Dataset identifier")]
     dataset: String,
-    #[arg(long)]
+    #[arg(long, help = "Optional year to check for availability")]
     year: Option<u16>,
     #[command(flatten)]
     paths: RetrievalPathsArgs,
   },
   /// Map variable names to dataset-specific records.
   Crosswalk {
-    #[arg(long, value_delimiter = ',')]
+    #[arg(long, value_delimiter = ',', help = "Variable names to crosswalk")]
     variables: Vec<String>,
     #[command(flatten)]
     paths: RetrievalPathsArgs,
   },
   /// Generate a cohort variable dictionary.
   CohortDictionary {
-    #[arg(long, value_delimiter = ',')]
+    #[arg(
+      long,
+      value_delimiter = ',',
+      help = "Variable names for the cohort dictionary"
+    )]
     variables: Vec<String>,
     #[command(flatten)]
     paths: RetrievalPathsArgs,
   },
   /// Format agent context as prompt, markdown, or XML.
   FormatContext {
-    #[arg(long)]
+    #[arg(long, help = "Context query text")]
     query: String,
-    #[arg(long, default_value = "prompt")]
+    #[arg(
+      long,
+      default_value = "prompt",
+      help = "Output format: prompt, markdown, or xml"
+    )]
     format: String,
-    #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+    #[arg(
+      long,
+      default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT,
+      help = "Maximum number of retrieval results to include"
+    )]
     limit: usize,
     #[command(flatten)]
     paths: RetrievalPathsArgs,
   },
   /// Scan code files for dataset and variable caveats.
   ScanCaveats {
-    #[arg(long = "files", value_delimiter = ',')]
+    #[arg(long = "files", value_delimiter = ',', help = "Code files to scan")]
     files: Vec<PathBuf>,
-    #[arg(long = "keywords", value_delimiter = ',')]
+    #[arg(
+      long = "keywords",
+      value_delimiter = ',',
+      help = "Keywords to match in code"
+    )]
     keywords: Vec<String>,
     #[command(flatten)]
     paths: RetrievalPathsArgs,
@@ -349,9 +609,13 @@ pub enum IntegrationCommand {
 pub enum McpLifecycleCommand {
   /// Record MCP background server startup state.
   Start {
-    #[arg(long, default_value = "127.0.0.1")]
+    #[arg(
+      long,
+      default_value = "127.0.0.1",
+      help = "Host address for lifecycle state"
+    )]
     host: String,
-    #[arg(long, default_value_t = 8000)]
+    #[arg(long, default_value_t = 8000, help = "Port for lifecycle state")]
     port: u16,
   },
   /// Show recorded MCP background server status.
@@ -363,28 +627,56 @@ pub enum McpLifecycleCommand {
 /// Arguments for the `progress` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct ProgressArgs {
-  #[arg(long = "log")]
+  #[arg(
+    long = "log",
+    help = "Progress JSONL log path (repeatable; defaults to inventory and archive logs)"
+  )]
   pub logs: Vec<PathBuf>,
-  #[arg(long)]
+  #[arg(long, help = "Emit JSON output")]
   pub json: bool,
 }
 
 /// Arguments for the `evaluate` subcommand.
 #[derive(Args, Clone, Debug, PartialEq)]
 pub struct EvaluateArgs {
-  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SAMPLE_SIZE)]
+  #[arg(
+    long,
+    default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SAMPLE_SIZE,
+    help = "Number of variables to sample for retrieval evaluation"
+  )]
   pub sample_size: usize,
-  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SEED)]
+  #[arg(
+    long,
+    default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SEED,
+    help = "Random seed for deterministic variable sampling"
+  )]
   pub seed: u64,
-  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_LIMIT)]
+  #[arg(
+    long,
+    default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_LIMIT,
+    help = "Maximum retrieval results per evaluated variable"
+  )]
   pub limit: usize,
-  #[arg(long)]
+  #[arg(long, help = "Emit JSON output")]
   pub json: bool,
-  #[arg(long, num_args = 0..=1, default_missing_value = "data/evaluation/benchmark_questions.json")]
+  #[arg(
+    long,
+    num_args = 0..=1,
+    default_missing_value = "data/evaluation/benchmark_questions.json",
+    help = "Optional benchmark questions JSON path"
+  )]
   pub benchmark: Option<PathBuf>,
-  #[arg(long, default_value = "_workspace/retrieval_evaluation_report.md")]
+  #[arg(
+    long,
+    default_value = "_workspace/retrieval_evaluation_report.md",
+    help = "Benchmark evaluation Markdown report output path"
+  )]
   pub output_report: PathBuf,
-  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  #[arg(
+    long,
+    default_value = "manifests/archive_manifest.csv",
+    help = "Archive manifest CSV path for evaluation context"
+  )]
   pub archive_manifest_path: PathBuf,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
