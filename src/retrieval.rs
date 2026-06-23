@@ -324,7 +324,70 @@ fn remove_temp_database(path: &Path) -> Result<(), AppError> {
   Ok(())
 }
 
-fn write_index(path: &Path, records: &[RetrievableRecord]) -> Result<(), AppError> {
+const EMBEDDING_DIMENSIONS: usize = 384;
+
+fn embedding_for_text(text: &str) -> Vec<f32> {
+  let mut embedding = vec![0.0_f32; EMBEDDING_DIMENSIONS];
+  for (index, byte) in text.bytes().enumerate() {
+    let slot = (usize::from(byte) + index) % EMBEDDING_DIMENSIONS;
+    embedding[slot] += f32::from(byte) / 255.0;
+  }
+  let norm = embedding
+    .iter()
+    .map(|value| value * value)
+    .sum::<f32>()
+    .sqrt();
+  if norm > 0.0 {
+    for value in &mut embedding {
+      *value /= norm;
+    }
+  }
+  embedding
+}
+
+fn embedding_to_blob(embedding: &[f32]) -> Vec<u8> {
+  embedding
+    .iter()
+    .flat_map(|value| value.to_le_bytes())
+    .collect()
+}
+
+fn embedding_from_blob(blob: &[u8]) -> Option<Vec<f32>> {
+  if !blob.len().is_multiple_of(std::mem::size_of::<f32>()) {
+    return None;
+  }
+  Some(
+    blob
+      .chunks_exact(std::mem::size_of::<f32>())
+      .map(|chunk| f32::from_le_bytes([chunk[0], chunk[1], chunk[2], chunk[3]]))
+      .collect(),
+  )
+}
+
+fn cosine_similarity(left: &[f32], right: &[f32]) -> f64 {
+  left
+    .iter()
+    .zip(right.iter())
+    .map(|(left, right)| f64::from(*left) * f64::from(*right))
+    .sum()
+}
+
+fn has_embedding_table(connection: &Connection) -> Result<bool, AppError> {
+  connection
+    .query_row(
+      "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='record_embeddings'",
+      [],
+      |row| row.get::<_, usize>(0),
+    )
+    .map(|count| count > 0)
+    .map_err(|error| retrieval_error(format!("failed to inspect embedding table: {error}")))
+}
+
+fn write_index(
+  path: &Path,
+  records: &[RetrievableRecord],
+  build_embeddings: bool,
+) -> Result<(), AppError> {
   let mut connection = Connection::open(path)
     .map_err(|error| retrieval_error(format!("failed to open {}: {error}", path.display())))?;
   connection
@@ -349,6 +412,17 @@ fn write_index(path: &Path, records: &[RetrievableRecord]) -> Result<(), AppErro
   let transaction = connection
     .transaction()
     .map_err(|error| retrieval_error(format!("failed to start index transaction: {error}")))?;
+  if build_embeddings {
+    transaction
+      .execute(
+        "CREATE TABLE record_embeddings (
+          record_id TEXT PRIMARY KEY,
+          embedding BLOB NOT NULL
+        )",
+        [],
+      )
+      .map_err(|error| retrieval_error(format!("failed to initialize embeddings: {error}")))?;
+  }
   for record in records {
     let page = record
       .page
@@ -386,6 +460,21 @@ fn write_index(path: &Path, records: &[RetrievableRecord]) -> Result<(), AppErro
         ],
       )
       .map_err(|error| retrieval_error(format!("failed to insert FTS record: {error}")))?;
+    if build_embeddings {
+      let embedding_text = joined_text(&[
+        record.record_id.clone(),
+        record.title.clone(),
+        record.dataset_id.clone(),
+        record.text.clone(),
+      ]);
+      let embedding = embedding_to_blob(&embedding_for_text(&embedding_text));
+      transaction
+        .execute(
+          "INSERT OR REPLACE INTO record_embeddings (record_id, embedding) VALUES (?1, ?2)",
+          params![record.record_id, embedding],
+        )
+        .map_err(|error| retrieval_error(format!("failed to insert embedding: {error}")))?;
+    }
   }
   transaction
     .commit()
@@ -398,6 +487,18 @@ fn write_index(path: &Path, records: &[RetrievableRecord]) -> Result<(), AppErro
 ///
 /// Returns [`AppError`] when artifacts cannot be loaded or the index cannot be replaced.
 pub fn build_index(config: &RetrievalConfig) -> Result<usize, AppError> {
+  build_index_with_options(config, false)
+}
+
+/// Atomically builds the serving index with optional deterministic embeddings.
+///
+/// # Errors
+///
+/// Returns [`AppError`] when artifacts cannot be loaded or the index cannot be replaced.
+pub fn build_index_with_options(
+  config: &RetrievalConfig,
+  build_embeddings: bool,
+) -> Result<usize, AppError> {
   let records = load_retrievable_records(config)?;
   let parent = config
     .database_path
@@ -407,7 +508,7 @@ pub fn build_index(config: &RetrievalConfig) -> Result<usize, AppError> {
     .map_err(|error| retrieval_error(format!("failed to create {}: {error}", parent.display())))?;
   let temp_path = config.database_path.with_extension("sqlite.tmp");
   remove_temp_database(&temp_path)?;
-  if let Err(error) = write_index(&temp_path, &records) {
+  if let Err(error) = write_index(&temp_path, &records, build_embeddings) {
     let _ = remove_temp_database(&temp_path);
     return Err(error);
   }
@@ -503,6 +604,22 @@ pub fn search_index(
   query: &str,
   limit: usize,
 ) -> Result<Vec<SearchResult>, AppError> {
+  search_index_with_options(database_path, query, limit, false, 0.5)
+}
+
+/// Searches a previously built index with optional embedding reranking.
+///
+/// # Errors
+///
+/// Returns [`AppError`] for invalid queries, a missing index, or invalid index records.
+#[allow(clippy::too_many_lines)]
+pub fn search_index_with_options(
+  database_path: &Path,
+  query: &str,
+  limit: usize,
+  hybrid: bool,
+  semantic_weight: f64,
+) -> Result<Vec<SearchResult>, AppError> {
   let normalized_query = query.trim().to_lowercase();
   if normalized_query.is_empty() {
     return Err(retrieval_error("query must not be empty"));
@@ -537,6 +654,12 @@ pub fn search_index(
       database_path.display()
     ))
   })?;
+  let use_embeddings = hybrid && has_embedding_table(&connection)?;
+  let query_embedding = if use_embeddings {
+    Some(embedding_for_text(&normalized_query))
+  } else {
+    None
+  };
   let mut statement = connection
     .prepare(
       "SELECT r.record_id, r.record_type, r.title, r.dataset_id,
@@ -567,6 +690,7 @@ pub fn search_index(
     .map_err(|error| retrieval_error(format!("failed to execute search: {error}")))?;
 
   let mut results = Vec::new();
+  let mut max_lexical_score = 0.0_f64;
   for row in rows {
     let (
       record_id,
@@ -586,18 +710,61 @@ pub fn search_index(
       .map(usize::try_from)
       .transpose()
       .map_err(|error| retrieval_error(format!("invalid page for {record_id}: {error}")))?;
-    let score = fts_score + field_boost(&normalized_query, &query_tokens, &text, &exact_terms);
+    let lexical_score =
+      fts_score + field_boost(&normalized_query, &query_tokens, &text, &exact_terms);
+    max_lexical_score = max_lexical_score.max(lexical_score);
     results.push(SearchResult {
       record_id,
       record_type: RecordType::parse(&record_type)?,
       title,
       dataset_id,
-      score: (score * 1_000_000.0).round() / 1_000_000.0,
+      score: lexical_score,
       snippet: snippet(&text, &query_tokens, 180),
       source_url,
       source_document,
       page,
     });
+  }
+  if let Some(query_embedding) = query_embedding {
+    let mut embeddings = HashMap::new();
+    let mut statement = connection
+      .prepare("SELECT record_id, embedding FROM record_embeddings")
+      .map_err(|error| retrieval_error(format!("failed to prepare embedding read: {error}")))?;
+    let rows = statement
+      .query_map([], |row| {
+        Ok((row.get::<_, String>(0)?, row.get::<_, Vec<u8>>(1)?))
+      })
+      .map_err(|error| retrieval_error(format!("failed to read embeddings: {error}")))?;
+    for row in rows {
+      let (record_id, blob) =
+        row.map_err(|error| retrieval_error(format!("failed to read embedding row: {error}")))?;
+      if let Some(embedding) = embedding_from_blob(&blob) {
+        embeddings.insert(record_id, embedding);
+      }
+    }
+    let lexical_denominator = if max_lexical_score > 0.0 {
+      max_lexical_score
+    } else {
+      1.0
+    };
+    for result in &mut results {
+      if let Some(embedding) = embeddings.get(&result.record_id) {
+        let lexical = result.score / lexical_denominator;
+        let semantic = cosine_similarity(&query_embedding, embedding);
+        let exact_guard = if result.title.eq_ignore_ascii_case(query)
+          || result.record_id.eq_ignore_ascii_case(query)
+        {
+          8.0
+        } else {
+          0.0
+        };
+        result.score =
+          ((1.0 - semantic_weight) * lexical) + (semantic_weight * semantic) + exact_guard;
+      }
+    }
+  }
+  for result in &mut results {
+    result.score = (result.score * 1_000_000.0).round() / 1_000_000.0;
   }
   results.sort_by(|left, right| {
     right
@@ -632,5 +799,12 @@ pub fn run_retrieval(
       config.documents_metadata_path.display()
     )));
   }
-  search_index(&config.database_path, query, limit)
+  config.validate()?;
+  search_index_with_options(
+    &config.database_path,
+    query,
+    limit,
+    config.hybrid_search_enabled,
+    config.semantic_weight,
+  )
 }

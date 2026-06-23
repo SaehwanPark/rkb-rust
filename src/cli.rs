@@ -213,6 +213,10 @@ impl RetrievalPathsArgs {
 pub struct IndexArgs {
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
+  #[arg(long)]
+  pub build_embeddings: bool,
+  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  pub semantic_model_name: String,
 }
 
 /// Arguments for the `search` subcommand.
@@ -224,6 +228,12 @@ pub struct SearchArgs {
   pub limit: usize,
   #[arg(long)]
   pub json: bool,
+  #[arg(long)]
+  pub hybrid: bool,
+  #[arg(long, default_value_t = 0.5)]
+  pub semantic_weight: f64,
+  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  pub semantic_model_name: String,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
 }
@@ -237,8 +247,117 @@ pub struct AgentContextArgs {
   pub limit: usize,
   #[arg(long)]
   pub json: bool,
+  #[arg(long)]
+  pub hybrid: bool,
+  #[arg(long, default_value_t = 0.5)]
+  pub semantic_weight: f64,
+  #[arg(long, default_value = "all-MiniLM-L6-v2")]
+  pub semantic_model_name: String,
   #[command(flatten)]
   pub paths: RetrievalPathsArgs,
+}
+
+/// Arguments for the `mcp` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct McpArgs {
+  #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+  pub default_limit: usize,
+  #[arg(long, default_value = "_workspace")]
+  pub workspace_dir: PathBuf,
+  #[command(flatten)]
+  pub paths: RetrievalPathsArgs,
+  #[command(subcommand)]
+  pub lifecycle: Option<McpLifecycleCommand>,
+}
+
+/// Arguments for the `mcp-setup` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct McpSetupArgs {
+  #[arg(long = "client")]
+  pub clients: Vec<String>,
+  #[arg(long, default_value = ".")]
+  pub project_path: PathBuf,
+  #[arg(long)]
+  pub config_path: Option<PathBuf>,
+  #[arg(long, default_value = "rkb")]
+  pub command: String,
+  #[arg(long, default_value = "rkb")]
+  pub server_name: String,
+  #[arg(long)]
+  pub dry_run: bool,
+  #[arg(long)]
+  pub force: bool,
+}
+
+/// Arguments for the `integration` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct IntegrationArgs {
+  #[command(subcommand)]
+  pub command: IntegrationCommand,
+}
+
+/// Downstream integration helper commands.
+#[derive(Clone, Debug, PartialEq, Subcommand)]
+pub enum IntegrationCommand {
+  /// Return dataset availability years or check one year.
+  Availability {
+    #[arg(long)]
+    dataset: String,
+    #[arg(long)]
+    year: Option<u16>,
+    #[command(flatten)]
+    paths: RetrievalPathsArgs,
+  },
+  /// Map variable names to dataset-specific records.
+  Crosswalk {
+    #[arg(long, value_delimiter = ',')]
+    variables: Vec<String>,
+    #[command(flatten)]
+    paths: RetrievalPathsArgs,
+  },
+  /// Generate a cohort variable dictionary.
+  CohortDictionary {
+    #[arg(long, value_delimiter = ',')]
+    variables: Vec<String>,
+    #[command(flatten)]
+    paths: RetrievalPathsArgs,
+  },
+  /// Format agent context as prompt, markdown, or XML.
+  FormatContext {
+    #[arg(long)]
+    query: String,
+    #[arg(long, default_value = "prompt")]
+    format: String,
+    #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+    limit: usize,
+    #[command(flatten)]
+    paths: RetrievalPathsArgs,
+  },
+  /// Scan code files for dataset and variable caveats.
+  ScanCaveats {
+    #[arg(long = "files", value_delimiter = ',')]
+    files: Vec<PathBuf>,
+    #[arg(long = "keywords", value_delimiter = ',')]
+    keywords: Vec<String>,
+    #[command(flatten)]
+    paths: RetrievalPathsArgs,
+  },
+}
+
+/// Background MCP lifecycle commands.
+#[derive(Clone, Debug, PartialEq, Subcommand)]
+pub enum McpLifecycleCommand {
+  /// Record MCP background server startup state.
+  Start {
+    #[arg(long, default_value = "127.0.0.1")]
+    host: String,
+    #[arg(long, default_value_t = 8000)]
+    port: u16,
+  },
+  /// Show recorded MCP background server status.
+  Status,
+  /// Stop the recorded MCP background server.
+  Stop,
 }
 
 /// Arguments for the `progress` subcommand.
@@ -380,15 +499,15 @@ pub enum Command {
   /// Return citation-preserving context for agents.
   AgentContext(AgentContextArgs),
   /// Serve read-only Model Context Protocol tools.
-  Mcp,
+  Mcp(McpArgs),
   /// Configure a local MCP client integration.
-  McpSetup,
+  McpSetup(McpSetupArgs),
   /// Evaluate retrieval quality against benchmark questions.
   Evaluate(EvaluateArgs),
   /// Summarize progress from long-running operations.
   Progress(ProgressArgs),
   /// Run downstream integration helpers.
-  Integration,
+  Integration(IntegrationArgs),
 }
 
 impl Command {
@@ -405,11 +524,11 @@ impl Command {
       Self::Index(_) => "index",
       Self::Search(_) => "search",
       Self::AgentContext(_) => "agent-context",
-      Self::Mcp => "mcp",
-      Self::McpSetup => "mcp-setup",
+      Self::Mcp(_) => "mcp",
+      Self::McpSetup(_) => "mcp-setup",
       Self::Evaluate(_) => "evaluate",
       Self::Progress(_) => "progress",
-      Self::Integration => "integration",
+      Self::Integration(_) => "integration",
     }
   }
 }

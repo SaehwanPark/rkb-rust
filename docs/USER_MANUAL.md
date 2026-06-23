@@ -304,6 +304,7 @@ Format indexed search results as citation-preserving context for agent consumers
 ```bash
 cargo run -- agent-context --query "BENE_ID" --limit 5
 cargo run -- agent-context --query "dual eligibility" --json
+cargo run -- agent-context --query "BENE_ID" --hybrid
 ```
 
 The command uses the same artifact path overrides as `search` and succeeds with an
@@ -322,6 +323,53 @@ cargo run -- evaluate --benchmark data/evaluation/benchmark_questions.json --out
 
 The command uses the same artifact path overrides as `search`. Benchmark mode compares
 lexical, hybrid-fallback, and agent-facing metrics, then writes a Markdown report.
+
+---
+
+### `mcp`
+Serve read-only MCP-style tools over line-delimited stdio JSON-RPC.
+
+```bash
+cargo run -- mcp
+cargo run -- mcp status
+cargo run -- mcp start --host 127.0.0.1 --port 9000
+cargo run -- mcp stop
+```
+
+The foreground server exposes `search_datasets`, `search_documents`,
+`search_variables`, `search_chunks`, and `get_agent_context`. Lifecycle commands
+record local lifecycle state in `_workspace/mcp_server_state.json`; the foreground
+stdio path is the verified serving mode.
+
+---
+
+### `mcp-setup`
+Configure local MCP client files.
+
+```bash
+cargo run -- mcp-setup --client claude-code-project --project-path .
+cargo run -- mcp-setup --client codex-project --project-path . --dry-run
+```
+
+Supported clients are `claude-desktop`, `claude-code-project`, `claude-code-user`,
+`antigravity`, and `codex-project`.
+
+---
+
+### `integration`
+Run downstream helper commands over the local metadata and index.
+
+```bash
+cargo run -- integration availability --dataset carrier-ffs
+cargo run -- integration availability --dataset carrier-ffs --year 2020
+cargo run -- integration crosswalk --variables BENE_ID,bene_id
+cargo run -- integration cohort-dictionary --variables BENE_ID,GNDR_CD
+cargo run -- integration format-context --query BENE_ID --format markdown
+cargo run -- integration scan-caveats --files analysis.sas --keywords encounter
+```
+
+These helpers emit JSON except year-specific availability, which emits `true` or
+`false`, and formatted context, which emits the selected prompt/Markdown/XML text.
 
 ---
 
@@ -364,23 +412,18 @@ A JSON-Lines formatted stream of text blocks. Each line is a self-contained sear
 
 ---
 
-## 8. Roadmap (Future Commands)
+## 8. Roadmap
 
-Some commands in RKB are currently in development as placeholders. If you run them, they will output a "not yet implemented" message:
-
-| Command | Status | Intended Action |
-| --- | --- | --- |
-| `mcp` | Planned | Connect RKB as a server tool for AI agents (Model Context Protocol). |
-| `mcp-setup` | Planned | Automatically link RKB to popular desktop AI clients (like Claude Desktop). |
-| `integration` | Planned | Run downstream integration helpers. |
+The listed Rust rewrite commands are implemented. Remaining release work is limited
+to review, compatibility evidence, performance evidence, and packaging decisions.
 
 ---
 
 ## 9. Troubleshooting Guide
 
 ### Issue: "Error: Tool not yet implemented"
-*   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, `agent-context`, `evaluate`, and `progress`.
+*   **Cause**: You are using an older build or an unsupported command spelling.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, `agent-context`, `mcp`, `mcp-setup`, `evaluate`, `progress`, and `integration`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

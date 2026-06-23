@@ -6,6 +6,10 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- CLI subcommand `rkb mcp` for read-only stdio JSON-RPC tool calls, plus deterministic `start`, `status`, and `stop` state tracking.
+- CLI subcommand `rkb mcp-setup` for JSON/TOML MCP client configuration updates with dry-run support.
+- CLI subcommand `rkb integration` with availability, variable crosswalk, cohort dictionary, context formatting, and caveat scanning helpers.
+- Optional deterministic embedding table construction and `--hybrid` search/agent-context reranking flags.
 - CLI subcommand `rkb evaluate` for deterministic variable retrieval usefulness checks and benchmark report generation.
 - CLI subcommand `rkb progress` for deterministic text and JSON summaries over inventory/archive progress JSONL logs.
 - CLI subcommand `rkb agent-context` for deterministic, citation-preserving text and JSON context over lexical search results.
