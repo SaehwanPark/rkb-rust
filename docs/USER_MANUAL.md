@@ -298,6 +298,19 @@ dataset and document metadata files.
 
 ---
 
+### `agent-context`
+Format indexed search results as citation-preserving context for agent consumers.
+
+```bash
+cargo run -- agent-context --query "BENE_ID" --limit 5
+cargo run -- agent-context --query "dual eligibility" --json
+```
+
+The command uses the same artifact path overrides as `search` and succeeds with an
+empty context when the index has no matching records.
+
+---
+
 ## 7. Understanding Your Output Data
 
 ### Schema Checklists
@@ -329,9 +342,11 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 | Command | Status | Intended Action |
 | --- | --- | --- |
-| `agent-context` | Planned | Reformat search results specifically to feed into AI LLMs. |
 | `mcp` | Planned | Connect RKB as a server tool for AI agents (Model Context Protocol). |
 | `mcp-setup` | Planned | Automatically link RKB to popular desktop AI clients (like Claude Desktop). |
+| `evaluate` | Planned | Measure retrieval and citation quality against benchmark questions. |
+| `progress` | Planned | Summarize long-running operation events. |
+| `integration` | Planned | Run downstream integration helpers. |
 
 ---
 
@@ -339,7 +354,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, and `search`.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, and `agent-context`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

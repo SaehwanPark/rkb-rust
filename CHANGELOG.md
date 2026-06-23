@@ -6,6 +6,7 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- CLI subcommand `rkb agent-context` for deterministic, citation-preserving text and JSON context over lexical search results.
 - CLI subcommands `rkb index` and `rkb search` for atomic SQLite FTS5 indexing and deterministic lexical retrieval.
 - Typed retrieval records and citation-bearing text/JSON search results with exact identifier boosts.
 - CLI subcommand integration for `rkb qa` with Python-compatible artifact path options.

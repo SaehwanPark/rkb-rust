@@ -228,6 +228,19 @@ pub struct SearchArgs {
   pub paths: RetrievalPathsArgs,
 }
 
+/// Arguments for the `agent-context` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct AgentContextArgs {
+  #[arg(long)]
+  pub query: String,
+  #[arg(long, default_value_t = crate::config::AgentContextConfig::DEFAULT_LIMIT)]
+  pub limit: usize,
+  #[arg(long)]
+  pub json: bool,
+  #[command(flatten)]
+  pub paths: RetrievalPathsArgs,
+}
+
 impl QaArgs {
   #[must_use]
   pub fn from_config(config: crate::config::QAConfig) -> Self {
@@ -322,7 +335,7 @@ pub enum Command {
   /// Search indexed knowledge-base records.
   Search(SearchArgs),
   /// Return citation-preserving context for agents.
-  AgentContext,
+  AgentContext(AgentContextArgs),
   /// Serve read-only Model Context Protocol tools.
   Mcp,
   /// Configure a local MCP client integration.
@@ -348,7 +361,7 @@ impl Command {
       Self::Qa(_) => "qa",
       Self::Index(_) => "index",
       Self::Search(_) => "search",
-      Self::AgentContext => "agent-context",
+      Self::AgentContext(_) => "agent-context",
       Self::Mcp => "mcp",
       Self::McpSetup => "mcp-setup",
       Self::Evaluate => "evaluate",

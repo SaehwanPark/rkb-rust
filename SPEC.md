@@ -108,6 +108,20 @@ Verification:
   identifier and chunk ranking, citations, query validation, and JSON output.
 - Python retrieval tests, formatting, Clippy, Rust tests, documentation, and fixture checks pass.
 
+### Agent Context Formatting
+
+Status: Verified
+
+Ported agent-oriented context formatting over verified lexical retrieval results, with stable
+citation markers, provenance fields, text output, and JSON output.
+
+Verification:
+
+- CLI subcommand `agent-context` is wired with search-compatible path, query, limit, and JSON options.
+- Focused tests verify deterministic citation markers, empty-result output, JSON shape,
+  command execution, and retrieval validation error propagation.
+- Formatting, Clippy, Rust tests, and documentation pass.
+
 ## Present
 
 No production rewrite slice is active.
@@ -115,4 +129,4 @@ No production rewrite slice is active.
 ## Future
 
 - Evaluate semantic reranking only after lexical parity is verified.
-- Port agent context, MCP serving, evaluation, progress, and integration helpers.
+- Port MCP serving, evaluation, progress, and integration helpers.

@@ -333,12 +333,14 @@ impl Default for AgentContextConfig {
     Self {
       retrieval: RetrievalConfig::default(),
       archive_manifest_path: PathBuf::from("manifests/archive_manifest.csv"),
-      default_limit: 5,
+      default_limit: Self::DEFAULT_LIMIT,
     }
   }
 }
 
 impl AgentContextConfig {
+  pub const DEFAULT_LIMIT: usize = 5;
+
   /// Validates configuration constraints.
   ///
   /// # Errors
