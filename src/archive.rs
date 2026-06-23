@@ -22,6 +22,7 @@
   clippy::map_unwrap_or
 )]
 
+use crate::cli::ARCHIVE_RETRY_COMMAND_EXAMPLE;
 use crate::config::ArchiveConfig;
 use crate::error::AppError;
 use crate::inventory::classify_asset_kind;
@@ -1245,7 +1246,9 @@ pub fn write_archive_workspace_summary(result: &ArchiveResult) -> Result<PathBuf
       lines.extend(vec![
         "## Retry Guidance".to_string(),
         "".to_string(),
-        "Rate-limited or deferred variable-page rows are present. Retry later in bounded batches with `uv run cms-kb-archive --retry-failed-only --max-downloads 50 --request-delay-seconds 5 --rate-limit-cooldown-seconds 300`.".to_string(),
+        format!(
+          "Rate-limited or deferred variable-page rows are present. Retry later in bounded batches with `{ARCHIVE_RETRY_COMMAND_EXAMPLE}`."
+        ),
         "".to_string(),
       ]);
     }

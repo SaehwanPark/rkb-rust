@@ -215,6 +215,11 @@ cargo run -- archive [FLAGS]
 *   `--raw-root <PATH>`: Address of the folder where downloads are saved (Default: `data/raw`).
 *   `--max-downloads <NUMBER>`: Stop downloading after this many files. Helpful to limit bandwidth.
 *   `--retry-failed-only`: If running a second time, skip files that succeeded and only download previously failed files.
+*   `--max-consecutive-rate-limits <NUMBER>`: Defer remaining variable pages after this many consecutive HTTP 429 responses (Default: `5`).
+*   `--rate-limit-cooldown-seconds <SECONDS>`: Additional cooldown after a final HTTP 429 response (Default: `0`).
+*   `--request-delay-seconds <SECONDS>`: Delay between download requests (Default: `0.5`).
+
+**Important:** Flags belong after the subcommand. Use `rkb archive --retry-failed-only`, not `rkb --retry-failed-only`.
 
 ---
 
@@ -420,6 +425,10 @@ to review, compatibility evidence, performance evidence, and packaging decisions
 ---
 
 ## 9. Troubleshooting Guide
+
+### Issue: "unexpected argument" for a known flag
+*   **Cause**: Flags must follow the subcommand. Python used flat scripts such as `cms-kb-archive --retry-failed-only`; Rust requires `rkb archive --retry-failed-only`.
+*   **Solution**: Place flags after the subcommand name. Run `rkb archive --help` or `rkb inventory --help` to see valid options.
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You are using an older build or an unsupported command spelling.

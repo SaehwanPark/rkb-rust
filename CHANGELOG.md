@@ -4,6 +4,18 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ## Unreleased
 
+### Fixed
+
+- Archive workspace retry guidance now shows `rkb archive --retry-failed-only ...`
+  instead of the Python `cms-kb-archive` entry point, preventing top-level clap
+  "unexpected argument" errors when operators copy retry instructions.
+- Expanded `tests/cli_contract.rs` to cover all 14 implemented commands and
+  preservation flag parsing smoke tests.
+
+### Changed
+
+- Added clap help text for CLI flags across all `rkb` subcommands.
+
 ### Added
 
 - CLI subcommand `rkb mcp` for read-only stdio JSON-RPC tool calls, plus deterministic `start`, `status`, and `stop` state tracking.
