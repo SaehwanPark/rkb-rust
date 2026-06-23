@@ -373,12 +373,26 @@ impl Default for VariableEvaluationConfig {
 }
 
 impl VariableEvaluationConfig {
+  pub const DEFAULT_SAMPLE_SIZE: usize = 10;
+  pub const DEFAULT_SEED: u64 = 20_260_616;
+  pub const DEFAULT_LIMIT: usize = 5;
+
   /// Validates configuration constraints.
   ///
   /// # Errors
   ///
   /// Returns `AppError::ConfigValidationError` if validation fails.
   pub fn validate(&self) -> Result<(), AppError> {
+    if self.sample_size == 0 {
+      return Err(AppError::ConfigValidationError(
+        "sample_size must be greater than 0".to_string(),
+      ));
+    }
+    if self.limit == 0 {
+      return Err(AppError::ConfigValidationError(
+        "limit must be greater than 0".to_string(),
+      ));
+    }
     self.retrieval.validate()
   }
 }

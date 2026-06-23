@@ -250,6 +250,40 @@ pub struct ProgressArgs {
   pub json: bool,
 }
 
+/// Arguments for the `evaluate` subcommand.
+#[derive(Args, Clone, Debug, PartialEq)]
+pub struct EvaluateArgs {
+  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SAMPLE_SIZE)]
+  pub sample_size: usize,
+  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_SEED)]
+  pub seed: u64,
+  #[arg(long, default_value_t = crate::config::VariableEvaluationConfig::DEFAULT_LIMIT)]
+  pub limit: usize,
+  #[arg(long)]
+  pub json: bool,
+  #[arg(long, num_args = 0..=1, default_missing_value = "data/evaluation/benchmark_questions.json")]
+  pub benchmark: Option<PathBuf>,
+  #[arg(long, default_value = "_workspace/retrieval_evaluation_report.md")]
+  pub output_report: PathBuf,
+  #[arg(long, default_value = "manifests/archive_manifest.csv")]
+  pub archive_manifest_path: PathBuf,
+  #[command(flatten)]
+  pub paths: RetrievalPathsArgs,
+}
+
+impl EvaluateArgs {
+  #[must_use]
+  pub fn into_config(&self) -> crate::config::VariableEvaluationConfig {
+    crate::config::VariableEvaluationConfig {
+      retrieval: self.paths.clone().into_config(),
+      archive_manifest_path: self.archive_manifest_path.clone(),
+      sample_size: self.sample_size,
+      seed: self.seed,
+      limit: self.limit,
+    }
+  }
+}
+
 impl QaArgs {
   #[must_use]
   pub fn from_config(config: crate::config::QAConfig) -> Self {
@@ -350,7 +384,7 @@ pub enum Command {
   /// Configure a local MCP client integration.
   McpSetup,
   /// Evaluate retrieval quality against benchmark questions.
-  Evaluate,
+  Evaluate(EvaluateArgs),
   /// Summarize progress from long-running operations.
   Progress(ProgressArgs),
   /// Run downstream integration helpers.
@@ -373,7 +407,7 @@ impl Command {
       Self::AgentContext(_) => "agent-context",
       Self::Mcp => "mcp",
       Self::McpSetup => "mcp-setup",
-      Self::Evaluate => "evaluate",
+      Self::Evaluate(_) => "evaluate",
       Self::Progress(_) => "progress",
       Self::Integration => "integration",
     }

@@ -6,8 +6,8 @@ metadata, and expose citation-backed retrieval through one `rkb` executable.
 
 The repository currently contains verified rewrite slices through preservation,
 metadata extraction, parsing, variables, QA, lexical retrieval, agent-context
-formatting, and progress summaries. Remaining integration commands are still
-reserved until their parity slices are implemented.
+formatting, retrieval evaluation, and progress summaries. Remaining MCP, setup,
+and integration commands are still reserved until their parity slices are implemented.
 
 ## Development
 
@@ -25,6 +25,7 @@ Inspect the CLI contract with:
 ```bash
 cargo run -- --help
 cargo run -- agent-context --query BENE_ID
+cargo run -- evaluate --sample-size 5
 cargo run -- progress
 ```
 

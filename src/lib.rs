@@ -8,6 +8,7 @@ pub mod archive;
 pub mod cli;
 pub mod config;
 pub mod error;
+pub mod evaluation;
 pub mod extract;
 pub mod inventory;
 pub mod parse;
@@ -211,6 +212,43 @@ pub fn run(command: Command) -> Result<(), AppError> {
         println!("{}", progress::format_progress_summary_text(&summary));
       }
       Ok(())
+    }
+    Command::Evaluate(args) => {
+      let config = args.into_config();
+      if let Some(benchmark_path) = &args.benchmark {
+        let suite = evaluation::read_benchmark_suite(benchmark_path)?;
+        let report = evaluation::evaluate_benchmark_suite(&config, &suite)?;
+        evaluation::generate_markdown_report(&report, &args.output_report)?;
+        if args.json {
+          println!(
+            "{}",
+            serde_json::to_string_pretty(&report)
+              .map_err(|error| AppError::RetrievalError(error.to_string()))?
+          );
+        } else {
+          println!(
+            "{}",
+            evaluation::format_benchmark_report_text(&report, &args.output_report)
+          );
+        }
+        Ok(())
+      } else {
+        let report = evaluation::evaluate_variable_retrieval(&config)?;
+        if args.json {
+          println!("{}", evaluation::variable_report_to_json(&report)?);
+        } else {
+          println!("{}", evaluation::format_variable_report_text(&report));
+        }
+        if report.passed_count() == report.sample_size {
+          Ok(())
+        } else {
+          Err(AppError::RetrievalError(format!(
+            "variable retrieval evaluation failed: {}/{} passed",
+            report.passed_count(),
+            report.sample_size
+          )))
+        }
+      }
     }
     _ => Err(AppError::CommandUnavailable {
       command: command.name(),

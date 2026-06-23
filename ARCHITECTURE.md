@@ -4,8 +4,9 @@
 
 `rkb-rust` is organized as one library crate and one `rkb` binary. The binary
 owns process concerns; library modules own typed domain transformations, retrieval
-formatting, and thin side-effect adapters for preservation, extraction, parsing,
-variable metadata, provenance QA, lexical retrieval, and progress summaries.
+formatting, evaluation reports, and thin side-effect adapters for preservation,
+extraction, parsing, variable metadata, provenance QA, lexical retrieval, and
+progress summaries.
 
 Last Reviewed: 2026-06-22
 Status: Verified
@@ -26,6 +27,8 @@ CLI parsing -> typed command -> pure domain pipeline -> I/O adapter -> artifact
   filesystem adapters own FTS5 persistence and query execution.
 - `src/agent_context.rs` formats citation-bearing retrieval results without changing
   retrieval ranking, SQLite persistence, or source artifact schemas.
+- `src/evaluation.rs` computes deterministic retrieval usefulness metrics and report
+  output over retrieval and agent-context results without changing index or ranking behavior.
 - `src/progress.rs` writes progress events at preservation edges and summarizes
   existing progress JSONL logs without changing producer behavior.
 - Future modules must preserve the same separation of pure transforms and I/O.
@@ -38,7 +41,7 @@ Status: Verified
 The intended durable flow is:
 
 ```text
-source discovery -> raw archive -> metadata/chunks -> variables -> QA -> SQLite index -> retrieval -> agent context
+source discovery -> raw archive -> metadata/chunks -> variables -> QA -> SQLite index -> retrieval -> agent context/evaluation
                        \-> progress logs -> progress summary
 ```
 
@@ -60,6 +63,8 @@ Status: Verified
 - New dependencies require a concrete slice and a documented reason.
 - The `regex` dependency is limited to variable candidate, year, and alias recognition.
 - Bundled SQLite is used so the rebuildable serving index has consistent FTS5 support.
+- Evaluation benchmark hybrid metrics intentionally fall back to lexical retrieval until
+  semantic reranking is implemented in its own verified slice.
 - Python parity is defined by tests and fixtures, not by translating implementation structure.
 
 Last Reviewed: 2026-06-22

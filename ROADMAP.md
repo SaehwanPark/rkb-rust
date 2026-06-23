@@ -9,7 +9,7 @@ and QA review.
 3. Preservation: inventory discovery, archive downloads, rate limiting, progress logs, and progress summaries. (Complete)
 4. Transformation: metadata extraction (Complete), HTML/PDF/XLSX parsing, and chunking.
 5. Knowledge model: variables, graph seeds, and provenance QA.
-6. Retrieval: SQLite FTS5 index, exact-term behavior, search, and evaluation.
+6. Retrieval: SQLite FTS5 index, exact-term behavior, search, and evaluation. (Complete)
 7. Agent serving: agent context (Complete), MCP, setup, and downstream integration helpers.
 8. Release: compatibility report, performance evidence, and distribution workflow.
 

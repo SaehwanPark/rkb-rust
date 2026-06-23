@@ -311,6 +311,20 @@ empty context when the index has no matching records.
 
 ---
 
+### `evaluate`
+Measure retrieval usefulness with seeded variable-name checks or benchmark questions.
+
+```bash
+cargo run -- evaluate --sample-size 10 --seed 20260616
+cargo run -- evaluate --sample-size 10 --json
+cargo run -- evaluate --benchmark data/evaluation/benchmark_questions.json --output-report _workspace/retrieval_evaluation_report.md
+```
+
+The command uses the same artifact path overrides as `search`. Benchmark mode compares
+lexical, hybrid-fallback, and agent-facing metrics, then writes a Markdown report.
+
+---
+
 ### `progress`
 Summarize inventory and archive progress JSONL logs.
 
@@ -358,7 +372,6 @@ Some commands in RKB are currently in development as placeholders. If you run th
 | --- | --- | --- |
 | `mcp` | Planned | Connect RKB as a server tool for AI agents (Model Context Protocol). |
 | `mcp-setup` | Planned | Automatically link RKB to popular desktop AI clients (like Claude Desktop). |
-| `evaluate` | Planned | Measure retrieval and citation quality against benchmark questions. |
 | `integration` | Planned | Run downstream integration helpers. |
 
 ---
@@ -367,7 +380,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, `agent-context`, and `progress`.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, `agent-context`, `evaluate`, and `progress`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.
