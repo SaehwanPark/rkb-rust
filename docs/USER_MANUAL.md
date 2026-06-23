@@ -311,6 +311,20 @@ empty context when the index has no matching records.
 
 ---
 
+### `progress`
+Summarize inventory and archive progress JSONL logs.
+
+```bash
+cargo run -- progress
+cargo run -- progress --log _workspace/02_inventory_progress.jsonl --log _workspace/03_archive_progress.jsonl
+cargo run -- progress --log _workspace/03_archive_progress.jsonl --json
+```
+
+When no `--log` path is provided, the command reads the default inventory and archive
+progress logs if they exist. Explicit `--log` paths must exist.
+
+---
+
 ## 7. Understanding Your Output Data
 
 ### Schema Checklists
@@ -345,7 +359,6 @@ Some commands in RKB are currently in development as placeholders. If you run th
 | `mcp` | Planned | Connect RKB as a server tool for AI agents (Model Context Protocol). |
 | `mcp-setup` | Planned | Automatically link RKB to popular desktop AI clients (like Claude Desktop). |
 | `evaluate` | Planned | Measure retrieval and citation quality against benchmark questions. |
-| `progress` | Planned | Summarize long-running operation events. |
 | `integration` | Planned | Run downstream integration helpers. |
 
 ---
@@ -354,7 +367,7 @@ Some commands in RKB are currently in development as placeholders. If you run th
 
 ### Issue: "Error: Tool not yet implemented"
 *   **Cause**: You ran a command listed in the [Roadmap](#8-roadmap-future-commands) section that is reserved for future releases.
-*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, and `agent-context`.
+*   **Solution**: Double check your command spelling. Implemented commands are `inventory`, `archive`, `extract`, `parse`, `variables`, `qa`, `index`, `search`, `agent-context`, and `progress`.
 
 ### Issue: Downloads are very slow or pausing
 *   **Cause**: RKB implements polite rate-limiting. It purposely waits `--request-delay-seconds` (default: 0.5s) between downloads so it does not overwhelm the ResDAC website and get your IP address blocked.

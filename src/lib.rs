@@ -193,6 +193,25 @@ pub fn run(command: Command) -> Result<(), AppError> {
       }
       Ok(())
     }
+    Command::Progress(args) => {
+      let explicit = !args.logs.is_empty();
+      let paths = if explicit {
+        args.logs
+      } else {
+        progress::default_progress_log_paths()
+      };
+      let summary = progress::summarize_progress_logs(&paths, explicit)?;
+      if args.json {
+        println!(
+          "{}",
+          serde_json::to_string_pretty(&summary)
+            .map_err(|error| AppError::RecordParseError(error.to_string()))?
+        );
+      } else {
+        println!("{}", progress::format_progress_summary_text(&summary));
+      }
+      Ok(())
+    }
     _ => Err(AppError::CommandUnavailable {
       command: command.name(),
     }),

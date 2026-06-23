@@ -122,6 +122,20 @@ Verification:
   command execution, and retrieval validation error propagation.
 - Formatting, Clippy, Rust tests, and documentation pass.
 
+### Progress Summary
+
+Status: Verified
+
+Ported a deterministic progress-log reader for existing inventory and archive JSONL events,
+with text and JSON CLI summaries over stages, event types, latest event, and latest counts.
+
+Verification:
+
+- CLI subcommand `progress` is wired with repeatable `--log` path options and `--json`.
+- Focused tests verify deterministic text, JSON shape, empty logs, missing logs,
+  malformed JSONL line reporting, and reserved-command coherence.
+- Formatting, Clippy, Rust tests, and documentation pass.
+
 ## Present
 
 No production rewrite slice is active.
@@ -129,4 +143,4 @@ No production rewrite slice is active.
 ## Future
 
 - Evaluate semantic reranking only after lexical parity is verified.
-- Port MCP serving, evaluation, progress, and integration helpers.
+- Port MCP serving, evaluation, and integration helpers.
