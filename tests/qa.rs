@@ -124,13 +124,20 @@ fn failed_archive_state_is_reported() {
   fs::remove_dir_all(root).unwrap();
 }
 
+fn missing_required_files_config(root: &Path) -> QAConfig {
+  QAConfig {
+    datasets_metadata_path: root.join("metadata/datasets.csv"),
+    documents_metadata_path: root.join("metadata/documents.csv"),
+    archive_manifest_path: root.join("manifests/archive_manifest.csv"),
+    workspace_dir: root.join("workspace"),
+    ..QAConfig::default()
+  }
+}
+
 #[test]
 fn missing_required_files_require_redo() {
   let root = test_dir("qa_redo");
-  let config = QAConfig {
-    workspace_dir: root.join("workspace"),
-    ..QAConfig::default()
-  };
+  let config = missing_required_files_config(&root);
   let result = run_qa(&config).unwrap();
   assert_eq!(result.verdict, QaVerdict::Redo);
   assert_eq!(result.error_count(), 3);
@@ -141,10 +148,7 @@ fn missing_required_files_require_redo() {
 #[test]
 fn qa_command_returns_error_for_non_pass_verdict() {
   let root = test_dir("qa_command");
-  let args = QaArgs::from_config(QAConfig {
-    workspace_dir: root.join("workspace"),
-    ..QAConfig::default()
-  });
+  let args = QaArgs::from_config(missing_required_files_config(&root));
   let error = rkb::run(Command::Qa(args)).unwrap_err();
   assert!(
     error
