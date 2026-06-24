@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_44",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "– other \r\n6 - Medicaid – Family Planning only\r\n7 - Medicaid – Alternative Benchmark Equivalent Coverage\r\n8 - Medicaid – Money Follows the Person - CBLTC\r\n9 - Medicaid – unknown restrictions\r\nA - Medicaid – Psychiatric Residential Treatment Facilities Demo\r\nB - Medicaid – Health Opportunity Account\r\nW - Medicaid – HMO plan purchase, Massachusetts Commonwealth\r\nX - Medicaid– Prescription (RX) drug only\r\nY - Dual – RX only (QMB/SLMB only)\r\nZ - Dual – RX only \r\nNull/Missing = No Medicaid coverage",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

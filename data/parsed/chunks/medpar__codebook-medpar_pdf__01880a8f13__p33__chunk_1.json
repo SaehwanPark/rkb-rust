@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p33__chunk_1",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 33,
+  "text": "in all CCW data files (e.g., Medicare claims, MAX claims, and MDS assessment \ndata). \n\nThis number does not change during a beneficiary’s lifetime and each number is used only once. \n\nThe BENE_ID is specific to the CCW and is not applicable to any other identification system or data \nsource. \n\nSHORT NAME: BENE_ID \n\nLONG NAME: BENE_ID \n\nTYPE: CHAR \n\nLENGTH: 15 \n\nSOURCE: CCW (derived) \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

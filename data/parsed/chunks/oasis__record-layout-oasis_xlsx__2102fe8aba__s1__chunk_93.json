@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_93",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Two\r\n03 = Three\r\n04 = Four or more CHAR 2 x x\nM0486_UNOBS_SRGWND (M0486) Unobservable Surgical Wound Does patient have at least one surgical wound that cannot be observed due to nonremovable dressing? 0 = No, 1 = Yes CHAR 1 x x\nM0488_STA_PRB_SWND (M0488) Status of Most Problematic Surgical Wound Status of most problematic (observable) surgical wound. 01 = Fully granulating\r\n02 = Early/partial granulation\r\n03 = Not healing\r\nNA = No observable ulcer/wound CHAR 2 x x\nM0490_WHEN_DYSPNIC (M0490)",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

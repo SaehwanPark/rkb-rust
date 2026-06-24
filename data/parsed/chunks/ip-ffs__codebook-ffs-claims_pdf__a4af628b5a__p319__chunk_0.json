@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p319__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 319,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 301 \n\nPRVDR_ZIP \n\nLABEL: Carrier Line Performing Provider ZIP Code \n\nDESCRIPTION: The ZIP code of the physician/supplier who performed the Part B service for this line item on the \ncarrier claim (non-DMERC). \n\nSHORT NAME: PROVZIP \n\nLONG NAME: PRVDR_ZIP \n\nTYPE: CHAR \n\nLENGTH: 9 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

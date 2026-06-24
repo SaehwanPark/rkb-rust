@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_38",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "From Date (FFS)\n\n 7\n\n CLM_SPAN_THRU_DT\n\n Claim Occurrence Span Through Date (FFS)\n\n Value Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n RLT_VAL_CD_SEQ\n\n Claim Related Value Code Sequence\n\n 5\n\n CLM_VAL_CD\n\n Claim Value Code (FFS)\n\n 6\n\n CLM_VAL_AMT\n\n Claim Value Amount\n\n Demonstrations/Innovations Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

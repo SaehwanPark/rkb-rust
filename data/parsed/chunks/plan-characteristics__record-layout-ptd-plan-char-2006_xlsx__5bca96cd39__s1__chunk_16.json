@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__record-layout-ptd-plan-char-2006_xlsx__5bca96cd39__s1__chunk_16",
+  "source_document": "data/raw/assets/xlsx/5bca96cd39cc16c427cfa140c37b408838ef51df.xlsx",
+  "page": 1,
+  "text": "Pre_ICL_tier_label_Tier_01 - Pre_ICL_tier_label_Tier_08 Label of Pre-ICL Tier 1 - 8 Char 2 Text label selected by the Part D sponsor that describes Tier 1 through Tier 8. 00 No Label\n 01 Formulary Generic\n 02 Formulary Preferred Brand\n 03 Formulary Brand\n 04 Non-Formulary Generic\n 05 Non-Formulary Brand\n 06 Generic\n 07 Preferred Brand\n 08 Brand\n 09 Tier 1\n 10 Tier 2\n 11 Tier 3\n 12 Tier 4\n 13 Tier 5\n 14 Tier 6\n 15 Tier 7\n 16 Tier 8\n 17 Tier 9\n 18 Tier 10\n42-49 Pre_ICL_inpp_1m_COPAY_Tier_01 -",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-ptd-plan-char-2006.xlsx"
+}

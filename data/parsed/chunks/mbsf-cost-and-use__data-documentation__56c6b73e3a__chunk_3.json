@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_3",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Primary Payer Amount \n\n ACUTE_STAYS \n Acute Inpatient Stays \n\n ACUTE_COV_DAYS \n Acute Inpatient Medicare Covered Days \n\n READMISSIONS \n Acute Inpatient Hospital Readmissions \n\n IP_ER_VISITS \n Inpatient Emergency Room Visits \n\n OIP_BENE_PMT \n Other Inpatient Hospital Beneficiary Payments \n\n OIP_MDCR_PMT \n Other Inpatient Hospital Medicare Payments \n\n OIP_PERDIEM_PMT \n Other Inpatient Hospital Pass-thru Per Diem Payments \n\n OIP_PRMRY_PMT \n Other Inpatient Hospital Primary Payer Amount",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p60__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 60,
+  "text": "Q40 Q41 Q41 Q41 Q41 Q41 Q41 Q41 Q41 \n\nare_coord md_medrecs Q17 Q18 Q18 Q18 Q18 Q18 Q18 Q18 Q18 \nmd_testfupˆ Q19 Q20 Q20 Q20 Q20 Q20 Q20 Q20 Q20 \nmd_testasanˆ Q20 Q21 Q21 Q21 Q21 Q21 Q21 Q21 Q21 \nmd_testcomb C C C C C C C C \nmd_talkmeds Q22 Q23 Q23 Q23 Q23 Q23 Q23 Q23 Q23 \nr_md_getmngca Q25 Q26 Q26 Q26 Q26 Q26 Q26 Q26 Q26 \nsp_mdinformd Q31 Q32 Q32 Q32 Q32 Q32 Q32 Q32 Q32 \n\np\n\np\n\np\n\nd\n\nc\n\nc\n\nc\n\nc\n\n2Note that in 2007-2010, the Original Medicare survey covered Original Medicare only and not those",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

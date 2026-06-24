@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts-model-practice-list__data-documentation__ef2a095405__chunk_3",
+  "source_document": "data/raw/html/documentation_page/ef2a0954051ab868decb1ea31e3aa95aea747cde.html",
+  "page": null,
+  "text": "the Practice \n\n ADDRESS_LINE_1 \n Practice's Address (line 1) \n\n ADDRESS_LINE_2 \n Practice's Address (line 2) \n\n CITY \n Practice's City \n\n STATE \n Practice's State (postal abbreviation) \n\n ZIP_CODE \n Practice's Zip Code \n\n INSERT_DATE \n Date the Record was Created \n\n UPDATE_DATE \n Date the Record was Modified \n\n IS_ACTIVE \n Active Practice (Y) or Inactive Practice (N) \n\n FILE_COUNT \n Number of Files Submitted for the Practice",
+  "dataset": "million-hearts-model-practice-list",
+  "url": "https://resdac.org/cms-data/files/million-hearts-model-practice-list/data-documentation"
+}

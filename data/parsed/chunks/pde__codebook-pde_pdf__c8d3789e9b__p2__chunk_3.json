@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p2__chunk_3",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 2,
+  "text": "new valid value to NSTD_FRMT_CD and TIER_ID \n• Added description to TOT_RX_CST_AMT for additional \ndispensing fee reported as part of the vaccine \nadministration fee \n 1.4 \n\nApril 2021 K. Schneider \nD. Happe Migrated codebook to 2020 document template 1.3 \n\nOctober 2019 K. Schneider Clarified definitions for CCW_PHARM_ID, NCPDP_ID and \nNCVRD_PLAN_PD_AMT 1.2 \n\nJanuary 2019 K. Schneider Fixed SAS short and long name for QUANTITY_LIMIT_YN variable 1.1 \n\nMay 2017 C. Alleman \nK. Schneider Initial",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

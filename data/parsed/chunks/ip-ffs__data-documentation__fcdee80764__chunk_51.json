@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_51",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Non-Covered Charge Amount\n\n 15\n\n REV_CNTR_DDCTBL_COINSRNC_CD\n\n Revenue Center Deductible Coinsurance Code\n\n 16\n\n REV_CNTR_NDC_QTY\n\n Revenue Center National Drug Code (NDC) Quantity (FFS)\n\n 17\n\n REV_CNTR_NDC_QTY_QLFR_CD\n\n Revenue Center NDC Quantity Qualifier Code (FFS)\n\n 18\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center Rendering Physician UPIN\n\n 19\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician NPI (FFS)\n\n 20\n\n RNDRNG_PHYSN_SPCLTY_CD\n\n Claim or Revenue Center Rendering Physician Specialty Code\n\n 21",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

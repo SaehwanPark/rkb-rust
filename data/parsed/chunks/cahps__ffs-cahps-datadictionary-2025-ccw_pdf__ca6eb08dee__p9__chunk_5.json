@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p9__chunk_5",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 9,
+  "text": "r_md_disagree REVERSED: How likely to tell doctor you disagree with him or her LIKER \nr_md_change REVERSED: How likely to change doctors if dissatisfied with dr communication LIKER \nr_im_pneum REVERSED: Ever had a pneumonia shot YND \nr_im_flu1last REVERSED: Flu shot last year YND \nr_ghs REVERSED: Rate overall health RTC \nmcahps_id Mcahps identifier \nindiv_wt Final individual weight \nfinal_wt Final contract-level survey weight",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

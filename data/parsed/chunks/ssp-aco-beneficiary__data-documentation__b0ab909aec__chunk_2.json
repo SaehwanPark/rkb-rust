@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_2",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n BENE_ACO_YEAR \n Year of ACO file \n\n BENE_ACO_QTR \n Quarter of ACO file \n\n ACO_NUM \n ACO Identifier \n\n ACO_NAME \n ACO Name \n\n START_DATE \n ACO Agreement Start Date \n\n PRELIM_ASSIGN \n Beneficiary assigned to ACO during Prospective/Preliminary Prospective Assignment \n\n Q1_ASSIGN \n Beneficiary assigned to ACO during Quarter 1 Assignment \n\n Q2_ASSIGN \n Beneficiary assigned to ACO during Quarter 2 Assignment \n\n Q3_ASSIGN \n Beneficiary",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

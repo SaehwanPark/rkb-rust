@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_293",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "indicative of heart failure since the previous OASIS assessment, physician-ordered patient-specific established parameters for treatment were implemented. 0 = Not Checked (No), 1 = Checked (Yes) CHAR 1 x x x\nM1600_UTI M1600 (M0510) Patient Treated For UTI Last 14 Days This field indicates whether the patient has been treated for a urinary tract infection in the past 14 days. 00 = No\r\n01 = Yes\r\nNA = Patient on prophylactic treatment\r\nUK = Unknown CHAR 2 x x x x x x\nM1610_UR_INCONT M1610 (M0520)",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

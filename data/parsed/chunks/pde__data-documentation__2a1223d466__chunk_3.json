@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_3",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "ID \n\n PLAN_PBP_REC_NUM \n Plan Benefit Package ID \n\n CMPND_CD \n Compound Code \n\n DAW_PROD_SLCTN_CD \n Dispense as Written (DAW) Product Selection Code \n\n QTY_DSPNSD_NUM \n Quantity Dispensed \n\n DAYS_SUPLY_NUM \n Days Supply (Part D) \n\n FILL_NUM \n Number of drug fills \n\n DSPNSTCD_STUS_CD \n Dispensing Status Code \n\n DRUG_CVRG_STUS_CD \n Drug Coverage Status Code \n\n ADJSTMT_DLTN_CD \n Adjustment Deletion Code \n\n NSTD_FRMT_CD \n Non-Standard Format Code \n\n PRCNG_EXCPTN_CD \n Pricing Exception Code",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

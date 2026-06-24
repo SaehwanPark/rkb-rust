@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_9",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Code\n\n 43\n\n CLM_PASS_THRU_PER_DIEM_AMT\n\n Claim Pass Thru Per Diem Amount\n\n 44\n\n NCH_BENE_IP_DDCTBL_AMT\n\n NCH Beneficiary Inpatient (or other Part A) Deductible Amount\n\n 45\n\n NCH_BENE_PTA_COINSRNC_LBLTY_AM\n\n NCH Beneficiary Part A Coinsurance Liability Amount\n\n 46\n\n NCH_BENE_BLOOD_DDCTBL_LBLTY_AM\n\n NCH Beneficiary Blood Deductible Liability Amount\n\n 47\n\n NCH_PROFNL_CMPNT_CHRG_AMT\n\n Professional Component Charge Amount\n\n 48\n\n NCH_IP_NCVRD_CHRG_AMT\n\n NCH Inpatient (or other Part A) Non-covered",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

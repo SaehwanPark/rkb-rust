@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_10",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "Claim Diagnosis Code 12 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD13 \n Claim Diagnosis Code 13 (Encounter) \n\n ICD_DGNS_VRSN_CD13 \n Claim Diagnosis Code 13 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n CLM_OBSLT_DT \n Claim Obsolete Date \n\n CLM_BPRVDR_CITY_NAME \n Billing Provider Address - City \n\n CLM_BPRVDR_USPS_STATE_CD \n Billing Provider Address - USPS State Code \n\n CLM_BPRVDR_ADR_ZIP_CD \n Billing Provider Zip Code \n\n CLM_SUBSCR_CITY_NAME \n Medicare",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

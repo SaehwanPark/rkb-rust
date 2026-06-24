@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p43__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 43,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 32 \n\nMDCD_LT_TOTAL_SPEND \n\nLABEL: Medicaid Payment Amount — Long-Term Care \n\nDESCRIPTION: This variable is the total Medicaid payment amount from all long-term care (LT) claims for the \nbeneficiary during the year. Note that this dollar amount may be an undercount if the beneficiary had \nmanaged care claims. \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Long-Term Care Claims File (derived) \n\nVALUES: $ \n\nCOMMENT: CCW calculates",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

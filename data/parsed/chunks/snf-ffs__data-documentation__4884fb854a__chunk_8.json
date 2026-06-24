@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_8",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "CLM_SRC_IP_ADMSN_CD\n\n Claim Source Inpatient Admission Code (FFS)\n\n 41\n\n NCH_PTNT_STUS_IND_CD\n\n NCH Patient Status Indicator Code\n\n 42\n\n NCH_BENE_IP_DDCTBL_AMT\n\n NCH Beneficiary Inpatient (or other Part A) Deductible Amount\n\n 43\n\n NCH_BENE_PTA_COINSRNC_LBLTY_AM\n\n NCH Beneficiary Part A Coinsurance Liability Amount\n\n 44\n\n NCH_BENE_BLOOD_DDCTBL_LBLTY_AM\n\n NCH Beneficiary Blood Deductible Liability Amount\n\n 45\n\n NCH_IP_NCVRD_CHRG_AMT\n\n NCH Inpatient (or other Part A) Non-covered Charge Amount",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

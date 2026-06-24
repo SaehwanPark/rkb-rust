@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_4",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "Medicare Part C Contract Number \n\n CNTRCT_PBP_NUM \n Medicare Part C Plan Benefit Package (PBP) Number \n\n CLM_MDCL_REC \n Claim Medical Record Number (Encounter) \n\n ORG_NPI \n Organization NPI Number (Encounter) \n\n ORG_TXNMY_CD \n Organization Taxonomy Code \n\n CLM_PLACE_OF_SRVC_CD \n Claim Place of Service Code \n\n CLM_RNDRNG_PHYSN_NPI_NUM \n Claim Rendering Physician NPI Number \n\n RFR_PHYSN_NPI \n Claim Referring Physician NPI Number \n\n PRNCPAL_DGNS_CD \n Claim Principal Diagnosis Code (Encounter)",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

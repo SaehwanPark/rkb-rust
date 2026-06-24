@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_30",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "27\n\n IMNZTN_TYPE_CD\n\n Immunization Type Code\n\n 28\n\n PRVDR_FAC_TYPE_CD\n\n Provider Facility Type Code\n\n 29\n\n SRVC_PRVDR_ID\n\n Servicing Provider Identification Number (TAF)\n\n 30\n\n SRVC_PRVDR_NPI\n\n Servicing Provider NPI\n\n 31\n\n SRVC_PRVDR_TXNMY_CD\n\n Servicing Provider Taxonomy Code\n\n 32\n\n SRVC_PRVDR_TYPE_CD\n\n Servicing Provider Type Code\n\n 33\n\n SRVC_PRVDR_SPCLTY_CD\n\n Servicing Provider Specialty Code (TAF)\n\n 34\n\n OPRTG_PRVDR_NPI\n\n Operating Provider NPI\n\n 35\n\n REV_CNTR_CHRG_AMT\n\n Revenue Center",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

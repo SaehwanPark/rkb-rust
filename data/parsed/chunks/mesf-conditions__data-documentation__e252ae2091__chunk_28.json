@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_28",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Data\n\n 141\n\n INTDIS_MEDICAID\n\n Intellectual Disabilities Indicator - Medicaid-Only Data\n\n 142\n\n INTDIS_MEDICARE\n\n Intellectual Disabilities Indicator - Medicare-Only Data\n\n 143\n\n LEADIS_COMBINED\n\n Learning Disabilities Indicator - Combined Data\n\n 144\n\n LEADIS_MEDICAID\n\n Learning Disabilities Indicator - Medicaid-Only Data\n\n 145\n\n LEADIS_MEDICARE\n\n Learning Disabilities Indicator - Medicare-Only Data\n\n 146\n\n LEUKLYMPH_COMBINED\n\n Leukemias and Lymphomas - Combined Medicare & Medicaid Claims",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

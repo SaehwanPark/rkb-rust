@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_268",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "SOC/ROC assessment\r\nNA = No non-epithelialized Stage II pressure ulcers are present at discharge CHAR 2 x x x x x x\nM1308_NBR_PRSULC_STG2 M1308 Number of Pressure Ulcers- Stage II This field indicates the current number of unhealed pressure ulcers at stage II (enter 0 if none). CHAR 2 x x x\nM1308_NBR_STG2_AT_SOC_ROC M1308 Number of Pressure Ulcers- Stage II At SOC ROC This field indicates the current number of unhealed pressure ulcers at stage II that were present on admission\r\n(most recent SOC",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

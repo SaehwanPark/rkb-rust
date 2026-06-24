@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p30__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 30,
+  "text": "B. 2025 MCAHPS Format Tables 30\n\nsa_race: Beneﬁciary Race\n\nSAS Format: $RACEF\n\n2: BLACK\n\n3: OTHER\n\n4: ASIAN\n\n5: HISPANIC\n\n6: NORTH AMER NATV\n\nsa_region: REGION deﬁned using SA_ST_ABBR/SA_FIPS_STATE\n\nSAS Format: RGN\n\n1: NORTHEAST (CT,ME,MA,NH,RI,VT)\n\n2: NORTH MID-ATL (NJ,NY,PR,VI)\n\n3: MID-ATL (DE,DC,MD,PA,VA,WV)\n\n4: SOUTH ATL (AL,FL,GA,KY,MS,NC,SC,TN)\n\n5: EAST MIDWEST (IL,IN,MI,MN,OH,WI)\n\n6: SOUTHWEST (AR,LA,NM,OK,TX)\n\n7: MIDWEST (IA,KS,MO,NE)\n\n8: MOUNTAIN (CO,MT,ND,SD,UT,WY)\n\n9: PACIFIC",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

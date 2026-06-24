@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_13",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n BNFT_TYPE_CD\n\n Benefit Type Code\n\n 15\n\n TOS_CD\n\n Type of Service Code\n\n 16\n\n XIX_SRVC_CTGRY_CD\n\n CMS-64 Form Category of Service for the Paid Claim\n\n 17\n\n XXI_SRVC_CTGRY_CD\n\n CMS-21 Form Category of Service for the Paid Claim\n\n 18\n\n CMS_64_FED_CTGRY_CD\n\n CMS-64 Form Code for Federal Reimbursement\n\n 19\n\n RX_FILL_DT\n\n Prescription Fill Date (TAF)\n\n 20\n\n NDC\n\n National Drug Code\n\n 21\n\n NDC_UOM_CD\n\n NDC Unit of Measure Code\n\n 22\n\n NDC_QTY",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

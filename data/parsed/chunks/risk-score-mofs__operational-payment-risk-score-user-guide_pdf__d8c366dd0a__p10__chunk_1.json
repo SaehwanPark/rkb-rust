@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-mofs__operational-payment-risk-score-user-guide_pdf__d8c366dd0a__p10__chunk_1",
+  "source_document": "data/raw/assets/pdf/d8c366dd0abbcfd26c61b8c4fd0774178fc9ab1b.pdf",
+  "page": 10,
+  "text": "4–9 months (ESRD) X X \nC2 Community Post Graft 10+ months (ESRD) X X \nCF Community Full Dual X X \nCN Community Non-Dual X X \nCP Community Partial Dual X X \nD Dialysis (ESRD) X X \nE New Enrollee X X \nED New Enrollee Dialysis (ESRD) X X \nE1 New Enrollee Post Graft 4–9 months (ESRD) X X \nE2 New Enrollee Post Graft 10+ months (ESRD) X X \nG1 Post Graft 1 month (ESRD) X X \nG2 Post Graft 2–3 months (ESRD) X X \nI Institutional X X \nI1 Institutional Post Graft 4–9 months (ESRD) X X \nI2 Institutional",
+  "dataset": "risk-score-mofs",
+  "url": "https://www2.ccwdata.org/documents/10280/19002246/operational-payment-risk-score-user-guide.pdf"
+}

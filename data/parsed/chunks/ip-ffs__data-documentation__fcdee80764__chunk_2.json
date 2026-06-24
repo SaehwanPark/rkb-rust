@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_2",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Fee-For-Service (FFS) Claims\n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_NEAR_LINE_REC_IDENT_CD\n\n NCH Near Line Record Identification Code (RIC)\n\n 4\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 5\n\n CLM_FROM_DT\n\n Claim From Date (FFS)\n\n 6\n\n CLM_THRU_DT\n\n Claim Through Date (FFS)\n\n 7\n\n NCH_WKLY_PROC_DT\n\n NCH Weekly Claim Processing Date\n\n 8\n\n FI_CLM_PROC_DT\n\n FI Claim Process Date\n\n 9\n\n CLAIM_QUERY_CODE\n\n Claim Query Code\n\n 10",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

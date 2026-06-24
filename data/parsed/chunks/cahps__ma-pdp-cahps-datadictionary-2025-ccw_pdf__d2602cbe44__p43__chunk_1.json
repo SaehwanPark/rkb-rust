@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p43__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 43,
+  "text": "—– —– —– —– —–\nins_medigap —– —– —– —– —– —– —– —–\nins_employer —– —– —– —– —– —– —– —–\nins_veteran —– —– —– —– —– —– —– —–\nins_military —– —– —– —– —– —– —– —–\nins_medicaid —– —– —– —– —– —– —– —–\nins_ma_pdp —– —– —– —– —– —– —– —–\nins_other —– —– —– —– —– —– —– —–\nins_other_txt —– —– —– —– —– —– —– —–\nins_medicare —– —– —– —– —– —– —– —–\nca_illness Q03 Q03 Q03 Q03 Q03 Q03 Q03 Q03\nca_illasaw* Q04 Q04 Q04 Q04 Q04 Q04 Q04 Q04\nca_routine Q05 Q05 Q05 Q05 Q05 Q05 Q05 Q05\nca_rtnasaw* Q06 Q06 Q06 Q06",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p43__chunk_5",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 43,
+  "text": "Q20 Q20 Q20 Q20 \nmd_testasan* Q20 Q21 Q21 Q21 Q21 Q21 Q21 Q21 Q21 \nmd_rxmeds Q21 Q22 Q22 Q22 Q22 Q22 Q22 Q22 Q22 \nmd_talkmeds* Q22 Q23 Q23 Q23 Q23 Q23 Q23 Q23 Q23 \nmd_hhdevice R D \nmd_hhdhelp R D \nmd_hhdtalk D \nmd_morethan1 Q23 Q24 Q24 Q24 Q24 Q24 Q24 Q24 Q24 \n\n1Note that in 2007-2010, the Original Medicare survey covered Original Medicare only and not those with Part D coverage.",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

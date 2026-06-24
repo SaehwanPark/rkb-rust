@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_19",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Core HRSN Safety Indicator \n\n NN_NVGTD_CORE_TRNSPRTN_SW \n Navigated Core HRSN Transportation Indicator \n\n NN_NVGTD_CORE_UTILITIES_SW \n Navigated Core HRSN Utilities Indicator \n\n NN_NVGTD_SPLMTL_DSBLTY_SW \n Navigated Supplemental HRSN Disability Indicator \n\n NN_NVGTD_SPLMTL_EDCTN_SW \n Navigated Supplemental HRSN Education Indicator \n\n NN_NVGTD_SPLMTL_EMPLYMT_SW \n Navigated Supplemental HRSN Employment Indicator \n\n NN_NVGTD_SPLMTL_FMLY_CMNTY_SW \n Navigated Supplemental HRSN Family and Community",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

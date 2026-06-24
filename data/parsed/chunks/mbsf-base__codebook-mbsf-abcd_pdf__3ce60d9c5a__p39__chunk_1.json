@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p39__chunk_1",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 39,
+  "text": "enrollment indicator (January through December). \n\nSHORT NAME: \n HMOIND01 \nHMOIND02 \nHMOIND03 \nHMOIND04 \nHMOIND05 \nHMOIND06 \n HMOIND07 \nHMOIND08 \nHMOIND09 \nHMOIND10 \nHMOIND11 \nHMOIND12 \nLONG NAME: HMO_IND_01 \nHMO_IND_02 \nHMO_IND_03 \nHMO_IND_04 \nHMO_IND_05 \nHMO_IND_06 \n HMO_IND_07 \nHMO_IND_08 \nHMO_IND_09 \nHMO_IND_10 \nHMO_IND_11 \nHMO_IND_12 \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: 0 = Not a member of an HMO (caution: includes beneficiaires who are not",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

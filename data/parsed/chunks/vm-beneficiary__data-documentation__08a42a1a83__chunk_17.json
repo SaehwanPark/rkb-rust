@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_17",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "by practice during hospitalization \n\n COST_HH \n MSPB home health costs \n\n COST_HOSPICE \n MSPB hospice costs \n\n COST_ER_IMAGING \n MSPB imaging costs in an ER setting \n\n COST_IP_TRIGGER \n MSPB inpatient costs incurred during hospitalization \n\n COST_IP_READMIT \n MSPB inpatient costs incurred in a readmission after hospitalization within 30 days of discharge \n\n COST_REHAB_LTCH \n MSPB inpatient rehabilitation or long-term care hospital costs \n\n COST_ER_TESTS \n MSPB lab, pathology, and other test",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

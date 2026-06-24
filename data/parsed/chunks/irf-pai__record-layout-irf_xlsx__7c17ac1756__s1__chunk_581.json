@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_581",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "documents, at the time of admission, how often the patient feels lonely or isolated from those around them. 0 = Never\r\n1 = Rarely\r\n2 = Sometimes\r\n3 = Often \r\n4 = Always \r\n7 = Declines to respond\r\n8 = Unable to answer\n515 SCL_ISLTN_DSCHRG_CD SCL_ISLTN_DSCHRG_CD Social Isolation (Dsch) CHAR 1 This column documents, at the time of discharge, how often the patient feels lonely or isolated from those around them. 0 = Never\r\n1 = Rarely\r\n2 = Sometimes\r\n3 = Often \r\n4 = Always \r\n7 = Declines to",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

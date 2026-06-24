@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_14",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Claim HHA Total Visit Count\n\n 82\n\n CLM_ADMSN_DT\n\n Claim Admission Date (FFS)\n\n 83\n\n DOB_DT\n\n Date of Birth from Claim\n\n 85\n\n BENE_RACE_CD\n\n Beneficiary Race Code (FFS)\n\n 86\n\n BENE_CNTY_CD\n\n County Code from Claim (SSA)\n\n 87\n\n BENE_STATE_CD\n\n Beneficiary Residence (SSA) State Code (FFS)\n\n 88\n\n BENE_MLG_CNTCT_ZIP_CD\n\n Zip Code of Residence from Claim\n\n 89\n\n CLM_MDCL_REC\n\n Claim Medical Record Number (FFS)\n\n 90\n\n CLM_TRTMT_AUTHRZTN_NUM\n\n Claim Treatment Authorization Number\n\n 91",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

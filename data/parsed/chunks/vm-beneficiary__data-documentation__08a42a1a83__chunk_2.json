@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_2",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n PRACTICE_ID \n Unique identifier of practice to which beneficiary is attributed \n\n IN_PATIENT \n Total costs for inpatient hospital facility services \n\n MSPB_EPISODE \n Episode for MSPB measure \n\n SSP_ADM \n Admission for ACO-level All Condition Readmission measure \n\n GENDER \n Gender \n\n DOB \n Birth date \n\n DIED \n Died during 2016 \n\n BENE_RISK_SCORE_PCTL \n Risk percentile rank \n\n MSPB_RISK_SCORE_PCTL \n Risk percentile rank \n\n COPD",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

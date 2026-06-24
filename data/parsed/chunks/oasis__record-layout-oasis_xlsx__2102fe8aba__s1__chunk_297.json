@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_297",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "CHAR 2 x x x x x x\nM1630_OSTOMY M1630 (M0550) Ostomy For Bowel Elimination This field indicates whether the patient has an ostomy for bowel elimination that was related to an inpatient stay\r\nor necessitated a change in medical or treatment regimen. 00 = Patient does not have an ostomy for bowel elimination.\r\n01 = Patient ostomy was not related to an inpatient stay and did not\r\nnecessitate change in medical or treatment regimen.\r\n02 = The ostomy was related to an inpatient stay or did",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

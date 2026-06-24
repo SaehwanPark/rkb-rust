@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p3__chunk_2",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 3,
+  "text": "1.3 \n\nSeptember 2021 K. Schneider \nA. Meyer • Added new field, PRSN_CLM_IND, adjusted definition, and \nvalues for SUBMTG_STATE_CD and CLM_TYPE_CD \n• Added new valid values for XIX_SRVC_CTGRY_CD XXI and \nSRVC_CTGRY_CD \n• Added new valid values related to COVID-19: PGM_TYPE_CD, \nBNFT_TYPE_CD, and TOS_CD \n 1.2 \n\nAugust 2020 K. Schneider • Updated for the 2017–2018 data release \n• Added valid values to IP_SUD_TXNMY_IND, NDC_UOM_CD, \nSUD_TXNMY_IND, TOS_CD, WVR_TYPE_CD, and \nXXI_SRVC_CTGRY_CD \n 1.1",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

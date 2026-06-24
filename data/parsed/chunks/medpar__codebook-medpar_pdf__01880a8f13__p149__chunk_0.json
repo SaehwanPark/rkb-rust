@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p149__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 149,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 133 \n\nLTST_CLM_ACRTN_DT \n\nLABEL: Latest Claim Accretion Date \n\nDESCRIPTION: The date the latest claim record included in the stay was accreted (posted/processed) to the master \nrecord at the CWF host. \n\nSHORT NAME: ACRTNDT \n\nLONG NAME: LTST_CLM_ACRTN_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This field comes from the highest accretion date that is present on the claim records",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

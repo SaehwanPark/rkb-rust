@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_19",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Operating Room Charge Amount ($)\n\n 98\n\n LTHTRPSY_CHRG_AMT\n\n Lithotripsy Charge Amount ($)\n\n 99\n\n CRDLGY_CHRG_AMT \n\n Cardiology Charge Amount ($)\n\n 100\n\n ANSTHSA_CHRG_AMT \n\n Anesthesia Charge Amount ($)\n\n 101\n\n LAB_CHRG_AMT\n\n Laboratory Charge Amount ($)\n\n 102\n\n RDLGY_CHRG_AMT \n\n Radiology Charge Amount (excluding MRI) ($)\n\n 103\n\n MRI_CHRG_AMT \n\n Magnetic Resonance Imaging (MRI) charge amount ($)\n\n 104\n\n OP_SRVC_CHRG_AMT \n\n Outpatient Service Charge Amount ($)\n\n 105\n\n ER_CHRG_AMT \n\n Emergency",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

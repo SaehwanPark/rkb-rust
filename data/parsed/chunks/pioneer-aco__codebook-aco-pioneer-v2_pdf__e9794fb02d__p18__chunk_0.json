@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__codebook-aco-pioneer-v2_pdf__e9794fb02d__p18__chunk_0",
+  "source_document": "data/raw/assets/pdf/e9794fb02d175a1909be3f0dea52965ad4524cdd.pdf",
+  "page": 18,
+  "text": "PCP_FLAG \n\nChronic Conditions Warehouse Virtual Research Data Center \nACO Pioneer V2 Codebook │ May 2025 │ V 1.1 14 \n\nPCP_FLAG \n\nLABEL: Primary Care Practitioner Indicator \n\nDESCRIPTION: An indicator of whether the participating provider was considered a primary care specialist for \npurposes of applying exclusivity rules. \n\nSHORT NAME: PCP_FLAG \n\nLONG NAME: PCP_FLAG \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Participating Provider Pioneer ACO RIF \n\nVALUES: N = non-primary care specialist \n Y =",
+  "dataset": "pioneer-aco",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-aco-pioneer-v2.pdf"
+}

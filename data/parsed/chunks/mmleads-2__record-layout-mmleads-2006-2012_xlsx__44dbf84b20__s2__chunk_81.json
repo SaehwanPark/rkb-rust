@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s2__chunk_81",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 2,
+  "text": "First Ever Occurrence Date date - MM/DD/YYYY\n AUTISM_MEDICAID_EVER Autism Sectrum Disorder - Medicaid Only Claims, First Ever Occurrence Date date - MM/DD/YYYY\n AUTISM_MEDICARE_EVER Autism Sectrum Disorder - Medicare Only Claims, First Ever Occurrence Date date - MM/DD/YYYY\n BRAINJ_COMBINED Traumatic Brain Injury and Nonpsychotic Mental Disorders due to Brain Damage - Combined Medicare Medicaid Claims 0 - Claims and FFS not met\r\n1 - Claims met, not FFS\r\n2 - Claims not met, FFS\r\n3 - Claims met",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

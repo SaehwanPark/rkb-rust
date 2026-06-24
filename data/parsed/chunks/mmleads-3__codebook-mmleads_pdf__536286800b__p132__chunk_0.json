@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p132__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 132,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 121 \n\nRFRNC_YR \n\nLABEL: Reference Year \n\nDESCRIPTION: This variable represents the year of the data file. \n\nTYPE: CHAR \n\nLENGTH: 4 \n\nSOURCE: CCW (derived) \n\nVALUES: 2016 \n\nCOMMENT: Only year possible is 2016. \n ^ Back to TOC ^",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

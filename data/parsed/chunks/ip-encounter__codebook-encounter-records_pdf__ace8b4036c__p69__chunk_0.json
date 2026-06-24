@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p69__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 69,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 59 \n\nCLM_VAL_CD \n\nLABEL: Claim Value Code \n\nDESCRIPTION: The code indicating a monetary condition which was used on an institutional claim. \n\nSHORT NAME: CLM_VAL_CD \n\nLONG NAME: CLM_VAL_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP value code file \nSNF value code file \nHH value code file \nOP value code file \n\nVALUES: This code set is an",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

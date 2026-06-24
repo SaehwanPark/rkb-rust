@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_43",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Services\n\n 28\n\n MDCD_RX_TOTAL_USE\n\n Medicaid Use (Claim Count) — Rx\n\n 29\n\n MDCD_RX_TOTAL_SPEND\n\n Medicaid Payment Amount — Rx\n\n 30\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — Total\n\n 31\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_01\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — January\n\n 32\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_02\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — February\n\n 33\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_03\n\n Medicare PTA/PTB",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

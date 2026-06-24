@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_59",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "communicating some words or finishing\r\nthoughts but is able to if prompted or given time\r\n2=Sometimes understood-ability is limited to making concrete requests\r\n3=Rarely/never understood\r\n^=Blank(skip pattern)\n91 B0800_UNDRST_OTHR_CD B0800_UNDRST_OTHR_CD B0800 Ability to Understand Others Code CHAR 1 The data in this column identifies the resident's ability to understand others. -=Not assessed/no information\r\n0=Understands-clear comprehension\r\n1=Usually understands-misses some part/intent of",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

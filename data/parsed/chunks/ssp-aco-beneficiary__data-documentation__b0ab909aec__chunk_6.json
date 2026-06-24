@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_6",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "Flag \n\n CBA_FLAG \n Claims-Based Assignment Flag \n\n ESRD_SCORE \n CMS-HCC Risk Score for ESRD Status \n\n DIS_SCORE \n CMS-HCC Risk Score for Disabled Status \n\n AGDU_SCORE \n CMS-HCC Risk Score for Aged/Dual Status \n\n AGND_SCORE \n CMS-HCC Risk Score for Aged/Non-dual Status \n\n BENE_RSK_R_SCRE_01 \n Monthly CMS-HCC Risk Score 1 \n\n BENE_RSK_R_SCRE_02 \n Monthly CMS-HCC Risk Score 2 \n\n BENE_RSK_R_SCRE_03 \n Monthly CMS-HCC Risk Score 3 \n\n BENE_RSK_R_SCRE_04 \n Monthly CMS-HCC Risk Score 4",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

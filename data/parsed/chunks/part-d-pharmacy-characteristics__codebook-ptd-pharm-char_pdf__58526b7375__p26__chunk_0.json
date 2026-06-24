@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__codebook-ptd-pharm-char_pdf__58526b7375__p26__chunk_0",
+  "source_document": "data/raw/assets/pdf/58526b73752036ae7547b8f5fa7fc8287000d944.pdf",
+  "page": 26,
+  "text": "Chronic Condition Warehouse \nCODEBOOK: Medicare Part D Pharmacy Characteristics │ April 2021 │ V 1.1 21 \n\nRELATIONSHIP_TYPE \n\nLABEL: Pharmacy Relationship Type \n\nDESCRIPTION: The pharmacy relationship type indicates whether or not the pharmacy has a chain or franchise \nrelationship with another entity. \n\nSHORT NAME: — \n\nLONG NAME: RELATIONSHIP_TYPE \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: NCDPD DataQ™ \n\nVALUES: 01 = Chain: a group of providers operating under a single banner and having common",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-pharm-char.pdf"
+}

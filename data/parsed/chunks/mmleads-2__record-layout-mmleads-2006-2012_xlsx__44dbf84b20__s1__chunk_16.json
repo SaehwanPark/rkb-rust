@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_16",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "- found in EDB and 05 applies\r\n56 - found in EDB and 06 applies\r\n57 - found in EDB and 07 applies \r\n58 - found in EDB and 08 applies\r\n59 - found in EDB and 09 applies\r\n98 - found in EDB and 99 applies\r\n99 - Eligible Medicare Status is unknown\r\nNull/missing = No Medicaid coverage during the month\n E_DUAL_1 - 12 Monthly State Reported Dual Eligibility Status Code: January through December 00 - Not Medicare Enrolled\r\n01 - QMB only\r\n02 - QMB + full Medicaid\r\n03 - SLMB-only\r\n04 - SLMB + full dual",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

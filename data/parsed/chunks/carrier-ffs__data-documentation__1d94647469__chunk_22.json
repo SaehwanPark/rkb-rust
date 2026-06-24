@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_22",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "(FFS) \n\n CARR_LINE_CLIA_LAB_NUM \n Clinical Laboratory Improvement Amendments (CLIA) monitored laboratory number \n\n CARR_LINE_ASNTHSA_UNIT_CNT \n Carrier Line Anesthesia Unit Count \n\n CARR_LINE_CL_CHRG_AMT \n Carrier Line Clinical Lab Charge Amount \n\n PHYSN_ZIP_CD \n Line Place of Service (POS) Physician Zip Code \n\n LINE_POINT_OF_PCKP_ZIP_CD \n Line Point of Pickup Zip Code \n\n LINE_DROP_OFF_ZIP_CD \n Line Drop Off Zip Code \n\n LINE_OTHR_APLD_IND_CD1 \n Line Other Applied Indicator 1st Code",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p8__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 8,
+  "text": "of cost YNA\ncnd_heartattack RECODE : Dr ever said had: heart attack YNA\ncnd_angina RECODE : Dr ever said had: angina or coronary heart disease YNA\ncnd_hbp RECODE : Dr ever said had: hypertension or high blood pressure YNA\ncnd_cancer RECODE : Dr ever said had: cancer, other than skin cancer YNA\ncnd_copd RECODE : Dr ever said had: emphysema, asthma or copd YNA\ncnd_diabetes RECODE : Dr ever said had: diabetes or high blood sugar YNA\nprob_walking RECODE : Do you have serious difﬁculty walking or",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

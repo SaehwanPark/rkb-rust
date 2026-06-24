@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_7",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Claim Diagnosis Code 2 (Encounter) \n\n ICD_DGNS_CD3 \n Claim Diagnosis Code 3 (Encounter) \n\n ICD_DGNS_CD4 \n Claim Diagnosis Code 4 (Encounter) \n\n ICD_DGNS_CD5 \n Claim Diagnosis Code 5 (Encounter) \n\n ICD_DGNS_CD6 \n Claim Diagnosis Code 6 (Encounter) \n\n ICD_DGNS_CD7 \n Claim Diagnosis Code 7 (Encounter) \n\n ICD_DGNS_CD8 \n Claim Diagnosis Code 8 (Encounter) \n\n ICD_DGNS_CD9 \n Claim Diagnosis Code 9 (Encounter) \n\n ICD_DGNS_CD10 \n Claim Diagnosis Code 10 (Encounter) \n\n ICD_DGNS_CD11 \n Claim Diagnosis",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

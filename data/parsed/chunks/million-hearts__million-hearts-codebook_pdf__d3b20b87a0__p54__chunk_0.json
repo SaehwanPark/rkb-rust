@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p54__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 54,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 49 \n\nZIP_CODE \n\nLABEL: Practice's Zip Code \n\nDESCRIPTION: Practice's zip code. \n\nSHORT NAME: ZIP_CODE \n\nLONG NAME: ZIP_CODE \n\nTYPE: CHAR \n\nLENGTH: 20 \n\nFILE(S): Practice \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: — \n\nCOMMENT: This field is the zip code where billing TIN is located. \n\n ^ Back to TOC ^",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

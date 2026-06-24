@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_26",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "123\n\n PRCDR_DT2\n\n Claim Procedure Code 2 Date (Encounter)\n\n 124\n\n PRCDR_DT3\n\n Claim Procedure Code 3 Date (Encounter)\n\n 125\n\n PRCDR_DT4\n\n Claim Procedure Code 4 Date (Encounter)\n\n 126\n\n PRCDR_DT5\n\n Claim Procedure Code 5 Date (Encounter)\n\n 127\n\n PRCDR_DT6\n\n Claim Procedure Code 6 Date (Encounter)\n\n 128\n\n PRCDR_DT7\n\n Claim Procedure Code 7 Date (Encounter)\n\n 129\n\n PRCDR_DT8\n\n Claim Procedure Code 8 Date (Encounter)\n\n 130\n\n PRCDR_DT9\n\n Claim Procedure Code 9 Date (Encounter)\n\n 131\n\n PRCDR_DT10",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

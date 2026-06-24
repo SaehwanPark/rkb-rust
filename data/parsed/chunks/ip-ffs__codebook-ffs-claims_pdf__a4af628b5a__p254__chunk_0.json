@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p254__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 254,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 236 \n\nLTCH_DSCHRG_PYMT_ADJSTMT_AMT \n\nLABEL: LTCH Discharge Payment Adjustment Amount \n\nDESCRIPTION: Identifies the amount of a long-term care hospital discharge payment percentage adjustment that will \nbe applied to the payment rate for failure to maintain the required discharge payment percentage. \n\nSHORT NAME: LTCH_DSCHRG_PYMT_ADJSTMT_AMT \n\nLONG NAME:",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

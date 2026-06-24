@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p319__chunk_1",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 319,
+  "text": "year. \n\nTYPE: CHAR \n\nLENGTH: 15 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: New = no link to a plan in the prior year \n\nRenewal = same plan and contract in reference and prior years (portion of service area may be \ndifferent) \n\nConsolidation = 2 or more plans in the prior year consolidated into a single plan \n\nTermination = plan appeared in prior year, not active in reference year \n\nCOMMENT: The relationship between the contract and plan ID in the reference year compared to the prior year. \nThis",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

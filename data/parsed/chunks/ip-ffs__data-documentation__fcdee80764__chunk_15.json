@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_15",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Amount\n\n 73\n\n ADMTG_DGNS_CD\n\n Claim Admitting Diagnosis Code (FFS)\n\n 74\n\n PRNCPAL_DGNS_CD\n\n Claim Principal Diagnosis Code (FFS)\n\n 75\n\n ICD_DGNS_CD1\n\n Claim Diagnosis Code I (FFS)\n\n 76\n\n CLM_POA_IND_SW1\n\n Claim Diagnosis Code I Diagnosis Present on Admission (POA) Indicator Code (FFS)\n\n 77\n\n ICD_DGNS_CD2\n\n Claim Diagnosis Code II (FFS)\n\n 78\n\n CLM_POA_IND_SW2\n\n Claim Diagnosis Code II Diagnosis Present on Admission (POA) Indicator Code (FFS)\n\n 79\n\n ICD_DGNS_CD3\n\n Claim Diagnosis Code III (FFS)",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

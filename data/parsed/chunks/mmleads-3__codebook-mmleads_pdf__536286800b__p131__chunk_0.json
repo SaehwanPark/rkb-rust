@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p131__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 131,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 120 \n\nPD_MOS \n\nLABEL: Partial Dual Months \n\nDESCRIPTION: This variable is the number of months during the year that the beneficiary was dually eligible for \npartial Medicare-Medicaid benefits \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MBSF (derived) \n\nVALUES: 0–12 or null/missing (if no Medicare enrollment) \n\nCOMMENT: CCW calculates this variable as the count of months where DUAL_STUS_CD_MM in ('01' '03' '05' '06') \nfrom the MBSF. \n ^",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

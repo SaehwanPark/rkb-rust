@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p49__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 49,
+  "text": "Q48 Q48 Q43 Q43 Q33 Q31 Q30 Q30 \npl_ezpaper* Q49 Q49 Q49 Q44 Q44 Q34 Q32 Q31 Q31 \nrate_plan* Q50 Q50 Q50 Q45 Q45 Q35 Q33 Q32 Q32 \npl_remindappt R Q51A Q51A Q51A Q46A \npl_remindflu R Q51B Q51B Q51B Q46B \npl_remindtest R Q51C Q51C Q51C Q46C \npl_lowercopay R \npl_xtrabenefits R \npl_hospovn Q52 Q52 Q52 Q47 \npl_hospfup R Q53 Q53 Q53 Q48 \npl_chgnotice R —– \npl_benedoc R —– \npl_insagtcall —– \npl_insagtvis —– \npl_insagtswtch —– \npp_enoughmds R —– —– —– —– —– \npp_findmd —– —– —– —– —– \npp_findmdphon —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

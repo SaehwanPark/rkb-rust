@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_1",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Codebook - Accountable Health Communities (AHC) Model\nCCW Record Layout - Accountable Health Communities (AHC) Model\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary Identifier",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

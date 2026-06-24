@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_542",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "fluctuates (comes and goes, changes in severity) \r\n- = Not Assessed/No Information\n475 LVL_CNSCSNS_DSCHRG_CD LVL_CNSCSNS_DSCHRG_CD Delirium: Altered level of consciousness (Dsch) CHAR 1 At the time of discharge, did the patient have altered level of consciousness as \r\nindicated by any of the following criteria:\r\n• vigilant - startled easily to any sound or touch\r\n• lethargic - repeatedly dozed off when being asked questions, but responded to voice or \r\ntouch\r\n• stuporous - very difficult to",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

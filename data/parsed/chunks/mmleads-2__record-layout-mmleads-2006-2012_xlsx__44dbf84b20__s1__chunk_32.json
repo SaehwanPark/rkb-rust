@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_32",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "- Part B, State buy-in\r\nC - Parts A and B, State Buy-in\n E_MEDICAREMA_1 - 12 Monthly Medicare Managed Care (Medicare Advantage; MA) Indicator. January through December 0 - Not a member of HMO\r\n1 - Non lock-in, HCFA to process provider claim\r\n2 - Non lock-in, GHO to process in-plan Part A and in-area Part B claims\r\n4 - Fee for service participant in case or disease management demonstration project (effective 2005 forward)\r\nA - Lock-in, HCFA to process provider claims\r\nB- Lock-in, GHO to process",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

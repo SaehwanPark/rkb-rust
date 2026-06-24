@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_23",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Radiology Nuclear Medicine Indicator\n\n 122\n\n RDLGY_CT_SCAN_IND_SW \n\n Radiology Computed Tomographic (CT) Scan Indicator\n\n 123\n\n RDLGY_OTHR_IMGNG_IND_SW\n\n Radiology Other Imaging Indicator\n\n 124\n\n OP_SRVC_IND_CD\n\n Outpatient services/ambulatory surgical care indicator code\n\n 125\n\n ORGN_ACQSTN_IND_CD\n\n Organ Acquisition Type Code\n\n 126\n\n ESRD_COND_CD\n\n End Stage Renal Disease (ESRD) Condition Indicator Code\n\n 127\n\n ESRD_SETG_IND_1_CD\n\n Dialysis service type code 1\n\n 128\n\n ESRD_SETG_IND_2_CD",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

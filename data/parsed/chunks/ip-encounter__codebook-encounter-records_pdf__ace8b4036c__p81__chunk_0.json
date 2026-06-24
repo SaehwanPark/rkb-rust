@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p81__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 81,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 71 \n\nICD_DGNS_E_CD1 \n\nICD_DGNS_E_CD2 \n\nICD_DGNS_E_CD3 \n\nICD_DGNS_E_CD4 \n\nICD_DGNS_E_CD5 \n\nICD_DGNS_E_CD6 \n\nICD_DGNS_E_CD7 \n\nICD_DGNS_E_CD8 \n\nICD_DGNS_E_CD9 \n\nICD_DGNS_E_CD10 \n\nLABEL: Claim Diagnosis E Code 1–10 \n\nDESCRIPTION: The code used to identify an external cause of injury, poisoning, or other adverse effect. The lower the \nnumber in the variable name, the more important the",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

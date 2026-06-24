@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p22__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 22,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 13 \n\nCOUNTY_CD \n\nLABEL: County Code for Beneficiary (SSA Code) \n\nDESCRIPTION: This code specifies the Social Security Administration (SSA) code for the county of identified through \nthe beneficiary mailing address of the beneficiary. \n\nLONG NAME: COUNTY_CD \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: — \n\nCOMMENT: Each state has a",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

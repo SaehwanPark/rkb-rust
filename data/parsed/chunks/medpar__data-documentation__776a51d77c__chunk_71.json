@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_71",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "399\n\n RC_ALLOGENEIC_STEM_CELL_AMT\n\n Revenue Center Allogeneic Stem Cell Acquisition/Donor Services Amount\n\n 400\n\n ISLET_ADD_ON_PYMT_AMT\n\n Islet Add-On Payment Amount\n\n 401\n\n MDCL_SRGCL_GNRL_AMT\n\n Medical/Surgical General Amount ($)\n\n 402\n\n MDCL_SRGCL_NSTRL_AMT \n\n Medical/Surgical Non-Sterile Supplies Amount ($)\n\n 403\n\n MDCL_SRGCL_STRL_AMT\n\n Medical/Surgical Sterile Supplies Amount ($)\n\n 404\n\n TAKE_HOME_AMT \n\n Medical/Surgical Supplies Take Home Amount ($)\n\n 405\n\n PRSTHTC_ORTHTC_AMT",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

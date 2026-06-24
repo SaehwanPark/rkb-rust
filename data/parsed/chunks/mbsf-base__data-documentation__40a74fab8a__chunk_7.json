@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_7",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "MDCR_STATUS_CODE_03 \n Medicare Status Code - March \n\n MDCR_STATUS_CODE_04 \n Medicare Status Code - April \n\n MDCR_STATUS_CODE_05 \n Medicare Status Code - May \n\n MDCR_STATUS_CODE_06 \n Medicare Status Code - June \n\n MDCR_STATUS_CODE_07 \n Medicare Status Code - July \n\n MDCR_STATUS_CODE_08 \n Medicare Status Code - August \n\n MDCR_STATUS_CODE_09 \n Medicare Status Code - September \n\n MDCR_STATUS_CODE_10 \n Medicare Status Code - October \n\n MDCR_STATUS_CODE_11 \n Medicare Status Code - November",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

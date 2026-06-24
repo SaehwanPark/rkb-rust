@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_26",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Indicator - Medicare-Only Data\n\n 131\n\n HYPTEN_COMBINED\n\n Hypertension Indicator - Combined Data\n\n 132\n\n HYPTEN_MEDICAID\n\n Hypertension Indicator - Medicaid-Only Data\n\n 133\n\n HYPTEN_MEDICARE\n\n Hypertension Indicator - Medicare-Only Data\n\n 134\n\n HYPTHY_COMBINED\n\n Acquired Hypothyroidism Indicator - Combined Data\n\n 135\n\n HYPTHY_MEDICAID\n\n Acquired Hypothyroidism Indicator - Medicaid-Only Data\n\n 136\n\n HYPTHY_MEDICARE\n\n Acquired Hypothyroidism Indicator - Medicare-Only Data\n\n 137\n\n IHD_COMBINED",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

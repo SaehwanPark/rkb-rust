@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__chunk_2",
+  "source_document": "data/raw/html/dataset_page/8cb6484ad20a60abb1e2f652756c576cfbf5dba9.html",
+  "page": null,
+  "text": "(FFS) claims, managed care encounters and supplemental payments for Medicaid, Medicaid-expansion CHIP, and separate CHIP.\n\nWhat does this file include? (variable highlights)\nDiagnosis codes\nPresent on Admission indicator\nAdmission date\nCharges and payments\nProvider identifier\nPatient discharge status or destination\nCounts of covered days\nSpecial considerations\nEncounter data reporting may vary by state, year and eligibility group.\nStays may be made up of multiple records.\nLong term care",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt?page=1"
+}

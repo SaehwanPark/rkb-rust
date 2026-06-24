@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-formulary__data-documentation__8d84b1bd65__chunk_6",
+  "source_document": "data/raw/html/documentation_page/8d84b1bd651eeceaa76b852e04b843dc7e2242ad.html",
+  "page": null,
+  "text": "Name \n\n STR \n Drug Strength Description \n\n GCDF \n Dosage Form Code \n\n GCDF_DESC \n Dosage Form Code Description \n\n MESH_CUI \n Coverage Indicator \n\n DISEASE \n Condition \n\nPDSS Model\n\n SAS Name\n Variable Name\n\n CONTRACT_ID \n Part D Contract Identifier \n\n PLAN_ID \n Part D Plan Benefit Package Identifier \n\n SEGMENT_ID \n Market Segment Identifier \n\n FRMLRY_RX_ID \n CCW Formulary Drug Identifier \n\n BN \n Brand Name \n\n GNN \n Generic Name \n\n STR \n Drug Strength Description \n\n GCDF \n Dosage Form Code",
+  "dataset": "part-d-formulary",
+  "url": "https://resdac.org/cms-data/files/part-d-formulary/data-documentation"
+}

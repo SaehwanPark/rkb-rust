@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p52__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 52,
+  "text": "Q89E Q76E Q73E Q62E Q60E Q60E Q57E \nproxy_othr_txt D Q60_O Q60_O Q57_O \nliving_arr D Q58 \nliving_arr_txt D Q58_O \nliving_alone D Q74 Q63 Q61 Q61 \nliving_numinhh Q85 Q85 Q85 Q77 \nlim_bathing Q86A Q86A Q86A Q78A Q75A Q64A Q62A Q62A Q59A \nlim_dressing Q86B Q86B Q86B Q78B Q75B Q64B Q62B Q62B Q59B \nlim_eating Q86C Q86C Q86C Q78C Q75C Q64C Q62C Q62C Q59C \nlim_chairs Q86D Q86D Q86D Q78D Q75D Q64D Q62D Q62D Q59D \nlim_walking Q86E Q86E Q86E Q78E Q75E Q64E Q62E Q62E Q59E \nlim_toilet Q86F Q86F Q86F Q78F",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

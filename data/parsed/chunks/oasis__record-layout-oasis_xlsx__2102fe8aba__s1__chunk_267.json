@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_267",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "M1307 Status Oldest Stg 2 Pressure Ulcer At Discharge This field identifies the status of the oldest unhealed stage II pressure ulcer at the time of discharge, and assesses\r\nthe length of time this ulcer remained unhealed while the patient received care from the agency. 01 = Was present at the most recent SOC/ROC assessment\r\n02 = Developed since the most recent SOC/ROC assessment\r\nNA = No non-epithelialized Stage II pressure ulcers are present at discharge CHAR 2 x x x x x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_32",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (Encounter)\n\n 13\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (Encounter)\n\n 14\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (Encounter)\n\n 15\n\n REV_CNTR_IDE_NDC_UPC_NUM\n\n Revenue Center IDE, NDC, or UPC Number (Encounter)\n\n 16\n\n REV_CNTR_NDC_QTY\n\n Revenue Center National Drug Code (NDC) Quantity (Encounter)\n\n 17\n\n REV_CNTR_NDC_QTY_QLFR_CD\n\n Revenue Center NDC Quantity Qualifier Code (Encounter)\n\n 18\n\n REV_CNTR_RNDRNG_PHYSN_NPI_NUM\n\n Revenue",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

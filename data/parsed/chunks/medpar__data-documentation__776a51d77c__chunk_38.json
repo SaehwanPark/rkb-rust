@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_38",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "210\n\n POA_DGNS_9_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 9\n\n 211\n\n POA_DGNS_10_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 10\n\n 212\n\n POA_DGNS_11_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 11\n\n 213\n\n POA_DGNS_12_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 12\n\n 214\n\n POA_DGNS_13_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 13\n\n 215\n\n POA_DGNS_14_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 14\n\n 216",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_24",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "110\n\n ICD_PRCDR_CD2\n\n Claim Procedure Code 2 (Encounter)\n\n 111\n\n ICD_PRCDR_CD3\n\n Claim Procedure Code 3 (Encounter)\n\n 112\n\n ICD_PRCDR_CD4\n\n Claim Procedure Code 4 (Encounter)\n\n 113\n\n ICD_PRCDR_CD5\n\n Claim Procedure Code 5 (Encounter)\n\n 114\n\n ICD_PRCDR_CD6\n\n Claim Procedure Code 6 (Encounter)\n\n 115\n\n ICD_PRCDR_CD7\n\n Claim Procedure Code 7 (Encounter)\n\n 116\n\n ICD_PRCDR_CD8\n\n Claim Procedure Code 8 (Encounter)\n\n 117\n\n ICD_PRCDR_CD9\n\n Claim Procedure Code 9 (Encounter)\n\n 118\n\n ICD_PRCDR_CD10",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

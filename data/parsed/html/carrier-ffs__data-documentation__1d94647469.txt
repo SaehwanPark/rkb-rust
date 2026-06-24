@@ -1,0 +1,1477 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Original Medicare (Fee-for-Service) Carrier
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - Medicare Fee-For-Service (FFS) Claims
+CCW Record Layout - Medicare Fee-For-Service (FFS) Claims
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+Base Claim File
+
+    
+Line File
+
+    
+Demonstrations/Innovations Code File
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+      
+              
+Base Claim File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      CLM_ID        
+                                                                      Claim ID        
+          
+
+      
+
+                                                                      NCH_NEAR_LINE_REC_IDENT_CD        
+                                                                      NCH Near Line Record Identification Code (RIC)        
+          
+
+      
+
+                                                                      NCH_CLM_TYPE_CD        
+                                                                      NCH Claim Type Code        
+          
+
+      
+
+                                                                      CLM_FROM_DT        
+                                                                      Claim From Date (FFS)        
+          
+
+      
+
+                                                                      CLM_THRU_DT        
+                                                                      Claim Through Date (FFS)        
+          
+
+      
+
+                                                                      NCH_WKLY_PROC_DT        
+                                                                      NCH Weekly Claim Processing Date        
+          
+
+      
+
+                                                                      CARR_CLM_ENTRY_CD        
+                                                                      Carrier Claim Entry Code        
+          
+
+      
+
+                                                                      CLM_DISP_CD        
+                                                                      Claim Disposition Code        
+          
+
+      
+
+                                                                      CARR_NUM        
+                                                                      Carrier or MAC Number        
+          
+
+      
+
+                                                                      CARR_CLM_PMT_DNL_CD        
+                                                                      Carrier Claim Payment Denial Code        
+          
+
+      
+
+                                                                      CLM_PMT_AMT        
+                                                                      Claim (Medicare) Payment Amount        
+          
+
+      
+
+                                                                      NCH_PRMRY_PYR_CLM_PD_AMT        
+                                                                      NCH Primary Payer (if not Medicare) Claim Paid Amount        
+          
+
+      
+
+                                                                      RFR_PHYSN_UPIN        
+                                                                      Carrier/DMERC Claim Referring Physician UPIN Number        
+          
+
+      
+
+                                                                      RFR_PHYSN_NPI        
+                                                                      Claim Referring Physician NPI Number        
+          
+
+      
+
+                                                                      CARR_CLM_PRVDR_ASGNMT_IND_SW        
+                                                                      Carrier Claim Provider Assignment Indicator Switch        
+          
+
+      
+
+                                                                      NCH_CLM_PRVDR_PMT_AMT        
+                                                                      NCH Claim Provider Payment Amount        
+          
+
+      
+
+                                                                      NCH_CLM_BENE_PMT_AMT        
+                                                                      NCH Claim Payment Amount to Beneficiary        
+          
+
+      
+
+                                                                      CLM_BENE_PD_AMT        
+                                                                      Carrier Claim Beneficiary Paid Amount        
+          
+
+      
+
+                                                                      NCH_CARR_CLM_SBMTD_CHRG_AMT        
+                                                                      NCH Carrier Claim Submitted Charge Amount (sum of all line-level submitted charges)        
+          
+
+      
+
+                                                                      NCH_CARR_CLM_ALOWD_AMT        
+                                                                      NCH Carrier Claim Allowed Charge Amount (sum of all line-level allowed charges)        
+          
+
+      
+
+                                                                      CARR_CLM_CASH_DDCTBL_APLD_AMT        
+                                                                      Carrier Claim Cash Deductible Applied Amount (sum of all line-level deductible amounts)        
+          
+
+      
+
+                                                                      CARR_CLM_HCPCS_YR_CD        
+                                                                      Claim Healthcare Common Procedure Coding System (HCPCS) Year Code        
+          
+
+      
+
+                                                                      CARR_CLM_RFRNG_PIN_NUM        
+                                                                      Carrier Claim Referring Provider ID Number (PIN)        
+          
+
+      
+
+                                                                      CPO_PRVDR_NUM        
+                                                                      Care Plan Oversight (CPO) Provider Number        
+          
+
+      
+
+                                                                      CPO_ORG_NPI_NUM        
+                                                                      CPO Organization NPI Number        
+          
+
+      
+
+                                                                      CARR_CLM_BLG_NPI_NUM        
+                                                                      Carrier Claim Billing NPI Number        
+          
+
+      
+
+                                                                      BLG_PRVDR_SPCLTY_CD1        
+                                                                      Claim Billing Provider Secondary Specialty Code 1        
+          
+
+      
+
+                                                                      BLG_PRVDR_SPCLTY_CD2        
+                                                                      Claim Billing Provider Secondary Specialty Code 2        
+          
+
+      
+
+                                                                      BLG_PRVDR_SPCLTY_CD3        
+                                                                      Claim Billing Provider Secondary Specialty Code 3        
+          
+
+      
+
+                                                                      BLG_PRVDR_TXNMY_CD        
+                                                                      Claim Billing Provider Taxonomy Code        
+          
+
+      
+
+                                                                      PRNCPAL_DGNS_CD        
+                                                                      Claim Principal Diagnosis Code (FFS)        
+          
+
+      
+
+                                                                      PRNCPAL_DGNS_VRSN_CD        
+                                                                      Claim Principal Diagnosis Version Code (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD1        
+                                                                      Claim Diagnosis Code I (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD1        
+                                                                      Claim Diagnosis Code I Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD2        
+                                                                      Claim Diagnosis Code II (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD2        
+                                                                      Claim Diagnosis Code II Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD3        
+                                                                      Claim Diagnosis Code III (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD3        
+                                                                      Claim Diagnosis Code III Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD4        
+                                                                      Claim Diagnosis Code IV (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD4        
+                                                                      Claim Diagnosis Code IV Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD5        
+                                                                      Claim Diagnosis Code V (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD5        
+                                                                      Claim Diagnosis Code V Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD6        
+                                                                      Claim Diagnosis Code VI (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD6        
+                                                                      Claim Diagnosis Code VI Diagnosis Version Code (ICD-9/ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD7        
+                                                                      Claim Diagnosis Code VII (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD7        
+                                                                      Claim Diagnosis Code VII Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD8        
+                                                                      Claim Diagnosis Code VIII (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD8        
+                                                                      Claim Diagnosis Code VIII Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD9        
+                                                                      Claim Diagnosis Code IX (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD9        
+                                                                      Claim Diagnosis Code IX Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD10        
+                                                                      Claim Diagnosis Code X (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD10        
+                                                                      Claim Diagnosis Code X Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD11        
+                                                                      Claim Diagnosis Code XI (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD11        
+                                                                      Claim Diagnosis Code XI Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD12        
+                                                                      Claim Diagnosis Code XII (FFS)        
+          
+
+      
+
+                                                                      ICD_DGNS_VRSN_CD12        
+                                                                      Claim Diagnosis Code XII Diagnosis Version Code (ICD-9 or ICD-10) (FFS)        
+          
+
+      
+
+                                                                      CLM_CLNCL_TRIL_NUM        
+                                                                      Clinical Trial Number        
+          
+
+      
+
+                                                                      DOB_DT        
+                                                                      Date of Birth from Claim        
+          
+
+      
+
+                                                                      BENE_RACE_CD        
+                                                                      Beneficiary Race Code (Encounter)        
+          
+
+      
+
+                                                                      BENE_CNTY_CD        
+                                                                      County Code from Claim (SSA)        
+          
+
+      
+
+                                                                      BENE_STATE_CD        
+                                                                      Beneficiary Residence (SSA) State Code (FFS)        
+          
+
+      
+
+                                                                      BENE_MLG_CNTCT_ZIP_CD        
+                                                                      Zip Code of Residence from Claim        
+          
+
+      
+
+                                                                      ACO_ID_NUM        
+                                                                      Claim Accountable Care Organization (ACO) Identification Number        
+          
+
+      
+
+                                                                      CARR_CLM_SOS_NPI_NUM        
+                                                                      Carrier Claim Site of Service NPI Number        
+          
+
+      
+
+                                                                      CLM_BENE_ID_TYPE_CD        
+                                                                      Claim Beneficiary Identifier Type Code        
+          
+
+      
+
+                                                                      CLM_RSDL_PYMT_IND_CD        
+                                                                      Claim Residual Payment Indicator Code        
+          
+
+      
+
+                                                                      PRVDR_VLDTN_TYPE_CD        
+                                                                      Provider Validation Type Code        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Line File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      CLM_ID        
+                                                                      Claim ID        
+          
+
+      
+
+                                                                      CLM_LINE_NUM        
+                                                                      Claim Line Number        
+          
+
+      
+
+                                                                      NCH_CLM_TYPE_CD        
+                                                                      NCH Claim Type Code        
+          
+
+      
+
+                                                                      CLM_THRU_DT        
+                                                                      Claim Through Date (FFS)        
+          
+
+      
+
+                                                                      CARR_PRFRNG_PIN_NUM        
+                                                                      Carrier Line Performing Provider ID Number (PIN)        
+          
+
+      
+
+                                                                      PRF_PHYSN_UPIN        
+                                                                      Carrier Line Performing UPIN Number        
+          
+
+      
+
+                                                                      PRF_PHYSN_NPI        
+                                                                      Carrier Line Performing NPI Number        
+          
+
+      
+
+                                                                      ORG_NPI_NUM        
+                                                                      Organization (or group) NPI Number        
+          
+
+      
+
+                                                                      CARR_LINE_PRVDR_TYPE_CD        
+                                                                      Carrier Line Provider Type Code        
+          
+
+      
+
+                                                                      TAX_NUM        
+                                                                      Line Provider Tax Number        
+          
+
+      
+
+                                                                      PRVDR_STATE_CD        
+                                                                      NCH Provider SSA State Code        
+          
+
+      
+
+                                                                      PRVDR_ZIP        
+                                                                      Carrier Line Performing Provider ZIP Code        
+          
+
+      
+
+                                                                      PRVDR_SPCLTY        
+                                                                      Line CMS Provider Specialty Code        
+          
+
+      
+
+                                                                      RNDRNG_PRVDR_SPCLTY_CD1        
+                                                                      Rendering Provider Secondary Specialty Code 1        
+          
+
+      
+
+                                                                      RNDRNG_PRVDR_SPCLTY_CD2        
+                                                                      Rendering Provider Secondary Specialty Code 2        
+          
+
+      
+
+                                                                      RNDRNG_PRVDR_SPCLTY_CD3        
+                                                                      Rendering Provider Secondary Specialty Code 3        
+          
+
+      
+
+                                                                      RNDRNG_PRVDR_TXNMY_CD        
+                                                                      Rendering Provider Taxonomy Code        
+          
+
+      
+
+                                                                      PRTCPTNG_IND_CD        
+                                                                      Line Provider Participating Indicator Code        
+          
+
+      
+
+                                                                      CARR_LINE_RDCD_PMT_PHYS_ASTN_C        
+                                                                      Carrier Line Reduced Payment Physician Assistant Code        
+          
+
+      
+
+                                                                      LINE_SRVC_CNT        
+                                                                      Line Service Count (FFS)        
+          
+
+      
+
+                                                                      LINE_CMS_TYPE_SRVC_CD        
+                                                                      Line CMS Type Service Code        
+          
+
+      
+
+                                                                      LINE_PLACE_OF_SRVC_CD        
+                                                                      Line Place Of Service Code (FFS)        
+          
+
+      
+
+                                                                      CARR_LINE_PRCNG_LCLTY_CD        
+                                                                      Carrier Line Pricing Locality Code        
+          
+
+      
+
+                                                                      LINE_1ST_EXPNS_DT        
+                                                                      Line First Expense Date (FFS)        
+          
+
+      
+
+                                                                      LINE_LAST_EXPNS_DT        
+                                                                      Line Last Expense Date (FFS)        
+          
+
+      
+
+                                                                      HCPCS_CD        
+                                                                      Healthcare Common Procedure Coding System (HCPCS) Code (FFS)        
+          
+
+      
+
+                                                                      HCPCS_1ST_MDFR_CD        
+                                                                      HCPCS Initial Modifier Code (FFS)        
+          
+
+      
+
+                                                                      HCPCS_2ND_MDFR_CD        
+                                                                      HCPCS Second Modifier Code (FFS)        
+          
+
+      
+
+                                                                      BETOS_CD        
+                                                                      Line Berenson-Eggers Type of Service (BETOS) Code        
+          
+
+      
+
+                                                                      LINE_NCH_PMT_AMT        
+                                                                      Line NCH Medicare Payment Amount        
+          
+
+      
+
+                                                                      LINE_BENE_PMT_AMT        
+                                                                      Line Payment Amount to Beneficiary        
+          
+
+      
+
+                                                                      LINE_PRVDR_PMT_AMT        
+                                                                      Line Provider Payment Amount        
+          
+
+      
+
+                                                                      LINE_BENE_PTB_DDCTBL_AMT        
+                                                                      Line Beneficiary Part B Deductible Amount        
+          
+
+      
+
+                                                                      LINE_BENE_PRMRY_PYR_CD        
+                                                                      Line Primary Payer Code (if not Medicare)        
+          
+
+      
+
+                                                                      LINE_BENE_PRMRY_PYR_PD_AMT        
+                                                                      Line Primary Payer (if not Medicare) Paid Amount        
+          
+
+      
+
+                                                                      LINE_COINSRNC_AMT        
+                                                                      Line Beneficiary Coinsurance Amount        
+          
+
+      
+
+                                                                      LINE_SBMTD_CHRG_AMT        
+                                                                      Line Submitted Charge Amount        
+          
+
+      
+
+                                                                      LINE_ALOWD_CHRG_AMT        
+                                                                      Line Allowed Charge Amount        
+          
+
+      
+
+                                                                      LINE_PRCSG_IND_CD        
+                                                                      Line Processing Indicator Code        
+          
+
+      
+
+                                                                      LINE_PMT_80_100_CD        
+                                                                      Line Payment 80%/100% Code        
+          
+
+      
+
+                                                                      LINE_SERVICE_DEDUCTIBLE        
+                                                                      Line Service Deductible Indicator Switch        
+          
+
+      
+
+                                                                      CARR_LINE_MTUS_CNT        
+                                                                      Carrier Line Miles/Time/Units/Services (MTUS) Count        
+          
+
+      
+
+                                                                      CARR_LINE_MTUS_CD        
+                                                                      Carrier Line Miles/Time/Units/Services (MTUS) Indicator Code        
+          
+
+      
+
+                                                                      LINE_ICD_DGNS_CD        
+                                                                      Line Diagnosis Code        
+          
+
+      
+
+                                                                      LINE_ICD_DGNS_VRSN_CD        
+                                                                      Line Diagnosis Code Diagnosis Version Code (ICD-9 or ICD-10)        
+          
+
+      
+
+                                                                      HPSA_SCRCTY_IND_CD        
+                                                                      Carrier Line Health Professional Shortage Area (HPSA)/Scarcity Indicator Code        
+          
+
+      
+
+                                                                      CARR_LINE_RX_NUM        
+                                                                      Carrier Line RX Number (FFS)        
+          
+
+      
+
+                                                                      LINE_HCT_HGB_RSLT_NUM        
+                                                                      Hematocrit/Hemoglobin Test Results        
+          
+
+      
+
+                                                                      LINE_HCT_HGB_TYPE_CD        
+                                                                      Hematocrit/Hemoglobin Test Type Code        
+          
+
+      
+
+                                                                      LINE_NDC_CD        
+                                                                      Line National Drug Code (NDC) (FFS)        
+          
+
+      
+
+                                                                      CARR_LINE_CLIA_LAB_NUM        
+                                                                      Clinical Laboratory Improvement Amendments (CLIA) monitored laboratory number        
+          
+
+      
+
+                                                                      CARR_LINE_ASNTHSA_UNIT_CNT        
+                                                                      Carrier Line Anesthesia Unit Count        
+          
+
+      
+
+                                                                      CARR_LINE_CL_CHRG_AMT        
+                                                                      Carrier Line Clinical Lab Charge Amount        
+          
+
+      
+
+                                                                      PHYSN_ZIP_CD        
+                                                                      Line Place of Service (POS) Physician Zip Code        
+          
+
+      
+
+                                                                      LINE_POINT_OF_PCKP_ZIP_CD        
+                                                                      Line Point of Pickup Zip Code        
+          
+
+      
+
+                                                                      LINE_DROP_OFF_ZIP_CD        
+                                                                      Line Drop Off Zip Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD1        
+                                                                      Line Other Applied Indicator 1st Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD2        
+                                                                      Line Other Applied Indicator 2nd Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD3        
+                                                                      Line Other Applied Indicator 3rd Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD4        
+                                                                      Line Other Applied Indicator 4th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD5        
+                                                                      Line Other Applied Indicator 5th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD6        
+                                                                      Line Other Applied Indicator 6th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_IND_CD7        
+                                                                      Line Other Applied Indicator 7th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT1        
+                                                                      Line Other Applied Amount for 1st Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT2        
+                                                                      Line Other Applied Amount for 2nd Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT3        
+                                                                      Line Other Applied Amount for 3rd Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT4        
+                                                                      Line Other Applied Amount for 4th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT5        
+                                                                      Line Other Applied Amount for 5th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT6        
+                                                                      Line Other Applied Amount for 6th Code        
+          
+
+      
+
+                                                                      LINE_OTHR_APLD_AMT7        
+                                                                      Line Other Applied Amount for 7th Code        
+          
+
+      
+
+                                                                      THRPY_CAP_IND_CD1        
+                                                                      Therapy cap Indicator 1 Code        
+          
+
+      
+
+                                                                      THRPY_CAP_IND_CD2        
+                                                                      Therapy cap Indicator 2 Code        
+          
+
+      
+
+                                                                      THRPY_CAP_IND_CD3        
+                                                                      Therapy cap Indicator 3 Code        
+          
+
+      
+
+                                                                      THRPY_CAP_IND_CD4        
+                                                                      Therapy cap Indicator 4 Code        
+          
+
+      
+
+                                                                      THRPY_CAP_IND_CD5        
+                                                                      Therapy cap Indicator 5 Code        
+          
+
+      
+
+                                                                      CLM_NEXT_GNRTN_ACO_IND_CD1        
+                                                                      Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP)        
+          
+
+      
+
+                                                                      CLM_NEXT_GNRTN_ACO_IND_CD2        
+                                                                      Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Telehealth        
+          
+
+      
+
+                                                                      CLM_NEXT_GNRTN_ACO_IND_CD3        
+                                                                      Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Post Discharge HH visits        
+          
+
+      
+
+                                                                      CLM_NEXT_GNRTN_ACO_IND_CD4        
+                                                                      Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - 3-day SNF waiver        
+          
+
+      
+
+                                                                      CLM_NEXT_GNRTN_ACO_IND_CD5        
+                                                                      Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Capitation        
+          
+
+      
+
+                                                                      CARR_LINE_MDPP_NPI_NUM        
+                                                                      Carrier Line Medicare Diabetes Prevention Program (MDPP) NPI Number        
+          
+
+      
+
+                                                                      LINE_RSDL_PYMT_IND_CD        
+                                                                      Line Residual Payment Indicator Code        
+          
+
+      
+
+                                                                      LINE_RP_IND_CD        
+                                                                      Line Representative Payee (RP) Indicator Code        
+          
+
+      
+
+                                                                      LINE_PRVDR_VLDTN_TYPE_CD        
+                                                                      Line Provider Validation Type Code        
+          
+
+      
+
+                                                                      LINE_VLNTRY_SRVC_IND_CD        
+                                                                      Line Voluntary Service Indicator Code        
+          
+
+      
+
+                                                                      LINE_ADJUST_GRP_CD        
+                                                                      Line Adjustment Group Code        
+          
+
+      
+
+                                                                      LINE_ADJUST_RSN_CD        
+                                                                      Line Adjustment Reason Code        
+          
+
+      
+
+                                                                      LINE_RA_RMRK_CD        
+                                                                      Line Remittance Advice Remark Code        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Demonstrations/Innovations Code File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      CLM_ID        
+                                                                      Claim ID        
+          
+
+      
+
+                                                                      NCH_CLM_TYPE_CD        
+                                                                      NCH Claim Type Code        
+          
+
+      
+
+                                                                      DEMO_ID_SQNC_NUM        
+                                                                      Demonstration sequence number        
+          
+
+      
+
+                                                                      DEMO_ID_NUM        
+                                                                      Demonstration number        
+          
+
+      
+
+                                                                      DEMO_INFO_TXT        
+                                                                      Demo information text        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

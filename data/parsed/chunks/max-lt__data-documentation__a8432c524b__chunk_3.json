@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-lt__data-documentation__a8432c524b__chunk_3",
+  "source_document": "data/raw/html/documentation_page/a8432c524b85150fc96bbb6683c157ef98a21669.html",
+  "page": null,
+  "text": "RACE_CODE_5 \n Race - Hawaiian/Pac Islands (from MSIS) \n\n ETHNICITY_CODE \n Ethnicity - Hispanic (from MSIS) \n\n EL_SS_ELGBLTY_CD_LTST \n State specific eligibility - most recent \n\n EL_SS_ELGBLTY_CD_MO \n State specific eligibility - mo of svc \n\n EL_MAX_ELGBLTY_CD_LTST \n MAX eligibility - most recent \n\n EL_MAX_ELGBLTY_CD_MO \n MAX eligibility - mo of svc \n\n EL_MDCR_ANN_XOVR_OLD \n Medicare Crossover code (Annual) old values \n\n MSNG_ELG_DATA \n Missing eligibility data \n\n EL_MDCR_XOVR_CLM_BSD_CD",
+  "dataset": "max-lt",
+  "url": "https://resdac.org/cms-data/files/max-lt/data-documentation"
+}

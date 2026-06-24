@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p44__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 44,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 28 \n\nBENE_PRMRY_PYR_CD \n\nLABEL: Primary Payer Responsibility Code \n\nDESCRIPTION: The code indicating the type of payer who has primary responsibility for the payment of the Medicare \nbeneficiary's claims related to the stay (if not Medicare). \n\nSHORT NAME: PRPAY_CD \n\nLONG NAME: BENE_PRMRY_PYR_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: A = Employer group health plan (EGHP) insurance for an",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

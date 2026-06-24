@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_15",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "in Calendar Year\n\n 60\n\n STDNT_HLTH_CARE_PRVDR_TXNMY_IND\n\n Student Health Care Provider Taxonomy Indicator — Ever in Calendar Year\n\n 61\n\n RDLGY_OTHR_TCHNCL_SRVC_TXNMY_IND\n\n Radiologic and Other Technical Services Taxonomy Indicator — Ever in Calendar Year\n\n 62\n\n AGNCY_PRVDR_TXNMY_IND\n\n Agency Provider Taxonomy Indicator — Ever in Calendar Year\n\n 63\n\n AMBLTRY_CLNC_TXNMY_IND\n\n Ambulatory Health Services Clinic Taxonomy Indicator — Ever in Calendar Year\n\n 64\n\n HOSP_UNIT_TXNMY_IND\n\n Hospital Unit",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

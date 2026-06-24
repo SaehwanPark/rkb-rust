@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-prescriber-characteristics__data-documentation__ae59941089__chunk_3",
+  "source_document": "data/raw/html/documentation_page/ae59941089310a85e905460c13cb389f71abb0b5.html",
+  "page": null,
+  "text": "Classification 1 - for Part D Prescribers \n\n OTHER_TAXONOMY_CLASS02 \n Other Taxonomy Classification 2 - for Part D Prescribers \n\n OTHER_TAXONOMY_CLASS03 \n Other Taxonomy Classification 3 - for Part D Prescribers \n\n OTHER_TAXONOMY_CLASS04 \n Other Taxonomy Classification 4 - for Part D Prescribers \n\n PRACTICE_LOC_STATE01 \n Prescriber Practice Location State 1 \n\n PRACTICE_LOC_STATE02 \n Prescriber Practice Location State 2 \n\n PRACTICE_LOC_STATE03 \n Prescriber Practice Location State 3",
+  "dataset": "part-d-prescriber-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-prescriber-characteristics/data-documentation"
+}

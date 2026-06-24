@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p73__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 73,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 55 \n\nCLM_BASE_OPRTG_DRG_AMT \n\nLABEL: Claim Base Operating DRG Amount \n\nDESCRIPTION: The amount of the wage adjusted DRG operating payment plus the technology add-on payment. \n\nSHORT NAME: CLM_BASE_OPRTG_DRG_AMT \n\nLONG NAME: CLM_BASE_OPRTG_DRG_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This variable was new in 2011. \n\nIt is populated only for inpatient",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

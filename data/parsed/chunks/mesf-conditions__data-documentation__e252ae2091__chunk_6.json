@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_6",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "AMI_MEDICARE\n\n Acute Myocardial Infarction Indicator - Medicare-Only\n\n 23\n\n ANEMIA_COMBINED\n\n Anemia Indicator -Combined Data\n\n 24\n\n ANEMIA_MEDICAID\n\n Anemia Indicator - Medicaid-Only Data\n\n 25\n\n ANEMIA_MEDICARE\n\n Anemia Indicator - Medicare-Only Data\n\n 26\n\n ANXI_COMBINED\n\n Anxiety Disorders Indicator - Combined Data\n\n 27\n\n ANXI_MEDICAID\n\n Anxiety Disorders Indicator - Medicaid-Only Data\n\n 28\n\n ANXI_MEDICARE\n\n Anxiety Disorders Indicator - Medicare-Only Data\n\n 29\n\n ASTHMA_COMBINED\n\n Asthma",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

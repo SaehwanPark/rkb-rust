@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_12",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "68\n\n ICD_DGNS_E_CD2\n\n Claim Diagnosis E Code II (FFS)\n\n 69\n\n ICD_DGNS_E_CD3\n\n Claim Diagnosis E Code III (FFS)\n\n 70\n\n ICD_DGNS_E_CD4\n\n Claim Diagnosis E Code IV (FFS)\n\n 71\n\n ICD_DGNS_E_CD5\n\n Claim Diagnosis E Code V (FFS)\n\n 72\n\n ICD_DGNS_E_CD6\n\n Claim Diagnosis E Code VI (FFS)\n\n 73\n\n ICD_DGNS_E_CD7\n\n Claim Diagnosis E Code VII (FFS)\n\n 74\n\n ICD_DGNS_E_CD8\n\n Claim Diagnosis E Code VIII (FFS)\n\n 75\n\n ICD_DGNS_E_CD9\n\n Claim Diagnosis E Code IX (FFS)\n\n 76\n\n ICD_DGNS_E_CD10\n\n Claim Diagnosis E Code X",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

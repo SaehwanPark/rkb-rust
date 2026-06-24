@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s2__chunk_146",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 2,
+  "text": "Prescription Fill Days {0, 1, 2, 3, 4, 5, 6, 7, 8, 9 = 9+} - Medicare Only Claims 0-9 or Missing\n HIVPGM HIV/AIDS Program Participation (Waiver Program) 0 - No\r\n1 - Yes\r\nNull/missing\n HIVSSAPRIM HIV/AIDS SSA Disability Qualifying Primary Diagnosis (identified using disability determination codes) 0 - No Disability determination/no HIV disabilitly \r\n1 - Asymptomatic HIV Infection (0440) \r\n2 - Symptomatic HIV Infection (0430)\r\n3 - HIV Wasting Syndrome (2630)\r\n4 - HIV Encephalopathy (3480)",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p8__chunk_4",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 8,
+  "text": ": Dr ever said had: emphysema, asthma or copd YNA \ncnd_diabetes RECODE : Dr ever said had: diabetes or high blood sugar YNA \nprob_errands RECODE : Do you have difficulty doing errands alone YNA \nim_flu1last RECODE : Had a flu shot since july 1, 2024 YNA \nim_pneum RECODE : Ever had pneumonia shot YNA \nagecat Age category derived from sa_age AGE \neduc RECODE : Highest education level completed EDU \nrace_hisp RECODE : Hispanic or latino origin/descent HSP \nrace_white RECODE : Race: white YNE",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_28",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Claim Outpatient Prospective Payment System (OPPS) Indicator\n\n 168\n\n CLM_CLNCL_TRIL_NUM\n\n Clinical Trial Number\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n CLM_THRU_DT\n\n Claim Through Date (FFS)\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number\n\n 5\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 6\n\n REV_CNTR\n\n Revenue Center Code (FFS)\n\n 7\n\n REV_CNTR_DT\n\n Revenue Center Date\n\n 8\n\n REV_CNTR_1ST_ANSI_CD\n\n Revenue Center 1st ANSI",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

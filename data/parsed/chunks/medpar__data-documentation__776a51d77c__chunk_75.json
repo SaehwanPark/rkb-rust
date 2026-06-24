@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_75",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Radiology Nuclear Medicine Amount ($)\n\n 420\n\n RDLGY_CT_SCAN_AMT \n\n Radiology CT Scan Amount ($)\n\n 421\n\n RDLGY_OTHR_IMGNG_AMT\n\n Radiology Other Imaging Amount ($)\n\n 422\n\n OPRTG_ROOM_AMT \n\n Operating and Recovery Room Amount ($)\n\n 423\n\n OR_LABOR_DLVRY_AMT\n\n Labor Room and Delivery Amount ($)\n\n 424\n\n CRDC_CATHRZTN_AMT \n\n Cardiac Catheterization Lab Amount ($)\n\n 425\n\n CELL_GENE_THRPY_PRCDRS_TOT_AMT\n\n Cell/Gene Therapy Procedures Total Charge Amount\n\n 426\n\n CELL_THRPY_DRUGS_TOT_AMT\n\n Cell Therapy",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

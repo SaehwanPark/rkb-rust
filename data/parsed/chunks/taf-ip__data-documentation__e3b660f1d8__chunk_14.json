@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_14",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Description of DRG Code\n\n 84\n\n MDC_CD\n\n Major Diagnostic Category (MDC) Code\n\n 85\n\n PRCDR_CD_DT_1\n\n Date Procedures 1 Performed\n\n 86\n\n PRCDR_CD_1\n\n Procedure Code 1\n\n 87\n\n PRCDR_CD_SYS_1\n\n Procedure Code 1 System/Nomenclature\n\n 88\n\n PRCDR_CD_DT_2\n\n Date Procedures 2 Performed\n\n 89\n\n PRCDR_CD_2\n\n Procedure Code 2\n\n 90\n\n PRCDR_CD_SYS_2\n\n Procedure Code 2 System/Nomenclature\n\n 91\n\n PRCDR_CD_DT_3\n\n Date Procedures 3 Performed\n\n 92\n\n PRCDR_CD_3\n\n Procedure Code 3\n\n 93\n\n PRCDR_CD_SYS_3\n\n Procedure",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_533",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "cueing (\"a piece of furniture\") \r\n0 = No - could not recall \r\n- = Not Assessed/No Information \r\n^ = Blank\n467 BIMS_SCRE_DSCHRG_CD BIMS_SCRE_DSCHRG_CD BIMS - Summary Score (Dsch) CHAR 2 This column is the patients BIMS summary score at the time of discharge. 00 = Minimum value \r\n15 = Maximum value \r\n99 = Patient was unable to complete the interview \r\n- = Not Assessed/No Information \r\n^ = Blank\n468 MENTL_STUS_CHG_ADMSN_CD MENTL_STUS_CHG_ADMSN_CD Delirium: Acute Onset Mental Status Change (Adm)",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

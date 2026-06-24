@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_22",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Cord Injury End-of-Year Indicator - Medicare Only Claims \n\n SPIINJ_MEDICARE_EVER \n Spinal Cord Injury First Ever Occurrence Date - Medicare Only Claims \n\n TOBA_MEDICARE \n Tobacco Use Disorders End-of-Year Indicator - Medicare Only Claims \n\n TOBA_MEDICARE_EVER \n Tobacco Use Disorders First Ever Occurrence Date - Medicare Only Claims \n\n ULCERS_MEDICARE \n Pressure Ulcers and Chronic Ulcers End-of-Year Indicator - Medicare Only Claims \n\n ULCERS_MEDICARE_EVER \n Pressure Ulcers and Chronic Ulcers",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

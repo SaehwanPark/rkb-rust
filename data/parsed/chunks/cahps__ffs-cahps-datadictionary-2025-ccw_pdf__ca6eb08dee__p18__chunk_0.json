@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p18__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 18,
+  "text": "B. 2025 MCAHPS Format Tables 18 \n\nmd_listen: RECODE : Last 6 mths, how often personal MD listen carefully \n\nSAS Format: OFA \n\n4: ALWAYS \n\nmd_medrecs: RECODE : Last 6 mths, how often MD office have medical records \n\nSAS Format: OFA \n\n1: NEVER \n\n2: SOMETIMES \n\n3: USUALLY \n\n4: ALWAYS \n\nmd_morethan1: RECODE : Last 6 mths, got care from more than one provider \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n\nmd_needmngca: RECODE : Last 6 mths, needed help from personal MD to manage care \n\nSAS Format: YNA \n\n1:",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

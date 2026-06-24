@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_11",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "Representing the Iteration of the File\n\n 62\n\n RX_FIL_DT\n\n RX File Date - Represents the Year and Month of the Reporting Period\n\n 63\n\n CCW_LD_DT\n\n CCW Load Date (Claims)\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 2\n\n MSIS_ID\n\n Encrypted State Assigned Beneficiary Unique Identifier\n\n 3\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 4\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 5\n\n CLM_ID\n\n CCW Claim Identifier\n\n 6\n\n LINE_NUM\n\n Sequential Claim Line Number\n\n 7\n\n CLM_NUM_ORIG",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

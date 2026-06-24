@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p15__chunk_2",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 15,
+  "text": "the patient’s age \n\n007 = The procedure/revenue code is inconsistent with the patient’s sex \n\n008 = The procedure code is inconsistent with the provider type/specialty (taxonomy) \n\n009 = The diagnosis is inconsistent with the patient’s age \n\n010 = The diagnosis is inconsistent with the patient’s sex \n\n011 = The diagnosis is inconsistent with the procedure \n\n012 = The diagnosis is inconsistent with the provider type \n\n013 = The date of death precedes the date of service \n\n014 = The date of birth",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

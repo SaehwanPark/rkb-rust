@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_34",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Claims\n\n 169\n\n OBESITY_MEDICARE\n\n Obesity - Medicare Only Claims\n\n 170\n\n OST_COMBINED\n\n Osteoporosis Indicator - Combined Data\n\n 171\n\n OST_MEDICAID\n\n Osteoporosis Indicator - Medicaid-Only Data\n\n 172\n\n OST_MEDICARE\n\n Osteoporosis Indicator - Medicare-Only Data\n\n 173\n\n OTHDEL_COMBINED\n\n Other Developmental Delays Indicator - Combined Data\n\n 174\n\n OTHDEL_MEDICAID\n\n Other Developmental Delays Indicator - Medicaid-Only Data\n\n 175\n\n OTHDEL_MEDICARE\n\n Other Developmental Delays Indicator -",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

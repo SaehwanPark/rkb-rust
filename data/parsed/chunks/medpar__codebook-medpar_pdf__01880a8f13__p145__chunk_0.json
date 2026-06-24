@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p145__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 145,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 129 \n\nLAB_CHRG_AMT \n\nLABEL: Laboratory Charge Amount ($) \n\nDESCRIPTION: The charge amount (rounded to whole dollars) for laboratory costs related to the beneficiary's stay. \n\nSHORT NAME: LAB_AMT \n\nLONG NAME: LAB_CHRG_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the revenue center total charge amount associated with revenue \ncenter",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

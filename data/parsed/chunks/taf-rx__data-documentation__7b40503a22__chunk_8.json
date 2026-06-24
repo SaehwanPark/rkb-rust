@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_8",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "Amount\n\n 43\n\n MDCD_ALOWD_AMT\n\n Total Medicaid Allowed Amount\n\n 44\n\n MDCD_PD_AMT\n\n Total Amount Paid By Medicaid\n\n 45\n\n MDCD_COPAY_AMT\n\n Total Copay Amount Paid by Beneficiary\n\n 46\n\n MDCR_DDCTBL_PD_AMT\n\n Total Medicare Deductible Amount\n\n 47\n\n MDCR_COINSRNC_PD_AMT\n\n Total Medicare Coinsurance Amount\n\n 48\n\n COINSRNC_AMT\n\n Beneficiary Coinsurance Amount\n\n 49\n\n COPAY_AMT\n\n Beneficiary Copayment Amount\n\n 50\n\n DDCTBL_AMT\n\n Beneficiary Deductible Amount\n\n 51\n\n COPAY_WVD_IND\n\n Indicator Signifying",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

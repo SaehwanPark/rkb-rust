@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__chunk_6",
+  "source_document": "data/raw/html/dataset_page/bc037fe7a91d939c1551aec399d84c3e4d69bc38.html",
+  "page": null,
+  "text": "View Data Documentation\n\n You might also be interested in these files\n\n Master Beneficiary Summary File 27 CCW Chronic Conditions \n\n The 27 CCW Chronic Conditions segment of the Master Beneficiary Summary File (MBSF) flags each Medicare beneficiary for the presence…\n\n Master Beneficiary Summary File Other Chronic or Potentially Disabling Conditions \n\n The Master Beneficiary Summary File (MBSF) Other Chronic or Potentially Disabling Conditions segment flags beneficiary records for the…\n\n Master",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base"
+}

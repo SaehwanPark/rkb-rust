@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_24",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicare — Medicaid Dual Eligibility Code — December\n\n 112\n\n MDCR_BUYIN_12\n\n Medicare — Entitlement/Buy-In Indicator — December\n\n 113\n\n MDCR_FFS_MEDICAL_12\n\n Medicare — Fee-for-Service Medical Coverage Indicator — December\n\n 114\n\n MDCD_STATE_CD_01\n\n Medicaid — State Alpha Abbreviation — January\n\n 115\n\n MDCD_STATE_CD_02\n\n Medicaid — State Alpha Abbreviation — February\n\n 116\n\n MDCD_STATE_CD_03\n\n Medicaid — State Alpha Abbreviation — March\n\n 117\n\n MDCD_STATE_CD_04\n\n Medicaid — State Alpha",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

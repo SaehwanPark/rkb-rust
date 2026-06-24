@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p420__chunk_1",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 420,
+  "text": "Part D benefit), as part of its \nsupplemental Part D benefit. \n\nSHORT NAME: — \n\nLONG NAME: REDUCED_GAP_CS \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: Y = Yes \n N = No \n 9 = Not applicable \n X = Unknown \n\nCOMMENT: This variable is only available 2007–2011. It applies ONLY to the Enhanced Alternative Plans that offer \nreduced cost-sharing (i.e., where variable called REDUCED_COST_SHARE= “Y”). \n\nThe CCW constructs the Plan Characteristics file from information submitted by Part D",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

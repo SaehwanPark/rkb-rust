@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_17",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Occurrence Code File \n\nNumberSAS NameVariable Name\n\n 97\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 98\n\n MSIS_ID\n\n Encrypted State Assigned Beneficiary Unique Identifier\n\n 99\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 100\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 101\n\n CLM_ID\n\n CCW Claim Identifier\n\n 102\n\n OCRNC_CD_SEQ  \n\n Occurrence Code Sequence\n\n 103\n\n OCRNC_CD\n\n Occurrence Code\n\n 104\n\n OCRNC_CD_START_DT\n\n Occurrence Code Start Date\n\n 105\n\n OCRNC_CD_END_DT\n\n Occurrence",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

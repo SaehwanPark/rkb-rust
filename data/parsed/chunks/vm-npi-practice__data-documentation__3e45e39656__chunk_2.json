@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-npi-practice__data-documentation__3e45e39656__chunk_2",
+  "source_document": "data/raw/html/documentation_page/3e45e3965694930db13649f2d6cfc67b29348671.html",
+  "page": null,
+  "text": "KB\n\n SAS Name\n Variable Name\n\n PRACTICE_ID \n Unique Identifier of Practice \n\n PERF_NPI \n NPI \n\n PRVDR_NAME \n Name of Provider \n\n PHYSICIAN \n Physician Eligible Professional \n\n NP_PA_CNS_CRNA \n Nonphysican eligible professional subject to the 2018 Value Modifier \n\n NONPHYS_VM_EXEMPT \n Nonphysician Eligible Professional Not Subject to the 2018 Value Modifier \n\n HCFA_SPECIALTY \n Specialty Designation \n\n LAST_CLM_DATE \n Date of last Medicare Part B claim billed under practice \n\n BILL_UND_PRAC",
+  "dataset": "vm-npi-practice",
+  "url": "https://resdac.org/cms-data/files/vm-npi-practice/data-documentation"
+}

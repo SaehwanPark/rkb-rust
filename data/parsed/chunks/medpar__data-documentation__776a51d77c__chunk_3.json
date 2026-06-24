@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_3",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "BENE_RACE_CD \n\n Race of Beneficiary\n\n 10\n\n BENE_MDCR_STUS_CD \n\n Reason for entitlement to Medicare benefits as of CLM_THRU_DT\n\n 11\n\n BENE_RSDNC_SSA_STATE_CD \n\n SSA standard state code of the beneficiary’s residence\n\n 12\n\n BENE_RSDNC_SSA_CNTY_CD \n\n SSA standard county code of the beneficiary’s residence\n\n 13\n\n BENE_MLG_CNTCT_ZIP_CD \n\n Zip code of the beneficiary’s residence\n\n 14\n\n BENE_DSCHRG_STUS_CD \n\n Code identifying status of patient as of CLM_THRU_DT\n\n 15\n\n FICARR_IDENT_NUM\n\n Fiscal",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

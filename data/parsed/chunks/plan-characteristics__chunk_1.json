@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__chunk_1",
+  "source_document": "data/raw/html/dataset_page/8b7cb3b3ddc436da3e8aba213676753e9c338587.html",
+  "page": null,
+  "text": "Drug Plan information separated into six subfiles.\nThe subfiles are:\nPlan Base\nPremium\nTier\nService Area\nPlan Crosswalk\nSNP Contract\n\nWhat does this file include? (variable highlights)\n\nInitial and gap coverage limits\n\nPlan premium amount\n\nPlan service area description\n\nCrosswalk of current plan ID to previous years\n\nDemonstration type\n\nSpecial needs plan type\n\nLinkage variables to the PDE and to each of the Plan Characteristic File sub-files:\n\nPlan Contract ID, Plan Benefit Package ID (use in",
+  "dataset": "plan-characteristics",
+  "url": "https://resdac.org/cms-data/files/plan-characteristics?page=2"
+}

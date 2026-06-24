@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p298__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 298,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 258 \n\nSSDI_IND_01 \n\nSSDI_IND_02 \n\nSSDI_IND_03 \n\nSSDI_IND_04 \n\nSSDI_IND_05 \n\nSSDI_IND_06 \n\nSSDI_IND_07 \n\nSSDI_IND_08 \n\nSSDI_IND_09 \n\nSSDI_IND_10 \n\nSSDI_IND_11 \n\nSSDI_IND_12 \n\nLABEL: Social Security Disability Insurance (SSDI) Indicator ― January–December (01–12) \n\nDESCRIPTION: A monthly flag indicating if the beneficiary is enrolled in Social Security Disability",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

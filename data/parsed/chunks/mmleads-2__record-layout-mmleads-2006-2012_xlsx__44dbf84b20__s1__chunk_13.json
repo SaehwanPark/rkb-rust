@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_13",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "- 12 Monthly indicator of Medicaid LTSS and/or Medicare LT services. January through December. 0 = no LTC stay during the month\r\n1 = at least one day of the month in LTC setting\n L_LTINST_MOS Months in Long Term Care Setting. Count of months where L_LTINST_IND_M=1 XX\nDual Eligibility E_MAX_DUAL_1 - 12 Monthly code indicating if Medicaid enrollee is covered by Medicare. January through December. 00 - Eligible is not a Medicare Beneficiary\r\n01 - Eligible is entitled to Medicare - QMB only\r\n02 -",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

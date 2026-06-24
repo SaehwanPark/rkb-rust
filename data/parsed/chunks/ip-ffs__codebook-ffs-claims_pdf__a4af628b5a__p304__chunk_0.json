@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p304__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 304,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 286 \n\nPRTCPTNG_IND_CD \n\nLABEL: Line Provider Participating Indicator Code \n\nDESCRIPTION: Code indicating whether or not a provider is participating (accepting assignment) for this line-item \nservice on the non-institutional claim. \n\nSHORT NAME: PRTCPTG \n\nLONG NAME: PRTCPTNG_IND_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: 1 = Participating \n2 = All or some covered and",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

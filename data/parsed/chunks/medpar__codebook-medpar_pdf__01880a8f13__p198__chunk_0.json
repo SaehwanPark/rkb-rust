@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p198__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 198,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 182 \n\nPROD_RPLCMT_LIFECYC_SW \n\nLABEL: Product Replacement within Product Lifecycle (early) \n\nDESCRIPTION: The switch used to identify whether a claim involves the replacement of a product earlier than the \nanticipated lifecycle due to an indication the product is not functioning properly. \n\nSHORT NAME: PROD_RPLCMT_LIFECYC_SW \n\nLONG NAME: PROD_RPLCMT_LIFECYC_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

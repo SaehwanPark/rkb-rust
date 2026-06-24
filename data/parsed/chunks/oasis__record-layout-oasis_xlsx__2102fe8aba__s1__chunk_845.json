@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_845",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "illness, exacerbation or injury.\r\n10. Not attempted due to environmental limitations (e.g., lack of equipment, weather constraints)\r\n88. Not attempted due to medical conditions or safety concerns CHAR 1 x x\nGG0170SS3_WLCHR_150_END_IND GG0170SS3 Mobility: Type of Wheelchair or Scooter Used to Propel 150 Feet at Dis Indicates the type of wheelchair or scooter used to wheel at least 150 feet in a corridor or similar space at discharge. 1. Mamial\r\n2. Motorized CHAR 1 x x\nJ1800_FLS_SINCE_STRT_IND",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_745",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "Short Stay Code CHAR 1 Short-stay assessment. 0 = No \r\n1 = Yes effective 10/01/2019\r\ndiscontinued 9/30/2023\n818 C_STATE_SS_IND C_STATE_SS_IND Recalculated Z0200C CHAR 1\n819 ETHNCTY_NO_HSPNC_CD ETHNCTY_NO_HSPNC_CD A1005A Ethnicity: No, not Hispanic, Latino/a, Spanish CHAR 1 The data in this column indicates if the resident's ethnicity is other than Hispanic, Latino/a, or Spanish origin. -=Not assessed/no information\r\n0=Not checked (No)\r\n1=Checked (Yes) effective 10/01/2023\n820 ETHNCTY_MEXICAN_CD",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

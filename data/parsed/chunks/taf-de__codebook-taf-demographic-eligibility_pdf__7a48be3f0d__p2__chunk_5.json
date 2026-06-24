@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p2__chunk_5",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 2,
+  "text": "and OTH_PLAN_MOS \n 1.3 \n\nOctober 2020 K. Schneider Updated value description for DE_VRSN, added value for \nRSTRCTD_BNFTS_CD_MM, RSTRCTD_BNFTS_CD_LTST, and clarified \ndefinition for VET_IND \n 1.2 \n\nAugust 2020 K. Schneider \n Updated to for the 2017–2018 data release; adjusted field width \nfor AGE_GRP_CD 1.1 \n\nNovember 2019 K. Schneider \nK. Russell Initial release of Codebook TAF Demographic and Eligibility files 1.0",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

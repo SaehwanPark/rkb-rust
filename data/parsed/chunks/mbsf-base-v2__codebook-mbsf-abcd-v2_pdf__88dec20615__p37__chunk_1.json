@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p37__chunk_1",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 37,
+  "text": "whether a beneficiary is entitled to Medicare benefits due to end-stage renal \ndisease (ESRD) in a specific month. \n\nLONG NAME: \nESRD_IND_01 \nESRD_IND_02 \nESRD_IND_03 \nESRD_IND_04 \nESRD_IND_05 \nESRD_IND_06 \n ESRD_IND_07 \nESRD_IND_08 \nESRD_IND_09 \nESRD_IND_10 \nESRD_IND_11 \nESRD_IND_12 \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: N= Not enrolled \nY = the beneficiary has ESRD coverage \n0 = the beneficiary does not have ESRD coverage \n\nCOMMENT: This field is",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

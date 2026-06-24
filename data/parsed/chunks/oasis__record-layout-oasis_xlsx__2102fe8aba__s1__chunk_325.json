@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_325",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "to walk alone on a level surface and/or requires human supervision or assistance to negotiate stairs or steps or uneven surfaces.\r\n03 = Able to walk only with the supervision or assistance of another person at all times.\r\n04 = Chairfast, unable to ambulate but is able to wheel self independently.\r\n05 = Chairfast, unable to ambulate and is unable to wheel self.\r\n06 = Bedfast, unable to ambulate or be up in a chair. CHAR 2 x x x x x x\nM1870_CU_FEEDING M1870 (M0710) Current Feeding This field",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

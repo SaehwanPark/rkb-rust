@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_5",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "of primary care services provided by practice \n\n PCT_PC_SVCS_PRAC \n Percent of beneficiary primary care services billed by practice \n\n LAST_CLM_DATE \n Date of last claim filed by practice \n\n LAST_CLM_DATE_NPI_IN_PRIM \n Date of last claim filed by NPI for beneficiary for primary care \n\n LAST_CLM_DATE_NPI_IN_NON \n Date of last claim filed by NPI for beneficiary for non primary care \n\n LAST_CLM_DATE_NPI_OUT_PRIM \n Date of last claim filed by NPI for beneficiary for primary care outside practice",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

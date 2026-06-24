@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_16",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "(FFS)\n\n 86\n\n ICD_DGNS_CD19\n\n Claim Diagnosis Code XIX (FFS)\n\n 87\n\n ICD_DGNS_CD20\n\n Claim Diagnosis Code XX (FFS)\n\n 88\n\n ICD_DGNS_CD21\n\n Claim Diagnosis Code XXI (FFS)\n\n 89\n\n ICD_DGNS_CD22\n\n Claim Diagnosis Code XXII (FFS)\n\n 90\n\n ICD_DGNS_CD23\n\n Claim Diagnosis Code XXIII (FFS)\n\n 91\n\n ICD_DGNS_CD24\n\n Claim Diagnosis Code XXIV (FFS)\n\n 92\n\n ICD_DGNS_CD25\n\n Claim Diagnosis Code XXV (FFS)\n\n 93\n\n FST_DGNS_E_CD\n\n First Claim Diagnosis E Code (FFS)\n\n 4\n\n ICD_DGNS_E_CD1\n\n Claim Diagnosis E Code I",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

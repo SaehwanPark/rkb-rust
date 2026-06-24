@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_10",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "or ICD-10) (FFS) \n\n ICD_DGNS_CD11 \n Claim Diagnosis Code XI (FFS) \n\n ICD_DGNS_VRSN_CD11 \n Claim Diagnosis Code XI Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD12 \n Claim Diagnosis Code XII (FFS) \n\n ICD_DGNS_VRSN_CD12 \n Claim Diagnosis Code XII Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n RFR_PHYSN_UPIN \n Carrier/DMERC Claim Ordering Physician UPIN Number \n\n RFR_PHYSN_NPI \n Claim Referring Physician NPI Number \n\n CLM_CLNCL_TRIL_NUM \n Clinical Trial Number \n\n DOB_DT \n Date of",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

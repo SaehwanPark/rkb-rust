@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p55__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 55,
+  "text": "Q30\ncs_csrespect* —–\npd_covinfo Q31\npd_getcovinf* Q32\npd_costinfo Q33\npd_getcostinf* Q34\npd_diffrx Q35\npd_rxnocov Q36\npd_askrxcov Q37\npd_appeal\npd_forms\npd_resolve\npd_listen\npd_discourage\npd_nothing\npd_rxcovered\npd_ﬁllrx* R\npd_takemeds* R\npd_ezrxmeds* Q38\npd_rxpharm Q39\npd_ezrxpharm* Q40\npd_rxmail Q41\npd_ezrxmail* Q42\npd_infocov R Q43\nrate_pdp* Q44\npd_recommend R Q45\npd_rxhelp\npd_userxhelp\npd_proofrxhelp\npd_phnorxhelp\nghs R Q46\nmhs R Q47\nlim_modact Q48",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

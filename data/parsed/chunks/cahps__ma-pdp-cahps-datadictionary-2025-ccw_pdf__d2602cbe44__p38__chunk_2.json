@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p38__chunk_2",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 38,
+  "text": "afford it?\nPDP Q14\nFFS Q48\nMA-PD Q53A\nMA-Only Q48A Has a doctor ever told you that you had any of the following conditions?\ncnd_heartattack PDP Q15A A heart attack?\nFFS Q50A\nMA-PD Q53B\nMA-Only Q48B Has a doctor ever told you that you had any of the following conditions?\ncnd_angina PDP Q15B Angina or coronary heart disease?\nFFS Q50B\nMA-PD Q53C\nMA-Only Q48C Has a doctor ever told you that you had any of the following conditions?\ncnd_hbp PDP Q15C Hypertension or high blood pressure?\nFFS Q50C\nMA-PD",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

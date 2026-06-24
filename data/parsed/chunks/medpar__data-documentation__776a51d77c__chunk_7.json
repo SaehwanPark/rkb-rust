@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_7",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Beginning date of beneficiary's qualifying SNF stay\n\n 31\n\n SNF_QUALN_THRU_DT \n\n Ending date of beneficiary's qualifying SNF stay\n\n 32\n\n SRC_IP_ADMSN_CD\n\n Source of admission to an Inpatient facility — for newborn admit is type of delivery code\n\n 33\n\n IP_ADMSN_TYPE_CD\n\n Inpatient admission type code\n\n 34\n\n ADMSN_DAY_CD \n\n Code indicating day of week beneficiary was admitted to facility\n\n 35\n\n ADMSN_DT \n\n Date beneficiary admitted for Inpatient care or date care started\n\n 36\n\n DSCHRG_DT",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

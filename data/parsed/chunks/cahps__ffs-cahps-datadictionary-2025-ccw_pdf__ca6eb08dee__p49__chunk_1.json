@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p49__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 49,
+  "text": "Q37 Q37 Q27 —– \nmd_change R Q39 Q39 Q39 \nmd_disagree R Q40 Q40 Q40 \nmd_leavansr Q41 Q41 Q41 \nmd_result Q42 Q42 Q42 \nsp_informed —– \nsp_cacoord —– \npp_specvis —– —– —– —– —– \npp_specntwk —– —– —– \npp_specrec —– —– \npp_specfar R —– —– \npp_specfew R —– —– \npp_speclist R —– \npl_needcare Q43 Q43 Q43 Q38 Q38 Q28 Q26 Q25 Q25 \npl_getcare* Q44 Q44 Q44 Q39 Q39 Q29 Q27 Q26 Q26 \npl_paperwk Q48 Q48 Q48 Q43 Q43 Q33 Q31 Q30 Q30 \npl_ezpaper* Q49 Q49 Q49 Q44 Q44 Q34 Q32 Q31 Q31 \nrate_plan* Q50 Q50 Q50 Q45 Q45",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

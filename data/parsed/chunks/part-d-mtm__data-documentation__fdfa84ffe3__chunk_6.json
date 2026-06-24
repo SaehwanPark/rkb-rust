@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_6",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "Comprehensive Medication Review (CMR) delivery method \n\n CMR_PROVIDER \n Comprehensive Medication Review (CMR) provider type \n\n CMR_RECIPIENT_INI \n Indicates the recipient of the initial comprehensive medication review (CMR) offer \n\n TARG_MED_REV_NUM \n Number of targeted medication reviews conducted \n\n TMR_PERF_DT \n Date the first targeted medication review (TMR) was performed \n\n PRESCRIBER_INTERV_NUM \n Number of drug therapy problem recommendations to prescribers \n\n DRUG_THER_CHG_NUM \n Number",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p131__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 131,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 115 \n\nINTRAOCULAR_LENS_AMT \n\nLABEL: Medical/Surgical Supplies Intraocular Lens Amount ($) \n\nDESCRIPTION: The charge amount (rounded to whole dollars) for the medical/surgical supplies for an intraocular lens \nrelated to the beneficiary's stay. \n\nSHORT NAME: INTRAOCULAR_LENS_AMT \n\nLONG NAME: INTRAOCULAR_LENS_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

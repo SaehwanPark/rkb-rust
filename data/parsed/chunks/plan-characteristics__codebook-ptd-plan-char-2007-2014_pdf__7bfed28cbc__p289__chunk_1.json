@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p289__chunk_1",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 289,
+  "text": "using a long term care pharmacy (LTCP) during the pre-initial \ncoverage limit (ICL) phase of the Part D benefit. \n\nSHORT NAME: — \n\nLONG NAME: PRE_ICL_DAYS_LTCP_B_OS \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: — \n\nCOMMENT: This variable was populated only in 2013. Plans that may offer a different days supply for generic drugs \non this tier; see the corresponding LTCP generic drug variable called (PRE_ICL_DAYS_LTCP_G_OS). \n\nThe CCW constructs the Plan Characteristics file from",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

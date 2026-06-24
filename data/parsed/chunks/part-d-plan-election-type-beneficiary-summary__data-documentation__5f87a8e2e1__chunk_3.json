@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__data-documentation__5f87a8e2e1__chunk_3",
+  "source_document": "data/raw/html/documentation_page/5f87a8e2e116646c5b2efabbdfcab56530e7beb6.html",
+  "page": null,
+  "text": "Date \n\n DISENRLMNT_DT \n Beneficiary Part D Plan Disenrollment Date \n\n ENRLMT_TYPE_CD \n Beneficiary Part D Plan Enrollment Type Code \n\n CONTRACT_ID \n Part D Contract Number \n\n PLAN_ID \n Part D Plan Benefit Package Identifier \n\n AUDT_SQNC_NUM \n Part D Enrollment Transaction Audit Sequence Number \n\nPart D Beneficiary Auto-Assignment File\n\n SAS Name\n Variable Name\n\n BENE_ID \n CCW Beneficiary ID \n\n REF_YEAR \n Part D Plan Enrollment Year \n\n LIS_MONTHS \n Part D Low Income Subsidy (LIS) Months",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://resdac.org/cms-data/files/part-d-plan-election-type-beneficiary-summary/data-documentation"
+}

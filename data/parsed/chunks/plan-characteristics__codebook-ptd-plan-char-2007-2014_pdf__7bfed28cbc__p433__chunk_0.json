@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p433__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 433,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 420 \n\nSTATE_NAME \n\nLABEL: Part D Segment State Name \n\nDESCRIPTION: Name of state in which the Part D plan benefit package (segment) provides coverage. \n\nSHORT NAME: — \n\nLONG NAME: STATE_NAME \n\nTYPE: CHAR \n\nLENGTH: 24 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: — \n\nCOMMENT: The CCW constructs the Plan Characteristics file from information submitted by Part D plan sponsors \nto CMS’s Health",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_21",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "CMS-21 Form Category of Service for the Paid Claim\n\n 21\n\n CMS_64_FED_CTGRY_CD\n\n CMS-64 Form Code for Federal Reimbursement\n\n 22\n\n REV_CNTR_CD\n\n Revenue Center Code (TAF)\n\n 23\n\n ACTL_SRVC_QTY\n\n Actual Service Quantity\n\n 24\n\n ALOWD_SRVC_QTY\n\n Maximum Allowed Service Quantity\n\n 25\n\n LINE_PRCDR_CD_DT\n\n Date Line Procedure Performed\n\n 26\n\n LINE_PRCDR_CD\n\n Line Procedure Code\n\n 27\n\n LINE_PRCDR_CD_SYS\n\n Line Procedure Code System/Nomenclature\n\n 28\n\n LINE_PRCDR_MDFR_CD_1\n\n Line Procedure Code Modifier",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

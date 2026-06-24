@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_4",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Claim Line Count - Original\n\n 16\n\n CLL_CNT_CALC\n\n Claim Line Count - Calculated\n\n 17\n\n PRSN_CLM_IND\n\n Indicator of a Claim for a Person\n\n 18\n\n SRVC_TRKNG_TYPE_CD\n\n Service Tracking Type Code\n\n 19\n\n FED_SRVC_CTGRY_CD\n\n Federally Assigned Service Category Code Added During TAF Production\n\n 20\n\n BIRTH_DT\n\n Date of Birth\n\n 21\n\n PGM_TYPE_CD\n\n Program Type Code\n\n 22\n\n MC_PLAN_ID\n\n Managed Care Plan Identification Number\n\n 23\n\n WVR_TYPE_CD\n\n Waiver Type Code\n\n 24\n\n WVR_ID\n\n Waiver Identification",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

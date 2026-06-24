@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p165__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 165,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 145 \n\nLINE_PRCDR_CD \n\nLABEL: Line Procedure Code \n\nDESCRIPTION: A field to capture the CPT or HCPCS code that describes a service or good rendered by the provider to \nan enrollee on the specified date of service. \n\nSHORT NAME: LINE_PRCDR_CD \n\nLONG NAME: LINE_PRCDR_CD \n\nTYPE: CHAR \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): OT line \n\nVALUES:",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

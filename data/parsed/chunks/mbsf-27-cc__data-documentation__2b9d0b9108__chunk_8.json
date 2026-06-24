@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_8",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "Date that beneficiary first met claims criteria for the glaucoma indicator \n\n HIP_FRACTURE \n Hip/Pelvic Fracture End-of-Year Indicator \n\n HIP_FRACTURE_MID \n Hip/Pelvic Fracture Mid-Year Indicator \n\n HIP_FRACTURE_EVER \n Date that beneficiary first met claims criteria for the hip/pelvic fracture indicator \n\n ISCHEMICHEART \n Ischemic Heart Disease End-of-Year Indicator \n\n ISCHEMICHEART_MID \n Ischemic Heart Disease Mid-Year Indicator \n\n ISCHEMICHEART_EVER \n Date that beneficiary first met claims",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

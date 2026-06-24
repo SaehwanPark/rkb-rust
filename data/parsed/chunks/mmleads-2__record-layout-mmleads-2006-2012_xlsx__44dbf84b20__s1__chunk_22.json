@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_22",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "applies, then individual is considered FFS for the month 1 - FFS\r\n2 - Long term care\r\n3 - Comprehensive managed care\r\n4 - Primary care case management\r\n5 - Program of all-inclusive care for elderly (PACE)\r\n6 - Dental\r\n7 - Behavioral\r\n8 - Prenatal\r\nNull - Other, or no Medicaid coverage during the month\n E_PTDFFS_1 - 12 Monthly Medicare Part D fee-for-service (FFS) indicator. January through December. 1 - Stand-alone Prescription Drug Plan (PDP)\r\n2 - Employer-direct plan\r\n3- Medicare Advantage -",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

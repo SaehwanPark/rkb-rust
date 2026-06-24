@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__codebook-ptd-plan-election-type-beneficiary-summary-file_pdf__d89f73f952__p12__chunk_1",
+  "source_document": "data/raw/assets/pdf/d89f73f9524b703a2cac0a3ae5eee514c245464b.pdf",
+  "page": 12,
+  "text": "indicates whether the beneficiary made their Part D \nplan self-selection in the current year or the previous year. \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Common Medicare Environment (CME) — derived \n\nFILE(S): Part D Beneficiary Auto-Assignment file \n\nVALUES: C = Part D plan election in the reference year \nP = Part D plan election in the year prior to the reference year \nNull/missing = Beneficiary is not a chooser in the reference year \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-election-type-beneficiary-summary-file.pdf"
+}

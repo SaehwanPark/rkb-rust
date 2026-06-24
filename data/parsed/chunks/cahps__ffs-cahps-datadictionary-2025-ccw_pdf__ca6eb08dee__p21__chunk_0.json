@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p21__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 21,
+  "text": "B. 2025 MCAHPS Format Tables 21 \n\nproxy_answ: RECODE : How helped: Proxy answered questions \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nproxy_othr: RECODE : How helped: Proxy helped other way \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nproxy_read: RECODE : How helped: Proxy read questions \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nproxy_tran: RECODE : How helped: Proxy translated questions \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nproxy_writ: RECODE : How helped:",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

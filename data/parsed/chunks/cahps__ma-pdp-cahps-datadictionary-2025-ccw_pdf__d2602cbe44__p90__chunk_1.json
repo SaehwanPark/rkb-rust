@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p90__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 90,
+  "text": "Q41 Q42 Q42 Q42 Q42 Q42 Q42 Q42\npd_ezrxpharmˆ Q43 Q44 Q44 Q44 Q44 Q44 Q44 Q44\npd_ezrxmailˆ Q45 Q46 Q46 Q46 Q46 Q46 Q46 Q46\npd_mailpharm C C C C C C C\n\npd_cust_svc pd_csgetinfo\npd_csrespect\n\ndr_comm md_explain Q12 Q13 Q13 Q13 Q13 Q13 Q13 Q13\nmd_listen Q13 Q14 Q14 Q14 Q14 Q14 Q14 Q14\nmd_respect Q14 Q15 Q15 Q15 Q15 Q15 Q15 Q15\nmd_sptime Q15 Q16 Q16 Q16 Q16 Q16 Q16 Q16\n\ncare_need sp_getappt Q28 Q29 Q29 Q29 Q29 Q29 Q29 Q29\npl_getcare Q09 Q10 Q10 Q10 Q10 Q10 Q10 Q10\n\ncare_quik ca_illasaw Q04 Q04 Q04",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_9",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Enrolled in CHIP Indicator — Ever in Calendar Year\n\n 39\n\n NOT_SP_AFLTD_IND\n\n Not Affiliated with State Plan Indicator — Ever in Calendar Year\n\n 40\n\n PRVDR_ENRLMT_STUS_ACTV_IND\n\n Medicaid or CHIP Active Enrollment Indicator — Ever in Calendar Year\n\n 41\n\n PRVDR_ENRLMT_STUS_DND_IND\n\n Medicaid or CHIP Enrollment Denied Indicator — Ever in Calendar Year\n\n 42\n\n PRVDR_ENRLMT_STUS_TRMNTD_IND\n\n Medicaid or CHIP Enrollment Terminated Indicator — Ever in Calendar Year\n\n 43\n\n PRVDR_ENRLMT_STUS_PENDG_IND",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p337__chunk_4",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 337,
+  "text": "INACTIVE \n\n125 = Claim/service adjusted due to a \nsubmission/billing error(s) \n\n126 = Deductible — Major Medical \n\n127 = Coinsurance — Major Medical \n\n128 = Newborn's services are covered in \nthe mother's allowance \n\n129 = Claim denied — prior processing \ninformation appears incorrect \n\n130 = Paper claim submission fee \n\n131 = Claim specific negotiated discount. \n\n132 = Prearranged demonstration \nproject adjustment \n\n133 = The disposition of this \nclaim/service is pending further \nreview \n\n134",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

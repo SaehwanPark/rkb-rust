@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-base__operational-payment-risk-score-user-guide_pdf__d8c366dd0a__p22__chunk_1",
+  "source_document": "data/raw/assets/pdf/d8c366dd0abbcfd26c61b8c4fd0774178fc9ab1b.pdf",
+  "page": 22,
+  "text": "System \nESRD End-stage renal disease \nFFS Fee-for-service \nHCC Hierarchical Condition Category \nFIDE SNP Fully Integrated Dual Eligible Special Needs Plan \nHIC Health Insurance Claim number \nICD International Classification of Diseases \nLTI Long-term institutional \nMA Medicare Advantage \nMA-PD Medicare Advantage Prescription Drug \nMBSF Master Beneficiary Summary File \nMedPAC Medicare Payment Advisory Commission \nMOF Model output file \nPACE Program of All-Inclusive Care for the Elderly \nPDE",
+  "dataset": "risk-score-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19002246/operational-payment-risk-score-user-guide.pdf"
+}

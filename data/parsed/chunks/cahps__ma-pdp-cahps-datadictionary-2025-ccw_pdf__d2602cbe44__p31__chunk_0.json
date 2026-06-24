@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p31__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 31,
+  "text": "B. 2025 MCAHPS Format Tables 31\n\nsa_type: MA & PDP Survey Type (1-4)\n\nSAS Format: STP\n\n1: MA ONLY\n\n2: MA PDP\n\n3: PDP\n\n5: FFS\n\nsp_getappt: RECODE : Last 6 mths, how often get appointment with specialist as soon as needed\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\nsp_mdinformd: RECODE : Last 6 mths, how often personal MD up-to-date on care from specialists\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n sp_persmd: RECODE : Personal MD is a specialist\n\nSAS",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,1041 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Value Modifier Beneficiary-Level
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+  
+  
+  
+
+    
+Document
+
+              
+    
+                  
+record-layout-value-modifier-bene-level-rif-perf-year-2016.xlsx25.26 KB
+            
+
+          
+
+
+
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      PRACTICE_ID        
+                                                                      Unique identifier of practice to which beneficiary is attributed        
+          
+
+      
+
+                                                                      IN_PATIENT        
+                                                                      Total costs for inpatient hospital facility services        
+          
+
+      
+
+                                                                      MSPB_EPISODE        
+                                                                      Episode for MSPB measure        
+          
+
+      
+
+                                                                      SSP_ADM        
+                                                                      Admission for ACO-level All Condition Readmission measure        
+          
+
+      
+
+                                                                      GENDER        
+                                                                      Gender        
+          
+
+      
+
+                                                                      DOB        
+                                                                      Birth date        
+          
+
+      
+
+                                                                      DIED        
+                                                                      Died during 2016        
+          
+
+      
+
+                                                                      BENE_RISK_SCORE_PCTL        
+                                                                      Risk percentile rank        
+          
+
+      
+
+                                                                      MSPB_RISK_SCORE_PCTL        
+                                                                      Risk percentile rank        
+          
+
+      
+
+                                                                      COPD        
+                                                                      Chronic condition flag for COPD        
+          
+
+      
+
+                                                                      IHD        
+                                                                      Chronic condition flag for CAD        
+          
+
+      
+
+                                                                      DIA        
+                                                                      Chronic condition flag for diabetes        
+          
+
+      
+
+                                                                      CHF        
+                                                                      Chronic condition flag for heart failure        
+          
+
+      
+
+                                                                      ACSC_ADM_COPD        
+                                                                      ACSC admission for COPD or Asthma        
+          
+
+      
+
+                                                                      ACSC_ADM_DIA        
+                                                                      ACSC admission for diabetes        
+          
+
+      
+
+                                                                      ACSC_ADM_HF        
+                                                                      ACSC admission for heart failure        
+          
+
+      
+
+                                                                      ACSC_ADM_DH        
+                                                                      ACSC admission for dehydration        
+          
+
+      
+
+                                                                      ACSC_ADM_PN        
+                                                                      ACSC admission for pneumonia        
+          
+
+      
+
+                                                                      ACSC_ADM_UTI        
+                                                                      ACSC admission for UTI        
+          
+
+      
+
+                                                                      SURVIVED_RA_ALL        
+                                                                      Beneficiary included in Per Capita Costs for All Attributed Beneficiaries measure        
+          
+
+      
+
+                                                                      ATTRIB_STEP        
+                                                                      Basis for attribution        
+          
+
+      
+
+                                                                      ED_ADM        
+                                                                      Emergency department admission        
+          
+
+      
+
+                                                                      NUM_PC_SVCS_PRAC        
+                                                                      Number of primary care services provided by practice        
+          
+
+      
+
+                                                                      PCT_PC_SVCS_PRAC        
+                                                                      Percent of beneficiary primary care services billed by practice        
+          
+
+      
+
+                                                                      LAST_CLM_DATE        
+                                                                      Date of last claim filed by practice        
+          
+
+      
+
+                                                                      LAST_CLM_DATE_NPI_IN_PRIM        
+                                                                      Date of last claim filed by NPI for beneficiary for primary care        
+          
+
+      
+
+                                                                      LAST_CLM_DATE_NPI_IN_NON        
+                                                                      Date of last claim filed by NPI for beneficiary for non primary care        
+          
+
+      
+
+                                                                      LAST_CLM_DATE_NPI_OUT_PRIM        
+                                                                      Date of last claim filed by NPI for beneficiary for primary care outside practice        
+          
+
+      
+
+                                                                      DATE_LAST_HOSP_ADM        
+                                                                      Date of last hospital admission        
+          
+
+      
+
+                                                                      NAME_NPI_OUT_NON        
+                                                                      Name of EP billing most non primary care services outside practice        
+          
+
+      
+
+                                                                      NAME_NPI_IN_NON        
+                                                                      Name of EP billing most non primary care services in practice        
+          
+
+      
+
+                                                                      NAME_NPI_OUT_PRIM        
+                                                                      Name of EP billing most primary care services outside practice        
+          
+
+      
+
+                                                                      NAME_NPI_IN_PRIM        
+                                                                      Name of EP billing most primary care services in practice        
+          
+
+      
+
+                                                                      MAX_PCS_NPI_ATTRIB        
+                                                                      NPI of EP billing most primary care services in practice        
+          
+
+      
+
+                                                                      MAX_NON_PCS_NPI_ATTRIB        
+                                                                      NPI of EP billing most non primary care services in practice        
+          
+
+      
+
+                                                                      MAX_PCS_NPI_NOTATTRIB        
+                                                                      NPI of EP billing most primary care services outside practice        
+          
+
+      
+
+                                                                      MAX_NON_PCS_NPI_NOTATTRIB        
+                                                                      NPI of EP billing most non primary care services outside practice        
+          
+
+      
+
+                                                                      SPECIALTY_NPI_OUT_NON        
+                                                                      Specialty of EP billing most non primary care services outside practice        
+          
+
+      
+
+                                                                      SPECIALTY_NPI_IN_NON        
+                                                                      Specialty of EP billing most non primary care services in practice        
+          
+
+      
+
+                                                                      SPECIALTY_NPI_IN_NON        
+                                                                      Specialty of EP billing most non primary care services in practice        
+          
+
+      
+
+                                                                      SPECIALTY_NPI_IN_PRIM        
+                                                                      Specialty of EP billing most primary care services in practice        
+          
+
+      
+
+                                                                      TOTCOST        
+                                                                      Total payment-standardized Medicare FFS cost        
+          
+
+      
+
+                                                                      OTHER_ALL        
+                                                                      Total costs for all other services        
+          
+
+      
+
+                                                                      MINOR_PROCS_INGRP        
+                                                                      Total costs for ambulatory/minor procedures billed by EPs in practice        
+          
+
+      
+
+                                                                      MINOR_PROCS_OTHGRP        
+                                                                      Total costs for ambulatory/minor procedures billed by EPs outside practice        
+          
+
+      
+
+                                                                      TOTAL_ANC        
+                                                                      Total costs for ancillary services        
+          
+
+      
+
+                                                                      ALL_EANDM_INGRP        
+                                                                      Total costs for E and M services billed by EPs in given practice        
+          
+
+      
+
+                                                                      ALL_EANDM_OTHGRP        
+                                                                      Total costs for E and M services billed by EPs outside practice        
+          
+
+      
+
+                                                                      TOTAL_ER        
+                                                                      Total costs for emergency services not included in a hospital admission        
+          
+
+      
+
+                                                                      PHYS_DURHOSP_INGRP        
+                                                                      Total costs for EP services during hospitalization in practice        
+          
+
+      
+
+                                                                      PHYS_DURHOSP_OTHGRP        
+                                                                      Total costs for EP services during hospitalization outside practice        
+          
+
+      
+
+                                                                      HOSP_NAME        
+                                                                      Name of hospital at which hospitalization occurred        
+          
+
+      
+
+                                                                      INPATIENT_STAY        
+                                                                      Inpatient stay for beneficiary attributed for per capita cost and claims-based quality outcome measures        
+          
+
+      
+
+                                                                      MAJOR_PROCS_OTHGRP        
+                                                                      Total costs for major procedures billed by EPs outside practice        
+          
+
+      
+
+                                                                      MAJOR_PROCS_INGRP        
+                                                                      Total costs for major procedures billed by EPs in practice        
+          
+
+      
+
+                                                                      TOTAL_PA        
+                                                                      Total costs for other post-acute care services (excluding hospice)        
+          
+
+      
+
+                                                                      OP_THERAPY        
+                                                                      Total costs for outpatient physical therapy, occupational therapy, or speech and language pathology therapy        
+          
+
+      
+
+                                                                      CCN        
+                                                                      CCN of hospital at which hospitalization occurred        
+          
+
+      
+
+                                                                      RADM30        
+                                                                      Hospital readmission within 30 days        
+          
+
+      
+
+                                                                      DGNSCD01        
+                                                                      Primary diagnosis code for hospital admission        
+          
+
+      
+
+                                                                      SHORT_DESCRIPTION        
+                                                                      Description of principal diagnosis code for hospital admission        
+          
+
+      
+
+                                                                      ADMSN_DT        
+                                                                      Admission date of hospitalization        
+          
+
+      
+
+                                                                      DSCHRGDT        
+                                                                      Discharge date of hospitalization        
+          
+
+      
+
+                                                                      STUS_CD_ABBRV        
+                                                                      Discharge status abbreviation        
+          
+
+      
+
+                                                                      STUS_CD        
+                                                                      Discharge status code for hospitalization        
+          
+
+      
+
+                                                                      HOSPICE        
+                                                                      Total costs for hospice services        
+          
+
+      
+
+                                                                      CITY_HOSP        
+                                                                      City of hospital at which hospitalization occurred        
+          
+
+      
+
+                                                                      STATE_HOSP        
+                                                                      State of hospital at which hospitalization occurred        
+          
+
+      
+
+                                                                      PDGNS_DESC        
+                                                                      Description of principal diagnosis code for MSPB index hospitalization        
+          
+
+      
+
+                                                                      LEAD_NPI_NAME        
+                                                                      Name of EP with plurality of cost for MSPB        
+          
+
+      
+
+                                                                      LEAD_NPI        
+                                                                      NPI of EP with plurality of cost for MSPB        
+          
+
+      
+
+                                                                      LEAD_NPI_SPECIALTY        
+                                                                      Specialty of EP with plurality of cost for MSPB        
+          
+
+      
+
+                                                                      STD_PMT_ALL_CLM        
+                                                                      Total payment-standardized episode cost        
+          
+
+      
+
+                                                                      COST_OTHER        
+                                                                      MSPB all other service costs        
+          
+
+      
+
+                                                                      COST_AMBULANCE        
+                                                                      MSPB ambulance costs        
+          
+
+      
+
+                                                                      COST_ANCILLARY_IMAGING        
+                                                                      MSPB ancillary imaging costs        
+          
+
+      
+
+                                                                      COST_ANCILLARY_TESTS        
+                                                                      MSPB ancillary lab, pathology, and other test costs        
+          
+
+      
+
+                                                                      COST_CHEMO_PART_B        
+                                                                      MSPB chemotherapy and Part B drug costs        
+          
+
+      
+
+                                                                      COST_DIALYSIS        
+                                                                      MSPB dialysis costs        
+          
+
+      
+
+                                                                      COST_DME        
+                                                                      MSPB durable medical equipment costs        
+          
+
+      
+
+                                                                      COST_ER_VISITS        
+                                                                      MSPB E and M costs in an ER setting        
+          
+
+      
+
+                                                                      COST_EM        
+                                                                      MSPB E and M service costs        
+          
+
+      
+
+                                                                      COST_OTHGRP_HOSP        
+                                                                      MSPB eligible professional services billed by other practices during hospitalization        
+          
+
+      
+
+                                                                      COST_INGRP_HOSP        
+                                                                      MSPB eligible professional services billed by practice during hospitalization        
+          
+
+      
+
+                                                                      COST_HH        
+                                                                      MSPB home health costs        
+          
+
+      
+
+                                                                      COST_HOSPICE        
+                                                                      MSPB hospice costs        
+          
+
+      
+
+                                                                      COST_ER_IMAGING        
+                                                                      MSPB imaging costs in an ER setting        
+          
+
+      
+
+                                                                      COST_IP_TRIGGER        
+                                                                      MSPB inpatient costs incurred during hospitalization        
+          
+
+      
+
+                                                                      COST_IP_READMIT        
+                                                                      MSPB inpatient costs incurred in a readmission after hospitalization within 30 days of discharge        
+          
+
+      
+
+                                                                      COST_REHAB_LTCH        
+                                                                      MSPB inpatient rehabilitation or long-term care hospital costs        
+          
+
+      
+
+                                                                      COST_ER_TESTS        
+                                                                      MSPB lab, pathology, and other test costs in an ER setting        
+          
+
+      
+
+                                                                      COST_MAJOR_PROCS_ANESTHESIA        
+                                                                      MSPB major procedure and anesthesia costs        
+          
+
+      
+
+                                                                      COST_MINOR_PROCS_AMBULATORY        
+                                                                      MSPB minor procedure and ambulatory service costs        
+          
+
+      
+
+                                                                      COST_PRTB_HOSP        
+                                                                      MSPB other physician or supplier Part B services billed during any hospitalization        
+          
+
+      
+
+                                                                      COST_OP_THERAPY        
+                                                                      MSPB outpatient physical, occupational, or speech and language pathology therapy costs        
+          
+
+      
+
+                                                                      COST_ER_PROCS        
+                                                                      MSPB procedure costs in an ER setting        
+          
+
+      
+
+                                                                      COST_SN        
+                                                                      MSPB skilled nursing costs        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

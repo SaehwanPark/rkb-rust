@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-hospital__data-documentation__4c60fb8567__chunk_2",
+  "source_document": "data/raw/html/documentation_page/4c60fb85674dcfcd2336e84b45f08d6218aa76fa.html",
+  "page": null,
+  "text": "Name\n\n CCN \n CMS Certification Number (Facility Provider Number) \n\n PRVDR_STATE \n Provider State \n\n FAC_TIER \n Tier 1: 25+ AHCAH Patients; Tier 2: <= 24 AHCAH Patients \n\n FAC_DATA_SUBMSN_DT \n Facility Data Submission Date \n\n DISCHARGES \n Count of AHCAH Discharges During the Data Submission Period \n\n MORTALITIES \n Count of AHCAH Mortalities During the Data Submission Period \n\n ESCALATIONS \n Count of AHCAH Patients Transferred Back to Inpatient Facility During the Data Submission Period",
+  "dataset": "ahcah-hospital",
+  "url": "https://resdac.org/cms-data/files/ahcah-hospital/data-documentation"
+}

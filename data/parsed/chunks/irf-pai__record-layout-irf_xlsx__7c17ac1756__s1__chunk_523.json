@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_523",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "= Moderately impaired; limited vision; not able to see newspaper headlines but can identify objects\r\n3 = Highly impaired; object identification in question, but eyes appear to follow objects\r\n4 = Severely impaired; no vision or sees only light, colors or shapes; eyes do not appear to follow objects\r\n- = Not Assessed/No Information\n457 HLTH_LITERACY_ADMSN_CD HLTH_LITERACY_ADMSN_CD Health Literacy (Adm) CHAR 1 This column documents, at the time of admission, how often the patient need to have",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

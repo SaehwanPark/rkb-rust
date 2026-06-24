@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_23",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Adjudication Date\n\n 12\n\n LINE_CLAIM_STUS_CD\n\n Claim Line Status Code\n\n 13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n LINE_SRVC_BGN_DT\n\n Claim Line Beginning Date of Service\n\n 15\n\n LINE_SRVC_END_DT\n\n Claim Line Ending Date of Service\n\n 16\n\n BNFT_TYPE_CD\n\n Benefit Type Code\n\n 17\n\n TOS_CD\n\n Type of Service Code\n\n 18\n\n XIX_SRVC_CTGRY_CD\n\n CMS-64 Form Category of Service for the Paid Claim\n\n 19\n\n XXI_SRVC_CTGRY_CD\n\n CMS-21 Form Category of Service for the Paid Claim\n\n 20",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

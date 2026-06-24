@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__codebook-ptd-pharm-char_pdf__58526b7375__p16__chunk_0",
+  "source_document": "data/raw/assets/pdf/58526b73752036ae7547b8f5fa7fc8287000d944.pdf",
+  "page": 16,
+  "text": "Chronic Condition Warehouse \nCODEBOOK: Medicare Part D Pharmacy Characteristics │ April 2021 │ V 1.1 11 \n\nPHYSICAL_LOCATION_OPEN_DATE \n\nLABEL: Physical Location of Pharmacy Open Date \n\nDESCRIPTION: The date the pharmacy opened at this location, as reported by the pharmacy to NCPDP. \n\nSHORT NAME: — \n\nLONG NAME: PHYSICAL_LOCATION_OPEN_DATE \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: NCDPD DataQ™ \n\nVALUES: MMDDYYYY (e.g., 11/28/2006) \n\nCOMMENT: This variable (the store open date) is missing for 72% of the",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-pharm-char.pdf"
+}

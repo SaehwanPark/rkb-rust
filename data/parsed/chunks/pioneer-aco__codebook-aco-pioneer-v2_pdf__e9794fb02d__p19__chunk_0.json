@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__codebook-aco-pioneer-v2_pdf__e9794fb02d__p19__chunk_0",
+  "source_document": "data/raw/assets/pdf/e9794fb02d175a1909be3f0dea52965ad4524cdd.pdf",
+  "page": 19,
+  "text": "PRVDR_ACO_YEAR \n\nChronic Conditions Warehouse Virtual Research Data Center \nACO Pioneer V2 Codebook │ May 2025 │ V 1.1 15 \n\nPRVDR_ACO_YEAR \n\nLABEL: Year of Provider ACO Source Record \n\nDESCRIPTION: This field is the year of the provider ACO source record; it corresponds with the calendar year (CY) of \nclaims. \n\nSHORT NAME: PRVDR_ACO_YEAR \n\nLONG NAME: PRVDR_ACO_YEAR \n\nTYPE: NUM \n\nLENGTH: 4 \n\nSOURCE: — \n\nVALUES: 2015, 2016 \n\nCOMMENT: — \n\n ^ Back to TOC ^",
+  "dataset": "pioneer-aco",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-aco-pioneer-v2.pdf"
+}

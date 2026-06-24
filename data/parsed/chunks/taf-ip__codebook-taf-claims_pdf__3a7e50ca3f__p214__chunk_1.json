@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p214__chunk_1",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 214,
+  "text": "health insurance \nplan for which the eligible is a beneficiary. \n\nSHORT NAME: OTHR_TP_CLCTN_CD \n\nLONG NAME: OTHR_TP_CLCTN_CD \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \nLT header \nOT header \nRX header \n\nVALUES: 000 = Not applicable \n001 = Third-Party Resource is Casualty/Tort \n002 = Third-Party Resource is Estate \n003 = Third-Party Resource is Lien (Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)) \n004 = Third-Party Resource is Lien",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

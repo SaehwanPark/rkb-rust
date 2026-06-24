@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p93__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 93,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 77 \n\nDRG_CD \n\nLABEL: Diagnosis Related Group Code (or MS-DRG Code) \n\nDESCRIPTION: The code indicating the Diagnosis Related Group (or MS-DRG) to which the claims that comprise the stay \nbelong for payment purposes. \n\nSHORT NAME: DRG_CD \n\nLONG NAME: DRG_CD \n\nTYPE: CHAR \n\nLENGTH: 4 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This field comes from the actual DRG code (or MS-DRG code) that is present on the",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

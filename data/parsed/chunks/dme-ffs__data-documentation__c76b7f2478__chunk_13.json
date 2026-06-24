@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_13",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Through Date (FFS) \n\n TAX_NUM \n Line Provider Tax Number \n\n PRVDR_SPCLTY \n Line CMS Provider Specialty Code \n\n PRTCPTNG_IND_CD \n Line Provider Participating Indicator Code \n\n LINE_SRVC_CNT \n Line Service Count (FFS) \n\n LINE_CMS_TYPE_SRVC_CD \n Line CMS Type Service Code \n\n LINE_PLACE_OF_SRVC_CD \n Line Place Of Service Code (FFS) \n\n LINE_1ST_EXPNS_DT \n Line First Expense Date (FFS) \n\n LINE_LAST_EXPNS_DT \n Line Last Expense Date (FFS) \n\n HCPCS_CD \n Healthcare Common Procedure Coding System (HCPCS)",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

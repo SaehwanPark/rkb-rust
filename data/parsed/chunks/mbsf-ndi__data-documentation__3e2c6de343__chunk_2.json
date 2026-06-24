@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__data-documentation__3e2c6de343__chunk_2",
+  "source_document": "data/raw/html/documentation_page/3e2c6de343e763d4853bd71b6a39d6860c145fb8.html",
+  "page": null,
+  "text": "Death Index (NDI)\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n BENE_ENROLLMT_REF_YR \n Reference Year (MBSF) \n\n ENRL_SRC \n Enrollment Source \n\n DEATH_CERT_NUM \n NDI Death Certificate Number \n\n NDI_DEATH_DT \n NDI Date of Death_MBSF \n\n NDI_STATE_DEATH_CD \n NDI State of Death \n\n ICD_CODE \n ICD-10 Cause of Death Code \n\n ICD_TITLE \n ICD-10 Cause of Death Title \n\n ICD_CODE_358 \n 358 ICD-10 Cause of Death Recodes \n\n ICD_CODE_113 \n 113 ICD-10 Cause of Death Recodes",
+  "dataset": "mbsf-ndi",
+  "url": "https://resdac.org/cms-data/files/mbsf-ndi/data-documentation"
+}

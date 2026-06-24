@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p83__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 83,
+  "text": "C. Crosswalk: 2007 to 2025 - PDP Survey 83\n\nVariable Reverse 2007\nYear 1\n\nma_hlthplan —–\nma_hlthplan_txt —–\nins_have_oth Q01\nins_medigap Q02A\nins_employer Q02B\nins_veteran Q02C\nins_military Q02D\nins_medicaid Q02E\nins_ma_pdp Q02F\nins_other Q02G\nins_other_txt Q02_O\nins_medicare Q02H\nca_illness Q03\nca_illasaw* Q04\nca_routine Q05\nca_rtnasaw* Q06\nca_visits Q07\nca_emerquex\nca_emeransr\nca_emerfup R\nca_wt15mns*\nrate_care* Q08\nca_equipment\nca_getequip\nca_therapy\nca_gettherapy\nmd_have Q09\nmd_visits",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

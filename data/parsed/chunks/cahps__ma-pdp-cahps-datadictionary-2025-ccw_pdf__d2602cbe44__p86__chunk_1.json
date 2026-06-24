@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p86__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 86,
+  "text": "Q61\nrxmailunreq\npdpenroll R\nmtm_enrollprog\nmtm_medansr R\nmtm_meduse R\nmtm_summ R\nmtm_info R\nmtm_prog R\nknowcare R Q62\nhelpperscare Q63\nhelproutine Q64\nlim_physcond Q65\ncnd_heartattack\ncnd_angina\ncnd_stroke\ncnd_hbp\ncnd_cancer\ncnd_copd\ncnd_diabetes\nprob_walking\nprob_dressing\nprob_errands\nim_ﬂu1last* R Q66\nim_ﬂu1plan —–\nim_pneum* R Q67\nsmokenow Q68\nadvsquit Q69\nsmokequit\nagecat Q70\nsex Q71\neduc Q72\nrace_hisp Q73",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

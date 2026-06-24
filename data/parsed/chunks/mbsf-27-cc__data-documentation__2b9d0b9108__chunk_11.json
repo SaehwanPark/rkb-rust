@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_11",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "criteria for the rheumatoid arthritis/osteoarthritis indicator \n\n STROKE_TIA \n Stroke / Transient Ischemic Attack End-of-Year Indicator \n\n STROKE_TIA_MID \n Stroke / Transient Ischemic Attack Mid-Year Indicator \n\n STROKE_TIA_EVER \n Date that beneficiary first met claims criteria for the stroke indicator \n\n CANCER_BREAST \n Breast Cancer End-of-Year Indicator \n\n CANCER_BREAST_MID \n Breast Cancer Mid-Year Indicator \n\n CANCER_BREAST_EVER \n Date that beneficiary first met claims criteria for",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

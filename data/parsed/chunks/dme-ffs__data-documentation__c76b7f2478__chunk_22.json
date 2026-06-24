@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_22",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Indicator Code \n\n LINE_RP_IND_CD \n Line Representative Payee (RP) Indicator Code \n\n DMERC_LINE_FRGN_ADR_IND \n Line Foreign Address Indicator \n\n LINE_RR_BRD_EXCLSN_IND_SW \n Line Railroad Board Exclusion Indicator Switch \n\n LINE_VLNTRY_SRVC_IND_CD \n Line Voluntary Service Indicator Code \n\n DMERC_OXGN_EQUIP_INITL_DT \n Oxygen Equipment Initial Date \n\n DMERC_OXGN_INITL_DT_CD \n Oxygen Equipment Initial Date Code \n\n DMERC_OXGN_EQUIP_PRVS_DT \n Oxygen Equipment Previous Date",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

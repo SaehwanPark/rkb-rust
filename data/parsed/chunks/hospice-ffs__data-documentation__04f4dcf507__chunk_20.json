@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_20",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (FFS)\n\n 11\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (FFS)\n\n 12\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (FFS)\n\n 13\n\n REV_CNTR_RATE_AMT\n\n Revenue Center Rate Amount\n\n 14\n\n REV_CNTR_PRVDR_PMT_AMT\n\n Revenue Center (Medicare) Provider Payment Amount\n\n 15\n\n REV_CNTR_PMT_AMT_AMT\n\n Revenue Center (Medicare) Payment Amount\n\n 16\n\n REV_CNTR_TOT_CHRG_AMT\n\n Revenue Center Total Charge Amount\n\n 17\n\n REV_CNTR_NCVRD_CHRG_AMT\n\n Revenue Center",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

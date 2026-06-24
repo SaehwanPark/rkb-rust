@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_48",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "June\n\n 49\n\n MDCR_TOTAL_FFS_USE_07\n\n Medicare Use (FFS Claim Count) — July\n\n 50\n\n MDCR_TOTAL_FFS_USE_08\n\n Medicare Use (FFS Claim Count) — August\n\n 51\n\n MDCR_TOTAL_FFS_USE_09\n\n Medicare Use (FFS Claim Count) — September\n\n 52\n\n MDCR_TOTAL_FFS_USE_10\n\n Medicare Use (FFS Claim Count) — October\n\n 53\n\n MDCR_TOTAL_FFS_USE_11\n\n Medicare Use (FFS Claim Count) — November\n\n 54\n\n MDCR_TOTAL_FFS_USE_12\n\n Medicare Use (FFS Claim Count) — December\n\n 55\n\n MDCR_TOTAL_SPEND_01\n\n Medicare Payment Amount —",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

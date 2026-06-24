@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p17__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 17,
+  "text": "2 \n\nSOURCE: CMS Encounter Data System (EDS) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base \nDME base \n\nVALUES: 10 = Aged without end-stage renal disease (ESRD) \n11 = Aged with ESRD \n20 = Disabled without ESRD \n21 = Disabled with ESRD \n31 = ESRD only \n\nCOMMENT: CMS enrollment data is obtained from the source CMS Common Medicare Environment (CME) data. \n\n^ Back to TOC ^",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

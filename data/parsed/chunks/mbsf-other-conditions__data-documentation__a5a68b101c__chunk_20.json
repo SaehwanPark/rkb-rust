@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_20",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Sickle Cell Disease First Ever Occurrence Date - Medicare Only Claims \n\n SCHI_MEDICARE \n Schizophrenia End-of-Year Indicator - Medicare Only Claims \n\n SCHI_MEDICARE_EVER \n Schizophrenia First Ever Occurrence Date - Medicare Only Claims \n\n SCHIOT_MEDICARE \n Schizophrenia and Other Psychotic Disorders End-of-Year Indicator - Medicare Only Claims \n\n SCHIOT_MEDICARE_EVER \n Schizophrenia and Other Psychotic Disorders First Ever Occurrence Date - Medicare Only Claims \n\n SPIBIF_MEDICARE \n Spina Bifida",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

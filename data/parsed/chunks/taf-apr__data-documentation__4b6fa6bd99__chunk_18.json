@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_18",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Respite Care Facility Taxonomy Indicator — Ever in Calendar Year\n\n 72\n\n SUPLR_PRVDR_TXNMY_IND\n\n Supplier Provider (DME, Pharmacy, Organs, Etc.) Taxonomy Indicator — Ever in Calendar Year\n\n 73\n\n TRNSPRTN_SRVC_TXNMY_IND\n\n Transportation Services Provider Taxonomy Indicator — Ever in Calendar Year\n\n 74\n\n SUD_SRVC_PRVDR_CLSFCTN_IND\n\n Substance Use Disorder Service Provider Classification Indicator — Ever in Calendar Year\n\n 75\n\n MH_SRVC_PRVDR_CLSFCTN_IND\n\n Mental Health Service Provider",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

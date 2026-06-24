@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_709",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "1 Type of assessment. 1 = Start of therapy assessment\r\n2 = End of therapy assessment\r\n3 = Both: Start and End of therapy assessment\r\n4 = Change of therapy assessment\r\n5 = Other payment assessment effective 10/01/2019\r\ndiscontinued 9/30/2023\n756 A0310G1_INTRPTED_STAY_CD A0310G1_INTRPTED_STAY_CD A0310G1 Interrupted Stay Code CHAR 1 Indicates whether or not an interrupted stay occurred. 0 = No \r\n1 = Yes effective 10/01/2019\n757 GG0130A5_SELF_CARE_EATG_CD GG0130A5_SELF_CARE_EATG_CD GG0130A5 Self",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

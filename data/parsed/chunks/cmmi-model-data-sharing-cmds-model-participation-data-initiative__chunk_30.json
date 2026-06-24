@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmmi-model-data-sharing-cmds-model-participation-data-initiative__chunk_30",
+  "source_document": "data/raw/html/dataset_page/384107f331e2563369c38318d900e43172d43a4c.html",
+  "page": null,
+  "text": "additional models.\nThe model IDs for the 28 models in the CMDS file set is depicted in the table below.\nCMDS Models\n Model ID Model Name Short Name Comments\n52Accountable Health Communities ModelAHCModel Status: Ended. Q3 2024 is the only data submission.\n63ACO Realizing Equity, Access, and Community HealthACO REACHPreviously titled GPDC.\n54Bundled Payment for Care Improvement Advanced ModelBPCI-A \n33Comprehensive Care for Joint ReplacementCJRModel Status: Ended. No new Entity and Provider file",
+  "dataset": "cmmi-model-data-sharing-cmds-model-participation-data-initiative",
+  "url": "https://resdac.org/cms-data/files/cmmi-model-data-sharing-cmds-model-participation-data-initiative"
+}

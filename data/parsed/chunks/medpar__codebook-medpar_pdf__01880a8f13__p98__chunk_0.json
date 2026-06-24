@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p98__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 98,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 82 \n\nDSCHRG_DSTNTN_CD \n\nLABEL: Destination upon discharge from facility code \n\nDESCRIPTION: The code indicating the destination of the beneficiary upon discharge from a facility; also denotes death \nor skilled nursing facility (SNF)/still patient situations. \n\nSHORT NAME: DSTNTNCD \n\nLONG NAME: DSCHRG_DSTNTN_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: NCH \n\nVALUES: This code set is an external code set",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_535",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "Mental Status Change (Dsch) CHAR 1 This column documents whether there Is evidence of an acute change in mental status from the patient's baseline at the time of discharge. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n470 DFCLTY_ATTN_ADMSN_CD DFCLTY_ATTN_ADMSN_CD Delirium: Inattention (Adm) CHAR 1 At the time of admission, did the patient have difficulty focusing attention, for example, being easily distractible or having difficulty keeping track of what was being said? 0 = Behavior not",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

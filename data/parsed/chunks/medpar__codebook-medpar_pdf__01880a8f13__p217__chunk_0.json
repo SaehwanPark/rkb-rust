@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p217__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 217,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 201 \n\nRDLGY_CT_SCAN_IND_SW \n\nLABEL: Radiology Computed Tomographic (CT) Scan Indicator \n\nDESCRIPTION: The switch indicating whether the beneficiary received radiology computed tomographic (CT) scan \nservices during the stay. \n\nSHORT NAME: CTSCANSW \n\nLONG NAME: RDLGY_CT_SCAN_IND_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: MedPAR (derived) \n\nVALUES: 0 =No radiology CT scan (revenue code not 035X) \n1 = Yes",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

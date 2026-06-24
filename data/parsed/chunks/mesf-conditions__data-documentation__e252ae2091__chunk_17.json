@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_17",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Chronic Pain, Fatigue, and Fibromyalgia - Medicaid Only Claims\n\n 85\n\n FIBRO_MEDICARE\n\n Chronic Pain, Fatigue, and Fibromyalgia - Medicare Only Claims\n\n 86\n\n GLCM_COMBINED\n\n Glaucoma Indicator - Combined Data\n\n 87\n\n GLCM_MEDICAID\n\n Glaucoma Indicator - Medicaid-Only Data\n\n 88\n\n GLCM_MEDICARE\n\n Glaucoma Indicator - Medicare-Only Data\n\n 89\n\n HEARIM_COMBINED\n\n Hearing Impaired Indicator - Combined Data\n\n 90\n\n HEARIM_MEDICAID\n\n Hearing Impaired Indicator - Medicaid-Only Data\n\n 91\n\n HEARIM_MEDICARE",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

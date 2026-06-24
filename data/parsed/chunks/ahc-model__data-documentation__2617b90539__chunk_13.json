@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_13",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Supplemental HRSN Mental Health 1: Little Interest or Pleasure in Things \n\n SR_SPLMTL_MH_2_CD \n Supplemental HRSN Mental Health 2: Feeling Down, Depressed, or Hopeless \n\n SR_SPLMTL_MH_1_2_SUM \n Supplemental HRSN Mental Health Sum of SR_SPLMTL_MH_1_CD and SR_SPLMTL_MH_2_CD \n\n SR_SPLMTL_MH_3_CD \n Supplemental HRSN Mental Health 3: Feel Tense, Restless, Anxious, Sleepless, Troubled \n\n SR_SPLMTL_MH_OVRL_SCRNG_IND \n Screened Supplemental HRSN Mental Health Overall Indicator",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

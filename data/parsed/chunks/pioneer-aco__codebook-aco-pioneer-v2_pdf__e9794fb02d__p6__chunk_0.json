@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__codebook-aco-pioneer-v2_pdf__e9794fb02d__p6__chunk_0",
+  "source_document": "data/raw/assets/pdf/e9794fb02d175a1909be3f0dea52965ad4524cdd.pdf",
+  "page": 6,
+  "text": "BENE_ACO_YEAR \n\nChronic Conditions Warehouse Virtual Research Data Center \nACO Pioneer V2 Codebook │ May 2025 │ V 1.1 2 \n\nBENE_ACO_YEAR \n\nLABEL: Year of beneficiary claims \n\nDESCRIPTION: The performance year (PY). Corresponds with the calendar year (CY) of claims. \n\nSHORT NAME: BENE_ACO_YEAR \n\nLONG NAME: BENE_ACO_YEAR \n\nTYPE: NUM \n\nLENGTH: 4 \n\nSOURCE: CMS Aligned Beneficiary Pioneer ACO RIF \n\nVALUES: 2015, 2016 \n\nCOMMENT: — \n\n ^ Back to TOC ^",
+  "dataset": "pioneer-aco",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-aco-pioneer-v2.pdf"
+}

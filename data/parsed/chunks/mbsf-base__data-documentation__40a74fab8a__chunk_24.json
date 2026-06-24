@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_24",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "D Market Segment Identifier - October \n\n PTD_SGMT_ID_11 \n Monthly Part D Market Segment Identifier - November \n\n PTD_SGMT_ID_12 \n Monthly Part D Market Segment Identifier - December \n\n RDS_IND_01 \n Part D Retiree Drug Subsidy Indicator - January \n\n RDS_IND_02 \n Part D Retiree Drug Subsidy Indicator - February \n\n RDS_IND_03 \n Part D Retiree Drug Subsidy Indicator - March \n\n RDS_IND_04 \n Part D Retiree Drug Subsidy Indicator - April \n\n RDS_IND_05 \n Part D Retiree Drug Subsidy Indicator - May",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

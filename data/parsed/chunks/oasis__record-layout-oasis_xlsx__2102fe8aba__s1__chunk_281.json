@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_281",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "(observable) stasis ulcer. 01 = Fully granulating\r\n02 = Early/partial granulation\r\n03 = Not healing CHAR 2 x x x x x x\nM1340_SRGCL_WND_PRSNT M1340 Does This Patient Have A Surgical Wound This field indicates whether the patient has a surgical wound. 00 = No\r\n01 = Yes, patient has at least one (observable) surgical wound\r\n02 = Surgical wound known but not observable due to non-removable\r\ndressing CHAR 2 x x x x x x\nM1342_STUS_PRBLM_SRGCL_WND M1342 Status of Most Problematic Surgical Wound This",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

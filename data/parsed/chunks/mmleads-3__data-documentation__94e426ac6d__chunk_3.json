@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_3",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Months Alive\n\n 9\n\n BENE_DEATH_DT\n\n Beneficiary Date of Death\n\n 10\n\n SEX_CD\n\n Sex (Biological) - Latest in Year\n\n 11\n\n MDCR_RTI_RACE\n\n Medicare — Research Triangle Institute (RTI) Race Code\n\n 12\n\n MDCD_RACE_ETHNCTY_CD\n\n Medicaid — Race and Ethnicity Constructed Code — Latest in Year\n\n 13\n\n MDCR_STATE_CD\n\n Medicare — State Code — FIPS\n\n 14\n\n MDCR_COUNTY_CD\n\n Medicare — County FIPS Code — Latest in Year\n\n 15\n\n MDCR_PTA_MOS\n\n Medicare Part A Enrolled Months\n\n 16\n\n MDCR_PTB_MOS\n\n Medicare Part B",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

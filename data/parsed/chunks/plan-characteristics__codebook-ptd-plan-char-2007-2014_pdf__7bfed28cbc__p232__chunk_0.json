@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p232__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 232,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 219 \n\nPARENT_ORGANIZATION \n\nLABEL: Part D Plan Parent Organization Name \n\nDESCRIPTION: This variable is the name of the parent organization for the Part D plan, if applicable. \n\nSHORT NAME: — \n\nLONG NAME: PARENT_ORGANIZATION \n\nTYPE: CHAR \n\nLENGTH: 50 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: text description \n\nCOMMENT: This is the name of the parent organization associated with the Part D",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

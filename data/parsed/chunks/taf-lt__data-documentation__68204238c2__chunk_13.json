@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_13",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Substance Use Disorder Provider Taxonomy Indicator\n\n 76\n\n NCVRD_DAYS\n\n Medicaid Non-covered Days Count\n\n 77\n\n CVRD_DAYS_ICF_IID\n\n Count of Medicaid Covered Days in ICF for Patients with Intellectual Disability\n\n 78\n\n CVRD_DAYS_NF\n\n Count of Medicaid Covered Days in a Nursing Facility\n\n 79\n\n CVRD_DAYS_IP_PSYCH\n\n Count of Medicaid Covered Days in an Inpatient Psychiatric Facility (IPF)\n\n 80\n\n CVRD_DAYS_IP_PSYCH_OVER_65\n\n Count of Medicaid Covered Days in an IPF (Beneficiary Over 65 Years)\n\n 81",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

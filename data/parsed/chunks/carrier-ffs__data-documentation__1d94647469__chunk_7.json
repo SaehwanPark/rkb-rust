@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_7",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Code 1 \n\n BLG_PRVDR_SPCLTY_CD2 \n Claim Billing Provider Secondary Specialty Code 2 \n\n BLG_PRVDR_SPCLTY_CD3 \n Claim Billing Provider Secondary Specialty Code 3 \n\n BLG_PRVDR_TXNMY_CD \n Claim Billing Provider Taxonomy Code \n\n PRNCPAL_DGNS_CD \n Claim Principal Diagnosis Code (FFS) \n\n PRNCPAL_DGNS_VRSN_CD \n Claim Principal Diagnosis Version Code (FFS) \n\n ICD_DGNS_CD1 \n Claim Diagnosis Code I (FFS) \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code I Diagnosis Version Code (ICD-9 or ICD-10) (FFS)",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p8__chunk_6",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 8,
+  "text": "or alaska native YNE\nproxy RECODE : Someone helped complete survey YNA\nproxy_read RECODE : How helped: proxy read questions YNE\nproxy_writ RECODE : How helped: proxy wrote answers YNE\nproxy_answ RECODE : How helped: proxy answered questions YNE\nproxy_tran RECODE : How helped: proxy translated questions YNE\nproxy_othr RECODE : How helped: proxy helped other way YNE\nliving_numinhh RECODE : Number of people living in household NMD\nweb_at_home RECODE : Do you ever use the internet at home",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

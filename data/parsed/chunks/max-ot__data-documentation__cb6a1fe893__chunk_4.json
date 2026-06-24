@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__data-documentation__cb6a1fe893__chunk_4",
+  "source_document": "data/raw/html/documentation_page/cb6a1fe893be87f24ba21899636e73ef0ee381c1.html",
+  "page": null,
+  "text": "Crossover code (Annual) old values \n\n MSNG_ELG_DATA \n Missing eligibility data \n\n EL_MDCR_XOVR_CLM_BSD_CD \n Crossover code (from claims only) \n\n EL_MDCR_ANN_XOVR_99 \n Crossover code (Annual) \n\n MSIS_TOS \n MSIS Type of Service (TOS) \n\n MSIS_TOP \n MSIS Type of Program (TOP) \n\n HCBS_TXNMY_WVR_CD \n Home and community-based services (HCBS) taxonomy code for waviers \n\n MAX_TOS \n MAX Type of Service (TOS) \n\n CLTC_FLAG \n Community-based LT care (CLTC) flag \n\n PRVDR_ID_NMBR \n Billing provider",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot/data-documentation"
+}

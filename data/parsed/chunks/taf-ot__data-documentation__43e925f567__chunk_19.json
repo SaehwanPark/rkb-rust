@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_19",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Identifier\n\n 6\n\n LINE_NUM\n\n Sequential Claim Line Number\n\n 7\n\n CLM_NUM_ORIG\n\n Original Claim Identifier\n\n 8\n\n LINE_NUM_ORIG\n\n Original Claim Line Number (TAF)\n\n 9\n\n CLM_NUM_ADJ\n\n Adjustment Claim Identifier\n\n 10\n\n LINE_NUM_ADJ\n\n Adjustment Claim Line Number\n\n 11\n\n ADJDCTN_DT\n\n Adjudication Date\n\n 12\n\n LINE_CLAIM_STUS_CD\n\n Claim Line Status Code\n\n 13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n LINE_ADJUST_RSN_CD\n\n Claim Line Adjustment Reason Code\n\n 15\n\n LINE_SRVC_BGN_DT\n\n Claim Line",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

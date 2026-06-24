@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p37__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 37,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 27 \n\nCLM_FREQ_CD \n\nLABEL: Claim Frequency Code \n\nDESCRIPTION: The third digit of the type of bill (TOB3) submitted on an institutional claim record to indicate the \nsequence of a claim in the beneficiary's current episode of care. \n\nSHORT NAME: CLM_FREQ_CD \n\nLONG NAME: CLM_FREQ_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP base \nSNF base \nHH",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

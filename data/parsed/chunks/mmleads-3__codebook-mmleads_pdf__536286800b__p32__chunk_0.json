@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p32__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 32,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 21 \n\nMDCD_FFS_MEDICAL_01 \n\nMDCD_FFS_MEDICAL_02 \n\nMDCD_FFS_MEDICAL_03 \n\nMDCD_FFS_MEDICAL_04 \n\nMDCD_FFS_MEDICAL_05 \n\nMDCD_FFS_MEDICAL_06 \n\nMDCD_FFS_MEDICAL_07 \n\nMDCD_FFS_MEDICAL_08 \n\nMDCD_FFS_MEDICAL_09 \n\nMDCD_FFS_MEDICAL_10 \n\nMDCD_FFS_MEDICAL_11 \n\nMDCD_FFS_MEDICAL_12 \n\nLABEL: Medicaid — Fee-for-Service Medical Coverage Indicator — January–December (01–12) \n\nDESCRIPTION: This variable is a monthly variable that indicates",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

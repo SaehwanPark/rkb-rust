@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_23",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Procedure Classification System/Nomenclature\n\n 5\n\n PRVDR_CLSFCTN_CD\n\n Provider Classification Code\n\n 6\n\n PRVDR_CLSFCTN_ACTV_IND_01\n\n Provider Classification Code Active Indicator — January\n\n 7\n\n PRVDR_CLSFCTN_ACTV_IND_02\n\n Provider Classification Code Active Indicator — February\n\n 8\n\n PRVDR_CLSFCTN_ACTV_IND_03\n\n Provider Classification Code Active Indicator — March\n\n 9\n\n PRVDR_CLSFCTN_ACTV_IND_04\n\n Provider Classification Code Active Indicator — April\n\n 10\n\n PRVDR_CLSFCTN_ACTV_IND_05\n\n Provider",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_6",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "F - Favorable Decision for DIB Reentitlement \r\nK - Invalid Code Entered \r\nL - 1972 Blind Provision \r\nN - BLIND, 1967 Definition \r\nP - BLIND Prior to Age 31, 1967 Definition \r\nR - Insured Under Special Insured Status Provision for Young Disabled \r\nS - BLIND - Original Definition \r\nT - BLIND, Prior to Age 31, Original Definition \r\nU - Short-Term Disability \r\nX - No Waiting Period \r\n^ - Delete the First Disabled Adult Child (DAC) Field Only\r\nNull/missing – no record of SSA disability",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

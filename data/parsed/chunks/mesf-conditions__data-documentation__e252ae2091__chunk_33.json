@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_33",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Myelitis Indicator - Medicare-Only Data\n\n 164\n\n MUSDYS_COMBINED\n\n Muscular Dystrophy Indicator - Combined Data\n\n 165\n\n MUSDYS_MEDICAID\n\n Muscular Dystrophy Indicator - Medicare-Only Data\n\n 166\n\n MUSDYS_MEDICARE\n\n Muscular Dystrophy Indicator - Medicaid-Only Data\n\n 167\n\n OBESITY_COMBINED\n\n Obesity - Combined Medicare & Medicaid Claims\n\n 168\n\n OBESITY_MEDICAID\n\n Obesity - Medicaid Only Claims\n\n 169\n\n OBESITY_MEDICARE\n\n Obesity - Medicare Only Claims\n\n 170\n\n OST_COMBINED\n\n Osteoporosis Indicator -",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_7",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Data\n\n 28\n\n ANXI_MEDICARE\n\n Anxiety Disorders Indicator - Medicare-Only Data\n\n 29\n\n ASTHMA_COMBINED\n\n Asthma Indicator - Combined Data\n\n 30\n\n ASTHMA_MEDICAID\n\n Asthma Indicator - Medicaid-Only Data\n\n 31\n\n ASTHMA_MEDICARE\n\n Asthma Indicator - Medicare-Only Data\n\n 32\n\n AUTISM_COMBINED\n\n Autism Indicator - Combined Data\n\n 33\n\n AUTISM_MEDICAID\n\n Autism Indicator - Medicaid-Only Data\n\n 34\n\n AUTISM_MEDICARE\n\n Autism Indicator - Medicare-Only Data\n\n 35\n\n BIPL_COMBINED\n\n Bipolar Disorder Indicator -",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

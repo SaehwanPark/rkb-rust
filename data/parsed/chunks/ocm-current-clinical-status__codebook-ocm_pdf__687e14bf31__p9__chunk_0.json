@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-current-clinical-status__codebook-ocm_pdf__687e14bf31__p9__chunk_0",
+  "source_document": "data/raw/assets/pdf/687e14bf310457071225d4833378b7f8cecd7290.pdf",
+  "page": 9,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nCODEBOOK: Medicare Oncology Care Model Files │ May 2024 │ V 1.0 5 \n\nCRNT_CLNCL_STUS \n\nLABEL: Current Clinical Status \n\nDESCRIPTION: Current clinical status. \n\nSHORT NAME: CRNT_CLNCL_STUS \n\nLONG NAME: CRNT_CLNCL_STUS \n\nTYPE: CHAR \n\nLENGTH: 45 \n\nFILE(S): Current clinical status \n\nSOURCE: Oncology Care Model Data Registry \n\nVALUES: Value Description \nDeceased Patient is deceased \nInitial diagnosis Treatment of the disease has started, and",
+  "dataset": "ocm-current-clinical-status",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ocm.pdf"
+}

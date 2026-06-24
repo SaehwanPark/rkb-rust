@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_24",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "was provided)\n\n 151\n\n CLM_OP_TRANS_TYPE_CD\n\n Claim Outpatient transaction type\n\n 152\n\n CLM_OP_ESRD_MTHD_CD\n\n Claim Outpatient End Stage Renal Disease (ESRD) Method of Reimbursement Code\n\n 153\n\n CLM_NEXT_GNRTN_ACO_IND_CD1\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP)\n\n 154\n\n CLM_NEXT_GNRTN_ACO_IND_CD2\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Telehealth\n\n 155\n\n CLM_NEXT_GNRTN_ACO_IND_CD3",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

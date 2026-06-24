@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_16",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Health Services Clinic Taxonomy Indicator — Ever in Calendar Year\n\n 64\n\n HOSP_UNIT_TXNMY_IND\n\n Hospital Unit Provider Taxonomy Indicator — Ever in Calendar Year\n\n 65\n\n HOSP_TXNMY_IND\n\n Hospital Provider Taxonomy Indicator — Ever in Calendar Year\n\n 66\n\n LAB_TXNMY_IND\n\n Laboratory Provider Taxonomy Indicator — Ever in Calendar Year\n\n 67\n\n MCO_TXNMY_IND\n\n Managed Care Organization Taxonomy Indicator — Ever in Calendar Year\n\n 68\n\n NRSNG_CSTDL_CARE_PRVDR_TXNMY_IND\n\n Nursing Custodial Care Provider",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

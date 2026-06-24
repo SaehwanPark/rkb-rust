@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p66__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 66,
+  "text": "Q67C Q67C Q67C\ncnd_cancer Q67D Q67D Q67D Q65D Q62D Q53D Q65D Q51D Q49D\ncnd_copd Q67E Q67E Q67E Q65E Q62E Q53E Q65E Q51E Q49E\ncnd_diabetes Q67F Q67F Q67F Q65F Q62F Q53F Q65F Q51F Q49F\nprob_walking\nprob_dressing\nprob_errands\nim_ﬂu1last* R Q68 Q68 Q68 Q66 Q63 Q54 Q66 Q52 Q50\nim_ﬂu1plan D Q53 Q51\nim_pneum* R Q69 Q69 Q69 Q67 Q64 Q55 Q67 Q54 Q52\nsmokenow Q70 Q70 Q70 Q68 Q65 Q56 Q68 Q55 Q53\nadvsquit D Q56 Q54\nsmokequit Q71 Q71 Q71 Q69 Q66 Q57 Q69\nagecat D Q70 Q67 Q58 Q70 Q57 Q55\nsex D Q71 Q68 Q59 Q71",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

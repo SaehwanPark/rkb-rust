@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_39",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Count) — Total\n\n 7\n\n MDCR_TOTAL_SPEND\n\n Medicare Payment Amount — Total\n\n 8\n\n MDCR_TOTAL_FFS_SPEND\n\n Medicare FFS Payment Amount — Total\n\n 9\n\n MDCD_TOTAL_USE\n\n Medicaid Use (Claim Count) — Total\n\n 10\n\n MDCD_TOTAL_SPEND\n\n Medicaid Payment Amount — Total\n\n 11\n\n MDCD_TOTAL_NON_CAPTD_SPEND\n\n Medicaid Payment Amount — Non-Capitated Total\n\n 12\n\n MDCR_PTA_TOTAL_FFS_USE\n\n Medicare Use (FFS Claim Count) — Part A\n\n 13\n\n MDCR_PTA_TOTAL_FFS_SPEND\n\n Medicare FFS Payment Amount — Part A\n\n 14",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

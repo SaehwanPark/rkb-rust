@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p8__chunk_0",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 8,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF National Death Index Segment Codebook │ May 2026 │ V 2.6 3 \n\nDEATH_CERT_NUM \n\nLABEL: NDI Death Certificate Number \n\nDESCRIPTION: This field represents the death certificate number of the beneficiary. \n\nSHORT NAME: DEATH_CERT_NUM \n\nLONG NAME: DEATH_CERT_NUM \n\nTYPE: CHAR \n\nLENGTH: 6 \n\nSOURCE: Centers for Disease Control and Prevention (CDC) National Death Index (NDI) \n\nVALUES: — \n\nCOMMENT: Numbers are not unique across years.",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

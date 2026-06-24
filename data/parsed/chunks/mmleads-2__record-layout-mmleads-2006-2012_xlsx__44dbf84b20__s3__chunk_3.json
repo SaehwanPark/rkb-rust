@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s3__chunk_3",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 3,
+  "text": "LABX\r\nMDCD_FFS_ACUTE_OTH_MISC\r\nMDCD_FFS_ACUTE_OTH_STERL\r\nMDCD_FFS_ACUTE_OTH_ABORT\r\nMDCD_FFS_ACUTE_OTH_THERAPY\r\nMDCD_FFS_ACUTE_OTH_NMW\r\nMDCD_FFS_ACUTE_OTH_NP\r\nMDCD_FFS_ACUTE_OTH_RELIG\r\nMDCD_FFS_ACUTE_OTH_PSYC\r\nMDCD_FFS_ACUTE_OTH_DENTAL\r\nMDCD_FFS_ACUTE_OTH_UNKW\r\nMDCD_FFS_LTI_IMD\r\nMDCD_FFS_LTI_IPF\r\nMDCD_FFS_LTI_ICF\r\nMDCD_FFS_LTI_NFS\r\nMDCD_FFS_LTN_REHAB_W\r\nMDCD_FFS_LTN_REHAB_NW\r\nMDCD_FFS_LTN_HH_W\r\nMDCD_FFS_LTN_HH_NW\r\nMDCD_FFS_LTN_HOS_W\r\nMDCD_FFS_LTN_HOS_NW\r\nMDCD_FFS_LTN_DME_W\r\nMDCD_FFS_LTN_DME_NW\r\nM",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

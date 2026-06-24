@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_13",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "Group Code (or MS-DRG Code) (FFS)\n\n 65\n\n MS_DRG_GRPR_VRSN_CD\n\n MS-DRG Grouper Version Code\n\n 66\n\n ADMTG_DGNS_CD\n\n Claim Admitting Diagnosis Code (FFS)\n\n 67\n\n PRNCPAL_DGNS_CD\n\n Claim Principal Diagnosis Code (FFS)\n\n 68\n\n ICD_DGNS_CD1\n\n Claim Diagnosis Code I (FFS)\n\n 69\n\n ICD_DGNS_CD2\n\n Claim Diagnosis Code II (FFS)\n\n 70\n\n ICD_DGNS_CD3\n\n Claim Diagnosis Code III (FFS)\n\n 71\n\n ICD_DGNS_CD4\n\n Claim Diagnosis Code IV (FFS)\n\n 72\n\n ICD_DGNS_CD5\n\n Claim Diagnosis Code V (FFS)\n\n 73\n\n ICD_DGNS_CD6\n\n Claim",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

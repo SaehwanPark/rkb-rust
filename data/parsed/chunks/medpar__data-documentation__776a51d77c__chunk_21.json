@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_21",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Stage Renal Disease (ESRD) charge amount ($)\n\n 110\n\n CLNC_VISIT_CHRG_AMT\n\n Clinic Visit Charge Amount ($)\n\n 111\n\n HOSP_AT_HOME_CHRG_AMT\n\n Hospital at Home Room and Board (R&B) Charge Amount\n\n 112\n\n HOSP_AT_HOME_FROM_DT\n\n Hospital at Home Care From Date\n\n 113\n\n HOSP_AT_HOME_THRU_DT\n\n Hospital at Home Care Through Date\n\n 114\n\n ICU_IND_CD \n\n Intensive Care Unit (ICU) Indicator Code\n\n 115\n\n CRNRY_CARE_IND_CD \n\n Coronary Care Unit (CCU) Indicator Code\n\n 116\n\n PHRMCY_IND_CD \n\n Pharmacy Indicator",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p8__chunk_7",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 8,
+  "text": "RECODE : Physical problem limits: bathing DIF \nlim_dressing RECODE : Physical problem limits: dressing DIF \nlim_eating RECODE : Physical problem limits: eating DIF \nlim_chairs RECODE : Physical problem limits: using chairs DIF \nlim_walking RECODE : Physical problem limits: walking DIF \nlim_toilet RECODE : Physical problem limits: using toilet DIF \nweb_at_home RECODE : Do you ever use the internet at home YNA \nrecontact RECODE : Medicare program may recontact about health care services received",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

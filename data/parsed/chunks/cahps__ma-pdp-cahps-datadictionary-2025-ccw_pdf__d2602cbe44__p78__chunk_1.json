@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p78__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 78,
+  "text": "—– —– —– —– —– D Q02C Q02C Q02C\nins_military —– —– —– —– —– D Q02D Q02D Q02D\nins_medicaid —– —– —– —– —– D Q02E Q02E Q02E\nins_ma_pdp —– —– —– —– —– D Q02F Q02F Q02F\nins_other —– —– —– —– —– D Q02G Q02G Q02G\nins_other_txt —– —– —– —– —– D Q02_O Q02_O Q02_O\nins_medicare —– —– —– —– —– D Q02H Q02H Q02H\nca_illness —– —– —– —– —– D Q03 Q03 Q03\nca_illasaw* —– —– —– —– —– D Q04 Q04 Q04\nca_routine —– —– —– —– —– D Q05 Q05 Q05\nca_rtnasaw* —– —– —– —– —– D Q06 Q06 Q06\nca_visits —– —– —– —– —– D Q07 Q07",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

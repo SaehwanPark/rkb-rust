@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_35",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "SNP\r\nI - Institutional SNP\r\nNull/Missing = No Medicare Part D coverage for the month\nEligibility (Medicaid) E_MAS_1 - 12 Monthly Medicaid Maintenance Assistance Status (Source=1st position of uniform eligibility code). January through December 0 - Not eligible for Medicaid\r\n1 - Cash\r\n2 - Medically Needy\r\n3 - Poverty\r\n4 - Other\r\n5 - Section 1115 waiver\r\n9 - Unknown\r\nNull/Missing = No Medicaid coverage during the month\n E_BOE_1 - 12 Monthly Medicaid Basis of Eligibility (Source= 2nd position of",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

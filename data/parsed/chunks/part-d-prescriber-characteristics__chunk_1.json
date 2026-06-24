@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-prescriber-characteristics__chunk_1",
+  "source_document": "data/raw/html/dataset_page/996a716d9a80f27752f95ccaff466c809c729e0b.html",
+  "page": null,
+  "text": "descriptive information for the prescriber identified on a Part D Event file record.\n\nWhat does this file include? (variable highlights)\n\nPrimary Taxonomy Code\n\nPractice location (state)\n\nAcademic or Professional Credential for the prescriber\n\nLinkage variables to the PDE file:\n\nCCW Prescriber Identifier\n\nWhy do researchers request this file?\n\nStudies describing prescribing patterns based on prescriber specialty\n\nEvaluation of clinical outcome based on prescriber characteristics\n\nSpecial",
+  "dataset": "part-d-prescriber-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-prescriber-characteristics?page=1"
+}

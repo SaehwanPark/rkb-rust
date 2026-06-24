@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_21",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "HCPCS Second Modifier Code (FFS)\n\n 13\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (FFS)\n\n 14\n\n REV_CNTR_PMT_MTHD_IND_CD\n\n Revenue Center Payment Method Indicator Code\n\n 15\n\n REV_CNTR_DSCNT_IND_CD\n\n Revenue Center Discount Indicator Code\n\n 16\n\n REV_CNTR_PRCNG_IND_CD\n\n Revenue Center Pricing Indicator Code\n\n 17\n\n REV_CNTR_IDE_NDC_UPC_NUM\n\n Revenue Center IDE, NDC, or UPC Number (FFS)\n\n 18\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (FFS)\n\n 19\n\n REV_CNTR_RATE_AMT\n\n Revenue Center Rate",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

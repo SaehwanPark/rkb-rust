@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p52__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 52,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 41 \n\nMDCD_OT_MC_CAPTD_SPEND \n\nLABEL: Medicaid Managed Care Capitated Payment Amount— Other Services \n\nDESCRIPTION: This variable is the total Medicaid payment amount from all Other Services (OT) claims for capitated \npayments for the beneficiary during the year. \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Other Services Claims file (derived) \n\nVALUES: $ \n\nCOMMENT: CCW calculates this variable as the sum of all MDCD_PD_AMT from",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

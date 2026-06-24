@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_73",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Take Home Amount ($)\n\n 409\n\n OTHR_IMPLANTS_AMT\n\n Medical/Surgical Supplies Other Implants Amount ($)\n\n 410\n\n OTHR_SUPLIES_DVC_AMT\n\n Medical/Surgical Supplies Other Device Amount ($)\n\n 411\n\n INCDNT_RDLGY_AMT\n\n Medical/Surgical Supplies Incident Radiology Amount ($)\n\n 412\n\n INCDNT_DGNSTC_SRVCS_AMT\n\n Medical/Surgical Supplies Incident Diagnostic Services Amount ($)\n\n 413\n\n MDCL_SRGCL_DRSNG_AMT \n\n Medical/Surgical Dressing Amount ($)\n\n 414\n\n INVSTGTNL_DVC_AMT \n\n Medical/Surgical Supplies",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

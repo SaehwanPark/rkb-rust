@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p71__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 71,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 61 \n\nCNTRCT_PBP_NUM \n\nLABEL: Medicare Part C Plan Benefit Package (PBP) Number \n\nDESCRIPTION: The variable is the plan benefit package (PBP) number for the beneficiary’s managed care plan. CMS \nassigns an identifier to each PBP within a contract that a plan sponsor has with CMS. \n\nSHORT NAME: CNTRCT_PBP_NUM \n\nLONG NAME: CNTRCT_PBP_NUM \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: CMS Encounter",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

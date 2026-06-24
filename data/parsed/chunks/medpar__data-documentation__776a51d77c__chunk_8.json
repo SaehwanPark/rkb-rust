@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_8",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "facility\n\n 35\n\n ADMSN_DT \n\n Date beneficiary admitted for Inpatient care or date care started\n\n 36\n\n DSCHRG_DT \n\n Date beneficiary was discharged or died\n\n 37\n\n DSCHRG_DSTNTN_CD\n\n Destination upon discharge from facility code\n\n 38\n\n CVRD_LVL_CARE_THRU_ DT \n\n Date covered level of care ended in a SNF\n\n 39\n\n BENE_DEATH_DT \n\n Date beneficiary died\n\n 40\n\n BENE_DEATH_DT_VRFY_CD \n\n Death Date Verification Code\n\n 41\n\n ADMSN_DEATH_DAY_CNT\n\n Days from date admitted to facility to date of death\n\n 42",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

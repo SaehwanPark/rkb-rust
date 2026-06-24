@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p79__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 79,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 68 \n\nCOPAY_PD_DT \n\nLABEL: Beneficiary Copayment Paid Date \n\nDESCRIPTION: The date the beneficiary paid the copayment amount. \n\nSHORT NAME: COPAY_PD_DT \n\nLONG NAME: COPAY_PD_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): OT header \n\nVALUES: Date (numeric, system dependent) \nNull/missing = Source value is missing or unknown \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

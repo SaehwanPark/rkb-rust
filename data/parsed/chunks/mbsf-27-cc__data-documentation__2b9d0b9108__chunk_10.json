@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_10",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "End-of-Year Indicator \n\n OSTEOPOROSIS_MID \n Osteoporosis Mid-Year Indicator \n\n OSTEOPOROSIS_EVER \n Date that beneficiary first met claims criteria for the osteoporosis indicator \n\n RA_OA \n Rheumatoid Arthritis / Osteoarthritis End-of-Year Indicator \n\n RA_OA_MID \n Rheumatoid Arthritis / Osteoarthritis Mid-Year Indicator \n\n RA_OA_EVER \n Date that beneficiary first met claims criteria for the rheumatoid arthritis/osteoarthritis indicator \n\n STROKE_TIA \n Stroke / Transient Ischemic Attack",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

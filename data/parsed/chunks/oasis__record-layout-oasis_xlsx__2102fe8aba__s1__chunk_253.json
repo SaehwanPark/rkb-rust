@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_253",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "available.\r\n04 = Patient lives alone, occasional / short-term assistance available.\r\n05 = Patient lives alone, no assistance available.\r\n06 = Patient lives with other person(s) in the home, around the clock\r\nassistance available.\r\n07 = Patient lives with other person(s) in the home, regular daytime\r\nassistance available.\r\n08 = Patient lives with other person(s) in the home, regular nighttime\r\nassistance available.\r\n09 = Patient lives with other person(s) in the home, occasional / short-term",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

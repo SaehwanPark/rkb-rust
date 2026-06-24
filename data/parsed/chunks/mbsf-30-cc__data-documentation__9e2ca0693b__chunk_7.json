@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_7",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "Urologic Cancer (kidney, renal pelvis, and ureter) End-of-Year Indicator \n\n CANCER_UROLOGIC_EVER \n Date that beneficiary first met claims criteria for the urologic cancer (kidney, renal pelvis, and ureter) indicator \n\n CATARACT \n Cataract End-of-Year Indicator \n\n CATARACT_EVER \n Date that beneficiary first met claims criteria for the cataract indicator \n\n CHRONICKIDNEY \n Chronic Kidney Disease End-of-Year Indicator \n\n CHRONICKIDNEY_EVER \n Date that beneficiary first met claims criteria for",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

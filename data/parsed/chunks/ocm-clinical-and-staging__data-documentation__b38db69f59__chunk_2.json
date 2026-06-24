@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-clinical-and-staging__data-documentation__b38db69f59__chunk_2",
+  "source_document": "data/raw/html/documentation_page/b38db69f5931b7c4f868a1c199411722e80400c5.html",
+  "page": null,
+  "text": "Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n DOB \n Beneficiary Date of Birth \n\n SEX \n Beneficiary Sex \n\n EPSD_BGN_DT \n Episode Beginning Date \n\n EPSD_END_DT \n Episode Ending Date \n\n DOD \n Beneficiary Date of Death \n\n CNCR_TYPE_ASGNED \n OCM-Assigned Cancer Type \n\n PRFMNC_PRD \n OCM 6 Month Performance Period \n\n RPTD_TO_RGSTRY \n Participant Reported Episode to OCM Registry \n\n ICD10_CNCR_DGNS_CD_RPTD \n ICD10 Cancer Diagnosis Code Reported by Participant \n\n CNCR_TYPE_RPTD",
+  "dataset": "ocm-clinical-and-staging",
+  "url": "https://resdac.org/cms-data/files/ocm-clinical-and-staging/data-documentation"
+}

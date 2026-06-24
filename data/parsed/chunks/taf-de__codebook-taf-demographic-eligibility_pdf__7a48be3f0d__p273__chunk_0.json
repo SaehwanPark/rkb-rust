@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p273__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 273,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 233 \n\nRFRNC_YR \n\nLABEL: Reference Year \n\nDESCRIPTION: This variable represents the year of the data file \n\nSHORT NAME: RFRNC_YR \n\nLONG NAME: RFRNC_YR \n\nTYPE: CHAR \n\nLENGTH: 4 \n\nFILE(S): All demographic and eligibility \n\nSOURCE: CCW (derived) \n\nVALUES: YYYY \n\nCOMMENT: First year possible is 2014. \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

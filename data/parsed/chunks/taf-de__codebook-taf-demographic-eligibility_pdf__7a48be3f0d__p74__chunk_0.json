@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p74__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 74,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 34 \n\nDE_VRSN \n\nLABEL: DE Version Representing the Iteration of the File \n\nDESCRIPTION: Indicator representing the iteration of the file. \n\nSHORT NAME: DE_VRSN \n\nLONG NAME: DE_VRSN \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: Two-digit values from 01–XX \n\nCOMMENT: A version number where the value",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

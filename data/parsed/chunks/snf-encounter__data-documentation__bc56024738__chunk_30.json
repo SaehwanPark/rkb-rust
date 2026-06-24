@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_30",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "Beneficiary Medicare Status Code\n\n 149\n\n TAX_NUM\n\n Provider Tax Number\n\n 150\n\n BENE_STATE\n\n State of beneficiary (postal abbreviation)\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number (Encounter)\n\n 5\n\n LINE_NUM_ORIG\n\n Original Claim Line Number\n\n 6\n\n CLM_THRU_DT\n\n Claim Through Date (Encounter)\n\n 7\n\n REV_CNTR\n\n Revenue Center",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

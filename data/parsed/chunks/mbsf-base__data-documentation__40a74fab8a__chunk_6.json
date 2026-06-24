@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_6",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "Research Triangle Institute (RTI) Race Code \n\n COVSTART \n Medicare Coverage Start Date \n\n ENTLMT_RSN_ORIG \n Original Reason for Entitlement Code \n\n ENTLMT_RSN_CURR \n Current Reason for Entitlement Code \n\n ESRD_IND \n End-Stage Renal Disease (ESRD) Indicator \n\n MDCR_STATUS_CODE_01 \n Medicare Status Code - January \n\n MDCR_STATUS_CODE_02 \n Medicare Status Code - February \n\n MDCR_STATUS_CODE_03 \n Medicare Status Code - March \n\n MDCR_STATUS_CODE_04 \n Medicare Status Code - April",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

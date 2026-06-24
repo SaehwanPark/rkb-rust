@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_18",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "HCPCS_1ST_MDFR_CD \n HCPCS Initial Modifier Code (FFS) \n\n HCPCS_2ND_MDFR_CD \n HCPCS Second Modifier Code (FFS) \n\n BETOS_CD \n Line Berenson-Eggers Type of Service (BETOS) Code \n\n LINE_NCH_PMT_AMT \n Line NCH Medicare Payment Amount \n\n LINE_BENE_PMT_AMT \n Line Payment Amount to Beneficiary \n\n LINE_PRVDR_PMT_AMT \n Line Provider Payment Amount \n\n LINE_BENE_PTB_DDCTBL_AMT \n Line Beneficiary Part B Deductible Amount \n\n LINE_BENE_PRMRY_PYR_CD \n Line Primary Payer Code (if not Medicare)",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

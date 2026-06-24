@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p192__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 192,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 178 \n\nPARTIAL_FLAG \n\nLABEL: Segment Partial County Indicator \n\nDESCRIPTION: Indicates that the plan benefit package (segment) covers only a portion of the county. \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: Blank = Plan benefit package segment covers the whole county or does not vary by segment. \nY = Plan benefit package segment covers only a portion of the",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-hospital__data-documentation__4c60fb8567__chunk_1",
+  "source_document": "data/raw/html/documentation_page/4c60fb85674dcfcd2336e84b45f08d6218aa76fa.html",
+  "page": null,
+  "text": "with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Codebook - AHCAH Hospital\nCCW Record Layout - AHCAH Hospital\n\n SAS Name\n Variable Name\n\n CCN \n CMS Certification Number (Facility Provider Number) \n\n PRVDR_STATE \n Provider State \n\n FAC_TIER",
+  "dataset": "ahcah-hospital",
+  "url": "https://resdac.org/cms-data/files/ahcah-hospital/data-documentation"
+}

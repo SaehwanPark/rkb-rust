@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p196__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 196,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 180 \n\nPPS_PRCR_VRSN _CD \n\nLABEL: Prospective Payment System (PPS) Pricer Version \n\nDESCRIPTION: This variable displays the prospective payment system (PPS) pricer version. \n\nSHORT NAME: PPS_PRCR_VRSN_CD \n\nLONG NAME: PPS_PRCR_VRSN_CD \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This field was new in 2021. \n ^ Back to TOC ^",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

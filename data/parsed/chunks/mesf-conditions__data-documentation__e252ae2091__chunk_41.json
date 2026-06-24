@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_41",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Rheumatoid - Osteo Arthritis Indicator - Medicare-Only\n\n 203\n\n SCD_COMBINED\n\n Sickle Cell Disease Indicator - Combined Data\n\n 204\n\n SCD_MEDICAID\n\n Sickle Cell Disease Indicator- Medicaid Only Data\n\n 205\n\n SCD_MEDICARE\n\n Sickle Cell Disease Indicator - Medicare Only Data\n\n 206\n\n SCHI_COMBINED\n\n Schizophrenia Indicator - Combined Data\n\n 207\n\n SCHI_MEDICAID\n\n Schizophrenia Indicator - Medicaid Only Data\n\n 208\n\n SCHI_MEDICARE\n\n Schizophrenia Indicator - Medicare Only Data\n\n 209\n\n SCHIOT_COMBINED",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

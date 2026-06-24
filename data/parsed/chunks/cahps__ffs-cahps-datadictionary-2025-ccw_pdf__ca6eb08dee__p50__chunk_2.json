@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p50__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 50,
+  "text": "—– —– —– \npd_hlthplan_txt —– —– —– —– —– —– —– —– —– \npd_covrxmeds —– —– \npd_cstryinfo —– —– —– —– —– —– —– —– —– \ncs_cstryinfo Q45 Q45 Q45 Q40 Q40 Q30 Q28 Q27 Q27 \npd_csgetinfo* —– —– —– —– —– —– —– —– —– \ncs_csgetinfo* Q46 Q46 Q46 Q41 Q41 Q31 Q29 Q28 Q28 \npd_csrespect* —– —– —– —– —– —– —– —– —– \ncs_csrespect* Q47 Q47 Q47 Q42 Q42 Q32 Q30 Q29 Q29 \npd_covinfo —– —– —– —– —– —– —– —– —– \npd_getcovinf* —– —– —– —– —– —– —– —– —– \npd_costinfo —– —– —– —– —– —– —– —– —– \npd_getcostinf* —– —– —– —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

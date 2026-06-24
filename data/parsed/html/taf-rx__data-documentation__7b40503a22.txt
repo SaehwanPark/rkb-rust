@@ -1,0 +1,1866 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+T-MSIS Analytic File Pharmacy
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - T-MSIS Analytic File (TAF) Claims
+CCW Record Layout - T-MSIS Analytic File (TAF) Claims
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+      
+
+                                                                             
+
+        
+
+          
+                    
+
+                               
+                               
+                                                Base Claim File 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        BENE_ID
+               
+                                                                                                                                        Encrypted CCW Beneficiary Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        MSIS_ID
+               
+                                                                                                                                        Encrypted State Assigned Beneficiary Unique Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        CLM_ID
+               
+                                                                                                                                        CCW Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        CLM_NUM_ORIG
+               
+                                                                                                                                        Original Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        CLM_NUM_ADJ
+               
+                                                                                                                                        Adjustment Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        CLM_TYPE_CD
+               
+                                                                                                                                        Claim Type Code (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        CROSSOVER_CLM_IND
+               
+                                                                                                                                        Code To Indicate if a Portion of Claim is Paid by Medicare
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        ADJUST_CD
+               
+                                                                                                                                        Claim Adjustment Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        ADJUST_RSN_CD
+               
+                                                                                                                                        Adjustment Reason Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        ADJDCTN_DT
+               
+                                                                                                                                        Adjudication Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        MDCD_PD_DT
+               
+                                                                                                                                        Medicaid Paid Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        CMPND_DRUG_IND
+               
+                                                                                                                                        Compound Drug Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        CLL_CNT
+               
+                                                                                                                                        Claim Line Count - Original
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        CLL_CNT_CALC
+               
+                                                                                                                                        Claim Line Count - Calculated
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRSN_CLM_IND
+               
+                                                                                                                                        Indicator of a Claim for a Person
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        SRVC_TRKNG_TYPE_CD
+               
+                                                                                                                                        Service Tracking Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        FED_SRVC_CTGRY_CD
+               
+                                                                                                                                        Federally Assigned Service Category Code Added During TAF Production
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        BIRTH_DT
+               
+                                                                                                                                        Date of Birth
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        PGM_TYPE_CD
+               
+                                                                                                                                        Program Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        22
+               
+                                                                                                                                        MC_PLAN_ID
+               
+                                                                                                                                        Managed Care Plan Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        23
+               
+                                                                                                                                        WVR_TYPE_CD
+               
+                                                                                                                                        Waiver Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        24
+               
+                                                                                                                                        WVR_ID
+               
+                                                                                                                                        Waiver Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        25
+               
+                                                                                                                                        OTHR_INSRNC_IND
+               
+                                                                                                                                        Indicator Insured is Covered by Another Plan (Not Medicare or Medicaid)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        26
+               
+                                                                                                                                        SECT_1115A_DEMO_IND
+               
+                                                                                                                                        1115(A) Demonstration Participation Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        27
+               
+                                                                                                                                        PRSCRBD_DT
+               
+                                                                                                                                        Prescribed Date (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        28
+               
+                                                                                                                                        RX_FILL_DT
+               
+                                                                                                                                        Prescription Fill Date (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        29
+               
+                                                                                                                                        BLG_PRVDR_ID
+               
+                                                                                                                                        Billing Provider Identification Number (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        30
+               
+                                                                                                                                        BLG_PRVDR_NPI
+               
+                                                                                                                                        Billing Provider NPI
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        31
+               
+                                                                                                                                        BLG_PRVDR_TXNMY_CD
+               
+                                                                                                                                        Billing Provider Taxonomy Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        32
+               
+                                                                                                                                        BLG_PRVDR_SPCLTY_CD
+               
+                                                                                                                                        Billing Provider Specialty Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        33
+               
+                                                                                                                                        PRSCRBNG_PRVDR_ID
+               
+                                                                                                                                        Prescribing Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        34
+               
+                                                                                                                                        PRSCRBNG_PRVDR_NPI
+               
+                                                                                                                                        Prescribing Provider NPI
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        35
+               
+                                                                                                                                        DSPNSNG_PRVDR_ID
+               
+                                                                                                                                        Dispensing Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        36
+               
+                                                                                                                                        DSPNSNG_PRVDR_NPI
+               
+                                                                                                                                        Dispensing Provider NPI
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        37
+               
+                                                                                                                                        PRVDR_LCTN_CD
+               
+                                                                                                                                        Provider Location Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        38
+               
+                                                                                                                                        BRDR_STATE_IND
+               
+                                                                                                                                        Border State Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        39
+               
+                                                                                                                                        FIXD_PYMT_IND
+               
+                                                                                                                                        Fixed Payment Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        40
+               
+                                                                                                                                        SRVC_TRKNG_PYMT_AMT
+               
+                                                                                                                                        Service Tracking Payment Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        41
+               
+                                                                                                                                        PYMT_LVL_IND
+               
+                                                                                                                                        Payment Level Indicator - Header or Line
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        42
+               
+                                                                                                                                        BILLED_AMT
+               
+                                                                                                                                        Total Claim Billed Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        43
+               
+                                                                                                                                        MDCD_ALOWD_AMT
+               
+                                                                                                                                        Total Medicaid Allowed Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        44
+               
+                                                                                                                                        MDCD_PD_AMT
+               
+                                                                                                                                        Total Amount Paid By Medicaid
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        45
+               
+                                                                                                                                        MDCD_COPAY_AMT
+               
+                                                                                                                                        Total Copay Amount Paid by Beneficiary
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        46
+               
+                                                                                                                                        MDCR_DDCTBL_PD_AMT
+               
+                                                                                                                                        Total Medicare Deductible Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        47
+               
+                                                                                                                                        MDCR_COINSRNC_PD_AMT
+               
+                                                                                                                                        Total Medicare Coinsurance Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        48
+               
+                                                                                                                                        COINSRNC_AMT
+               
+                                                                                                                                        Beneficiary Coinsurance Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        49
+               
+                                                                                                                                        COPAY_AMT
+               
+                                                                                                                                        Beneficiary Copayment Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        50
+               
+                                                                                                                                        DDCTBL_AMT
+               
+                                                                                                                                        Beneficiary Deductible Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        51
+               
+                                                                                                                                        COPAY_WVD_IND
+               
+                                                                                                                                        Indicator Signifying Copay was Waived by Provider
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        52
+               
+                                                                                                                                        TP_PD_AMT
+               
+                                                                                                                                        Total Third Party Liability Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        53
+               
+                                                                                                                                        TP_COINSRNC_PD_AMT
+               
+                                                                                                                                        Third Party Coinsurance Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        54
+               
+                                                                                                                                        TP_COPAY_PD_AMT
+               
+                                                                                                                                        Third Party Copayment Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        55
+               
+                                                                                                                                        OTHR_INSRNC_PD_AMT
+               
+                                                                                                                                        Total Other Than Medicare or Medicaid -Insurance Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        56
+               
+                                                                                                                                        OTHR_TP_CLCTN_CD
+               
+                                                                                                                                        Other Third Party Collection Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        57
+               
+                                                                                                                                        FUNDNG_CD
+               
+                                                                                                                                        Code To Indicate Source of Non-Federal Funding
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        58
+               
+                                                                                                                                        FUNDNG_SRC_NON_FED_SHR_CD
+               
+                                                                                                                                        Funding Source Non-Federal Share Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        59
+               
+                                                                                                                                        DA_RUN_ID
+               
+                                                                                                                                        TAF Production Run Identifier (unique for each TAF run)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        60
+               
+                                                                                                                                        TMSIS_RUN_ID
+               
+                                                                                                                                        TMSIS State Data Processing Run Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        61
+               
+                                                                                                                                        RX_VRSN
+               
+                                                                                                                                        Rx Version Representing the Iteration of the File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        62
+               
+                                                                                                                                        RX_FIL_DT
+               
+                                                                                                                                        RX File Date - Represents the Year and Month of the Reporting Period
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        63
+               
+                                                                                                                                        CCW_LD_DT
+               
+                                                                                                                                        CCW Load Date (Claims)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        BENE_ID
+               
+                                                                                                                                        Encrypted CCW Beneficiary Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        MSIS_ID
+               
+                                                                                                                                        Encrypted State Assigned Beneficiary Unique Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        CLM_ID
+               
+                                                                                                                                        CCW Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        LINE_NUM
+               
+                                                                                                                                        Sequential Claim Line Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        CLM_NUM_ORIG
+               
+                                                                                                                                        Original Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        LINE_NUM_ORIG
+               
+                                                                                                                                        Original Claim Line Number (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        CLM_NUM_ADJ
+               
+                                                                                                                                        Adjustment Claim Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        LINE_NUM_ADJ
+               
+                                                                                                                                        Adjustment Claim Line Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        ADJDCTN_DT
+               
+                                                                                                                                        Adjudication Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        LINE_CLAIM_STUS_CD
+               
+                                                                                                                                        Claim Line Status Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        LINE_ADJUST_CD
+               
+                                                                                                                                        Claim Line Adjustment Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        BNFT_TYPE_CD
+               
+                                                                                                                                        Benefit Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        TOS_CD
+               
+                                                                                                                                        Type of Service Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        XIX_SRVC_CTGRY_CD
+               
+                                                                                                                                        CMS-64 Form Category of Service for the Paid Claim
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        XXI_SRVC_CTGRY_CD
+               
+                                                                                                                                        CMS-21 Form Category of Service for the Paid Claim
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        CMS_64_FED_CTGRY_CD
+               
+                                                                                                                                        CMS-64 Form Code for Federal Reimbursement
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        RX_FILL_DT
+               
+                                                                                                                                        Prescription Fill Date (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        NDC
+               
+                                                                                                                                        National Drug Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        NDC_UOM_CD
+               
+                                                                                                                                        NDC Unit of Measure Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        22
+               
+                                                                                                                                        NDC_QTY
+               
+                                                                                                                                        NDC Quantity Dispensed
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        23
+               
+                                                                                                                                        MTRC_DCML_QTY
+               
+                                                                                                                                        Metric Decimal Quantity of Product
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        24
+               
+                                                                                                                                        NDC_QTY_ALOWD
+               
+                                                                                                                                        NDC Quantity Allowed
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        25
+               
+                                                                                                                                        DAYS_SUPPLY
+               
+                                                                                                                                        Days Supply (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        26
+               
+                                                                                                                                        NEW_RX_REFILL_NUM
+               
+                                                                                                                                        New Prescription Indicator (00) or Number of Refills
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        27
+               
+                                                                                                                                        BRND_GNRC_CD
+               
+                                                                                                                                        Brand - Generic Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        28
+               
+                                                                                                                                        DOSAGE_FORM_CD
+               
+                                                                                                                                        Medication Dosage Form Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        29
+               
+                                                                                                                                        REBT_ELGBL_CD
+               
+                                                                                                                                        Rebate Eligible Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        30
+               
+                                                                                                                                        DRUG_UTLZTN_CD
+               
+                                                                                                                                        Drug Utilization Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        31
+               
+                                                                                                                                        RSN_SRVC_CD
+               
+                                                                                                                                        Reason for Service Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        32
+               
+                                                                                                                                        PROF_SRVC_CD
+               
+                                                                                                                                        Professional Service Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        33
+               
+                                                                                                                                        RSLT_SRVC_CD
+               
+                                                                                                                                        Result of Service Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        34
+               
+                                                                                                                                        IMNZTN_TYPE_CD
+               
+                                                                                                                                        Immunization Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        35
+               
+                                                                                                                                        DSPNSNG_FEE_AMT
+               
+                                                                                                                                        Dispensing Fee Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        36
+               
+                                                                                                                                        LINE_BILLED_AMT
+               
+                                                                                                                                        Line Billed Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        37
+               
+                                                                                                                                        LINE_MDCD_ALOWD_AMT
+               
+                                                                                                                                        Line Medicaid Allowed Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        38
+               
+                                                                                                                                        LINE_MDCD_PD_AMT
+               
+                                                                                                                                        Line Medicaid Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        39
+               
+                                                                                                                                        LINE_MDCD_FFS_EQUIV_AMT
+               
+                                                                                                                                        Line Medicaid Fee For Service Equivalent Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        40
+               
+                                                                                                                                        LINE_MDCR_PD_AMT
+               
+                                                                                                                                        Line Medicare Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        41
+               
+                                                                                                                                        LINE_MDCR_DDCTBL_PD_AMT
+               
+                                                                                                                                        Line Medicare Deductible Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        42
+               
+                                                                                                                                        LINE_MDCR_COINSRNC_PD_AMT
+               
+                                                                                                                                        Line Medicare Coinsurance Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        43
+               
+                                                                                                                                        LINE_COPAY_AMT
+               
+                                                                                                                                        Line Beneficiary Copayment Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        44
+               
+                                                                                                                                        LINE_TP_PD_AMT
+               
+                                                                                                                                        Line Third Party Liability Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        45
+               
+                                                                                                                                        LINE_OTHR_INSRNC_PD_AMT
+               
+                                                                                                                                        Line Other Than Medicare or Medicaid -Insurance Paid Amount
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        46
+               
+                                                                                                                                        DA_RUN_ID
+               
+                                                                                                                                        TAF Production Run Identifier (unique for each TAF run)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        47
+               
+                                                                                                                                        TMSIS_RUN_ID
+               
+                                                                                                                                        TMSIS State Data Processing Run Identifier
+               
+                      
+
+
+        
+  
+  
+
+ 
+
+
+
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

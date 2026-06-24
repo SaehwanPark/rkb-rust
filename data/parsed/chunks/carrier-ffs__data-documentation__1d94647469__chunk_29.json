@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_29",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Line Remittance Advice Remark Code \n\nDemonstrations/Innovations Code File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID \n\n NCH_CLM_TYPE_CD \n NCH Claim Type Code \n\n DEMO_ID_SQNC_NUM \n Demonstration sequence number \n\n DEMO_ID_NUM \n Demonstration number \n\n DEMO_INFO_TXT \n Demo information text",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

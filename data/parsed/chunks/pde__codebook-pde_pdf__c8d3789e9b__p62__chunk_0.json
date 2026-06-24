@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p62__chunk_0",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 62,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Part D Event (PDE)/Drug Characteristics Codebook │ July 2025 │ V 1.8 57 \n\nSEX_CD \n\nLABEL: Patient Sex \n\nDESCRIPTION: Sex of the patient as indicated on the event record. \n\nSHORT NAME: SEX_CD \n\nLONG NAME: SEX_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: PDE \n\nVALUES: Blank = Unknown \n1 = Male \n2 = Female \n\nCOMMENT: In 2025 this field was renamed to SEX_CD to comply with Executive Order 14168. \n ^ Back to TOC ^",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p90__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 90,
+  "text": "A. Composites: 2007 to 2025 - MA-PD Survey 90\n\nA. MA-PD Survey\n\nThe following table shows composite crosswalk information for the MA-PD survey.\n\nComposite Item 2025 2024 2023 2022 2021 2020 2019 2018 2017\nYear 19 Year 18 Year 17 Year 16 Year 15 Year 14 Year 13 Year 12 Year 11\n\npdp_getinfo pd_getcovinf D\npd_getcostinf D\npd_infocov\npd_csgetinfo D\npd_csrespect D\n\npdp_getdrug pd_ezrxmeds Q41 Q42 Q42 Q42 Q42 Q42 Q42 Q42\npd_ezrxpharmˆ Q43 Q44 Q44 Q44 Q44 Q44 Q44 Q44\npd_ezrxmailˆ Q45 Q46 Q46 Q46 Q46",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

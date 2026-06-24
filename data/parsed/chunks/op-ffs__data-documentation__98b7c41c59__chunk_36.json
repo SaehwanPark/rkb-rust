@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_36",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Center NDC Quantity Qualifier Code (FFS)\n\n 43\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center Rendering Physician UPIN\n\n 44\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician NPI (FFS)\n\n 45\n\n RNDRNG_PHYSN_SPCLTY_CD\n\n Claim or Revenue Center Rendering Physician Specialty Code\n\n 46\n\n THRPY_CAP_IND_CD1\n\n Therapy cap Indicator 1 Code\n\n 47\n\n THRPY_CAP_IND_CD2\n\n Therapy cap Indicator 2 Code\n\n 48\n\n REV_CNTR_THRPY_RDCTN_AMT\n\n Revenue Center Therapy Reduction Amount\n\n 48\n\n TRNSTNL_DRUG_ADD_ON_PYMT_AMT\n\n Transitional Drug",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

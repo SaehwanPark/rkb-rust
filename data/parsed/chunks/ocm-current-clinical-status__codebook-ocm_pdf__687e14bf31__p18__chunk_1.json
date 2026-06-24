@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-current-clinical-status__codebook-ocm_pdf__687e14bf31__p18__chunk_1",
+  "source_document": "data/raw/assets/pdf/687e14bf310457071225d4833378b7f8cecd7290.pdf",
+  "page": 18,
+  "text": "Diseases, 10\nth Revision, clinical modification (ICD-10-\nCM). \n\nSHORT NAME: ICD10_CNCR_DGNS_CD_RPTD \n\nLONG NAME: ICD10_CNCR_DGNS_CD_RPTD \n\nTYPE: CHAR \n\nLENGTH: 7 \n\nFILE(S): Clinical and Staging \nCurrent Clinical Status \n\nSOURCE: Oncology Care Model Data Registry \n\nVALUES: 3- to 7-digit alphanumeric value (without decimals) \nEx — C50211 \n\nCOMMENT: Practices were required to report clinical and staging data associated with each beneficiary’s assigned \ncancer. \n\n ^ Back to TOC ^",
+  "dataset": "ocm-current-clinical-status",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ocm.pdf"
+}

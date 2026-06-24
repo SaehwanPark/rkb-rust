@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_20",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "NCH Claim Type Code\n\n 6\n\n REV_CNTR\n\n Revenue Center Code (FFS)\n\n 7\n\n REV_CNTR_DT\n\n Revenue Center Date\n\n 8\n\n REV_CNTR_1ST_ANSI_CD\n\n Revenue Center 1st ANSI Code\n\n 9\n\n REV_CNTR_APC_HIPPS_CD\n\n Revenue Center APC or HIPPS Code\n\n 10\n\n HCPCS_CD\n\n Healthcare Common Procedure Coding System (HCPCS) Code (FFS)\n\n 11\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (FFS)\n\n 12\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (FFS)\n\n 13\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (FFS)\n\n 14",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

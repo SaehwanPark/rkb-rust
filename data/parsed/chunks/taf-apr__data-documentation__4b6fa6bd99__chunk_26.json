@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_26",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "— December\n\n 18\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 19\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n APR Enrollment \n\nNumberSAS NameVariable Name\n\n 1\n\n SUBMTG_STATE_PRVDR_ID\n\n Submitting State Provider Identification Number\n\n 2\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 3\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 4\n\n PRVDR_MDCD_CHIP_ENRLMT_CD\n\n Provider State Plan Enrollment Code (Medicaid and/or CHIP)\n\n 5\n\n PRVDR_ENRLMT_STUS_CD\n\n Provider",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

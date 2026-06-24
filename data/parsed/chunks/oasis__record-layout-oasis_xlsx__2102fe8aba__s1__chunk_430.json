@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_430",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "Yes; received from another health care provider (for example, physician, pharmacist)\r\n04 = No; patient offered and declined\r\n05 = No; patient assessed and determined to have medical contraindication(s)\r\n06 = No; not indicated - patient does not meet age/condition guidelines for\r\ninfluenza vaccine\r\n07 = No; inability to obtain vaccine due to declared shortage\r\n08 = No; patient did not receive the vaccine due to reasons other than those listed in responses 4 - 7 CHAR 2 x x x x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

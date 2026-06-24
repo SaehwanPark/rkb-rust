@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p2__chunk_2",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 2,
+  "text": "SUBMTG_STATE_CD for MT TPA (94) and \nWY CHIP (93) \n 1.7 \n\nDecember 2023 K. Schneider Added comment to BENE_ZIP_CD regarding field length 1.6 \nOctober 2022 K. Schneider • Added new variables to the DE base file: ELGBL_AFTR_EOY_IND \nand ELGBLTY_CHG_RSN_CD_01- ELGBLTY_CHG_RSN_CD_12 \n• Added valid new value for RACE_ETHNCTY_CD and \nRACE_ETHNCTY_EXP_CD \n 1.5 \n\nNovember 2021 K. Schneider • Adjusted the descriptions for those variables populated using \nthe \"latest\" methodology which also look back to",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

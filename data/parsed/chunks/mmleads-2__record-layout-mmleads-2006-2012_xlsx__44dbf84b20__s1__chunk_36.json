@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_36",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "No Medicaid coverage during the month\n E_BOE_1 - 12 Monthly Medicaid Basis of Eligibility (Source= 2nd position of uniform eligibility code). January through December 0 - Not eligible for Medicaid\r\n1 - Aged\r\n2 - Blind/disabled\r\n4 - Child\r\n5 - Adult\r\n6 - Child of unemployed adult\r\n7 - Unemployed Adult\r\n8 - Foster care child\r\nA - Covered under Breast and Cervical Cancer Prevention Act\r\n9 - Unknown\r\nNull/Missing = No Medicaid coverage during the month\n E_MAS Annual Medicaid Maintenance Assisstance",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

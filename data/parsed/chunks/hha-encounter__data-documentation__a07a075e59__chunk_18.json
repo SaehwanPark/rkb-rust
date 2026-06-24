@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_18",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Code Sequence \n\n CLM_RLT_OCRNC_CD \n Claim Related Occurrence Code (Encounter) \n\n CLM_RLT_OCRNC_DT \n Claim Related Occurrence Date (Encounter) \n\nSpan Code File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n RLT_SPAN_CD_SEQ \n Claim Related Span Code Sequence \n\n CLM_SPAN_CD \n Claim Occurrence Span Code (Encounter) \n\n CLM_SPAN_FROM_DT \n Claim Occurrence Span From Date (Encounter) \n\n CLM_SPAN_THRU_DT",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

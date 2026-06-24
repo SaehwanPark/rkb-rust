@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p50__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 50,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 34 \n\nBENE_SEX_CD \n\nLABEL: Sex of Beneficiary \n\nDESCRIPTION: The sex of the beneficiary \n\nSHORT NAME: SEX \n\nLONG NAME: BENE_SEX_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: 0 = Unknown \n2 = Female \n1 = Male \n\nCOMMENT: This field comes from the sex code that is present on the first claim record included in the stay. \n\n^ Back to TOC ^",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

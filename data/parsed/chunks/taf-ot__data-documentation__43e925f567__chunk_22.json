@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_22",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Line Procedure Code System/Nomenclature\n\n 28\n\n LINE_PRCDR_MDFR_CD_1\n\n Line Procedure Code Modifier Code 1\n\n 29\n\n LINE_PRCDR_MDFR_CD_2\n\n Line Procedure Code Modifier Code 2\n\n 30\n\n LINE_PRCDR_MDFR_CD_3\n\n Line Procedure Code Modifier Code 3\n\n 31\n\n LINE_PRCDR_MDFR_CD_4\n\n Line Procedure Code Modifier Code 4\n\n 32\n\n LINE_PRCDR_CCS_CTGRY_CD \n\n Line Procedure AHRQ Clinical Classifications Software Refined (CCSR) Category Cd\n\n 33\n\n NDC\n\n National Drug Code\n\n 34\n\n NDC_UOM_CD\n\n NDC Unit of Measure Code",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

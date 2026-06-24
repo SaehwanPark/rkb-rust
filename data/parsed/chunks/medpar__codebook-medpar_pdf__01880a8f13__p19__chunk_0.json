@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p19__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 19,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 3 \n\nACTV_XREF_IND \n\nLABEL: MEDPAR Active Cross Reference Indicator \n\nDESCRIPTION: The code indicating whether the claim number originated from a cross-reference. \n\nSHORT NAME: ACTV_XREF_IND \n\nLONG NAME: ACTV_XREF_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: X = Cross-Reference \nA = Active \n\nCOMMENT: This field is always missing. \n ^ Back to TOC ^",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

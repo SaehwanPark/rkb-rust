@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p132__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 132,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 121 \n\nHOSP_TYPE_CD \n\nLABEL: Hospital Type Code \n\nDESCRIPTION: This code denotes the type of hospital on the claim (servicing provider). \n\nSHORT NAME: HOSP_TYPE_CD \n\nLONG NAME: HOSP_TYPE_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \n\nVALUES: 00 = Not a hospital \n01 = Inpatient Hospital \n02 = Outpatient Hospital \n03 = Critical Access Hospital",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

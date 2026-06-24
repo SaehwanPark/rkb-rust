@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_13",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicaid — Integrated care for Dual Eligible Months\n\n 60\n\n MDCD_WVR_1115_TYPE_CD\n\n Medicaid — 1115 Waiver Type Code — Latest in Year\n\n 61\n\n MDCD_WVR_1915C_TYPE_CD\n\n Medicaid — 1915(c) Waiver Type Code — Latest in Year\n\n 62\n\n MDCD_WVR_1915B_MOS\n\n Medicaid — 1915(b) Waiver Months\n\n 63\n\n MDCD_WVR_1915C_TYPE_CD\n\n Medicaid — 1915(c) Waiver Type Code — Latest in Year\n\n 64\n\n MDCD_WVR_1915BC_MOS\n\n Medicaid — 1915(b)(c) Waiver Months\n\n 65\n\n MDCR_LTCH_MOS\n\n Medicare — Long-Term Care Hospital Months (from",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

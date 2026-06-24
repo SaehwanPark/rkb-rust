@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_3",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "1 Assignment \n\n Q2_ASSIGN \n Beneficiary assigned to ACO during Quarter 2 Assignment \n\n Q3_ASSIGN \n Beneficiary assigned to ACO during Quarter 3 Assignment \n\n Q4_ASSIGN \n Beneficiary assigned to ACO during Quarter 4 Assignment \n\n FINAL_ASSIGN \n Beneficiary assigned to ACO during Final Reconciliation \n\n PRELIM_AB_ELIG_MONTHS \n Parts A and B Eligible Months in Preliminary Period \n\n FINAL_PTD_ELIG_MONTHS \n Part D Eligible Months \n\n BIRTH_DT \n Date of Birth \n\n DEATH_DT \n Date of Death \n\n SEX_CD",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

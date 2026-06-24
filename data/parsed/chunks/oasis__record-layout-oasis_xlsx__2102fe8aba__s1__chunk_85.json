@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_85",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "listener. Speech limited to single words or short phrases.\r\n04 = Unable to express basic needs even with maximal prompting or assistance but is not comatose or unresponsive (e.g., speech is nonsensical or unintelligible), \r\n05 = Patient unresponsive or unable to speak. CHAR 2 x x\nM0420_FREQ_PAIN (M0420) Frequency of Pain Frequency of pain interfering with patient's activity or movement. 00 = Patient has no pain or pain does not interfere with activity or movement.\r\n01 = Less often than",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_652",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "CHAR 1 This column documents whether, at the time of discharge, the patient was receiving transfustions. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n609 DLYS_ADMSN_CD DLYS_ADMSN_CD Other: Dialysis (Admission) CHAR 1 This column documents whether, at the time of admission, the patient was receiving dialysis. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n610 DLYS_DSCHRG_CD DLYS_DSCHRG_CD Other: Dialysis (Discharge) CHAR 1 This column documents whether, at the time of discharge, the",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

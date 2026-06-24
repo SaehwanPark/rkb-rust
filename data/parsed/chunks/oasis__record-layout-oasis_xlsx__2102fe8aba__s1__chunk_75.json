@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_75",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "x\nM0370_FREQ_PRM_AST (M0370) Frequency Patient Receives Assistance How often does patient receive assistance from primary caregiver. 01 = Several times during day and night.\r\n02 = Several times during day. \r\n03 = Once daily.\r\n04 = Three or more times per week.\r\n05 = One to two times per week.\r\n06 = Less often than weekly.\r\nUK = Unknown. CHAR 2 x x\nM0380_CA_ADL (M0380) ADL Assistance Type of primary caregiver assistance: ADL assistance. 0 = No, 1 = Yes, Spaces = Unknown. CHAR 1 x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

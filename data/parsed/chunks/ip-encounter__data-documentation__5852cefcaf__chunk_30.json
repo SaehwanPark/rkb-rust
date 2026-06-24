@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__data-documentation__5852cefcaf__chunk_30",
+  "source_document": "data/raw/html/documentation_page/5852cefcaf4dca5dba3392a521caae7b6816e9f1.html",
+  "page": null,
+  "text": "Provider Tax Number\n\n 150\n\n BENE_STATE\n\n State of beneficiary (postal abbreviation)\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number (Encounter)\n\n 5\n\n LINE_NUM_ORIG\n\n Original Claim Line Number\n\n 6\n\n CLM_THRU_DT\n\n Claim Through Date (Encounter)\n\n 7\n\n REV_CNTR\n\n Revenue Center Code (Encounter)\n\n 8\n\n REV_CNTR_FROM_DT\n\n Revenue",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter/data-documentation"
+}

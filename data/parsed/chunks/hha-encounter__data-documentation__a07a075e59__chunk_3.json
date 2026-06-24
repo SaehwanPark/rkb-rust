@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_3",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Claim Through Date (Encounter) \n\n SRVC_MONTH \n Service Month \n\n CLM_CHRT_RVW_SW \n Claim Chart Review Switch \n\n CLM_CNTL_NUM \n Claim Control Number \n\n CLM_ORIG_CNTL_NUM \n Claim Original Control Number \n\n CLM_FINL_ACTN_IND \n Claim Final Action Indicator \n\n CLM_LTST_CLM_IND \n Latest Claim Indicator \n\n EDPS_CREATE_DT \n Encounter Data Processing System (EDPS) Create Date \n\n CLM_RCPT_DT \n Claim Receipt Date \n\n CLM_FAC_TYPE_CD \n Claim Facility Type Code (Encounter) \n\n CLM_SRVC_CLSFCTN_TYPE_CD",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

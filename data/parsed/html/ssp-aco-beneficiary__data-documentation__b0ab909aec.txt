@@ -1,0 +1,736 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Shared Savings Program Accountable Care Organizations Beneficiary-level
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Record Layout - SSP ACO Beneficiary
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      BENE_ACO_YEAR        
+                                                                      Year of ACO file        
+          
+
+      
+
+                                                                      BENE_ACO_QTR        
+                                                                      Quarter of ACO file        
+          
+
+      
+
+                                                                      ACO_NUM        
+                                                                      ACO Identifier        
+          
+
+      
+
+                                                                      ACO_NAME        
+                                                                      ACO Name        
+          
+
+      
+
+                                                                      START_DATE        
+                                                                      ACO Agreement Start Date        
+          
+
+      
+
+                                                                      PRELIM_ASSIGN        
+                                                                      Beneficiary assigned to ACO during Prospective/Preliminary Prospective Assignment        
+          
+
+      
+
+                                                                      Q1_ASSIGN        
+                                                                      Beneficiary assigned to ACO during Quarter 1 Assignment        
+          
+
+      
+
+                                                                      Q2_ASSIGN        
+                                                                      Beneficiary assigned to ACO during Quarter 2 Assignment        
+          
+
+      
+
+                                                                      Q3_ASSIGN        
+                                                                      Beneficiary assigned to ACO during  Quarter 3 Assignment        
+          
+
+      
+
+                                                                      Q4_ASSIGN        
+                                                                      Beneficiary assigned to ACO during Quarter 4 Assignment        
+          
+
+      
+
+                                                                      FINAL_ASSIGN        
+                                                                      Beneficiary assigned to ACO during Final Reconciliation        
+          
+
+      
+
+                                                                      PRELIM_AB_ELIG_MONTHS        
+                                                                      Parts A and B Eligible Months in Preliminary Period        
+          
+
+      
+
+                                                                      FINAL_PTD_ELIG_MONTHS        
+                                                                      Part D Eligible Months        
+          
+
+      
+
+                                                                      BIRTH_DT        
+                                                                      Date of Birth        
+          
+
+      
+
+                                                                      DEATH_DT        
+                                                                      Date of Death        
+          
+
+      
+
+                                                                      SEX_CD        
+                                                                      Sex        
+          
+
+      
+
+                                                                      RACE_CD        
+                                                                      Race        
+          
+
+      
+
+                                                                      M01_ENROLL        
+                                                                      January 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M02_ENROLL        
+                                                                      February 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M03_ENROLL        
+                                                                      March 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M04_ENROLL        
+                                                                      April 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M05_ENROLL        
+                                                                      May 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M06_ENROLL        
+                                                                      June 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M07_ENROLL        
+                                                                      July 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M08_ENROLL        
+                                                                      August 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M09_ENROLL        
+                                                                      September 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M10_ENROLL        
+                                                                      October 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M11_ENROLL        
+                                                                      November 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      M12_ENROLL        
+                                                                      December 2021 Enrollment Flag        
+          
+
+      
+
+                                                                      ADI_NATRANK        
+                                                                      ADI National Percentile Rank        
+          
+
+      
+
+                                                                      BENE_LIS_STATUS        
+                                                                      LIS Status        
+          
+
+      
+
+                                                                      IN_VA_MAX        
+                                                                      Voluntary Alignment Flag        
+          
+
+      
+
+                                                                      CBA_FLAG        
+                                                                      Claims-Based Assignment Flag        
+          
+
+      
+
+                                                                      ESRD_SCORE        
+                                                                      CMS-HCC Risk Score for ESRD Status        
+          
+
+      
+
+                                                                      DIS_SCORE        
+                                                                      CMS-HCC Risk Score for Disabled Status        
+          
+
+      
+
+                                                                      AGDU_SCORE        
+                                                                      CMS-HCC Risk Score for Aged/Dual Status        
+          
+
+      
+
+                                                                      AGND_SCORE        
+                                                                      CMS-HCC Risk Score for Aged/Non-dual Status        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_01        
+                                                                      Monthly CMS-HCC Risk Score 1        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_02        
+                                                                      Monthly CMS-HCC Risk Score 2        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_03        
+                                                                      Monthly CMS-HCC Risk Score 3        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_04        
+                                                                      Monthly CMS-HCC Risk Score 4        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_05        
+                                                                      Monthly CMS-HCC Risk Score 5        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_06        
+                                                                      Monthly CMS-HCC Risk Score 6        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_07        
+                                                                      Monthly CMS-HCC Risk Score 7        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_08        
+                                                                      Monthly CMS-HCC Risk Score 8        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_09        
+                                                                      Monthly CMS-HCC Risk Score 9        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_10        
+                                                                      Monthly CMS-HCC Risk Score 10        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_11        
+                                                                      Monthly CMS-HCC Risk Score 11        
+          
+
+      
+
+                                                                      BENE_RSK_R_SCRE_12        
+                                                                      Monthly CMS-HCC Risk Score 12        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_37",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Revenue Center Therapy Reduction Amount\n\n 48\n\n TRNSTNL_DRUG_ADD_ON_PYMT_AMT\n\n Transitional Drug Add-On Payment Amount\n\n 49\n\n REV_CNTR_RP_IND_CD\n\n Revenue Center Representative Payee (RP) Indicator Code\n\n 50\n\n RC_MODEL_REIMBRSMT_AMT\n\n Revenue Center Model Reimbursement Amount\n\n 51\n\n RC_VLNTRY_SRVC_IND_CD\n\n Revenue Center Voluntary Service Indicator Code\n\n 52\n\n ORDRG_PHYSN_NPI\n\n Revenue Center Ordering Physician NPI\n\n 53\n\n REV_CNTR_ADJUST_GRP_CD\n\n Revenue Center Adjustment Group Code\n\n 54",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p64__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 64,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 48 \n\nCLM_RP_IND_CD \n\nLABEL: Claim Representative Payee (RP) Indicator Code \n\nDESCRIPTION: This is a claim level field to designate bypassing of the prior authorization processing for claims with a \nrepresentative payee when an 'R' is present in the field. \n\nSHORT NAME: CLM_RP_IND_CD \n\nLONG NAME: CLM_RP_IND_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: R = bypass representative payee \n\nCOMMENT:",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

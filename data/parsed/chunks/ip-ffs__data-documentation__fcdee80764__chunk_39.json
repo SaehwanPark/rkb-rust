@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_39",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "BENE_STATE_CD\n\n Beneficiary Residence (SSA) State Code (FFS)\n\n 207\n\n BENE_MLG_CNTCT_ZIP_CD\n\n Zip Code of Residence from Claim\n\n 208\n\n CLM_MDCL_REC\n\n Claim Medical Record Number (FFS)\n\n 209\n\n CLM_TRTMT_AUTHRZTN_NUM\n\n Claim Treatment Authorization Number\n\n 210\n\n CLM_PRCR_RTRN_CD\n\n Claim Pricer Return Code\n\n 211\n\n CLM_PRCR_VRSN_CD\n\n Claim Pricer Version Code\n\n 212\n\n CLM_SRVC_FAC_ZIP_CD\n\n Claim service facility ZIP code (where service was provided)\n\n 213\n\n CLM_IP_LOW_VOL_PMT_AMT\n\n Claim Inpatient",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

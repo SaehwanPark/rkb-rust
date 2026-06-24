@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_74",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Medical/Surgical Dressing Amount ($)\n\n 414\n\n INVSTGTNL_DVC_AMT \n\n Medical/Surgical Supplies Investigational Device Amount ($)\n\n 415\n\n MDCL_SRGCL_MISC_AMT \n\n Medical Surgical Miscellaneous Amount ($)\n\n 416\n\n RDLGY_ONCOLOGY_AMT \n\n Oncology Amount ($)\n\n 417\n\n RDLGY_DGNSTC_AMT \n\n Radiology Diagnostic Amount ($)\n\n 418\n\n RDLGY_THRPTC_AMT \n\n Radiology Therapeutic Amount ($)\n\n 419\n\n RDLGY_NUCLR_MDCN_AMT \n\n Radiology Nuclear Medicine Amount ($)\n\n 420\n\n RDLGY_CT_SCAN_AMT \n\n Radiology CT Scan Amount",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

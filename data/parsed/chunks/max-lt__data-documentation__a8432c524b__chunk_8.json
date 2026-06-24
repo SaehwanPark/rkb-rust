@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-lt__data-documentation__a8432c524b__chunk_8",
+  "source_document": "data/raw/html/documentation_page/a8432c524b85150fc96bbb6683c157ef98a21669.html",
+  "page": null,
+  "text": "NRSNG_FAC_DAY_CNT \n Nursing facility days \n\n LT_CARE_LVE_DAY_CNT \n Leave days \n\n PATIENT_STATUS_CD \n Patient status \n\n PATIENT_LIB_AMT \n Patient liability amount \n\n UPDT_DT \n MAX File Update Date",
+  "dataset": "max-lt",
+  "url": "https://resdac.org/cms-data/files/max-lt/data-documentation"
+}

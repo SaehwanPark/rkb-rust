@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__codebook-ptd-plan-election-type-beneficiary-summary-file_pdf__d89f73f952__p3__chunk_0",
+  "source_document": "data/raw/assets/pdf/d89f73f9524b703a2cac0a3ae5eee514c245464b.pdf",
+  "page": 3,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Beneficiary Plan Election and Auto-Assignment │ October 2021 │ V 1.3 i \n\nRevision Log \n\nDate Changed by Revisions Version \nOctober 2021 D. Happe Put on the 2020 template 1.3 \n\nFebruary 2019 K. Schneider Added value (“N”) for ENRLMT_TYPE_CD 1.2 \n\nAugust 2018 K. Schneider Adjusted data source; description of Audit sequence \n(AUDT_SQNC_NUM) number 1.1 \n\nOctober 2017 K. Schneider \nC. Alleman Initial release of codebook \nAuto-Assignment files",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-election-type-beneficiary-summary-file.pdf"
+}

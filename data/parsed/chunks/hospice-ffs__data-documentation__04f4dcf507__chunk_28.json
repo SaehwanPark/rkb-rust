@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_28",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "Claim Related Value Code Sequence\n\n 5\n\n CLM_VAL_CD\n\n Claim Value Code (FFS)\n\n 6\n\n CLM_VAL_AMT\n\n Claim Value Amount\n\n Demonstrations/Innovations Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n DEMO_ID_SQNC_NUM\n\n Demonstration sequence number\n\n 5\n\n DEMO_ID_NUM\n\n Demonstration number\n\n 6\n\n DEMO_INFO_TXT\n\n Demo information text",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

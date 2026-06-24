@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_5",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "Claim Referring Physician NPI Number \n\n PRNCPAL_DGNS_CD \n Claim Principal Diagnosis Code (Encounter) \n\n PRNCPAL_DGNS_VRSN_CD \n Claim Principal Diagnosis Version Code (Encounter) \n\n ICD_DGNS_CD1 \n Claim Diagnosis Code 1 (Encounter) \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code 1 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD2 \n Claim Diagnosis Code 2 (Encounter) \n\n ICD_DGNS_VRSN_CD2 \n Claim Diagnosis Code 2 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD3",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p80__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 80,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 69 \n\nMDCR_BUYIN_01 \n\nMDCR_BUYIN_02 \n\nMDCR_BUYIN_03 \n\nMDCR_BUYIN_04 \n\nMDCR_BUYIN_05 \n\nMDCR_BUYIN_06 \n\nMDCR_BUYIN_07 \n\nMDCR_BUYIN_08 \n\nMDCR_BUYIN_09 \n\nMDCR_BUYIN_10 \n\nMDCR_BUYIN_11 \n\nMDCR_BUYIN_12 \n\nLABEL: Medicare — Entitlement/Buy-In Indicator — January–December (01–12) \n\nDESCRIPTION: This variable is the monthly Medicare Part A and/or Part B entitlement indicator. There are separate \nvariables for each of the 12 months",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

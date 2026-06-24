@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p2__chunk_0",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 2,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF National Death Index Segment Codebook │ May 2026 │ V 2.6 i \n\nRevision Log \n\nDate Changed by Revisions Version \nMay 2026 K. Schneider Added values to NDI_STATE_DEATH_CD 2.6 \nApril 2026 K. Schneider Updated CDC reference for ICD_CODE_113, ICD_CODE_130, and \nICD_CODE_358, and added ICD codes U07.0 and U07.1 to \nappropriate categories \n 2.5 \n\nDecember 2023 K. Schneider Clarified available years for variables 2.4 \nFebruary 2021 C.",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

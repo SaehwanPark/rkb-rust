@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_32",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Center Unit Count (FFS)\n\n 25\n\n REV_CNTR_RATE_AMT\n\n Revenue Center Rate Amount\n\n 26\n\n REV_CNTR_BLOOD_DDCTBL_AMT\n\n Revenue Center Blood Deductible Amount\n\n 27\n\n REV_CNTR_CASH_DDCTBL_AMT\n\n Revenue Center Cash Deductible Amount\n\n 28\n\n REV_CNTR_COINSRNC_WGE_ADJSTD_C\n\n Revenue Center Coinsurance/Wage Adjusted Coinsurance Amount\n\n 29\n\n REV_CNTR_RDCD_COINSRNC_AMT\n\n Revenue Center Reduced Coinsurance Amount\n\n 30\n\n REV_CNTR_1ST_MSP_PD_AMT\n\n Revenue Center 1st Medicare Secondary Payer (MSP) Paid Amount",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

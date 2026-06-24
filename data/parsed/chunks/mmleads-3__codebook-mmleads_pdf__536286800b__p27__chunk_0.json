@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p27__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 27,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 16 \n\nMDCD_ELGBLTY_GRP_CD_01 \n\nMDCD_ELGBLTY_GRP_CD_02 \n\nMDCD_ELGBLTY_GRP_CD_03 \n\nMDCD_ELGBLTY_GRP_CD_04 \n\nMDCD_ELGBLTY_GRP_CD_05 \n\nMDCD_ELGBLTY_GRP_CD_06 \n\nMDCD_ELGBLTY_GRP_CD_07 \n\nMDCD_ELGBLTY_GRP_CD_08 \n\nMDCD_ELGBLTY_GRP_CD_09 \n\nMDCD_ELGBLTY_GRP_CD_10 \n\nMDCD_ELGBLTY_GRP_CD_11 \n\nMDCD_ELGBLTY_GRP_CD_12 \n\nLABEL: Medicaid — Eligibility Group Code — January–December (01–12) \n\nDESCRIPTION: The eligibility group applicable to the",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

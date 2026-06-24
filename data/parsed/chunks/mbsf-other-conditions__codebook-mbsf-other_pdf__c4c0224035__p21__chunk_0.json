@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__codebook-mbsf-other_pdf__c4c0224035__p21__chunk_0",
+  "source_document": "data/raw/assets/pdf/c4c02240350e73a79a885b327567f3b5714475c3.pdf",
+  "page": 21,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF Other Chronic or Potentially Disabling Conditions Segment Codebook │ August 2025 │ V 1.7 15 \n\nCHRONICPAIN_MEDICARE \n\nLABEL: Chronic Pain End-of-Year Indicator — Medicare Only Claims \n\nDESCRIPTION: This variable indicates whether a beneficiary met the condition criteria for chronic pain as of the end \nof the calendar year. \n\nSHORT NAME: CHRONICPAIN_MEDICARE \n\nLONG NAME: CHRONICPAIN_MEDICARE \n\nTYPE: NUM \n\nLENGTH: 1 \n\nSOURCE: CCW",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-other.pdf"
+}

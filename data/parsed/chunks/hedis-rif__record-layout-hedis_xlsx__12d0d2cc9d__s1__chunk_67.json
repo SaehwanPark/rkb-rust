@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hedis-rif__record-layout-hedis_xlsx__12d0d2cc9d__s1__chunk_67",
+  "source_document": "data/raw/assets/xlsx/12d0d2cc9dacbb09dd6e9287b10bee19e1a205f6.xlsx",
+  "page": 1,
+  "text": "Utiliztn (MPT) Nmrtr: Member Receiving IOP or Partl Hosp Svcs Ind NUM 3 109 141 183 — —\nMPT_NMRTR_OP_ED_SRVC_IND Mental Health Utilization (MPT) Nmrtr: Member Receiving OP or ED Services Ind NUM 3 110 — — — —\nMPT_NMRTR_OP_SRVC_IND Mental Health Utilization (MPT) Nmrtr: Member Receiving Outpatient Services Ind NUM 3 — 142 184 — —\nMPT_NMRTR_ED_SRVC_IND Mental Health Utilization (MPT) Nmrtr: Mmbr Receiving Emergncy Dept Services Ind NUM 3 — 143 185 — —\nMPT_NMRTR_TLHLTH_SRVC_IND Mental Health",
+  "dataset": "hedis-rif",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-hedis.xlsx"
+}

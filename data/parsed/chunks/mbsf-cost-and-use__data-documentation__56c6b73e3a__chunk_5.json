@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_5",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Payer Amount \n\n SNF_STAYS \n Skilled Nursing Facility Stays \n\n SNF_COV_DAYS \n Skilled Nursing Facility Medicare Covered Days \n\n HOS_MDCR_PMT \n Hospice Medicare Payments \n\n HOS_PRMRY_PMT \n Hospice Primary Payer Amount \n\n HOS_STAYS \n Hospice Stays \n\n HOS_COV_DAYS \n Hospice Medicare Covered Days \n\n HH_MDCR_PMT \n Home Health Medicare Payments \n\n HH_PRMRY_PMT \n Home Health Primary Payer Amount \n\n HH_VISITS \n Home Health Visits \n\n HOP_BENE_PMT \n Hospital Outpatient Beneficiary Payments \n\n HOP_MDCR_PMT",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

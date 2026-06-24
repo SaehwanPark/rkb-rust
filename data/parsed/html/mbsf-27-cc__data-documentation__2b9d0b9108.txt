@@ -1,0 +1,941 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Master Beneficiary Summary File 27 CCW Chronic Conditions
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - MBSF 27 CCW Chronic Conditions
+CCW Record Layout - MBSF 27 CCW Chronic Conditions
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      BENE_ENROLLMT_REF_YR        
+                                                                      Reference Year (MBSF)        
+          
+
+      
+
+                                                                      ENRL_SRC        
+                                                                      Enrollment Source        
+          
+
+      
+
+                                                                      AMI        
+                                                                      Acute Myocardial Infarction End-of-Year Indicator        
+          
+
+      
+
+                                                                      AMI_MID        
+                                                                      Acute Myocardial Infarction Mid-Year Indicator        
+          
+
+      
+
+                                                                      AMI_EVER        
+                                                                      Date that beneficiary first met claims criteria for the AMI indicator        
+          
+
+      
+
+                                                                      ALZH        
+                                                                      Alzheimer's Disease End-of-Year Indicator        
+          
+
+      
+
+                                                                      ALZH_MID        
+                                                                      Alzheimer's Disease Mid-Year Indicator        
+          
+
+      
+
+                                                                      ALZH_EVER         
+                                                                      Date that beneficiary first met claims criteria for the Alzheimer’s disease indicator        
+          
+
+      
+
+                                                                      ALZH_DEMEN        
+                                                                      Alzheimer's Disease and Related Disorders or Senile Dementia End-of-Year Indicator        
+          
+
+      
+
+                                                                      ALZH_DEMEN_MID        
+                                                                      Alzheimer's Disease and Related Disorders or Senile Dementia Mid-Year Indicator        
+          
+
+      
+
+                                                                      ALZH_DEMEN_EVER        
+                                                                      Date that beneficiary first met claims criteria for the Alzheimer's disease and related disorders or senile dementia indicator        
+          
+
+      
+
+                                                                      ATRIAL_FIB        
+                                                                      Atrial Fibrillation End-of-Year Indicator        
+          
+
+      
+
+                                                                      ATRIAL_FIB_MID         
+                                                                      Atrial Fibrillation Mid-Year Indicator        
+          
+
+      
+
+                                                                      ATRIAL_FIB_EVER         
+                                                                      Date that beneficiary first met claims criteria for the atrial fibrillation indicator        
+          
+
+      
+
+                                                                      CATARACT        
+                                                                      Cataract End-of-Year Indicator        
+          
+
+      
+
+                                                                      CATARACT_MID        
+                                                                      Cataract Mid-Year Indicator        
+          
+
+      
+
+                                                                      CATARACT_EVER        
+                                                                      Date that beneficiary first met claims criteria for the cataract indicator        
+          
+
+      
+
+                                                                      CHRONICKIDNEY         
+                                                                      Chronic Kidney Disease End-of-Year Indicator        
+          
+
+      
+
+                                                                      CHRONICKIDNEY_MID         
+                                                                      Chronic Kidney Disease Mid-Year Indicator        
+          
+
+      
+
+                                                                      CHRONICKIDNEY_EVER        
+                                                                      Date that beneficiary first met claims criteria for the chronic kidney disease indicator        
+          
+
+      
+
+                                                                      COPD        
+                                                                      Chronic Obstructive Pulmonary Disease End-of-Year Indicator        
+          
+
+      
+
+                                                                      COPD_MID        
+                                                                      Chronic Obstructive Pulmonary Disease Mid-Year Indicator        
+          
+
+      
+
+                                                                      COPD_EVER        
+                                                                      Date that beneficiary first met claims criteria for the COPD and bronchiectasis indicator        
+          
+
+      
+
+                                                                      CHF        
+                                                                      Heart Failure End-of-Year Indicator        
+          
+
+      
+
+                                                                      CHF_MID        
+                                                                      Heart Failure Mid-Year Indicator        
+          
+
+      
+
+                                                                      CHF_EVER         
+                                                                      Date that beneficiary first met claims criteria for the congestive heart failure indicator        
+          
+
+      
+
+                                                                      DIABETES        
+                                                                      Diabetes End-of-Year Indicator        
+          
+
+      
+
+                                                                      DIABETES_MID        
+                                                                      Diabetes Mid-Year Indicator        
+          
+
+      
+
+                                                                      DIABETES_EVER        
+                                                                      Date that beneficiary first met claims criteria for the diabetes indicator        
+          
+
+      
+
+                                                                      GLAUCOMA        
+                                                                      Glaucoma End-of-Year Indicator        
+          
+
+      
+
+                                                                      GLAUCOMA_MID         
+                                                                      Glaucoma Mid-Year Indicator        
+          
+
+      
+
+                                                                      GLAUCOMA_EVER        
+                                                                      Date that beneficiary first met claims criteria for the glaucoma indicator        
+          
+
+      
+
+                                                                      HIP_FRACTURE        
+                                                                      Hip/Pelvic Fracture End-of-Year Indicator        
+          
+
+      
+
+                                                                      HIP_FRACTURE_MID         
+                                                                      Hip/Pelvic Fracture Mid-Year Indicator        
+          
+
+      
+
+                                                                      HIP_FRACTURE_EVER         
+                                                                      Date that beneficiary first met claims criteria for the hip/pelvic fracture indicator        
+          
+
+      
+
+                                                                      ISCHEMICHEART         
+                                                                      Ischemic Heart Disease End-of-Year Indicator        
+          
+
+      
+
+                                                                      ISCHEMICHEART_MID         
+                                                                      Ischemic Heart Disease Mid-Year Indicator        
+          
+
+      
+
+                                                                      ISCHEMICHEART_EVER        
+                                                                      Date that beneficiary first met claims criteria for the ischemic heart disease indicator        
+          
+
+      
+
+                                                                      DEPRESSION         
+                                                                      Depression End-of-Year Indicator        
+          
+
+      
+
+                                                                      DEPRESSION_MID         
+                                                                      Depression Mid-Year Indicator        
+          
+
+      
+
+                                                                      DEPRESSION_EVER        
+                                                                      Date that beneficiary first met claims criteria for the depression indicator        
+          
+
+      
+
+                                                                      OSTEOPOROSIS        
+                                                                      Osteoporosis End-of-Year Indicator        
+          
+
+      
+
+                                                                      OSTEOPOROSIS_MID        
+                                                                      Osteoporosis Mid-Year Indicator        
+          
+
+      
+
+                                                                      OSTEOPOROSIS_EVER        
+                                                                      Date that beneficiary first met claims criteria for the osteoporosis indicator        
+          
+
+      
+
+                                                                      RA_OA        
+                                                                      Rheumatoid Arthritis / Osteoarthritis End-of-Year Indicator        
+          
+
+      
+
+                                                                      RA_OA_MID        
+                                                                      Rheumatoid Arthritis / Osteoarthritis Mid-Year Indicator        
+          
+
+      
+
+                                                                      RA_OA_EVER        
+                                                                      Date that beneficiary first met claims criteria for the rheumatoid arthritis/osteoarthritis indicator        
+          
+
+      
+
+                                                                      STROKE_TIA        
+                                                                      Stroke / Transient Ischemic Attack End-of-Year Indicator        
+          
+
+      
+
+                                                                      STROKE_TIA_MID        
+                                                                      Stroke / Transient Ischemic Attack Mid-Year Indicator        
+          
+
+      
+
+                                                                      STROKE_TIA_EVER         
+                                                                      Date that beneficiary first met claims criteria for the stroke indicator        
+          
+
+      
+
+                                                                      CANCER_BREAST         
+                                                                      Breast Cancer End-of-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_BREAST_MID         
+                                                                      Breast Cancer Mid-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_BREAST_EVER         
+                                                                      Date that beneficiary first met claims criteria for female/male breast cancer indicator        
+          
+
+      
+
+                                                                      CNCRCLRC        
+                                                                      Colorectal Cancer End-of-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_COLORECTAL_MID         
+                                                                      Colorectal Cancer Mid-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_COLORECTAL_EVER         
+                                                                      Date that beneficiary first met claims criteria for the colorectal cancer indicator        
+          
+
+      
+
+                                                                      CANCER_PROSTATE        
+                                                                      Prostate Cancer End-of-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_PROSTATE_MID         
+                                                                      Prostate Cancer Mid-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_PROSTATE_EVER         
+                                                                      Date that beneficiary first met claims criteria for the prostate cancer indicator        
+          
+
+      
+
+                                                                      CANCER_LUNG        
+                                                                      Lung Cancer End-of-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_LUNG_MID        
+                                                                      Lung Cancer Mid-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_LUNG_EVER         
+                                                                      Date that beneficiary first met claims criteria for the lung cancer indicator        
+          
+
+      
+
+                                                                      CANCER_ENDOMETRIAL         
+                                                                      Endometrial Cancer End-of-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_ENDOMETRIAL_MID        
+                                                                      Endometrial Cancer Mid-Year Indicator        
+          
+
+      
+
+                                                                      CANCER_ENDOMETRIAL_EVER        
+                                                                      Date that beneficiary first met claims criteria for the endometrial cancer indicator        
+          
+
+      
+
+                                                                      ANEMIA        
+                                                                      Anemia End Year Indicator        
+          
+
+      
+
+                                                                      ANEMIA_MID        
+                                                                      Anemia Mid-Year Indicator        
+          
+
+      
+
+                                                                      ANEMIA_EVER         
+                                                                      Date that beneficiary first met claims criteria for the anemia indicator        
+          
+
+      
+
+                                                                      ASTHMA        
+                                                                      Asthma End Year Indicator        
+          
+
+      
+
+                                                                      ASTHMA_MID        
+                                                                      Asthma Mid-Year Indicator        
+          
+
+      
+
+                                                                      ASTHMA_EVER        
+                                                                      Date that beneficiary first met claims criteria for the asthma indicator        
+          
+
+      
+
+                                                                      HYPERL        
+                                                                      Hyperlipidemia End Year Indicator        
+          
+
+      
+
+                                                                      HYPERL_MID        
+                                                                      Hyperlipidemia Mid-Year Indicator        
+          
+
+      
+
+                                                                      HYPERL_EVER        
+                                                                      Date that beneficiary first met claims criteria for the hyperlipidemia indicator        
+          
+
+      
+
+                                                                      HYPERP        
+                                                                      Benign Prostatic Hyperplasia End Year Indicator        
+          
+
+      
+
+                                                                      HYPERP_MID        
+                                                                      Benign Prostatic Hyperplasia Mid-Year Indicator        
+          
+
+      
+
+                                                                      HYPERP_EVER        
+                                                                      Date that beneficiary first met claims criteria for the benign prostatic hyperplasia indicator        
+          
+
+      
+
+                                                                      HYPERT        
+                                                                      Hypertension End Year Indicator        
+          
+
+      
+
+                                                                      HYPERT_MID        
+                                                                      Hypertension Mid-Year Indicator        
+          
+
+      
+
+                                                                      HYPERT_EVER        
+                                                                      Date that beneficiary first met claims criteria for the hypertension indicator        
+          
+
+      
+
+                                                                      HYPOTH        
+                                                                      Acquired Hypothyroidism End Year Indicator        
+          
+
+      
+
+                                                                      HYPOTH_MID        
+                                                                      Acquired Hypothyroidism Mid-Year Indicator        
+          
+
+      
+
+                                                                      HYPOTH_EVER        
+                                                                      Date that beneficiary first met claims criteria for the acquired hypothyroidism indicator        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

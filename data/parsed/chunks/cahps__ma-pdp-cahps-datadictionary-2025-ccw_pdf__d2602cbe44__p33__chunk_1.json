@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p33__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 33,
+  "text": "Not Applicable\n web_at_home: RECODE : Do you ever use the internet at home\n\nSAS Format: YNA\n\n1: YES\n\n2: NO\n\nws_wes_comp: WESTAT: Complete for Analysis and Reporting\n\nSAS Format: WESCOF\n\n0: NOT COMPLETE FOR ANALYSIS\n\n1: COMPLETE FOR ANALYSIS",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

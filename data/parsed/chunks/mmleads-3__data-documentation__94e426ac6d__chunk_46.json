@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_46",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Care Capitated Payment Amount — September\n\n 40\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_10\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — October\n\n 41\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_11\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — November\n\n 42\n\n MDCR_MC_PTA_PTB_CAPTD_SPEND_12\n\n Medicare PTA/PTB Managed Care Capitated Payment Amount — December\n\n 43\n\n MDCR_TOTAL_FFS_USE_01\n\n Medicare Use (FFS Claim Count) — January\n\n 44\n\n MDCR_TOTAL_FFS_USE_02\n\n Medicare Use (FFS Claim Count) —",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

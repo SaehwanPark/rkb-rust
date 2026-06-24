@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_471",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "Patients This field indicates, if the patient has been diagnosed with heart failure, did the patient exhibit symptoms indicated by clinical heart failure guidelines at any point since the previous OASIS assessment. 00 = No\r\n01 = Yes\r\n02 = Not assessed\r\nNA = Patient does not have diagnosis of heart failure. CHAR 2 x\nM1511_HRT_FAILR_CARE_PLAN_CHG M1511 Heart Fail. Follow-Up: Change In Care Plan This field indicates, if the patient has been diagnosed with heart failure and has exhibited symptoms",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

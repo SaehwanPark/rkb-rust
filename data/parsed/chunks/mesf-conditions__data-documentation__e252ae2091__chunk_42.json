@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_42",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Medicaid Only Data\n\n 208\n\n SCHI_MEDICARE\n\n Schizophrenia Indicator - Medicare Only Data\n\n 209\n\n SCHIOT_COMBINED\n\n Schizophrenia and Other Psychotic Disorders Indicator - Combined Data\n\n 210\n\n SCHIOT_MEDICAID\n\n Schizophrenia and Other Psychotic Disorders indicator - Medicaid Only Data\n\n 211\n\n SCHIOT_MEDICARE\n\n Schizophrenia and Other Psychotic Disorders Indicator - Medicare Only Data\n\n 212\n\n SPIBIF_COMBINED\n\n Spina Bifida and Other Congenital Anomalies Indicator - Combined Data\n\n 213",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

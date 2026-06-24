@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_3",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "LTC_ENROLLMENT \n Long-term care (LTC) facility resident \n\n ENROLLMENT_DT \n Date of MTM program enrollment \n\n TARG_CRITERIA_MET_DT \n Date Part D Targeting Criteria Met \n\n OPT_OUT_DT \n Date of MTM program opt-out \n\n OPT_OUT_REASON \n Reason participant opted-out of MTM program \n\n CMR_OFFERED \n Comprehensive Medication Review (CMR) offered \n\n CMR_OFFERED_DT \n Date Comprehensive Medication Review (CMR) offered \n\n CMR_RECIPIENT \n Comprehensive Medication Review (CMR) recipient \n\n CMR_RECEIVED",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

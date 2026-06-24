@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_4",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "Indicator \n\n ATRIAL_FIB_EVER \n Date that beneficiary first met claims criteria for the atrial fibrillation and flutter indicator \n\n BPH \n Benign Prostatic Hyperplasia (BPH) End-of-Year Indicator \n\n BPH_EVER \n Date that beneficiary first met claims criteria for the benign prostatic hyperplasia (BPH) indicator \n\n CANCER_BREAST \n Breast Cancer End-of-Year Indicator \n\n CANCER_BREAST_EVER \n Date that beneficiary first met claims criteria for female/male breast cancer indicator \n\n CANCER_COLORECTAL",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_19",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Post-Traumatic Stress Disorder First Ever Occurrence Date - Medicare Only Claims \n\n PVD_MEDICARE \n Peripheral Vascular Disease End-of-Year Indicator - Medicare Only Claims \n\n PVD_MEDICARE_EVER \n Peripheral Vascular Disease First Ever Occurrence Date - Medicare Only Claims \n\n SCD_MEDICARE \n Sickle Cell Disease End-of-Year Indicator - Medicare Only Claims \n\n SCD_MEDICARE_EVER \n Sickle Cell Disease First Ever Occurrence Date - Medicare Only Claims \n\n SCHI_MEDICARE \n Schizophrenia End-of-Year",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

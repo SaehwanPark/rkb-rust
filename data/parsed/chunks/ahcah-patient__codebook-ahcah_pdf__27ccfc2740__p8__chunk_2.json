@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__codebook-ahcah_pdf__27ccfc2740__p8__chunk_2",
+  "source_document": "data/raw/assets/pdf/27ccfc27407a53098d675d692da68eaa1b233dfc.pdf",
+  "page": 8,
+  "text": "BENE_ID \n\nLONG NAME: BENE_ID \n\nTYPE: CHAR \n\nLENGTH: 15 \n\nFILE(S): Patient \n\nSOURCE: CCW \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ahcah-patient",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahcah.pdf"
+}

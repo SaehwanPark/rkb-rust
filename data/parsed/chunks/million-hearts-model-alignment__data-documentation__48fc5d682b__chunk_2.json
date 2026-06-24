@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts-model-alignment__data-documentation__48fc5d682b__chunk_2",
+  "source_document": "data/raw/html/documentation_page/48fc5d682bc1c7af9247fa6777ca8daf93550d55.html",
+  "page": null,
+  "text": "SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n PRACTICE_ID \n Model-Assigned Practice ID \n\n PRACTICE_NAME \n Name of Practice \n\n TIN \n Practice's Taxpayer Identification Number \n\n UNIQUE_PATIENT_ID \n Unique Model-Assigned Patient ID \n\n PATIENT_DOB \n Patient's Date of Birth \n\n PATIENT_SEX \n Patient's Sex \n\n PATIENT_RACE \n Patient's Race \n\n PATIENT_ETHNICITY \n Patient's Ethnicity \n\n ALIGNED \n Indication of Patient's Attribution to the Practice (Y or N) \n\n ELIGIBLE \n Indication",
+  "dataset": "million-hearts-model-alignment",
+  "url": "https://resdac.org/cms-data/files/million-hearts-model-alignment/data-documentation"
+}

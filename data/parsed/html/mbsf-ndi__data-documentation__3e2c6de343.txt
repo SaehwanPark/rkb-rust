@@ -1,0 +1,743 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Master Beneficiary Summary File National Death Index
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Record Layout - MBSF National Death Index (NDI)
+CCW Codebook - MBSF National Death Index (NDI)
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      BENE_ENROLLMT_REF_YR        
+                                                                      Reference Year (MBSF)        
+          
+
+      
+
+                                                                      ENRL_SRC        
+                                                                      Enrollment Source        
+          
+
+      
+
+                                                                      DEATH_CERT_NUM        
+                                                                      NDI Death Certificate Number        
+          
+
+      
+
+                                                                      NDI_DEATH_DT        
+                                                                      NDI Date of Death_MBSF        
+          
+
+      
+
+                                                                      NDI_STATE_DEATH_CD        
+                                                                      NDI State of Death        
+          
+
+      
+
+                                                                      ICD_CODE        
+                                                                      ICD-10 Cause of Death Code        
+          
+
+      
+
+                                                                      ICD_TITLE        
+                                                                      ICD-10 Cause of Death Title        
+          
+
+      
+
+                                                                      ICD_CODE_358        
+                                                                      358 ICD-10 Cause of Death Recodes        
+          
+
+      
+
+                                                                      ICD_CODE_113        
+                                                                      113 ICD-10 Cause of Death Recodes        
+          
+
+      
+
+                                                                      ICD_CODE_130        
+                                                                      130 ICD-10 Cause of Death Recodes        
+          
+
+      
+
+                                                                      ENTITY_COND_1        
+                                                                      NDI Entity Axis Cause of Death - 1st Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_2        
+                                                                      NDI Entity Axis Cause of Death - 2nd Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_3        
+                                                                      NDI Entity Axis Cause of Death - 3rd Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_4        
+                                                                      NDI Entity Axis Cause of Death - 4th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_5        
+                                                                      NDI Entity Axis Cause of Death - 5th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_6        
+                                                                      NDI Entity Axis Cause of Death - 6th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_7        
+                                                                      NDI Entity Axis Cause of Death - 7th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_8        
+                                                                      NDI Entity Axis Cause of Death - 8th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_9        
+                                                                      NDI Entity Axis Cause of Death - 9th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_10        
+                                                                      NDI Entity Axis Cause of Death - 10th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_11        
+                                                                      NDI Entity Axis Cause of Death - 11th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_12        
+                                                                      NDI Entity Axis Cause of Death - 12th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_13        
+                                                                      NDI Entity Axis Cause of Death - 13th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_14        
+                                                                      NDI Entity Axis Cause of Death - 14th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_15        
+                                                                      NDI Entity Axis Cause of Death - 15th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_16        
+                                                                      NDI Entity Axis Cause of Death - 16th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_17        
+                                                                      NDI Entity Axis Cause of Death - 17th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_18        
+                                                                      NDI Entity Axis Cause of Death - 18th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_19        
+                                                                      NDI Entity Axis Cause of Death - 19th Condition        
+          
+
+      
+
+                                                                      ENTITY_COND_20        
+                                                                      NDI Entity Axis Cause of Death - 20th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_1        
+                                                                      NDI Record Axis Cause of Death - 1st Condition        
+          
+
+      
+
+                                                                      RECORD_COND_2        
+                                                                      NDI Record Axis Cause of Death - 2nd Condition        
+          
+
+      
+
+                                                                      RECORD_COND_3        
+                                                                      NDI Record Axis Cause of Death - 3rd Condition        
+          
+
+      
+
+                                                                      RECORD_COND_4        
+                                                                      NDI Record Axis Cause of Death - 4th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_5        
+                                                                      NDI Record Axis Cause of Death - 5th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_6        
+                                                                      NDI Record Axis Cause of Death - 6th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_7        
+                                                                      NDI Record Axis Cause of Death - 7th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_8        
+                                                                      NDI Record Axis Cause of Death - 8th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_9        
+                                                                      NDI Record Axis Cause of Death - 9th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_10        
+                                                                      NDI Record Axis Cause of Death - 10th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_11        
+                                                                      NDI Record Axis Cause of Death - 11th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_12        
+                                                                      NDI Record Axis Cause of Death - 12th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_13        
+                                                                      NDI Record Axis Cause of Death - 13th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_14        
+                                                                      NDI Record Axis Cause of Death - 14th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_15        
+                                                                      NDI Record Axis Cause of Death - 15th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_16        
+                                                                      NDI Record Axis Cause of Death - 16th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_17        
+                                                                      NDI Record Axis Cause of Death - 17th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_18        
+                                                                      NDI Record Axis Cause of Death - 18th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_19        
+                                                                      NDI Record Axis Cause of Death - 19th Condition        
+          
+
+      
+
+                                                                      RECORD_COND_20        
+                                                                      NDI Record Axis Cause of Death - 20th Condition        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

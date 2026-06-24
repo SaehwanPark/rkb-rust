@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_45",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "(POA) Diagnosis E Codes\n\n 254\n\n POA_DGNS_E_1_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 1\n\n 255\n\n POA_DGNS_E_2_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 2\n\n 256\n\n POA_DGNS_E_3_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 3\n\n 257\n\n POA_DGNS_E_4_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 4\n\n 258\n\n POA_DGNS_E_5_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 5\n\n 259\n\n POA_DGNS_E_6_IND_CD\n\n Diagnosis E Code Present on Admission",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

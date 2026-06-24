@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p95__chunk_6",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 95,
+  "text": "of an institution or a physician's office. \n82–98 = Unassigned. N/A \n99 = Other Place of Service. Other place of service not identified above. \n0D = Unknown \n0O = Unknown \nC0 = Unknown \nCC = Unknown \nDW = Unknown \nJC = Unknown \nN0 = Unknown \nN4 = Unknown \nN5 = Unknown \nN6 = Unknown \nND = Unknown \nP0 = Unknown \nSE = Unknown \nXY = Unknown",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

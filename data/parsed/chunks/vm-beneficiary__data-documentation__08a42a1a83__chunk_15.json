@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_15",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "Specialty of EP with plurality of cost for MSPB \n\n STD_PMT_ALL_CLM \n Total payment-standardized episode cost \n\n COST_OTHER \n MSPB all other service costs \n\n COST_AMBULANCE \n MSPB ambulance costs \n\n COST_ANCILLARY_IMAGING \n MSPB ancillary imaging costs \n\n COST_ANCILLARY_TESTS \n MSPB ancillary lab, pathology, and other test costs \n\n COST_CHEMO_PART_B \n MSPB chemotherapy and Part B drug costs \n\n COST_DIALYSIS \n MSPB dialysis costs \n\n COST_DME \n MSPB durable medical equipment costs",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

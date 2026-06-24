@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__codebook-ahc_pdf__2ecadb1aec__p12__chunk_0",
+  "source_document": "data/raw/assets/pdf/2ecadb1aec0f9d6e0f07a7cc628ccf35b46ec6c5.pdf",
+  "page": 12,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nAHC Model Data File Codebook │ December 2024 │ V 1.0 11 \n\nAHC_TRK_CD \n\nLABEL: AHC Assistance or Alignment Track \n\nDESCRIPTION: AHC assistance or alignment track. \n\nLONG NAME: AHC_TRK_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: AHC data system \n\nVALUES: 1 = Assistance \n2 = Alignment \n\nCOMMENT: Bridge organizations participated in one of two AHC model tracks. \n\n1. The assistance track identified and randomly assigned to an intervention or",
+  "dataset": "ahc-model",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahc.pdf"
+}

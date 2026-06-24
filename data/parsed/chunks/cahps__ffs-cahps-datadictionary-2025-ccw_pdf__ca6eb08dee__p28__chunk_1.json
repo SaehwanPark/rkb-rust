@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p28__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 28,
+  "text": "UK: UNKNOWN \n\nsa_ptab_type: Part A-B Plan Type \n\nSAS Format: $PBT \n\n01: HMO \n\n02: HMOPOS \n\n03: CCOTH \n\n04: LOCAL PPO \n\n05: PSO(STATE LICENSE) \n\n06: PSO(FEDERAL WAIVER OF STATE LICENSE) \n\n07: MSA \n\n08: RFB \n\n09: PFFS \n\n10: SHMO \n\n17: OTHER \n\n18: 1876 COST \n\n19: HCPP-1833 COST \n\n20: NATIONAL PACE \n\n27: CAPITATED DISEASE MANAGEMENT DEMO \n\n28: CHRONIC CARE \n\n29: MEDICARE PDP \n\n30: EMPLOYER-SPONSORED PDP \n\n31: REGIONAL PPO \n\n32: FALLBACK \n\n33: MN DISABILITY HEALTH OPTIONS \n\n34: MN SENIOR HEALTH",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

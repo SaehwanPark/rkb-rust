@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_69",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "(ACO) Indicator Code 5\n\n 390\n\n CLM_RSDL_PYMT_IND_CD\n\n MedPAR Claim Residual Payment Indicator Code\n\n 391\n\n CLM_RP_IND_CD\n\n MedPAR Claim Representative Payee (RP) Indicator Code\n\n 392\n\n RC_RP_IND_CD\n\n MedPAR Revenue Center Representative Payee (RP) Indicator Code\n\n 393\n\n ACO_ID_NUM\n\n Accountable Care Organization (ACO) Identification Number\n\n 394\n\n LTCH_DPP_ADJSTMT_AMT\n\n Long-Term Care Hospital Discharge Payment Percentage Adjustment Amount\n\n 395\n\n VAL_CD_Q1_PYMT_RDCTN_AMT\n\n Value Code Q1",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

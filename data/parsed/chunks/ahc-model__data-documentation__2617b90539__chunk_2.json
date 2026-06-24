@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_2",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Health Communities (AHC) Model\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary Identifier \n\n MSIS_ID \n Encrypted Medicaid State Assigned Beneficiary Unique Identifier \n\n AHC data system/CCW (derived) \n Submitting State Alpha Abbreviation \n\n MSIS_RFRNC_YR \n Medicaid Beneficiary Identifier Reference Year \n\n BENE_STATE_CD \n Beneficiary State \n\n BENE_ZIP_CD \n Beneficiary Zip Code \n\n BENE_BIRTH_DT \n Beneficiary Birth Date \n\n BENE_AGE_NUM \n Beneficiary Age at Screening \n\n BENE_SEX_CD",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

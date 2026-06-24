@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_342",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "limitations\r\n88 = Not attempted due to medical condition or safety concerns\n316 GG0130F2_UPR_DRSNG_GOAL_CD GG0130F2_UPR_DRSNG_GOAL_CD GG0130F2 Discharge Goal Upper Dressing Code - The data in this column indicates the patient's discharge goal to put on and remove shirt or pajama top. CHAR 2 The data in this column indicates the patient's discharge goal to put on and remove shirt or pajama top. 01 = Dependent\r\n02 = Substantial/maximal assistance\r\n03 = Partial/moderate assistance\r\n04 =",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

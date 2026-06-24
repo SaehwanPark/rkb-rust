@@ -1,0 +1,629 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Part D Medication Therapy Management Data
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - Part D Medication Therapy Management
+CCW Record Layout - Part D Medication Therapy Management
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      RFRNC_YR        
+                                                                      Year of Part D Medication Therapy Management (MTM) File        
+          
+
+      
+
+                                                                      CONTRACT_ID         
+                                                                      Part D Contract Number        
+          
+
+      
+
+                                                                      TARG_CRITERIA_MET        
+                                                                      Beneficiary Met Targeting Criteria        
+          
+
+      
+
+                                                                      COG_IMPAIRED         
+                                                                      Beneficiary Identified as Cognitively Impaired        
+          
+
+      
+
+                                                                      LTC_CMR        
+                                                                      Beneficiary identified as residing in a LTC facility        
+          
+
+      
+
+                                                                      LTC_ENROLLMENT        
+                                                                      Long-term care (LTC) facility resident        
+          
+
+      
+
+                                                                      ENROLLMENT_DT        
+                                                                      Date of MTM program enrollment        
+          
+
+      
+
+                                                                      TARG_CRITERIA_MET_DT         
+                                                                      Date Part D Targeting Criteria Met        
+          
+
+      
+
+                                                                      OPT_OUT_DT        
+                                                                      Date of MTM program opt-out        
+          
+
+      
+
+                                                                      OPT_OUT_REASON        
+                                                                      Reason participant opted-out of MTM program        
+          
+
+      
+
+                                                                      CMR_OFFERED         
+                                                                      Comprehensive Medication Review (CMR) offered        
+          
+
+      
+
+                                                                      CMR_OFFERED_DT        
+                                                                      Date Comprehensive Medication Review (CMR) offered        
+          
+
+      
+
+                                                                      CMR_RECIPIENT         
+                                                                      Comprehensive Medication Review (CMR) recipient        
+          
+
+      
+
+                                                                      CMR_RECEIVED         
+                                                                      Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_NUM        
+                                                                      Number of Comprehensive Medication Reviews (CMRs) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_DT1         
+                                                                      Date First Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_DT2         
+                                                                      Date Second Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_DT3         
+                                                                      Date Third Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_DT4         
+                                                                      Date Fourth Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      CMR_RECEIVED_DT5         
+                                                                      Date Fifth Comprehensive Medication Review (CMR) received        
+          
+
+      
+
+                                                                      WRIT_SUMM_DT        
+                                                                      Date the written summary of the required CMR (CMS standardized format) was provided or sent        
+          
+
+      
+
+                                                                      CMR_DELIVERY_METHOD         
+                                                                      Comprehensive Medication Review (CMR) delivery method        
+          
+
+      
+
+                                                                      CMR_PROVIDER        
+                                                                      Comprehensive Medication Review (CMR) provider type        
+          
+
+      
+
+                                                                      CMR_RECIPIENT_INI        
+                                                                      Indicates the recipient of the initial comprehensive medication review (CMR) offer        
+          
+
+      
+
+                                                                      TARG_MED_REV_NUM        
+                                                                      Number of targeted medication reviews conducted        
+          
+
+      
+
+                                                                      TMR_PERF_DT        
+                                                                      Date the first targeted medication review (TMR) was performed        
+          
+
+      
+
+                                                                      PRESCRIBER_INTERV_NUM         
+                                                                      Number of drug therapy problem recommendations to prescribers        
+          
+
+      
+
+                                                                      DRUG_THER_CHG_NUM        
+                                                                      Number of drug therapy problem resolutions with prescribers        
+          
+
+      
+
+                                                                      DSPSL_MDCTNS_MTHD        
+                                                                      Method of delivery for information regarding safe disposal of medications        
+          
+
+      
+
+                                                                      NUM_COMMS_SAFE_DSPSL_MDCTNS        
+                                                                      Number of communications sent to beneficiary regarding safe disposal of medications        
+          
+
+      
+
+                                                                      TARG_CRITERIA_MET_REASON        
+                                                                      Reason why beneficiary met the targeting criteria        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

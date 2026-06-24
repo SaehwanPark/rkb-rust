@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-rx__data-documentation__245e1542b6__chunk_4",
+  "source_document": "data/raw/html/documentation_page/245e1542b60667a079cb2e389190d43128123fbf.html",
+  "page": null,
+  "text": "EL_MDCR_ANN_XOVR_OLD \n Medicare Crossover code (Annual) old values \n\n MSNG_ELG_DATA \n Missing eligibility data \n\n EL_MDCR_XOVR_CLM_BSD_CD \n Crossover code (from claims only) \n\n EL_MDCR_ANN_XOVR_99 \n Crossover code (Annual) \n\n MSIS_TOS \n MSIS Type of Service (TOS) \n\n MSIS_TOP \n MSIS Type of Program (TOP) \n\n MAX_TOS \n MAX Type of Service (TOS) \n\n PRVDR_ID_NMBR \n Billing provider identification number (MAX) \n\n NPI \n National Provider Identifier (MAX) \n\n TAXONOMY \n Provider Taxonomy \n\n TYPE_CLM_CD",
+  "dataset": "max-rx",
+  "url": "https://resdac.org/cms-data/files/max-rx/data-documentation"
+}

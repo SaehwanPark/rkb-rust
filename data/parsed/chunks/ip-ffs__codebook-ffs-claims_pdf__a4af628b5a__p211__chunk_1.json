@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p211__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 211,
+  "text": "labor) for the claim. \n\nThere are two types of IME amounts that may be payable for many PPS claims; the other type of IME \npayment is for the IME capital amount (variable called CLM_PPS_CPTL_IME_AMT). Both operating and \ncapital IME payments are components of the PPS, as well as numerous other factors. \n\nSHORT NAME: IME_OP \n\nLONG NAME: IME_OP_CLM_VAL_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: Medicare payments are described in detail in a series of Medicare Payment",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

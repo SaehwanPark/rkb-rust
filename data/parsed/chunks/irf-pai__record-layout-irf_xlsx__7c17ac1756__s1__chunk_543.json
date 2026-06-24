@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_543",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "dozed off when being asked questions, but responded to voice or \r\ntouch\r\n• stuporous - very difficult to arouse and keep aroused for the interview\r\n• comatose - could not be aroused 0 = Behavior not present \r\n1 = Behavior continuously present, does not fluctuate \r\n2 = Behavior present, fluctuates (comes and goes, changes in severity) \r\n- = Not Assessed/No Information\n476 LTTL_INTRST_ADMSN_CD LTTL_INTRST_ADMSN_CD Mood: Little interest/pleasure doing things: P (A) CHAR 1 This column documents",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

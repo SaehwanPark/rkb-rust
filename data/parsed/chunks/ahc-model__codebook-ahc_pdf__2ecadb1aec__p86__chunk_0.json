@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__codebook-ahc_pdf__2ecadb1aec__p86__chunk_0",
+  "source_document": "data/raw/assets/pdf/2ecadb1aec0f9d6e0f07a7cc628ccf35b46ec6c5.pdf",
+  "page": 86,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nAHC Model Data File Codebook │ December 2024 │ V 1.0 85 \n\nNN_SPLMT_FMLY_CMNT_CSP_UNAVBL_SW \n\nLABEL: Navigated Supplemental HRSN Family and Community Support Community Service Provider Unable to \nHelp \n\nDESCRIPTION: Navigation needs (NN): navigated supplemental health related social need (HRSN) family and \ncommunity support community service provider (CSP) unavailable or unable to help. \n\nLONG NAME: NN_SPLMT_FMLY_CMNT_CSP_UNAVBL_SW",
+  "dataset": "ahc-model",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahc.pdf"
+}

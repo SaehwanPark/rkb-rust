@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_6",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "LAST_CLM_DATE_NPI_OUT_PRIM \n Date of last claim filed by NPI for beneficiary for primary care outside practice \n\n DATE_LAST_HOSP_ADM \n Date of last hospital admission \n\n NAME_NPI_OUT_NON \n Name of EP billing most non primary care services outside practice \n\n NAME_NPI_IN_NON \n Name of EP billing most non primary care services in practice \n\n NAME_NPI_OUT_PRIM \n Name of EP billing most primary care services outside practice \n\n NAME_NPI_IN_PRIM \n Name of EP billing most primary care services in",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_39",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "Demonstrations/Innovations Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n DEMO_ID_SQNC_NUM\n\n Demonstration sequence number\n\n 5\n\n DEMO_ID_NUM\n\n Demonstration number\n\n 6\n\n DEMO_INFO_TXT\n\n Demo information text",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

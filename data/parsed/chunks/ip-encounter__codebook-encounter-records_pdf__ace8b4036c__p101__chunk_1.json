@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p101__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 101,
+  "text": "level of \ndefined medical activity within a medical field as created by the National Uniform Claim Committee \n(NUCC). \n\nSHORT NAME: ORG_TXNMY_CD \n\nLONG NAME: ORG_TXNMY_CD \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP base \n\nSNF base \n\nHH base \n\nOP base \n\nCarrier base \n\nDME base \n\nVALUES: — \n\nCOMMENT: Taxonomy codes are assigned by the National Uniform Claims Committee (NUCC). For a current list of \nNUCC Provider Taxonomy Codes and Descriptions, refer",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

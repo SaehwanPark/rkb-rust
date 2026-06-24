@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p50__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 50,
+  "text": "TYPE: CHAR \n\nLENGTH: 9 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: The value must consist of digits, where each value is 0 through 9 \n\nNo special characters such as hyphens or parentheses. \n\nCOMMENT: The zip code corresponding to the home address is used. When home address is unavailable, the zip \ncode corresponding to the mailing address is used instead. \n\nWhen this file is delivered outside the CCW VRDC, only the first five (of the nine digit)",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

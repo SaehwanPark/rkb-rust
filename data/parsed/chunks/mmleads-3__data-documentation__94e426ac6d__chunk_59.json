@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_59",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Amount — November\n\n 109\n\n MDCD_NON_CAPTD_SPEND_11\n\n Medicaid Non-Capitated Payment Amount — November\n\n 110\n\n MDCD_MC_CAPTD_SPEND_11\n\n Medicaid Managed Care Capitated Payment Amount — November\n\n 111\n\n MDCD_TOTAL_USE_12\n\n Medicaid Use (Claim Count) — December\n\n 112\n\n MDCD_TOTAL_SPEND_12\n\n Medicaid Payment Amount — December\n\n 113\n\n MDCD_NON_CAPTD_SPEND_12\n\n Medicaid Non-Capitated Payment Amount — December\n\n 114\n\n MDCD_MC_CAPTD_SPEND_12\n\n Medicaid Managed Care Capitated Payment Amount — December",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

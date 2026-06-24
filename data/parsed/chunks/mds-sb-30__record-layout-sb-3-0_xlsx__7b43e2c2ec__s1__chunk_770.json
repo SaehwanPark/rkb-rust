@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_770",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "or unit)\r\n07=Inpatient Psychiatric Facility (psychiatric hospital or unit)\r\n08=Intermediate Care Facility (ID/DD facility)\r\n09=Hospice (home/non-institutional)\r\n10=Hospice (institutional facility)\r\n11=]Critical Access Hospital (CAH)\r\n12=Home under care of organized home health service organization\r\n13=Deceased\r\n99=Not listed effective 10/01/2023\n852 CRNT_MDCTN_LST_PRVDR_CD CRNT_MDCTN_LST_PRVDR_CD A2121 Current Reconciled Medication List - Provider CHAR 1 The data in this column indicates",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

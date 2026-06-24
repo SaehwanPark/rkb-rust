@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_17",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "00 - Not Medicare Enrolled\r\n01 - QMB only\r\n02 - QMB + full Medicaid\r\n03 - SLMB-only\r\n04 - SLMB + full dual Medicaid benefits\r\n05 - QDWI\r\n06 - QI\r\n08 - Other full benefit\r\n09 - Other dual eligible without Medicaid\r\n99 - Unknown\r\nNA - Non Medicaid\r\nXX - Enrolled in Medicare, no MIIR record\n E_MME_TYPE_1 - 12 Monthly Medicare and/or Medicaid enrollment (MME) type classification. January through December. 5 - Full dual \r\n4 - QMB dual \r\n3 - Partial dual \r\n2 - Medicare only\r\n1 - Medicaid only with a",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

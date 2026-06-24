@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_33",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "Revenue Center NDC Quantity Qualifier Code (Encounter)\n\n 18\n\n REV_CNTR_RNDRNG_PHYSN_NPI_NUM\n\n Revenue Center Rendering Physician NPI\n\n 19\n\n LINE_LTST_CLM_IND\n\n Line Latest Claim Indicator\n\n Condition Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n RLT_COND_CD_SEQ\n\n Claim Related Condition Code Sequence\n\n 5\n\n CLM_RLT_COND_CD\n\n Claim Related Condition Code (Encounter)",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

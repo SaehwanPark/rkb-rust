@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_24",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Post Discharge HH visits \n\n CLM_NEXT_GNRTN_ACO_IND_CD4 \n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - 3-day SNF waiver \n\n CLM_NEXT_GNRTN_ACO_IND_CD5 \n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Capitation \n\nDemonstrations/Innovations Code File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

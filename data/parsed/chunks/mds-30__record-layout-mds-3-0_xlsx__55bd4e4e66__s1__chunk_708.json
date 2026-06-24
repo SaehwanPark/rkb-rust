@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_708",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "in this facility began.\n754 A0300A_STATE_PYMT_PRPSE_CD A0300A_STATE_PYMT_PRPSE_CD A0300A State Payment Assessment Purpose Code CHAR 1 Value indicating whether the state requires this assessment for payment. 0 = No \r\n1 = Yes effective 10/01/2019\r\ndiscontinued 9/30/2023\n755 A0300B_STATE_PYMT_ASMT_TYPE_CD A0300B_STATE_PYMT_ASMT_TYPE_CD A0300B State Payment Assessment Type Code CHAR 1 Type of assessment. 1 = Start of therapy assessment\r\n2 = End of therapy assessment\r\n3 = Both: Start and End of",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

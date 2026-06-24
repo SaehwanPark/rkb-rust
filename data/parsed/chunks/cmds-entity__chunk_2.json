@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-entity__chunk_2",
+  "source_document": "data/raw/html/dataset_page/fe306019948692b5209277e7fd3e0aeb53e463a9.html",
+  "page": null,
+  "text": "an Accountable Care Organization, a State, or other organizations or groups of organizations.\n\nWhat does this file include? (variable highlights)\nModel ID (in which the Entity participates)\nModel Name (in which the Entity particpates)\nEntity ID\nEntity Name\nEntity Type\nEntity Start Date\nEntity End Date\nThe Entity ID is unique to CMMI systems and cannot be used to link to claims data or other CCW data. The Entity ID is the key field for tying CMDS Provider and Beneficiary participation data to a",
+  "dataset": "cmds-entity",
+  "url": "https://resdac.org/cms-data/files/cmds-entity"
+}

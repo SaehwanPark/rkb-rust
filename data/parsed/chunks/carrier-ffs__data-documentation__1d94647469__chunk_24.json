@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_24",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Line Other Applied Indicator 6th Code \n\n LINE_OTHR_APLD_IND_CD7 \n Line Other Applied Indicator 7th Code \n\n LINE_OTHR_APLD_AMT1 \n Line Other Applied Amount for 1st Code \n\n LINE_OTHR_APLD_AMT2 \n Line Other Applied Amount for 2nd Code \n\n LINE_OTHR_APLD_AMT3 \n Line Other Applied Amount for 3rd Code \n\n LINE_OTHR_APLD_AMT4 \n Line Other Applied Amount for 4th Code \n\n LINE_OTHR_APLD_AMT5 \n Line Other Applied Amount for 5th Code \n\n LINE_OTHR_APLD_AMT6 \n Line Other Applied Amount for 6th Code",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

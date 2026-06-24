@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-beneficiary__data-documentation__8b95768716__chunk_2",
+  "source_document": "data/raw/html/documentation_page/8b957687160967ef616f1811d2948a4aa4fdbf19.html",
+  "page": null,
+  "text": "ENTITY_ID \n Entity Identifier \n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n START_DATE \n Beneficiary Start Date \n\n END_DATE \n Beneficiary End Date \n\n VLNTRY_IND \n Voluntary Alignment Indicator",
+  "dataset": "cmds-beneficiary",
+  "url": "https://resdac.org/cms-data/files/cmds-beneficiary/data-documentation"
+}

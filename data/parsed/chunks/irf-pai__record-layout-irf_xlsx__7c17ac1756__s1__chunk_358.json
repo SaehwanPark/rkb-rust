@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_358",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "assistance\r\n03 = Partial/moderate assistance\r\n04 = Supervision or touching assistance\r\n05 = Setup or clean-up assistance\r\n06 = Independent\r\n07 = Patient refused\r\n09 = Not applicable\r\n10 = Not attempted due to environmental limitations\r\n88 = Not attempted due to medical condition or safety concerns\n325 GG0170A2_ROLL_GOAL_CD GG0170A2_ROLL_GOAL_CD GG0170A2 Discharge Goal Roll Left Right Code - The data in this column indicates the patient's discharge goal for rolling left and right. CHAR 2 The",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

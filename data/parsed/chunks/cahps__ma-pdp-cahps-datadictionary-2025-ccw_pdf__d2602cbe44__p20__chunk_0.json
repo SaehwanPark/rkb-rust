@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p20__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 20,
+  "text": "B. 2025 MCAHPS Format Tables 20\n\nproxy: RECODE : Someone helped complete survey\n\nSAS Format: YNA\n\n1: YES\n\n2: NO\n\nproxy_answ: RECODE : How helped: Proxy answered questions\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nproxy_othr: RECODE : How helped: Proxy helped other way\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nproxy_read: RECODE : How helped: Proxy read questions\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nproxy_tran: RECODE : How helped: Proxy translated questions\n\nSAS Format: YNE\n\n0:",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

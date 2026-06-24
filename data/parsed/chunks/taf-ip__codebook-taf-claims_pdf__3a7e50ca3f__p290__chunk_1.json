@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p290__chunk_1",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 290,
+  "text": "Analytic File (TAF) claims \n\nFILE(S): All line files \n\nVALUES: Three-digit value; may have leading zeros; are displayed by file type, according to the source: \n\nTOS \ncode TOS description IP LT OT RX \n\n001 Inpatient hospital services, other than services in an institution for mental diseases X \n002 Outpatient hospital services X \n003 Rural health clinic services X \n004 Other ambulatory services furnished by a rural health clinic X \n005 Professional laboratory services X \n006 Technical laboratory",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

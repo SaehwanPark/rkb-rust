@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_37",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Combined Claims\n\n 183\n\n OUD_HOSP_MEDICAID\n\n Opioid-Related Hospitalization or Emergency Department - Medicaid-Only Claims\n\n 184\n\n OUD_HOSP_MEDICARE\n\n Opioid-Related Hospitalization or Emergency Department - Medicare-Only Claims\n\n 185\n\n OUD_MAT_COMBINED\n\n Use of Medication-Assisted Treatment (MAT) - Combined Claims\n\n 186\n\n OUD_MAT_MEDICAID\n\n Use of Medication-Assisted Treatment (MAT) - Medicaid-Only Claims\n\n 187\n\n OUD_MAT_MEDICARE\n\n Use of Medication-Assisted Treatment (MAT) - Medicare-Only",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_6",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Claim Healthcare Common Procedure Coding System (HCPCS) Year Code \n\n CARR_CLM_RFRNG_PIN_NUM \n Carrier Claim Referring Provider ID Number (PIN) \n\n CPO_PRVDR_NUM \n Care Plan Oversight (CPO) Provider Number \n\n CPO_ORG_NPI_NUM \n CPO Organization NPI Number \n\n CARR_CLM_BLG_NPI_NUM \n Carrier Claim Billing NPI Number \n\n BLG_PRVDR_SPCLTY_CD1 \n Claim Billing Provider Secondary Specialty Code 1 \n\n BLG_PRVDR_SPCLTY_CD2 \n Claim Billing Provider Secondary Specialty Code 2 \n\n BLG_PRVDR_SPCLTY_CD3 \n Claim",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

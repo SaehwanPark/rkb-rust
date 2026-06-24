@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_50",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Initial Modifier Code (FFS)\n\n 9\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (FFS)\n\n 10\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (FFS)\n\n 11\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (FFS)\n\n 12\n\n REV_CNTR_RATE_AMT\n\n Revenue Center Rate Amount\n\n 13\n\n REV_CNTR_TOT_CHRG_AMT\n\n Revenue Center Total Charge Amount\n\n 14\n\n REV_CNTR_NCVRD_CHRG_AMT\n\n Revenue Center Non-Covered Charge Amount\n\n 15\n\n REV_CNTR_DDCTBL_COINSRNC_CD\n\n Revenue Center Deductible Coinsurance Code\n\n 16",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

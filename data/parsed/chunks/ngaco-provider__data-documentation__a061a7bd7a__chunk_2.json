@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ngaco-provider__data-documentation__a061a7bd7a__chunk_2",
+  "source_document": "data/raw/html/documentation_page/a061a7bd7ac896c6f3d6062bbc93d6aef05f2850.html",
+  "page": null,
+  "text": "ACO Identifier \n\n CLNDR_YR \n Year of ACO Source Record \n\n PRVDR_CLASS \n Provider Class \n\n ORG_TIN \n Billing TIN of ACO Participant \n\n ORG_NPI \n National Provider Identifier (NPI) for Organization \n\n ORG_CCN \n CMS Certification Number \n\n IND_NPI \n NPI for Practitioner \n\n ORG_NAME \n Legal Business Name Associated with the ACO Participant TIN \n\n LAST_NAME \n Last Name of Provider Associated with the NPI \n\n FIRST_NAME \n First Name of Provider Associated with the NPI \n\n CCN_TYPE \n CCN Facility Type",
+  "dataset": "ngaco-provider",
+  "url": "https://resdac.org/cms-data/files/ngaco-provider/data-documentation"
+}

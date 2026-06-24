@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_13",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "73\n\n MDCR_DDCTBL_PD_AMT\n\n Total Medicare Deductible Amount\n\n 74\n\n MDCR_COINSRNC_PD_AMT\n\n Total Medicare Coinsurance Amount\n\n 75\n\n MDCR_CMBND_DDCTBL_IND\n\n Medicare Combined Deductible and Coinsurance Indicator\n\n 76\n\n MDCR_REIMBRSMT_TYPE_CD\n\n Medicare Reimbursement Type Code\n\n 77\n\n COINSRNC_AMT\n\n Beneficiary Coinsurance Amount\n\n 78\n\n COINSRNC_PD_DT\n\n Beneficiary Coinsurance Paid Date\n\n 79\n\n COPAY_AMT\n\n Beneficiary Copayment Amount\n\n 80\n\n COPAY_PD_DT\n\n Beneficiary Copayment Paid Date\n\n 81",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

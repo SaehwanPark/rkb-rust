@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_355",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Unclear if caregiver(s) will provide assistance\r\n05 = Assistance needed, but no caregiver(s) available CHAR 2 x\nM2110_ADL_IADL_ASTNC_FREQ M2110 Frequency of ADL or IADL Assistance From Caregiver This field indicates how often the patient receives ADL or IADL assistance from any caregiver(s). 01 = At least daily\r\n02 = Three or more times per week\r\n03 = One to two times per week\r\n04 = Received, but less often than weekly\r\n05 = No assistance received\r\nUK = Unknown CHAR 2 x x x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

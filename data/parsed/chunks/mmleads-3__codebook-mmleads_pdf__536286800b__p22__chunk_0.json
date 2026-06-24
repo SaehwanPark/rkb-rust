@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p22__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 22,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 11 \n\nMDCD_CHIP_NON_ABD_MOS \n\nLABEL: MDCD or CHIP Enrollment — Non-ABD Months \n\nDESCRIPTION: This variable is the number of months during the year that the beneficiary was enrolled in Medicaid or \nCHIP but was not eligible for Medicaid benefits due to aged, blind or disabled (A/B/D) categories. \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: T-MSIS DE file (derived) \n\nVALUES: 0–12 or null/missing (if not Medicaid or CHIP enrolled during the",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

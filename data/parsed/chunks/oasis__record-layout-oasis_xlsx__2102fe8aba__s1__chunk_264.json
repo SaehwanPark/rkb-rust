@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_264",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "activity or movement 02=Less often than daily\r\n03 = Daily, but not constantly\r\n04 = All of the time CHAR 2 x x x x x\nM1300_PRSR_ULCR_RISK_ASMT M1300 Pressure Ulcer Assessment This field indicates whether the patient was assessed for the risk of developing pressure ulcers. 00 = No assessment conducted.\r\n01 = Yes, based on an evaluation of clinical factors, e.g., mobility,\r\nincontinence, nutrition, etc., without use of standardized tool.\r\n02 = Yes, using a standardized tool, validated tool (e.g.,",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

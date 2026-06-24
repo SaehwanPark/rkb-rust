@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p48__chunk_1",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 48,
+  "text": "beneficiary’s plan. \n\nStarting in 2010, this variable included in the formulary file (rather than the PDE file). \n\nSHORT NAME: PRAUTHYN \n\nLONG NAME: PRIOR_AUTHORIZATION_YN \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: PDE and Plan Characteristics (derived) \n\nVALUES: 1 = Prior authorization required \n0 = Prior authorization not required \nNull \n\nCOMMENT: Part D plan sponsors submit the pricing, tiers, and formularies for their plan benefit packages to CMS \nvia the Health Plan Management System (HPMS).",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

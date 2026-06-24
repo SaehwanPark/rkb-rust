@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_6",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicare — Coverage Start Date\n\n 28\n\n MDCR_OREC\n\n Medicare — Original Reason for Entitlement Code (OREC)\n\n 29\n\n MDCR_CREC\n\n Medicare — Current Reason for Entitlement Code (CREC)\n\n 30\n\n MDCR_MS_CD\n\n Medicare Status Code — Latest in Year\n\n 31\n\n MDCR_DIB_AWD_CD\n\n Medicare — SSA Disability Insurance Benefit Award Code\n\n 32\n\n MDCR_DIB_JSTFCTN_CD\n\n Medicare — Disability Insurance Benefit Entitlement to Medicare Justification Code\n\n 33\n\n MDCR_DIB_PRMRY_IMPRMNT_CD\n\n Medicare — SSA Disability Insurance",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

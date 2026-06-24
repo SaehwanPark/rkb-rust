@@ -1,0 +1,8 @@
+{
+  "chunk_id": "md-ppas__record-layout-mdppas_pdf__583b8c5935__p4__chunk_0",
+  "source_document": "data/raw/assets/pdf/583b8c59350c60f3a057b741c5d5e47e73c3d990.pdf",
+  "page": 4,
+  "text": "4 \n\n Place of service \n(POS) variables Description Data Source \n\npos_er % of line items delivered in emergency room (ER) Claims \n\npos_nursing % of line items delivered in nursing facility or skilled nursing facility Claims \n\npos_asc % of line items delivered in ambulatory surgery center (ASC) Claims \n\npos_resid % of line items delivered in the patient’s residence (i.e., home, assisted \nliving facility, custodial care facility, or group home) Claims \n\npos_other % of line items delivered in other",
+  "dataset": "md-ppas",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mdppas.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_6",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Claim Operating Physician NPI Number (FFS)\n\n 28\n\n OP_PHYSN_SPCLTY_CD\n\n Claim Operating Physician Specialty Code\n\n 29\n\n OT_PHYSN_NPI\n\n Claim Other Physician NPI Number (FFS)\n\n 30\n\n OT_PHYSN_SPCLTY_CD\n\n Claim Other Physician Specialty Code\n\n 31\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician NPI (FFS)\n\n 32\n\n RNDRNG_PHYSN_SPCLTY_CD\n\n Claim or Revenue Center Rendering Physician Specialty Code\n\n 33\n\n RFR_PHYSN_NPI\n\n Claim Referring Physician NPI Number\n\n 34\n\n RFRG_SPCLTY_CD\n\n Claim Referring Physician",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

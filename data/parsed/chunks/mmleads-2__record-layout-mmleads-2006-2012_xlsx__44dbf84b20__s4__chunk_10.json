@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s4__chunk_10",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 4,
+  "text": "than or equal to the Medicare coinsurance and deductible for a service that occurred on the same day. 0 = Medicaid services present, but no overlap\r\n1-X=Count of services that overlap\r\nNull/missing = Not applicable, no similar Medicaid services\nMedicare Utilization MEDICARE_CLM_CNT_01 - 12 Monthly Medicare FFS claim count XXX\n MEDICARE_DAY_CNT_01 - 12 Monthly Medicare days (covered and non-covered)* XXX\n MEDICARE_COV_DAY_CNT_01 - 12 Monthly Medicare covered days * XXX\n OTH_MEDICARE_CLM_CNT",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

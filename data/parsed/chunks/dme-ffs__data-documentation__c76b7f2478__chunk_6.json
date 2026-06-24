@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_6",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Claim Principal Diagnosis Code (FFS) \n\n PRNCPAL_DGNS_VRSN_CD \n Claim Principal Diagnosis Version Code (FFS) \n\n ICD_DGNS_CD1 \n Claim Diagnosis Code I (FFS) \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code I Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD2 \n Claim Diagnosis Code II (FFS) \n\n ICD_DGNS_VRSN_CD2 \n Claim Diagnosis Code II Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD3 \n Claim Diagnosis Code III (FFS) \n\n ICD_DGNS_VRSN_CD3 \n Claim Diagnosis Code III Diagnosis",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

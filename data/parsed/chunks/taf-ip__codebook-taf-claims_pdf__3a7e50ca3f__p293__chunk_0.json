@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p293__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 293,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 273 \n\nTOS \ncode TOS description IP LT OT RX \n\n092 Exceptional care — hospital residing X \n093 Non-acute care — hospital residing X \n115 Residential care X \n119 Capitated payments to HMOs, HIOs, or PACE plans X \n120 Capitated payments for primary care case management (PCCM) X \n121 Premium payments for private health insurance X \n122 Capitated payments to prepaid health plans (PHPs) X \n123",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

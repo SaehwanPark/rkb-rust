@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_2",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "Layout - MBSF 30 CCW Chronic Conditions\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n BENE_ENROLLMT_REF_YR \n Reference Year (MBSF) \n\n ALZH \n Alzheimer's Disease End-of-Year Indicator \n\n ALZH_EVER \n Date that beneficiary first met claims criteria for the Alzheimer’s disease indicator \n\n AMI \n Acute Myocardial Infarction End-of-Year Indicator \n\n AMI_EVER \n Date that beneficiary first met claims criteria for the AMI indicator \n\n ANEMIA \n Anemia End-of-Year Indicator",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

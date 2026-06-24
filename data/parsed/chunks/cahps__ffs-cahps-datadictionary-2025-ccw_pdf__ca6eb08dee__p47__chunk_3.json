@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p47__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 47,
+  "text": "Q57B Q63B Q65B Q65B Q65B Q65B Q65B Q65B Q65B \nlim_eating Q57C Q63C Q65C Q65C Q65C Q65C Q65C Q65C Q65C \nlim_chairs Q57D Q63D Q65D Q65D Q65D Q65D Q65D Q65D Q65D \nlim_walking Q57E Q63E Q65E Q65E Q65E Q65E Q65E Q65E Q65E \nlim_toilet Q57F Q63F Q65F Q65F Q65F Q65F Q65F Q65F Q65F \nweb_at_home Q59 Q65 Q67 Q67 Q67 Q67 Q67 Q67 Q67 \nrecontact Q60 Q66 Q68 Q68 Q68 Q68 Q68 Q68 Q68 \ndayphone \nlang_speak Q44 Q45",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

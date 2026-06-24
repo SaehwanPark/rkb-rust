@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_27",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Provider State Plan Enrollment Code (Medicaid and/or CHIP)\n\n 5\n\n PRVDR_ENRLMT_STUS_CD\n\n Provider Enrollment Status Code (Medicaid and/or CHIP)\n\n 6\n\n PRVDR_ENRLMT_STUS_CTGRY_CD\n\n Provider Enrollment Status Category Code\n\n 7\n\n PRVDR_ENRLMT_MTHD_CD\n\n Provider Medicaid or CHIP Program Enrollment Method Code\n\n 8\n\n APLCTN_DT\n\n Provider Medicaid or CHIP Program Application Date\n\n 9\n\n PRVDR_ENRLMT_START_DT\n\n Provider Enrollment (Medicaid and/or CHIP) Start Date\n\n 10\n\n PRVDR_ENRLMT_END_DT\n\n Provider",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

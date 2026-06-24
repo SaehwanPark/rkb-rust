@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p41__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 41,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 30 \n\nALOWD_SRVC_QTY \n\nLABEL: Maximum Allowed Service Quantity \n\nDESCRIPTION: On facility claims, this field is to capture maximum allowable quantity by revenue code category, e.g., \nnumber of days in a particular type of accommodation, pints of blood, etc. \n\nSHORT NAME: ALOWD_SRVC_QTY \n\nLONG NAME: ALOWD_SRVC_QTY \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Analytic File (TAF) claims",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

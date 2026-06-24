@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_294",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Yes\r\nNA = Patient on prophylactic treatment\r\nUK = Unknown CHAR 2 x x x x x x\nM1610_UR_INCONT M1610 (M0520) Urinary Incontinence Or Catheter Presence This field indicates whether the patient has urinary incontinence or urinary catheter presence. 00 = No incontinence or catheter (includes anuria or ostomy for urinary\r\ndrainage)\r\n01 = Patient is incontinent\r\n02 = Patient requires a urinary catheter (i.e., external, indwelling,\r\nintermittent, suprapubic) CHAR 2 x x x x x x\nM1615_INCNTNT_TIMING",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

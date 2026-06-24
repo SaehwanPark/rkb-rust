@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_66",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Acquired Conditions (HAC) Program Reduction Indicator\n\n 377\n\n PGM_RDCTN_IND_SW\n\n Electronic Health Records (EHR) Program Reduction Indicator\n\n 378\n\n PA_IND_CD\n\n Prior Authorization Indicator Code\n\n 379\n\n UNIQ_TRKNG_NUM\n\n Unique Tracking Number\n\n 380\n\n STAY_2_IND_SW\n\n Two Midnight Stay Indicator\n\n 381\n\n CLM_SITE_NTRL_PYMT_CST_AMT\n\n Claim Site Neutral Payment Based on Cost Amount\n\n 382\n\n CLM_SITE_NTRL_PYMT_IPPS_AMT\n\n Claim Site Neutral Payment Based on IPPS Amount\n\n 383\n\n CLM_FULL_STD_PYMT_AMT",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

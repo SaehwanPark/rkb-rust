@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-ndi__chunk_2",
+  "source_document": "data/raw/html/dataset_page/78aff82de2fa0476d44dc0080160c652b04c4094.html",
+  "page": null,
+  "text": "states are not included in the later years. See specific availability below.\nThis is a segment of the MESF file. Another segment, the Conditions Segment can also be requested.\nOnly beneficiaries with a date of death in the annual Medicaid enrollment file are included in the file. The date can be the Medicaid date of death reported in MAX/TAF or the Medicare date of death for the dually eligible.\nA bridge file will be provided to assist researchers who are conducting longitudinal analysis",
+  "dataset": "mesf-ndi",
+  "url": "https://resdac.org/cms-data/files/mesf-ndi"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_38",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "— October\n\n 16\n\n PRVDR_AFLTD_PGM_ACTV_IND_11\n\n Provider Affiliated Program Active Indicator — November\n\n 17\n\n PRVDR_AFLTD_PGM_ACTV_IND_12\n\n Provider Affiliated Program Active Indicator — December\n\n 18\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 19\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n APR Location \n\nNumberSAS NameVariable Name\n\n 1\n\n SUBMTG_STATE_PRVDR_ID\n\n Submitting State Provider Identification Number\n\n 2\n\n STATE_CD\n\n Submitting State Alpha",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

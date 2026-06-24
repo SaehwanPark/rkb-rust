@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_20",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Processing Indicator Code \n\n LINE_PMT_80_100_CD \n Line Payment 80%/100% Code \n\n LINE_SERVICE_DEDUCTIBLE \n Line Service Deductible Indicator Switch \n\n CARR_LINE_MTUS_CNT \n Carrier Line Miles/Time/Units/Services (MTUS) Count \n\n CARR_LINE_MTUS_CD \n Carrier Line Miles/Time/Units/Services (MTUS) Indicator Code \n\n LINE_ICD_DGNS_CD \n Line Diagnosis Code \n\n LINE_ICD_DGNS_VRSN_CD \n Line Diagnosis Code Diagnosis Version Code (ICD-9 or ICD-10) \n\n HPSA_SCRCTY_IND_CD \n Carrier Line Health Professional",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p32__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 32,
+  "text": "B. 2025 MCAHPS Format Tables 32 \n\nsp_tryappt: RECODE : Last 6 mths, make appointments with specialist \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n\nsp_visits: RECODE : Last 6 mths, number of specialists talked to \n\nSAS Format: NMB \n\n0: NONE \n\n1: 1 SPECIALIST \n\n2: 2 \n\n3: 3 \n\n4: 4 \n\n5: 5 OR MORE SPECIALISTS \n\nsu_dispo_lang: Language of Survey Data Collection \n\nSAS Format: $LANGF \n\n1: ENGLISH \n\n2: SPANISH \n\n3: CHINESE \n\n4: VIETNAMESE \n\n5: KOREAN \n\n6: TAGALOG \n\n7: MANDARIN \n\n88: NA \n\n8: CANTONESE",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

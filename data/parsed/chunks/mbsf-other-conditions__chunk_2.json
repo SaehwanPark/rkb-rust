@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__chunk_2",
+  "source_document": "data/raw/html/dataset_page/cb6221ac2e195081875db2207b6efc6681e56769.html",
+  "page": null,
+  "text": "does this file include? (variable highlights)\nTwo flags for each chronic condition:\nFirst ever occurrence date\nEnd of year indicator\nThis file is a segment that can be requested in addition to the Master Beneficiary Summary File (MBSF) base file.\nSpecial considerations\nThis file uses information from Fee-For-Service (FFS) Medicare claims.\n\nProgram: \nMedicare\nCategory: \nBeneficiary Enrollment and Summary\nPrivacy Level: \nResearch Identifiable Files\n\nAvailability of this file\n\nAvailability:",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions"
+}

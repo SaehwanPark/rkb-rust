@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_8",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Claims \n\n EPILEP_MEDICARE_EVER \n Epilepsy First Ever Occurrence Date - Medicare Only Claims \n\n FIBRO_MEDICARE \n Fibromyalgia, Chronic Pain and Fatigue End-of-Year Indicator - Medicare Only Claims \n\n FIBRO_MEDICARE_EVER \n Fibromyalgia, Chronic Pain and Fatigue First Ever Occurrence Date - Medicare Only Claims \n\n HEARIM_MEDICARE \n Sensory - Deafness and Hearing Impairment End-of-Year Indicator - Medicare Only Claims \n\n HEARIM_MEDICARE_EVER \n Sensory - Deafness and Hearing Impairment First Ever",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__chunk_1",
+  "source_document": "data/raw/html/dataset_page/000224f3381ebc39db622e3eee762a28c41e05ec.html",
+  "page": null,
+  "text": "by the Low Income Subsidy (LIS) program for Part D Plan enrollment. \n\nWhat does this file include? (variable highlights)\nPart D Plan enrollment and disenrollment dates\nEnrollment type, eg:  auto, facilitated, passive, point of sale\nMonths of LIS subsidy\nBeneficiary self-selector indicator\nContract ID\nPlan ID\nLinking variables:\nCCW Beneficiary ID: linkage to the PDE and all other CMS Medicare or Medicaid data files\nContract ID and Plan ID: linkage to the Part D Plan Characteristics file\nWhy do",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://resdac.org/cms-data/files/part-d-plan-election-type-beneficiary-summary?page=1"
+}

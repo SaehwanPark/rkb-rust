@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__data-documentation__995bd91472__chunk_2",
+  "source_document": "data/raw/html/documentation_page/995bd914721a5979423878bb7fe55e7b1d831074.html",
+  "page": null,
+  "text": "Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n FAC_DATA_SUBMSN_DT \n Facility Data Submission Date \n\n CCN \n CMS Certification Number (Facility Provider Number) \n\n PRVDR_STATE \n Provider State \n\n FAC_TIER \n Tier 1: 25+ AHCAH Patients; Tier 2: <= 24 AHCAH Patients \n\n STATE_BENE_MDCD_ID \n Encrypted State-Specific Medicaid Beneficiary ID \n\n PGM_ID \n Program Identifier (1=FFS Medicare; 2=FFS Medicaid; 3=Dual) \n\n ADMSN_DT \n Facility Admission Date \n\n AHCAH_WVR_SUBMSN_ID \n AHCAH Waiver Submission ID",
+  "dataset": "ahcah-patient",
+  "url": "https://resdac.org/cms-data/files/ahcah-patient/data-documentation"
+}

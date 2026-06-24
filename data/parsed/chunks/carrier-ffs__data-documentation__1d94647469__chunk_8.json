@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_8",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Code I (FFS) \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code I Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD2 \n Claim Diagnosis Code II (FFS) \n\n ICD_DGNS_VRSN_CD2 \n Claim Diagnosis Code II Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD3 \n Claim Diagnosis Code III (FFS) \n\n ICD_DGNS_VRSN_CD3 \n Claim Diagnosis Code III Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD4 \n Claim Diagnosis Code IV (FFS) \n\n ICD_DGNS_VRSN_CD4 \n Claim Diagnosis Code IV Diagnosis",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_11",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "INTDIS_MEDICARE_EVER \n Intellectual Disabilities and Related Conditions First Ever Occurrence Date - Medicare Only Claims \n\n LEADIS_MEDICARE \n Learning Disabilities End-of-Year Indicator - Medicare Only Claims \n\n LEADIS_MEDICARE_EVER \n Learning Disabilities First Ever Occurrence Date - Medicare Only Claims \n\n LEUKLYMPH_MEDICARE \n Leukemias and Lymphomas End-of-Year Indicator - Medicare Only Claims \n\n LEUKLYMPH_MEDICARE_EVER \n Leukemias and Lymphomas First Ever Occurrence Date - Medicare Only",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "nhats__chunk_2",
+  "source_document": "data/raw/html/dataset_page/339cf08f4d14e58342b5b5b205746f10f0a4254c.html",
+  "page": null,
+  "text": "status\nInsurance\nLabor force participation\nThe NHATS interview data are linked to CMS Medicare claims data for information on healthcare use.\nSpecial considerations\nThe NHATS website has information on obtaining this restricted data.\n\nProgram: \nMedicare\nCategory: \nLinked, Survey\nPrivacy Level: \nResearch Identifiable Files\n\nAvailability of this file\n\nAvailability: \nRetrospective data package including CY 2006-2017\nCMS is no longer distributing this file. See the NIA Data LINKAGE Program website",
+  "dataset": "nhats",
+  "url": "https://resdac.org/cms-data/files/nhats"
+}

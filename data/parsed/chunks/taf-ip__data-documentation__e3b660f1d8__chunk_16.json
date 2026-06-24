@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_16",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "PRCDR_CD_SYS_5\n\n Procedure Code 5 System/Nomenclature\n\n 100\n\n PRCDR_CD_DT_6\n\n Date Procedures 6 Performed\n\n 101\n\n PRCDR_CD_6\n\n Procedure Code 6\n\n 102\n\n PRCDR_CD_SYS_6\n\n Procedure Code 6 System/Nomenclature\n\n 103\n\n ADMTG_PRVDR_ID\n\n Admitting Provider Identification Number\n\n 104\n\n ADMTG_PRVDR_NPI\n\n Admitting Provider NPI\n\n 105\n\n ADMTG_PRVDR_TXNMY_CD\n\n Admitting Provider Taxonomy Code\n\n 106\n\n ADMTG_PRVDR_TYPE_CD\n\n Admitting Provider Type Code\n\n 107\n\n ADMTG_PRVDR_SPCLTY_CD\n\n Admitting Provider",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

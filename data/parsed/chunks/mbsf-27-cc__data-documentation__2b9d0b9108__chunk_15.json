@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_15",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "Date that beneficiary first met claims criteria for the anemia indicator \n\n ASTHMA \n Asthma End Year Indicator \n\n ASTHMA_MID \n Asthma Mid-Year Indicator \n\n ASTHMA_EVER \n Date that beneficiary first met claims criteria for the asthma indicator \n\n HYPERL \n Hyperlipidemia End Year Indicator \n\n HYPERL_MID \n Hyperlipidemia Mid-Year Indicator \n\n HYPERL_EVER \n Date that beneficiary first met claims criteria for the hyperlipidemia indicator \n\n HYPERP \n Benign Prostatic Hyperplasia End Year Indicator",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

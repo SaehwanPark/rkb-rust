@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_41",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Claim Care Improvement Model 4 Code\n\n 218\n\n CLM_BNDLD_MODEL_1_DSCNT_PCT\n\n Claim Bundled Model 1 Discount Percent\n\n 219\n\n CLM_BASE_OPRTG_DRG_AMT\n\n Claim Base Operating DRG Amount\n\n 220\n\n CLM_VBP_PRTCPNT_IND_CD\n\n Claim Value-Based Purchasing (VBP) Participant Indicator Code\n\n 221\n\n CLM_VBP_ADJSTMT_PCT\n\n Claim VBP Adjustment Percent\n\n 222\n\n CLM_HRR_PRTCPNT_IND_CD\n\n Claim Hospital Readmission Reduction (HRR) Participant Indicator Code\n\n 223\n\n CLM_HRR_ADJSTMT_PCT\n\n Claim HRR Adjustment Percent",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

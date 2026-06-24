@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_15",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "Treatment Authorization Number\n\n 90\n\n CLM_PRCR_RTRN_CD\n\n Claim Pricer Return Code\n\n 91\n\n CLM_PRCR_VRSN_CD\n\n Claim Pricer Version Code\n\n 92\n\n CLM_SRVC_FAC_ZIP_CD\n\n Claim service facility ZIP code (where service was provided)\n\n 93\n\n CLM_NEXT_GNRTN_ACO_IND_CD1\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP)\n\n 94\n\n CLM_NEXT_GNRTN_ACO_IND_CD2\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Telehealth",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

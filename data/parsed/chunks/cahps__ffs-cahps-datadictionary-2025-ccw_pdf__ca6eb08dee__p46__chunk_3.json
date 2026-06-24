@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p46__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 46,
+  "text": "Q56A Q56A Q56A Q56A Q56A \ncnd_angina Q50B Q51B Q56B Q56B Q56B Q56B Q56B Q56B Q56B \ncnd_stroke \ncnd_hbp Q50C Q51C Q56C Q56C Q56C Q56C Q56C Q56C Q56C \ncnd_cancer Q50D Q51D Q56D Q56D Q56D Q56D Q56D Q56D Q56D \ncnd_copd Q50E Q51E Q56E Q56E Q56E Q56E Q56E Q56E Q56E \ncnd_diabetes Q50F Q51F Q56F Q56F Q56F Q56F Q56F Q56F Q56F \nprob_walking —– —– —– —– —– —– —– —– —– \nprob_dressing —– —– —– —– —– —– —– —– —– \nprob_errands Q58 Q64 Q66 Q66 Q66 Q66 Q66 Q66 Q66 \nim_flu1last* R Q51 Q52 Q57 Q57 Q57 Q57 Q57 Q57",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

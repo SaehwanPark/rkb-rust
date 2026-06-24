@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p21__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 21,
+  "text": "Proxy translated questions \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nproxy_writ: RECODE : How helped: Proxy wrote answers \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nr_ghs: REVERSED: Rate Overall Health \n\nSAS Format: RTC \n\n1: POOR \n\n2: FAIR \n\n3: GOOD \n\n4: VERY GOOD \n\n5: EXCELLENT \n\nr_im_flu1last: REVERSED: Flu shot last year \n\nSAS Format: YND \n\n1: NO \n\n2: YES",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

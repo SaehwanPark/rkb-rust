@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_24",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "Claim Procedure Code XIX\n\n 143\n\n PRCDR_DT19\n\n Claim Procedure Code XIX Date\n\n 144\n\n ICD_PRCDR_CD20\n\n Claim Procedure Code XX\n\n 145\n\n PRCDR_DT20\n\n Claim Procedure Code XX Date\n\n 146\n\n ICD_PRCDR_CD21\n\n Claim Procedure Code XXI\n\n 147\n\n PRCDR_DT21\n\n Claim Procedure Code XXI Date\n\n 148\n\n ICD_PRCDR_CD22\n\n Claim Procedure Code XXII\n\n 149\n\n PRCDR_DT22\n\n Claim Procedure Code XXII Date\n\n 150\n\n ICD_PRCDR_CD23\n\n Claim Procedure Code XXIII\n\n 151\n\n PRCDR_DT23\n\n Claim Procedure Code XXIII Date\n\n 152",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

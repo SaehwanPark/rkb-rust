@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p153__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 153,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 135 \n\nCLM_TOT_CHRG_AMT \n\nLABEL: Claim Total Charge Amount \n\nDESCRIPTION: The total charges for all services included on the institutional claim. \n\nThis field is redundant with revenue center code 0001/total charges. \n\nSHORT NAME: TOT_CHRG \n\nLONG NAME: CLM_TOT_CHRG_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: XXX.XX \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

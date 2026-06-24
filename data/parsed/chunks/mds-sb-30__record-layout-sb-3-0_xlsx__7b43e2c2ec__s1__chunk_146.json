@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_146",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "in Behavior or Other Symptoms CHAR 1 The data in this column identifies how the resident's current behavior status compares to the prior assessment (e.g., stairs, outside of the facility). -=Not assessed/no information\r\n 0=Same\r\n 1=Improved\r\n 2=Worse\r\n 3=N/A because no prior MDS assessment\r\n ^=Blank (skip pattern)\n178 F0300_CNDCT_ACTVTY_CD F0300_CNDCT_ACTVTY_CD F0300 Should Daily and Activity Preference Interview Be Conducted CHAR 1 The data in this column identifies whether a daily and",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

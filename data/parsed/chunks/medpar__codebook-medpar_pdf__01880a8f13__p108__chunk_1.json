@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p108__chunk_1",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 108,
+  "text": "2-position codes may be present. \n\nSHORT NAME: ESRDSTG1 \nESRDSTG2 \nESRDSTG3 \n ESRDSTG4 \nESRDSTG5 \n\nLONG NAME: ESRD_SETG_IND_1_CD \nESRD_SETG_IND_2_CD \nESRD_SETG_IND_3_CD \n ESRD_SETG_IND_4_CD \nESRD_SETG_IND_5_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: MedPAR (derived) \n\nVALUES: 00 = IP renal dialysis-general (revenue code 0800) \n01 = IP renal dialysis-hemodialysis (revenue code 0801) \n02 = IP renal dialysis-peritoneal (non-CAPD: revenue code 0802) \n03 = IP renal dialysis-Continuous Ambulatory",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

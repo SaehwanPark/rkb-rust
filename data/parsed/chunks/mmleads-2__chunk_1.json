@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__chunk_1",
+  "source_document": "data/raw/html/dataset_page/9826bacf328abda3f93623f8ca8af27e5961040d.html",
+  "page": null,
+  "text": "Data Source (MMLEADS) 2.0 suite of files combines Medicare and Medicaid enrollment and claims data into four annual beneficiary-level files. The files include beneficiaries who are Medicare-only, Medicare-Medicaid dually enrolled and Medicaid-only blind and disabled.\n\nSource data\nMedicare: FFS, PDE and MA\nMedicaid: MAX data\nWhat does this file include? (variable highlights)\nEligibility, enrollment variables\nAggregated cost and use\nMedicare: FFS, PDE includes FFS and MA\nMedicaid: FFS, managed",
+  "dataset": "mmleads-2",
+  "url": "https://resdac.org/cms-data/files/mmleads-2"
+}

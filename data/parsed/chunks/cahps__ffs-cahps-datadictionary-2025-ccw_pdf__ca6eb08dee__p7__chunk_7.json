@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p7__chunk_7",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 7,
+  "text": "mths, got care from more than one provider YNA \nmd_needmngca RECODE : Last 6 mths, needed help from personal md to manage care YNA \nmd_getmngca RECODE : Last 6 mths, got help needed from personal md to manage care YNB \nsp_persmd RECODE : Personal md is a specialist YNA \nsp_tryappt RECODE : Last 6 mths, make appointments with specialist YNA \nsp_getappt RECODE : Last 6 mths, how often get appointment with specialist as soon as needed OFA \nsp_visits RECODE : Last 6 mths, number of specialists",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

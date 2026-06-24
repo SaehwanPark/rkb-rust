@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_24",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Code\n\n 40\n\n HCBS_TXNMY_CD\n\n Home- and Community-Based Services Taxonomy Code\n\n 41\n\n TOOTH_DSGNTN_SYS\n\n Tooth Designation System/Nomenclature\n\n 42\n\n TOOTH_NUM\n\n Tooth Number\n\n 43\n\n TOOTH_ORAL_CVTY_AREA_DSGNTD_CD\n\n Tooth Oral Cavity Area Designated Code\n\n 44\n\n TOOTH_SRFC_CD\n\n Tooth Surface Code\n\n 45\n\n SRVC_PRVDR_ID\n\n Servicing Provider Identification Number (TAF)\n\n 46\n\n SRVC_PRVDR_NPI\n\n Servicing Provider NPI\n\n 47\n\n SRVC_PRVDR_TXNMY_CD\n\n Servicing Provider Taxonomy Code\n\n 48",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

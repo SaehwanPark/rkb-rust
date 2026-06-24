@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_12",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Care Organization (ACO) Identification Number \n\n CLM_BENE_ID_TYPE_CD \n Claim Beneficiary Identifier Type Code \n\n CLM_RSDL_PYMT_IND_CD \n Claim Residual Payment Indicator Code \n\nLine File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID \n\n CLM_LINE_NUM \n Claim Line Number \n\n NCH_CLM_TYPE_CD \n NCH Claim Type Code \n\n CLM_THRU_DT \n Claim Through Date (FFS) \n\n TAX_NUM \n Line Provider Tax Number \n\n PRVDR_SPCLTY \n Line CMS Provider Specialty Code",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

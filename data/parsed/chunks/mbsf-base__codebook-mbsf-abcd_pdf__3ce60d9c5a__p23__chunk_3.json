@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p23__chunk_3",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 23,
+  "text": "or \nWidow of employee with a child in \nher care \n\n45 = RRB Parent of employee \n\n46 = RRB Widow/widower of RR \nemployee \n\n80 = RRB RR pensioner age or disability \n 83 = RRB Widow of pensioner with a \nchild in her care 84 = RRB Spouse \nof RR pensioner \n\n85 = RRB Parent of pensioner \n\n86 = RRB Widow/widower of RR \npensioner \n\nA = Primary claimant \n\nB = Aged wife age 62 or over 1st \nclaimant \n\nB1 = Aged husband age 62 or over 1st \nclaimant \n\nB2 = Young wife with a child in her care \n1st claimant",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_28",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Claim Line Status Code\n\n 13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n LINE_SRVC_BGN_DT\n\n Claim Line Beginning Date of Service\n\n 15\n\n LINE_SRVC_END_DT\n\n Claim Line Ending Date of Service\n\n 16\n\n BNFT_TYPE_CD\n\n Benefit Type Code\n\n 17\n\n TOS_CD\n\n Type of Service Code\n\n 18\n\n XIX_SRVC_CTGRY_CD\n\n CMS-64 Form Category of Service for the Paid Claim\n\n 19\n\n XXI_SRVC_CTGRY_CD\n\n CMS-21 Form Category of Service for the Paid Claim\n\n 20\n\n CMS_64_FED_CTGRY_CD\n\n CMS-64 Form Code for Federal",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

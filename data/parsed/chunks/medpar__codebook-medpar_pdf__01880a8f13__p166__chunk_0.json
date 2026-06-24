@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p166__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 166,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 150 \n\nOBSRVTN_SW \n\nLABEL: Observation Unit Indicator \n\nDESCRIPTION: The switch used to identify whether the claim involves treatment or observation in an observation unit. \n\nSHORT NAME: OBSRVTN_SW \n\nLONG NAME: OBSRVTN_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: Y = Yes, claim included services in an observation unit \nN = No observation unit services. \n\nCOMMENT: If any claim that comprises the",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

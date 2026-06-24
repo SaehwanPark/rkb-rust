@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_11",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "Beneficiary Total Coinsurance Days Count\n\n 55\n\n CLM_NON_UTLZTN_DAYS_CNT\n\n Claim Medicare Non Utilization Days Count\n\n 56\n\n NCH_BLOOD_PNTS_FRNSHD_QTY\n\n NCH Blood Pints Furnished Quantity\n\n 57\n\n NCH_QLFYD_STAY_FROM_DT\n\n NCH Qualified Stay From Date\n\n 58\n\n NCH_QLFYD_STAY_THRU_DT\n\n NCH Qualified Stay Through Date\n\n 59\n\n NCH_VRFD_NCVRD_STAY_FROM_DT\n\n NCH Verified Non-covered Stay From Date\n\n 60\n\n NCH_VRFD_NCVRD_STAY_THRU_DT\n\n NCH Verified Non-covered Stay Through Date\n\n 61",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

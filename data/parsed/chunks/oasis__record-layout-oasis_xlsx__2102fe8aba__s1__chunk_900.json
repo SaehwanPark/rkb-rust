@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_900",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "hurting themselves in some way. 0. Never or 1 day \r\n1. 2-6 days (several days) \r\n2. 7-11 days (half or more of the days) \r\n3. 12-14 days (nearly every day) CHAR 1 x\nD0160_TOT_SVRTY_SCRE_NUM Total severity score Indicates the patient's total severity score. 02-27 - Total severity score\r\n99 - Unable to complete the interview CHAR 2 x\nD0700_SCL_ISLTN_CD Social Isolation Indicates how often the patient feels lonely or isolated from those around them. 0. Never \r\n1. Rarely \r\n2. Sometimes \r\n3. Often",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

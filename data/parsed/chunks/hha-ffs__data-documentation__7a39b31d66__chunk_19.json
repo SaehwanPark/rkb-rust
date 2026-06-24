@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_19",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "CLM_ADJUST_GRP_CD\n\n Claim Adjustment Group Code\n\n 108\n\n CLM_ADJUST_RSN_CD\n\n Claim Adjustment Reason Code\n\n 109\n\n CLM_CLNCL_TRIL_NUM\n\n Clinical Trial Number\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n CLM_THRU_DT\n\n Claim Through Date (FFS)\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number\n\n 5\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 6\n\n REV_CNTR\n\n Revenue Center Code (FFS)\n\n 7\n\n REV_CNTR_DT\n\n Revenue Center Date\n\n 8",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

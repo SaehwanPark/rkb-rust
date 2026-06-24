@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_30",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "150\n\n LIVER_MEDICAID\n\n Liver Disease, Cirrhosis & Oth Liver Cond (excl Hepatitis) - Medicaid Only Claims\n\n 151\n\n LIVER_MEDICARE\n\n Liver Disease, Cirrhosis & Oth Liver Cond (excl Hepatitis) - Medicare Only Claims\n\n 152\n\n LNGC_COMBINED\n\n Lung Cancer Indicator - Combined Data\n\n 153\n\n LNGC_MEDICAID\n\n Lung Cancer Indicator - Medicaid-Only Data\n\n 154\n\n LNGC_MEDICARE\n\n Lung Cancer Indicator - Medicare-Only Data\n\n 155\n\n MIGRAINE_COMBINED\n\n Migraine and other Chronic Headache - Combined Medicare &",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

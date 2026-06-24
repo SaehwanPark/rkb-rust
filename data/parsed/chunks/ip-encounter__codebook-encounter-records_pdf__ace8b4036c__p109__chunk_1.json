@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p109__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 109,
+  "text": "care (intensivists) \n82 = Hematology \n83 = Hematology/oncology \n 84 = Preventive medicine \n85 = Maxillofacial surgery \n86 = Neuropsychiatry \n89 = Certified clinical nurse \nspecialist \n90 = Medical oncology \n91 = Surgical oncology \n92 = Radiation oncology \n93 = Emergency medicine \n94 = Interventional radiology \n97 = Physician assistant \n98 = Gynecologist/oncologist \n99 = Unknown physician specialty \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

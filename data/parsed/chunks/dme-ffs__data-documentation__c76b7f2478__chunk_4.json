@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_4",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Payer (if not Medicare) Claim Paid Amount \n\n CARR_CLM_PRVDR_ASGNMT_IND_SW \n Carrier Claim Provider Assignment Indicator Switch \n\n NCH_CLM_PRVDR_PMT_AMT \n NCH Claim Provider Payment Amount \n\n NCH_CLM_BENE_PMT_AMT \n NCH Claim Payment Amount to Beneficiary \n\n CLM_BENE_PD_AMT \n Carrier Claim Beneficiary Paid Amount \n\n NCH_CARR_CLM_SBMTD_CHRG_AMT \n NCH Carrier Claim Submitted Charge Amount (sum of all line-level submitted charges) \n\n NCH_CARR_CLM_ALOWD_AMT \n NCH Carrier Claim Allowed Charge Amount",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

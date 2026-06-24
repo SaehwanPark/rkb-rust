@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p20__chunk_1",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 20,
+  "text": "8 \n\nSOURCE: T-MSIS DE file (derived) \n\nVALUES: 0–12 or null/missing (if no Medicaid enrollment) \n\nCOMMENT: CCW creates this variable using the DE Managed Care Supplemental file; we obtain the maximum \nvalue (number of months) from the following variables: \n\n• Mental Health (MH) Prepaid Inpatient Health Plan (PIHP) Months \n• MH Prepaid Ambulatory Health Plan (PAHP) Months \n• Substance Use Disorders (SUD) PIHP Months \n• SUD PAHP Months \n\n(Variables called MH_PIHP_MOS, MH_PAHP_MOS, SUD_PIHP_MOS,",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

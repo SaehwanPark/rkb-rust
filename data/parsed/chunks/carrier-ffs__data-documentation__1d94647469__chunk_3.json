@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_3",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Date (FFS) \n\n NCH_WKLY_PROC_DT \n NCH Weekly Claim Processing Date \n\n CARR_CLM_ENTRY_CD \n Carrier Claim Entry Code \n\n CLM_DISP_CD \n Claim Disposition Code \n\n CARR_NUM \n Carrier or MAC Number \n\n CARR_CLM_PMT_DNL_CD \n Carrier Claim Payment Denial Code \n\n CLM_PMT_AMT \n Claim (Medicare) Payment Amount \n\n NCH_PRMRY_PYR_CLM_PD_AMT \n NCH Primary Payer (if not Medicare) Claim Paid Amount \n\n RFR_PHYSN_UPIN \n Carrier/DMERC Claim Referring Physician UPIN Number \n\n RFR_PHYSN_NPI \n Claim Referring Physician",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

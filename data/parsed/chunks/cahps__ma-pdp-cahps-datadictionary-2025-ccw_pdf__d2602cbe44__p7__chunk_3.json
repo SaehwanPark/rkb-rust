@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p7__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 7,
+  "text": "health care NMA\nrate_care RECODE : Last 6 mths, rate health care RTA\nmd_have RECODE : Do you have a personal md YNA\nmd_visits RECODE : Last 6 mths, number of in-person/phone/video visits with personal md about health NMA\nmd_explain RECODE : Last 6 mths, how often personal md explain things OFA\nmd_listen RECODE : Last 6 mths, how often personal md listen carefully OFA\nmd_respect RECODE : Last 6 mths, how often personal md show respect OFA\nmd_sptime RECODE : Last 6 mths, how often personal md",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

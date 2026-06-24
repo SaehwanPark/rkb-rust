@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_19",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "(MTUS) Indicator Code \n\n LINE_HCT_HGB_RSLT_NUM \n Hematocrit/Hemoglobin Test Results \n\n LINE_HCT_HGB_TYPE_CD \n Hematocrit/Hemoglobin Test Type Code \n\n LINE_NDC_CD \n Line National Drug Code (NDC) (FFS) \n\n LINE_OTHR_APLD_IND_CD1 \n Line Other Applied Indicator 1st Code \n\n LINE_OTHR_APLD_IND_CD2 \n Line Other Applied Indicator 2nd Code \n\n LINE_OTHR_APLD_IND_CD3 \n Line Other Applied Indicator 3rd Code \n\n LINE_OTHR_APLD_IND_CD4 \n Line Other Applied Indicator 4th Code \n\n LINE_OTHR_APLD_IND_CD5 \n Line",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

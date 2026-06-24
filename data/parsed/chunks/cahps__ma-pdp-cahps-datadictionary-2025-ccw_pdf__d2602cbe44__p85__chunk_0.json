@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p85__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 85,
+  "text": "C. Crosswalk: 2007 to 2025 - PDP Survey 85\n\nVariable Reverse 2007\nYear 1\n\nma_nocare —–\nma_reconsid —–\nma_appeal —–\nma_forms —–\nma_resolve —–\nma_listen —–\nma_discourage —–\nma_nothing —–\nma_complaint\nma_comphandle\nma_compresolv R\nma_compsat R\npd_hlthplan\npd_hlthplan_txt\npd_covrxmeds\npd_cstryinfo Q25\ncs_cstryinfo —–\npd_csgetinfo* Q26\ncs_csgetinfo* —–\npd_csrespect* Q27\ncs_csrespect* —–\npd_covinfo Q28\npd_getcovinf* Q29\npd_costinfo Q30\npd_getcostinf* Q31\npd_diffrx Q32\npd_rxnocov Q33\npd_askrxcov",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

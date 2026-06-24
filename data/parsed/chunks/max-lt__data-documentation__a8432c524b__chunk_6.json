@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-lt__data-documentation__a8432c524b__chunk_6",
+  "source_document": "data/raw/html/documentation_page/a8432c524b85150fc96bbb6683c157ef98a21669.html",
+  "page": null,
+  "text": "PHP_VAL \n Prepaid plan value \n\n MDCR_COINSUR_PYMT_AMT \n Medicare coinsurance payment amount \n\n MDCR_DED_PYMT_AMT \n Medicare deductible payment amount \n\n ADMSN_DT \n Admission date (MAX) \n\n SRVC_BGN_DT \n Beginning date of service \n\n SRVC_END_DT \n Ending date of service \n\n DIAG_CD_1 \n Principle Diagnosis code \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code 1 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n DIAG_CD_2 \n Diagnosis codes (2nd diagnosis) \n\n DIAG_CD_3 \n Diagnosis codes (3rd",
+  "dataset": "max-lt",
+  "url": "https://resdac.org/cms-data/files/max-lt/data-documentation"
+}

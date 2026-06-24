@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__codebook-mbsf-other_pdf__c4c0224035__p24__chunk_1",
+  "source_document": "data/raw/assets/pdf/c4c02240350e73a79a885b327567f3b5714475c3.pdf",
+  "page": 24,
+  "text": "for the cystic fibrosis and other \nmetabolic developmental disorders indicator. The variable will be blank for beneficiaries that have \nnever had the condition. \n\nSHORT NAME: CYSFIB_MEDICARE_EVER \n\nLONG NAME: CYSFIB_MEDICARE_EVER \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: CCW (derived) \n\nVALUES: — \n\nCOMMENT: The earliest possible date for anyone in the CCW is January 1, 1999. If the beneficiary became eligible \nfor Medicare after that, the earliest possible date will be some time after his/her coverage",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-other.pdf"
+}

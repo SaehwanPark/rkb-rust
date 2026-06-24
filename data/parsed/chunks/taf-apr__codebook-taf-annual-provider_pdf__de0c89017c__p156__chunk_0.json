@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p156__chunk_0",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 156,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nT-MSIS TAF Annual Provider RIFs Codebook │ December 2025 │ V 1.3 158 \n\nTCHNG_IND \n\nLABEL: Provider Organization Teaching Facility Indicator — Ever in Calendar Year \n\nDESCRIPTION: A code indicating if the provider’s organization is a teaching facility; ever in the calendar year. \n\nSHORT NAME: TCHNG_IND \n\nLONG NAME: TCHNG_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): APR base \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: 0 = No \n1 = Yes",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_44",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Claim Full Standard Payment Amount\n\n 233\n\n CLM_SS_OUTLIER_STD_PYMT_AMT\n\n Claim Short Stay Outlier (SSO) Standard Payment Amount\n\n 234\n\n HAC_PGM_RDCTN_IND_SW\n\n Claim Hospital Acquired Condition (HAC) Program Reduction Indicator Switch\n\n 235\n\n EHR_PGM_RDCTN_IND_SW\n\n Claim Electronic Health Records (EHR) Program Reduction Indicator Switch\n\n 236\n\n CLM_SITE_NTRL_PYMT_CST_AMT\n\n Claim Site Neutral Payment Based on Cost Amount\n\n 237\n\n CLM_SITE_NTRL_PYMT_IPPS_AMT\n\n Claim Site Neutral Payment Based on",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__data-documentation__fbf03a23f2__chunk_4",
+  "source_document": "data/raw/html/documentation_page/fbf03a23f28d2958758965b82ec1ff240da093a5.html",
+  "page": null,
+  "text": "Month 12 Alignment Flag \n\nPioneer ACO Provider\n\n SAS Name\n Variable Name\n\n ACO_ID \n Pioneer ACO Identifier \n\n PRVDR_ACO_YEAR \n Year of Provider ACO Source Record \n\n ORG_TIN \n Billing TIN of ACO Participant \n\n ORG_CCN \n CMS Certification Number \n\n IND_NPI \n NPI for Practitioner \n\n ORG_NAME \n Name of the TIN \n\n LAST_NAME \n Last Name of Provider Associated with the NPI \n\n FIRST_NAME \n First Name of Provider Associated with the NPI \n\n CCN_TYPE \n CCN Facility Type \n\n PCP_FLAG \n Primary Care",
+  "dataset": "pioneer-aco",
+  "url": "https://resdac.org/cms-data/files/pioneer-aco/data-documentation"
+}

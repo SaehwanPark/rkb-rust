@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p9__chunk_2",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 9,
+  "text": "id of surveyed plan\nsa_partd_stus Part d status $ID_F\nsa_org_entlmt Original reason for entitlement $OEN\nsa_mmp WESTAT: Mmp plan\nsa_mdcr_stus Reason for beneﬁciary entitlement $MCR\nsa_mdcd_stus Sample members who are dual eligible $ID_F\nsa_mbi_id Medicare beneﬁciary identiﬁer (mbi)\nsa_lis Low income subsidy $ID_F\nsa_incarc_sw Incarceration ﬂag $ID_F\nsa_fpl_pct Federal poverty level percent code $FPL\nsa_ﬁps_state Fips state code\nsa_ﬁps_cnty Fips county code\nsa_dodeath Date of death of",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

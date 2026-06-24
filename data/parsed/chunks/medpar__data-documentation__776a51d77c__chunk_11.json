@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_11",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "51\n\n TOT_COINSRNC_DAY_CNT \n\n MEDPAR Beneficiary Total Coinsurance Day Count\n\n 52\n\n BENE_LRD_USE_CNT \n\n Lifetime reserve days (LRD) used by beneficiary for stay\n\n 53\n\n BENE_PTA_COINSRNC_AMT \n\n Beneficiary’s liability for part A coinsurance for stay ($)\n\n 54\n\n BENE_IP_DDCTBL_AMT \n\n Beneficiary’s liability for deductible for stay ($)\n\n 55\n\n BENE_BLOOD_DDCTBL_AMT \n\n Beneficiary’s liability for blood deductible for stay ($)\n\n 56\n\n BENE_PRMRY_PYR_CD\n\n Primary Payer Responsibility Code\n\n 57",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

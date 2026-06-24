@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_52",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Procedure Version Code 20\n\n 289\n\n SRGCL_PRCDR_VRSN_CD_21\n\n MEDPAR Surgical Procedure Version Code 21\n\n 290\n\n SRGCL_PRCDR_VRSN_CD_22\n\n MEDPAR Surgical Procedure Version Code 22\n\n 291\n\n SRGCL_PRCDR_VRSN_CD_23\n\n MEDPAR Surgical Procedure Version Code 23\n\n 292\n\n SRGCL_PRCDR_VRSN_CD_24\n\n MEDPAR Surgical Procedure Version Code 24\n\n 293\n\n SRGCL_PRCDR_VRSN_CD_25\n\n MEDPAR Surgical Procedure Version Code 25\n\n 294\n\n SRGCL_PRCDR_1_CD\n\n Principal Procedure Code\n\n 295\n\n SRGCL_PRCDR_2_CD\n\n MedPAR Procedure",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

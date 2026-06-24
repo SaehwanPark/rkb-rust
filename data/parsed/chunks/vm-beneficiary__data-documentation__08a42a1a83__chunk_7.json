@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_7",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "most primary care services outside practice \n\n NAME_NPI_IN_PRIM \n Name of EP billing most primary care services in practice \n\n MAX_PCS_NPI_ATTRIB \n NPI of EP billing most primary care services in practice \n\n MAX_NON_PCS_NPI_ATTRIB \n NPI of EP billing most non primary care services in practice \n\n MAX_PCS_NPI_NOTATTRIB \n NPI of EP billing most primary care services outside practice \n\n MAX_NON_PCS_NPI_NOTATTRIB \n NPI of EP billing most non primary care services outside practice",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

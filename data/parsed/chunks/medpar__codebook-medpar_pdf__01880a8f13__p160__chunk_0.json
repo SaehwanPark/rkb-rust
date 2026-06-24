@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p160__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 160,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 144 \n\nMEDPAR_ID \n\nLABEL: MEDPAR ID Number \n\nDESCRIPTION: Unique key for MEDPAR claim. \n\nSHORT NAME: MEDPARID \n\nLONG NAME: MEDPAR_ID \n\nTYPE: CHAR \n\nLENGTH: 15 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

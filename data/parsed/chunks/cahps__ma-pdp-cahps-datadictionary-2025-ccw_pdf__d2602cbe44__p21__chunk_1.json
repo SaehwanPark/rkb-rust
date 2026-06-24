@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p21__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 21,
+  "text": "RTC\n\n1: POOR\n\n2: FAIR\n\n3: GOOD\n\n4: VERY GOOD\n\n5: EXCELLENT\n\nr_pd_ﬁllrx: REVERSED: Last 6 mths, Dr/pharmacy/PDP contact: Make sure ﬁll or reﬁll Rx\n\nSAS Format: YND\n\n1: NO\n\n2: YES\n\nr_pd_takemeds: REVERSED: Last 6 mths, Dr/pharmacy/PDP contact: Make sure take meds as directed\n\nSAS Format: YND\n\n1: NO\n\n2: YES\n\nr_pl_lowercopay: REVERSED: Last 6 mths, did health plan offer to lower amount of your co-pay because of health condition\n\nSAS Format: YND\n\n1: NO\n\n2: YES",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

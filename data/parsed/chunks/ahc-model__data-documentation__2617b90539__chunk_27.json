@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_27",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "NN_CORE_SFTY_OUTCM_UNK_SW \n Navigated Core HRSN Safety Outcome Unknown \n\n NN_CORE_TRNSPRTN_RSLVD_SW \n Navigated Core HRSN Transportation Resolved \n\n NN_CORE_TRNSPRTN_CNCT_CSP_SW \n Navigated Core HRSN Transportation Connected to Community Service Provider \n\n NN_CORE_TRNSPRTN_OPTOUT_SW \n Navigated Core HRSN Transportation Opted Out \n\n NN_CORE_TRNSPRTN_CNTCT_FAIL_SW \n Navigated Core HRSN Transportation Attempts to Reach Failed \n\n NN_CORE_TRNSPRTN_CSP_UNAVBL_SW \n Navigated Core HRSN",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

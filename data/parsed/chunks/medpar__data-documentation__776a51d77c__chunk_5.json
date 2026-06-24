@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_5",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Code\n\n 19\n\n ORG_NPI_NUM \n\n Organization NPI Number (FFS)\n\n 20\n\n PRVDR_NUM \n\n MEDPAR Provider Number\n\n 21\n\n PRVDR_NUM_SPCL_UNIT_CD \n\n Provider Number Special Unit Code\n\n 22\n\n PRVDR_BASE_FAC_CCN_NUM\n\n Provider Base Facility CMS Certification Number (CCN)\n\n 23\n\n PRVDR_FULL_CCN_NUM\n\n Provider Full CMS Certification Number (CCN)\n\n 24\n\n SS_LS_SNF_IND_CD \n\n Short Stay/Long Stay/SNF Provider Indicator Code\n\n 25\n\n ACTV_XREF_IND\n\n MEDPAR Active Cross Reference Indicator\n\n 26\n\n SLCT_RSN_CD\n\n Specifies",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

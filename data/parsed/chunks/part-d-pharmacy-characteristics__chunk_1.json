@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__chunk_1",
+  "source_document": "data/raw/html/dataset_page/426dd5c8209fc57fc3edb46f31c500aa1b07edcd.html",
+  "page": null,
+  "text": "the pharmacy identified as the source of the drug for each Part D Event (PDE) prescription fill record.\n\nWhat does this file include? (variable highlights)\n\nPharmacy type\n\nPharmacy dispenser type code\n\nPharmacy primary taxonomy code\n\nDME service\n\nWalk-in service\n\nLinking variable to the PDE file:\n\nCCW Pharmacy ID\n\nWhy do researchers request this file?\n\nEvaluate medication possession rates by pharmacy type\n\nAssess the effect of pharmacy type on clinical outcomes\n\nSpecial",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics?page=1"
+}

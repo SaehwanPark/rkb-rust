@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-practice__chunk_2",
+  "source_document": "data/raw/html/dataset_page/8f9b0a385f4ff82247804dc387eb5b717016df6e.html",
+  "page": null,
+  "text": "be found on the CMS website.\n\nWhat does this file include? (variable highlights)\nPractice Identifier\nQuality and Resource Use Report (QRUR) information\nVM information\nBenchmark information\nSpecial considerations\nData documentation is specific to each performance year.\nThis RIF includes thousands of records with hundreds of variables.\nCan be linked to provider NPI in the VM NPI-Practice-Level RIF\nTwo additional VM program RIFs are available:\nVM NPI-Practice-Level RIF\nVM Beneficiary-Level",
+  "dataset": "vm-practice",
+  "url": "https://resdac.org/cms-data/files/vm-practice?page=1"
+}

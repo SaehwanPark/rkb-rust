@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_56",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "315\n\n SRGCL_PRCDR_22_CD\n\n MedPAR Procedure Code 22\n\n 316\n\n SRGCL_PRCDR_23_CD\n\n MedPAR Procedure Code 23\n\n 317\n\n SRGCL_PRCDR_24_CD\n\n MedPAR Procedure Code 24\n\n 318\n\n SRGCL_PRCDR_25_CD\n\n MedPAR Procedure Code 25\n\n 319\n\n SRGCL_PRCDR_DT_CNT\n\n Dates associated with surgical procedures included in stay\n\n 320\n\n SRGCL_PRCDR_PRFRM_1_DT\n\n Principal Procedure Date\n\n 321\n\n SRGCL_PRCDR_PRFRM_2_DT\n\n Procedure Date 2\n\n 322\n\n SRGCL_PRCDR_PRFRM_3_DT\n\n Procedure Date 3\n\n 323\n\n SRGCL_PRCDR_PRFRM_4_DT\n\n Procedure",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

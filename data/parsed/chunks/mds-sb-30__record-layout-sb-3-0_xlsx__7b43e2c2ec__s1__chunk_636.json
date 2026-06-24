@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_636",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "daily\r\n2=Used Daily effective 10/01/2017\n701 GG0100A_PRIOR_SELF_CARE_IND GG0100A_PRIOR_SELF_CARE_IND GG0100A Prior Self Care Indicator CHAR 1 Indicates the resident's need for assistance with bathing dressing using the t 3 = Independent - Resident completed the activities by him/herself, with or without an assistive device, with no assistance from a helper. \r\n2 = Needed Some Help - Resident needed partial assistance from another person to complete activities. \r\n1 = Dependent - A helper",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p15__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 15,
+  "text": "B. 2025 MCAHPS Format Tables 15 \n\nins_medicare: RECODE : Other Insurance-None other than Medicare \n\nSAS Format: YNE \n\n1: CHECKED \n\nins_medigap: RECODE : Other Insurance-Medigap Supplemental \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_military: RECODE : Other Insurance-Military Tricare \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_other: RECODE : Other Insurance-Other \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_veteran: RECODE : Other Insurance-Veteran Benefit \n\nSAS",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

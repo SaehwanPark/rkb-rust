@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_13",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Blood Pints Furnished Quantity\n\n 63\n\n NCH_VRFD_NCVRD_STAY_FROM_DT\n\n NCH Verified Non-covered Stay From Date\n\n 64\n\n NCH_VRFD_NCVRD_STAY_THRU_DT\n\n NCH Verified Non-covered Stay Through Date\n\n 65\n\n NCH_ACTV_OR_CVRD_LVL_CARE_THRU\n\n NCH Active or Covered Level Care Thru Date\n\n 66\n\n NCH_BENE_MDCR_BNFTS_EXHTD_DT_I\n\n NCH Beneficiary Medicare Benefits Exhausted Date\n\n 67\n\n NCH_BENE_DSCHRG_DT\n\n NCH Beneficiary Discharge Date\n\n 68\n\n CLM_DRG_CD\n\n Claim Diagnosis Related Group Code (or MS-DRG Code) (FFS)",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

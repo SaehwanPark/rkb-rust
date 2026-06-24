@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p32__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 32,
+  "text": "PARTIALLY COMPLETE SURVEY\n\n32: REFUSAL\n\n33: NON-RESPONSE\n\n34: BLANK RETURNED\n\n35: BAD ADDRESS/BAD PHONE\n\n37: ANALYTIC COMPLETE\n\n40: EXCLUDED FROM SURVEY\n\nsu_email_stat: Email indicator\n\nSAS Format: $ESTATF\n\nN: No, no email identiﬁed for enrollee\n\nY: Yes, email identiﬁed for enrollee\n\nsu_mode: Survey Data Collection Mode\n\nSAS Format: $MODEF\n\nI: INBOUND CATI\n\nM: MAIL\n\nN: NA\n\nO: OUTBOUND CATI\n\nW: WEB",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

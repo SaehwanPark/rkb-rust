@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_65",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "visits XXX\n U_PHYS_VST_1 - 12 Total number of Medicare Physician claims XXX\n U_DME_VST_1 - 12 Total number of Medicare DME claims XXX\n U_DRUG_PTD_1 - 12 Total number of Medicare Prescriptions XXX\nAnnual Medicare Utilization - by MME_TYPE U_MRO_OER_CNT # MDCR FFS month HospOutpt ER visit cnt during mos of MDCR Only Dual Status XXX\n U_MRO_IER_CNT # MDCR FFS month Inpt ER visit count during mos of MDCR Only Dual Status XXX\n U_MRO_HH_VST_CNT # MDCR FFS month HH visit count during mos of MDCR Only",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

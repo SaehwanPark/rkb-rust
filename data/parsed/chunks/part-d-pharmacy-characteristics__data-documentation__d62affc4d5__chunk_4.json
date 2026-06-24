@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__data-documentation__d62affc4d5__chunk_4",
+  "source_document": "data/raw/html/documentation_page/d62affc4d53fdc4e8dcb747059a124cbc56c2cd2.html",
+  "page": null,
+  "text": "Tertiary Dispenser Type Code \n\n TERTIARY_TAXONOMY_CODE \n Pharmacy Tertiary Taxonomy Code \n\n RELATIONSHIP_ID \n Pharmacy Relationship Identifier (encrypted) \n\n RELATIONSHIP_FROM_DT \n Pharmacy Relationship From Date \n\n RELATIONSHIP_THRU_DT \n Pharmacy Relationship Through Date \n\n RELATIONSHIP_TYPE \n Pharmacy Relationship Type \n\n PRNT_ORG_ID \n Pharmacy Parent Organization Identifier (encrypted) \n\n EPRSCRB_SRVC_IND \n E-Prescribing Services Indicator \n\n EPRSCRB_SRVC_CD \n Code Indicating the",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics/data-documentation"
+}

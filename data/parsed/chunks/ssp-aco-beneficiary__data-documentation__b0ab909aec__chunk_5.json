@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_5",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "Flag \n\n M07_ENROLL \n July 2021 Enrollment Flag \n\n M08_ENROLL \n August 2021 Enrollment Flag \n\n M09_ENROLL \n September 2021 Enrollment Flag \n\n M10_ENROLL \n October 2021 Enrollment Flag \n\n M11_ENROLL \n November 2021 Enrollment Flag \n\n M12_ENROLL \n December 2021 Enrollment Flag \n\n ADI_NATRANK \n ADI National Percentile Rank \n\n BENE_LIS_STATUS \n LIS Status \n\n IN_VA_MAX \n Voluntary Alignment Flag \n\n CBA_FLAG \n Claims-Based Assignment Flag \n\n ESRD_SCORE \n CMS-HCC Risk Score for ESRD Status \n\n DIS_SCORE",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

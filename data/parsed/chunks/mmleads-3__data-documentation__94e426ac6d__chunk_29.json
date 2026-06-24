@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_29",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Coverage Indicator — April\n\n 136\n\n MDCD_ELGBLTY_GRP_CD_04\n\n Medicaid — Eligibility Group Code — April\n\n 137\n\n MDCD_ABD_04\n\n Medicaid Enrollment — Aged, Blind, Disabled Indicator — April\n\n 138\n\n MDCD_FFS_MEDICAL_05\n\n Medicaid — Fee-for-Service Medical Coverage Indicator — May\n\n 139\n\n MDCD_ELGBLTY_GRP_CD_05\n\n Medicaid — Eligibility Group Code — May\n\n 140\n\n MDCD_ABD_05\n\n Medicaid Enrollment — Aged, Blind, Disabled Indicator — May\n\n 141\n\n MDCD_FFS_MEDICAL_06\n\n Medicaid — Fee-for-Service Medical",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

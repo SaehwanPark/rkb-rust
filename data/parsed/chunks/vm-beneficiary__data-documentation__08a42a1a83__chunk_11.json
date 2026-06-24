@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_11",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "in practice \n\n PHYS_DURHOSP_OTHGRP \n Total costs for EP services during hospitalization outside practice \n\n HOSP_NAME \n Name of hospital at which hospitalization occurred \n\n INPATIENT_STAY \n Inpatient stay for beneficiary attributed for per capita cost and claims-based quality outcome measures \n\n MAJOR_PROCS_OTHGRP \n Total costs for major procedures billed by EPs outside practice \n\n MAJOR_PROCS_INGRP \n Total costs for major procedures billed by EPs in practice \n\n TOTAL_PA \n Total costs for",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

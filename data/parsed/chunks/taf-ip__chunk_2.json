@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__chunk_2",
+  "source_document": "data/raw/html/dataset_page/23f761c8121bfd6102211d9258b0c2148fab83b6.html",
+  "page": null,
+  "text": "claims\nDiagnosis codes\nPresent on Admission Indicator\nProcedure codes\nProcedure date\nDischarge status\nCharges and payments\nProvider identifier\nSpecial considerations\nAvailable encounter data may vary by state, year and eligibility group.\nCMS continues to work with states to address data quality issues. In addition to preliminary and fully mature files, CMS may provide updated releases of the files for a given year. CMS has fee information for TAF data pricing.\nResDAC provides resources",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip?page=1"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__data-documentation__5852cefcaf__chunk_31",
+  "source_document": "data/raw/html/documentation_page/5852cefcaf4dca5dba3392a521caae7b6816e9f1.html",
+  "page": null,
+  "text": "Claim Through Date (Encounter)\n\n 7\n\n REV_CNTR\n\n Revenue Center Code (Encounter)\n\n 8\n\n REV_CNTR_FROM_DT\n\n Revenue Center From Date\n\n 9\n\n REV_CNTR_THRU_DT\n\n Revenue Center Thru Date\n\n 10\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (Encounter)\n\n 11\n\n HCPCS_CD\n\n Healthcare Common Procedure Coding System (HCPCS) Code (Encounter)\n\n 12\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (Encounter)\n\n 13\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (Encounter)\n\n 14\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter/data-documentation"
+}

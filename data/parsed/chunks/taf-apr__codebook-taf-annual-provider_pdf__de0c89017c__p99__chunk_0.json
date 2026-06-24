@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p99__chunk_0",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 99,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nT-MSIS TAF Annual Provider RIFs Codebook │ December 2025 │ V 1.3 99 \n\nPRVDR_FIRST_NAM \n\nLABEL: Provider First Name — Individual \n\nDESCRIPTION: The first name of the provider when the provider is a person. \n\nSHORT NAME: PRVDR_FIRST_NAME \n\nONG NAME: PRVDR_FIRST_NAME \n\nTYPE: CHAR \n\nLENGTH: 45 \n\nFILE(S): APR base \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: Text string (e.g., ADAM); or null/missing \n\nCOMMENT: Derived from the same monthly",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p172__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 172,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 156 \n\nOPRTG_ROOM_CHRG_AMT \n\nLABEL: Operating Room Charge Amount ($) \n\nDESCRIPTION: The charge amount (rounded to whole dollars) for the operating room, recovery room, and labor \ndelivery room used by the beneficiary during the stay. \n\nSHORT NAME: OROOMAMT \n\nLONG NAME: OPRTG_ROOM_CHRG_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

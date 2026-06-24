@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_3",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "(SSA code) \n\n COUNTY_CD \n County code for beneficiary (SSA code) \n\n ZIP_CD \n Zip code for beneficiary \n\n STATE_CNTY_FIPS_CD_01 \n State and county FIPS code - January \n\n STATE_CNTY_FIPS_CD_02 \n State and county FIPS code - February \n\n STATE_CNTY_FIPS_CD_03 \n State and county FIPS code - March \n\n STATE_CNTY_FIPS_CD_04 \n State and county FIPS code - April \n\n STATE_CNTY_FIPS_CD_05 \n State and county FIPS code - May \n\n STATE_CNTY_FIPS_CD_06 \n State and county FIPS code - June",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

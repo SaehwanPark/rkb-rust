@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_6",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Indicator Code\n\n 25\n\n ACTV_XREF_IND\n\n MEDPAR Active Cross Reference Indicator\n\n 26\n\n SLCT_RSN_CD\n\n Specifies whether this record is a case or control record\n\n 27\n\n STAY_FINL_ACTN_CLM_CNT \n\n Number of claims (final action) included in stay\n\n 28\n\n LTST_CLM_ACRTN_DT \n\n Latest Claim Accretion Date\n\n 29\n\n BENE_MDCR_BNFT_EXHST_DT \n\n Beneficiary Medicare Benefit Exhausted Date\n\n 30\n\n SNF_QUALN_FROM_DT \n\n Beginning date of beneficiary's qualifying SNF stay\n\n 31\n\n SNF_QUALN_THRU_DT \n\n Ending date of",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

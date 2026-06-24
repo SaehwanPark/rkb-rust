@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__chunk_2",
+  "source_document": "data/raw/html/dataset_page/e1008ac596c397313ccc0e4c65931d5fbe9c0413.html",
+  "page": null,
+  "text": "a multiple-year look back period are completed without requiring the researcher to order multiple years of data.\nAlgorithms search data from Medicare Fee-For-Service (FFS) claims.\nThis file is a segment that can be requested in addition to the Master Beneficiary Summary File (MBSF) base file.\nThe algorithms for the 30 CCW Chronic Conditions data file use only ICD-10-CM diagnosis codes. The first full calendar year that is used to identify conditions is 2016.\nThree new conditions are added",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc?page=1"
+}

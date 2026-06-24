@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p10__chunk_1",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 10,
+  "text": "the formulary file, it is the FDB brand name for a drug product on the \nformulary. \n\nSHORT NAME: BN \n\nLONG NAME: BN \n\nTYPE: CHAR \n\nLENGTH: 30 \n\nSOURCE: First DataBank \n\nVALUES: text description; DIABETIC SUPPLY for all diabetic supplies \n\nCOMMENT: In the PDE file, this variable is populated by linking to the proprietary First DataBank MedKnowledge \ndatabase by matching on the National Drug Code (NDC; variable in the PDE files called the product \nservice identifier PROD_SRVC_ID). \n\nIn the",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

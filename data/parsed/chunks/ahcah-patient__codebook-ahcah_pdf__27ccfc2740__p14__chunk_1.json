@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__codebook-ahcah_pdf__27ccfc2740__p14__chunk_1",
+  "source_document": "data/raw/assets/pdf/27ccfc27407a53098d675d692da68eaa1b233dfc.pdf",
+  "page": 14,
+  "text": "was escalated to the hospital (excluding those on hospice or those \nfor whom death was expected). \n\nSHORT NAME: MORTALITIES \n\nLONG NAME: MORTALITIES \n\nTYPE: NUM \n\nLENGTH: 8 \n\nFILE(S): Hospital \n\nSOURCE: AHCAH facility-submitted data \n\nVALUES: 0, 1+ \n\nCOMMENT: Occasionally a negative value may appear in a data submission; theses are corrections to prior data. \nData users should interpret the negative values to mean zero (no mortalities). \n\nThe data submission period represents the data",
+  "dataset": "ahcah-patient",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahcah.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p24__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 24,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 19 \n\nFILE_COUNT \n\nLABEL: Number of Files Submitted for the Practice \n\nDESCRIPTION: Number of files submitted to the Million Hearts Data Registry (MHDR) for the practice. \n\nSHORT NAME: FILE_COUNT \n\nLONG NAME: FILE_COUNT \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nFILE(S): Practice \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: 0, 3 \n\nCOMMENT: Practices were to",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

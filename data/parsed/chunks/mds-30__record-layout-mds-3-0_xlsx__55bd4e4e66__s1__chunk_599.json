@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_599",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "Resident Walk at End of SNF PPS Part A Stay CHAR 1 Indicates whether the resident walks at the end of the SNF PPS Part A stay. -=Not assessed/no information\r\n 0=No, and walking goal is not clinically indicated\r\n 1=No, and walking goal is clinically indicated\r\n 2=Yes\r\n ^=Blank (skip pattern) effective 10/01/2016\r\ndiscontinued 09/30/2018\n670 GG0170J1_WLK_50_2_TURN_STRT_CD GG0170J1_WLK_50_2_TURN_STRT_CD Mobility: Ability to Walk 50 Feet With Two Turns at Start of SNF PPS Part A Stay CHAR 2",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

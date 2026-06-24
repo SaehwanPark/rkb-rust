@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_27",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "dual eligibility code - March \n\n DUAL_STUS_CD_04 \n Monthly Medicare-Medicaid dual eligibility code - April \n\n DUAL_STUS_CD_05 \n Monthly Medicare-Medicaid dual eligibility code - May \n\n DUAL_STUS_CD_06 \n Monthly Medicare-Medicaid dual eligibility code - June \n\n DUAL_STUS_CD_07 \n Monthly Medicare-Medicaid dual eligibility code - July \n\n DUAL_STUS_CD_08 \n Monthly Medicare-Medicaid dual eligibility code - August \n\n DUAL_STUS_CD_09 \n Monthly Medicare-Medicaid dual eligibility code - September",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

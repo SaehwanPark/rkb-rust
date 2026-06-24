@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_820",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "weather constraints)\r\n88=Not attempted due to medical condition or safety concerns effective 10/01/2023\n901 TUB_TRNSFR_DSCHRG_CD TUB_TRNSFR_DSCHRG_CD GG0170FF3 Tub/Showr Transfer (Dschg Perf) CHAR 2 The data in this column indicates the resident's performance for tub/shower transfer at discharge from the stay. 06=Independent \r\n05=Setup or clean-up assistance \r\n04=Supervision or touching assistance \r\n03=Partial/moderate assistance \r\n02=Substantial/maximal assistance \r\n01=Dependent \r\n\nIf activity",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

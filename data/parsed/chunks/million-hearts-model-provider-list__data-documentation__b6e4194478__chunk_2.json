@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts-model-provider-list__data-documentation__b6e4194478__chunk_2",
+  "source_document": "data/raw/html/documentation_page/b6e41944789cc97717066cf39b1d799460cdaabe.html",
+  "page": null,
+  "text": "files\n\n SAS Name\n Variable Name\n\n PRACTICE_ID \n Model-Assigned Practice ID \n\n PRACTICE_NAME \n Name of Practice \n\n TIN \n Practice's Taxpayer Identification Number \n\n NPI \n Provider's National Provider Identifier \n\n FIRST_NAME \n Provider's First Name \n\n LAST_NAME \n Provider's Last Name \n\n INSERT_DATE \n Date the Record was Created \n\n UPDATE_DATE \n Date the Record was Modified \n\n ACTIVATION_DATE \n Date the Provider Joined the Program \n\n DEACTIVATION_DATE \n Date the Provider Left the Program",
+  "dataset": "million-hearts-model-provider-list",
+  "url": "https://resdac.org/cms-data/files/million-hearts-model-provider-list/data-documentation"
+}

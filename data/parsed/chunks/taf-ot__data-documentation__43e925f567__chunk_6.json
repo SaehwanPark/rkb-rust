@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_6",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "29\n\n SRVC_END_DT_CD\n\n Identifies the Date Field Used to Populate SRVC_END_DT\n\n 30\n\n DGNS_CD_1\n\n Primary or Principal Diagnosis Code\n\n 31\n\n DGNS_VRSN_CD_1\n\n Diagnosis Version Code 1 (ICD-9 or ICD-10)\n\n 32\n\n DGNS_POA_IND_1\n\n Diagnosis Present on Admission Indicator 1\n\n 33\n\n DGNS_1_CCSR_CTGRY_CD\n\n AHRQ Clinical Classifications Software Refined (CCSR) Diagnosis 1 Category Code\n\n 34\n\n DGNS_CD_2\n\n Diagnosis Code 2\n\n 35\n\n DGNS_VRSN_CD_2\n\n Diagnosis Version Code 2 (ICD-9 or ICD-10)\n\n 36",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

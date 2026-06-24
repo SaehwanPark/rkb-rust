@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p167__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 167,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 151 \n\nOCPTNL_THRPY_CHRG_AMT \n\nLABEL: Occupational Therapy Charge Amount ($) \n\nDESCRIPTION: The charge amount (rounded to whole dollars) for occupational therapy services provided during the \nbeneficiary's stay. \n\nSHORT NAME: OCPTLAMT \n\nLONG NAME: OCPTNL_THRPY_CHRG_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the revenue center",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

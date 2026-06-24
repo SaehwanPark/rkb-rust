@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_21",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "4th Accrediting Organization\n\n 75\n\n MC_ENT_ACRDTN_ORG_CD_5\n\n Managed Care Entity — 5th Accrediting Organization\n\n 76\n\n MC_ENT_ACRDTN_ACHVMT_DT_5\n\n Managed Care Entity Accreditation Achievement Date — 5th Accrediting Organization\n\n 77\n\n MC_ENT_ACRDTN_END_DT_5\n\n Managed Care Entity Accreditation End Date — 5th Accrediting Organization\n\n 78\n\n MC_ENT_PRFT_STUS_CD\n\n Managed Care Entity Profit Status Code — Latest in Year\n\n 79\n\n MC_ENT_GOVT_PCT\n\n Managed Care Entity Percent of Revenue from Medicare",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

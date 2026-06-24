@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_2",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Claims\n\n Base Claim File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 2\n\n MSIS_ID\n\n Encrypted State Assigned Beneficiary Unique Identifier\n\n 3\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 4\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 5\n\n CLM_ID\n\n CCW Claim Identifier\n\n 6\n\n CLM_NUM_ORIG\n\n Original Claim Identifier\n\n 7\n\n CLM_NUM_ADJ\n\n Adjustment Claim Identifier\n\n 8\n\n CLM_TYPE_CD\n\n Claim Type Code (TAF)\n\n 9\n\n BILL_TYPE_CD\n\n Bill Type Code\n\n 10",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

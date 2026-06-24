@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-current-clinical-status__codebook-ocm_pdf__687e14bf31__p26__chunk_0",
+  "source_document": "data/raw/assets/pdf/687e14bf310457071225d4833378b7f8cecd7290.pdf",
+  "page": 26,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nCODEBOOK: Medicare Oncology Care Model Files │ May 2024 │ V 1.0 22 \n\nPRMRY_TUMOR \n\nLABEL: Primary Tumor Staging \n\nDESCRIPTION: Primary tumor staging. \n\nSHORT NAME: PRMRY_TUMOR \n\nLONG NAME: PRMRY_TUMOR \n\nTYPE: CHAR \n\nLENGTH: 30 \n\nFILE(S): Clinical and staging \n\nSOURCE: Oncology Care Model Data Registry \n\nVALUES: Multiple Primaries, \nNone Selected, \nT0, \nT1, \nT1a, \nT1a1, \nT1a2, \nT1b, \nT1b1, \nT1b2, \nT1c, \nT1c1, \nT1c2, \nT1c3, \nT1d, \nT1mi,",
+  "dataset": "ocm-current-clinical-status",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ocm.pdf"
+}

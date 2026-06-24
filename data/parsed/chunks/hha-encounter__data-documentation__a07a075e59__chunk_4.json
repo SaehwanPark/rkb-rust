@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_4",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Claim Receipt Date \n\n CLM_FAC_TYPE_CD \n Claim Facility Type Code (Encounter) \n\n CLM_SRVC_CLSFCTN_TYPE_CD \n Claim Service Classification Type Code (Encounter) \n\n CLM_FREQ_CD \n Claim Frequency Code (Encounter) \n\n CNTRCT_NUM \n Medicare Part C Contract Number \n\n CNTRCT_PBP_NUM \n Medicare Part C Plan Benefit Package (PBP) Number \n\n CLM_MDCL_REC \n Claim Medical Record Number (Encounter) \n\n ORG_NPI \n Organization NPI Number (Encounter) \n\n ORG_TXNMY_CD \n Organization Taxonomy Code \n\n RNDRNG_PHYSN_NPI",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

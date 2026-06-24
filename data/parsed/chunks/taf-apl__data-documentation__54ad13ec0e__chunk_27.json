@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_27",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "Managed Care Plan Location Active Indicator — April\n\n 106\n\n MC_PLAN_LCTN_ACTV_IND_05\n\n Managed Care Plan Location Active Indicator — May\n\n 107\n\n MC_PLAN_LCTN_ACTV_IND_06\n\n Managed Care Plan Location Active Indicator — June\n\n 108\n\n MC_PLAN_LCTN_ACTV_IND_07\n\n Managed Care Plan Location Active Indicator — July\n\n 109\n\n MC_PLAN_LCTN_ACTV_IND_08\n\n Managed Care Plan Location Active Indicator — August\n\n 110\n\n MC_PLAN_LCTN_ACTV_IND_09\n\n Managed Care Plan Location Active Indicator — September\n\n 111",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

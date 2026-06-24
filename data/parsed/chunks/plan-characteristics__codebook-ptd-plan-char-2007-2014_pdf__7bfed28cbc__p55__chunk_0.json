@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p55__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 55,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 42 \n\nFREE_GENERICS_AMT \n\nLABEL: Maximum Amount for Free Generic Drugs \n\nDESCRIPTION: This variable indicates the maximum dollar amount for free generic drugs, offered by the Part D plan. \n\nSHORT NAME: — \n\nLONG NAME: FREE_GENERICS_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: — \n\nCOMMENT: This variable is only available 2008–2010; it changed from 12 digits to 8 in",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

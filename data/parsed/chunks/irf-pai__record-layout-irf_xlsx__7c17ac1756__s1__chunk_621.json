@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_621",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "in the drug class. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\r\n^ = Blank\n561 DRUG_NONE_TKNG_ADMSN_CD DRUG_NONE_TKNG_ADMSN_CD High-Risk Drug (Is taking): None of above (Adm) CHAR 1 This column documents that at the time of admission the patient was not taking any drugs in the high-risk drug classes. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n562 DRUG_NONE_TKNG_DSCHRG_CD DRUG_NONE_TKNG_DSCHRG_CD High-Risk Drug (Is taking): None of above (Dsch) CHAR 1 This column documents that at",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

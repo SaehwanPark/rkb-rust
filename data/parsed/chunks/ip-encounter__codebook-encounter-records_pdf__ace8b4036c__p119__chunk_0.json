@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p119__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 119,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 109 \n\nRFRG_PHYSN_NPI \n\nLABEL: Carrier/DME Referring Physician NPI Number \n\nDESCRIPTION: The national provider identifier (NPI) number of the physician who referred the beneficiary or the \nphysician who ordered the Part B services or durable medical equipment (DME). \n\nSHORT NAME: RFRG_PHYSN_NPI \n\nLONG NAME: RFRG_PHYSN_NPI \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: Medicare Advantage",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

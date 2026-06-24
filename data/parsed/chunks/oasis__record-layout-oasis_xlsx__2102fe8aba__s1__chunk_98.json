@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_98",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "drainage)\r\n01 = Patient is incontinent\r\n02 = Patient requires a urinary catheter (e.g., external, indwelling, intermittent, suprapubic) CHAR 2 x x\nM0530_UR_INCONT_OC (M0530) When Urinary Incontinence Occurs When urinary incontinence occurs. 00 = Timed voiding defers incontinence\r\n01 = During the night only\r\n02 = During the day and night CHAR 2 x x\nM0540_BWL_INCONT (M0540) Bowel Incontinence Frequency Bowel incontinence frequency. 00 = Very rarely or never has bowel incontinence\r\n01 = Less than",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_742",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "more than one therapy discipline on a given calendar day, this may only count for one calendar day. effective 10/01/2019\n815 X0570A_CRCTN_OSA_PRPSE_IND X0570A_CRCTN_OSA_PRPSE_IND X0570A Correction OSA Purpose Code CHAR 1 Assessment for state payment purposes only. Correction to prior erroneous record. 0 = No \r\n1 = Yes discontinued 09/30/2023\n816 X0570B_CRCTN_OSA_TYPE_IND X0570B_CRCTN_OSA_TYPE_IND X0570B Correction OSA Type Code CHAR 1 This item contains the reasons for assessment from the prior",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

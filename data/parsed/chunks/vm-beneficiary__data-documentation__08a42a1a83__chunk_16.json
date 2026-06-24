@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_16",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "and Part B drug costs \n\n COST_DIALYSIS \n MSPB dialysis costs \n\n COST_DME \n MSPB durable medical equipment costs \n\n COST_ER_VISITS \n MSPB E and M costs in an ER setting \n\n COST_EM \n MSPB E and M service costs \n\n COST_OTHGRP_HOSP \n MSPB eligible professional services billed by other practices during hospitalization \n\n COST_INGRP_HOSP \n MSPB eligible professional services billed by practice during hospitalization \n\n COST_HH \n MSPB home health costs \n\n COST_HOSPICE \n MSPB hospice costs",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

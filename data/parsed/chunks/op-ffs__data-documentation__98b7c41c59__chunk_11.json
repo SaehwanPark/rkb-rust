@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_11",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Code XV (FFS)\n\n 60\n\n ICD_DGNS_CD16\n\n Claim Diagnosis Code XVI (FFS)\n\n 61\n\n ICD_DGNS_CD17\n\n Claim Diagnosis Code XVII (FFS)\n\n 62\n\n ICD_DGNS_CD18\n\n Claim Diagnosis Code XVIII (FFS)\n\n 63\n\n ICD_DGNS_CD19\n\n Claim Diagnosis Code XIX (FFS)\n\n 64\n\n ICD_DGNS_CD20\n\n Claim Diagnosis Code XX (FFS)\n\n 65\n\n ICD_DGNS_CD21\n\n Claim Diagnosis Code XXI (FFS)\n\n 66\n\n ICD_DGNS_CD22\n\n Claim Diagnosis Code XXII (FFS)\n\n 67\n\n ICD_DGNS_CD23\n\n Claim Diagnosis Code XXIII (FFS)\n\n 68\n\n ICD_DGNS_CD24\n\n Claim Diagnosis Code XXIV",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_318",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Unable to participate effectively in bathing and is bathed totally by another person. CHAR 2 x x x x x x\nM1840_CUR_TOILTG M1840 Toilet Transferring This field indicates the patient's current ability to get to and from toilet or bedside commode safely and transfer\r\non and off toilet/commode. 00 = Able to get to and from the toilet and transfer independently with or\r\nwithout a device.\r\n01 = When reminded, assisted, or supervised by another person, able to get to and from the toilet and",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

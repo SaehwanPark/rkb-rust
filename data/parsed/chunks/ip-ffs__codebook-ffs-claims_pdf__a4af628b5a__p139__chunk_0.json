@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p139__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 139,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 121 \n\nCLM_RLT_OCRNC_CD \n\nLABEL: Claim Related Occurrence Code \n\nDESCRIPTION: The code that identifies a significant event relating to an institutional claim that may affect payer \nprocessing. \n\nThese codes are associated with a specific date (the claim related occurrence date). \n\nSHORT NAME: OCRNC_CD \n\nLONG NAME: CLM_RLT_OCRNC_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: NCH",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

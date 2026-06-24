@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_15",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "Code\n\n 28\n\n DOSAGE_FORM_CD\n\n Medication Dosage Form Code\n\n 29\n\n REBT_ELGBL_CD\n\n Rebate Eligible Code\n\n 30\n\n DRUG_UTLZTN_CD\n\n Drug Utilization Code\n\n 31\n\n RSN_SRVC_CD\n\n Reason for Service Code\n\n 32\n\n PROF_SRVC_CD\n\n Professional Service Code\n\n 33\n\n RSLT_SRVC_CD\n\n Result of Service Code\n\n 34\n\n IMNZTN_TYPE_CD\n\n Immunization Type Code\n\n 35\n\n DSPNSNG_FEE_AMT\n\n Dispensing Fee Amount\n\n 36\n\n LINE_BILLED_AMT\n\n Line Billed Amount\n\n 37\n\n LINE_MDCD_ALOWD_AMT\n\n Line Medicaid Allowed Amount\n\n 38",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p38__chunk_4",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 38,
+  "text": "asthma or COPD (chronic obstructive pulmonary disease)?\nFFS Q50E\nMA-PD Q53F\nMA-Only Q48F Has a doctor ever told you that you had any of the following conditions?\ncnd_diabetes PDP Q15F Any kind of diabetes or high blood sugar?\nFFS Q50F\nMA-PD Q54\nprob_walking MA-Only Q49 Do you have serious difﬁculty walking or climbing stairs?\nPDP Q16\nMA-PD Q55\nprob_dressing MA-Only Q50 Do you have difﬁculty dressing or bathing?\nPDP Q17\nMA-PD Q56\nMA-Only Q51 Because of a physical, mental, or emotional condition,",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

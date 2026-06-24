@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p2__chunk_1",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 2,
+  "text": "categories \n 2.5 \n\nDecember 2023 K. Schneider Clarified available years for variables 2.4 \nFebruary 2021 C. Alleman \nK. Russell Migrated codebook to 2020 document template 2.3 \n\nNovember 2018 C. Alleman \nK. Schneider Inserted statement re: missing data for ICD_CODE_358 and \nICD_CODE_113 2.2 \n\nJune 2018 C. Alleman Updated values for ICD_CODE_113, ICD_CODE_130, and \nICD_CODE_358 2.1 \n\nMarch 2018 C. Alleman \nK. Schneider \nS. Pietzsch \n Added new variables received with second purchase of NDI data",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

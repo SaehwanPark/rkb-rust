@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p240__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 240,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 220 \n\nREV_CNTR_CD \n\nLABEL: Revenue Center Code \n\nDESCRIPTION: A code which identifies a specific accommodation, ancillary service or billing calculation (as defined by \nUB-04 Billing Manual). \n\nSHORT NAME: REV_CNTR_CD \n\nLONG NAME: REV_CNTR_CD \n\nTYPE: CHAR \n\nLENGTH: 4 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP line \nLT line \nOT line \n\nVALUES: This code set is an external",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

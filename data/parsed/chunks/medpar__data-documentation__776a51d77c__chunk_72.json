@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_72",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Amount ($)\n\n 404\n\n TAKE_HOME_AMT \n\n Medical/Surgical Supplies Take Home Amount ($)\n\n 405\n\n PRSTHTC_ORTHTC_AMT \n\n Medical/Surgical Supplies Prosthetic Orthotic Amount ($)\n\n 406\n\n MDCL_SRGCL_PCMKR_AMT \n\n Medical/Surgical Pacemaker Amount ($)\n\n 407\n\n INTRAOCULAR_LENS_AMT \n\n Medical/Surgical Supplies Intraocular Lens Amount ($)\n\n 408\n\n OXYGN_TAKE_HOME_AMT\n\n Medical/Surgical Supplies Oxygen Take Home Amount ($)\n\n 409\n\n OTHR_IMPLANTS_AMT\n\n Medical/Surgical Supplies Other Implants Amount ($)\n\n 410",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

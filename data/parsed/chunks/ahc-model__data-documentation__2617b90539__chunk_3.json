@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_3",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Zip Code \n\n BENE_BIRTH_DT \n Beneficiary Birth Date \n\n BENE_AGE_NUM \n Beneficiary Age at Screening \n\n BENE_SEX_CD \n Beneficiary Sex \n\n BENE_RACE_ETHNCTY_CD \n Beneficiary Race and Ethnicity \n\n BENE_PREFRD_LANG_TXT \n Beneficiary Preferred Language \n\n BENE_EDCTN_CD \n Beneficiary Education \n\n BENE_INCM_RNG_CD \n Beneficiary Income \n\n BENE_INSRNC_TYPE_CD \n Beneficiary Payer Type \n\n AHC_BRDG_ORG_ID \n AHC Bridge Organization Identifier \n\n AHC_BRDG_ORG_STATE_CD \n AHC Bridge Organization State",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_27",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "4\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 5\n\n CLM_ID\n\n CCW Claim Identifier\n\n 6\n\n LINE_NUM\n\n Sequential Claim Line Number\n\n 7\n\n CLM_NUM_ORIG\n\n Original Claim Identifier\n\n 8\n\n LINE_NUM_ORIG\n\n Original Claim Line Number (TAF)\n\n 9\n\n CLM_NUM_ADJ\n\n Adjustment Claim Identifier\n\n 10\n\n LINE_NUM_ADJ\n\n Adjustment Claim Line Number\n\n 11\n\n ADJDCTN_DT\n\n Adjudication Date\n\n 12\n\n LINE_CLAIM_STUS_CD\n\n Claim Line Status Code\n\n 13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n LINE_SRVC_BGN_DT",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

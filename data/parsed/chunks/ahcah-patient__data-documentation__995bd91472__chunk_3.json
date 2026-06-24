@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__data-documentation__995bd91472__chunk_3",
+  "source_document": "data/raw/html/documentation_page/995bd914721a5979423878bb7fe55e7b1d831074.html",
+  "page": null,
+  "text": "2=FFS Medicaid; 3=Dual) \n\n ADMSN_DT \n Facility Admission Date \n\n AHCAH_WVR_SUBMSN_ID \n AHCAH Waiver Submission ID \n\n PRVDR_NAME \n Name of Facility \n\n PRVDR_PHNE_NUM \n Facility Phone Number \n\n PRVDR_ADR \n Facility Location Address \n\n PRVDR_CITY \n Facility Location City \n\n PRVDR_ZIP_CD \n Facility Location Zip Code",
+  "dataset": "ahcah-patient",
+  "url": "https://resdac.org/cms-data/files/ahcah-patient/data-documentation"
+}

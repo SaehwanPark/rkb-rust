@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p26__chunk_2",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 26,
+  "text": "organs (C15–C26) \n\n07700 = Of esophagus (C15) \n\n07800 = Of stomach (C16) \n\n07900 = Of small intestine (C17) \n\n08000 = Of colon, rectum, and anus \n(C18–C21) \n\n08100 = Colon (C18) \n\n08200 = Rectosigmoid junction and \nrectum (C19–C20) \n\n08300 = Anus and anus canal (C21) \n\n08400 = Of liver and intrahepatic bile \nducts (C22) \n 08500 = Liver (C22.0, C22.2–C22.9) \n\n08600 = Intrahepatic bile duct \ncarcinoma (C22.1) \n\n08700 = Of gallbladder and extrahepatic \nbile ducts (C23–C24) \n\n08800 = Of pancreas",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

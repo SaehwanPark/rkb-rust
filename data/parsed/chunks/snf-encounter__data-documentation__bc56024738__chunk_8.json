@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_8",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "Claim Diagnosis Code 2 (Encounter)\n\n 40\n\n ICD_DGNS_CD3\n\n Claim Diagnosis Code 3 (Encounter)\n\n 41\n\n ICD_DGNS_CD4\n\n Claim Diagnosis Code 4 (Encounter)\n\n 42\n\n ICD_DGNS_CD5 \n\n Claim Diagnosis Code 5 (Encounter)\n\n 43\n\n ICD_DGNS_CD6\n\n Claim Diagnosis Code 6 (Encounter)\n\n 44\n\n ICD_DGNS_CD7 \n\n Claim Diagnosis Code 7 (Encounter)\n\n 45\n\n ICD_DGNS_CD8\n\n Claim Diagnosis Code 8 (Encounter)\n\n 46\n\n ICD_DGNS_CD9 \n\n Claim Diagnosis Code 9 (Encounter)\n\n 47\n\n ICD_DGNS_CD10\n\n Claim Diagnosis Code 10 (Encounter)",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

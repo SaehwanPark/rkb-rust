@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-current-clinical-status__codebook-ocm_pdf__687e14bf31__p12__chunk_0",
+  "source_document": "data/raw/assets/pdf/687e14bf310457071225d4833378b7f8cecd7290.pdf",
+  "page": 12,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nCODEBOOK: Medicare Oncology Care Model Files │ May 2024 │ V 1.0 8 \n\nDOD \n\nLABEL: Beneficiary Date of Death \n\nDESCRIPTION: Beneficiary date of death. \n\nSHORT NAME: DOD \n\nLONG NAME: DOD \n\nTYPE: DATE \n\nLENGTH: 8 \n\nFILE(S): Clinical and staging \n\nSOURCE: CCW Master Beneficiary Summary File (MBSF) \n\nVALUES: Ex — 10/12/2020 \n\nCOMMENT: The CMS Oncology Care Model team obtained this information from the MBSF. \n\nFormatted as MMDDYY10 in SAS \n ^",
+  "dataset": "ocm-current-clinical-status",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ocm.pdf"
+}

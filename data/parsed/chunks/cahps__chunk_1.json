@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__chunk_1",
+  "source_document": "data/raw/html/dataset_page/4ea2b9eba73e8e42fe95c34773820b28b0ae4def.html",
+  "page": null,
+  "text": "experience with different types of health care. Some of these are CMS-only surveys. Others, those designated as CAHPS, have been approved by the AHRQ-overseen CAHPS consortium.\n\nHealthcare providers/populations addressed by specific, individual surveys include:\n\nHospital\n\nHome Health\n\nHome and Community Based Services\n\nOriginal Medicare (Fee-for-Service)\n\nMedicare Advantage & Part D Plan (PDP)\n\nIn-Center Hemodialysis\n\nNationwide Adult Medicaid\n\nHospice\n\nAccountable Care",
+  "dataset": "cahps",
+  "url": "https://resdac.org/cms-data/files/cahps"
+}

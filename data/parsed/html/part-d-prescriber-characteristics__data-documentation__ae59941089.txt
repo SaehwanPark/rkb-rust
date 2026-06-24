@@ -1,0 +1,545 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Part D Prescriber Characteristics
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - Part D Prescriber Characteristics
+CCW Record Layout - Part D Prescriber Characteristics
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      CCW_PRSCRBR_ID        
+                                                                      CCW-assigned Prescriber Identifier        
+          
+
+      
+
+                                                                      NPI        
+                                                                      Prescriber NPI Number        
+          
+
+      
+
+                                                                      HCID        
+                                                                      HCIdea Proprietary Prescriber Identifier        
+          
+
+      
+
+                                                                      PRIMARY_TAXONOMY_CD        
+                                                                      Primary Taxonomy Code for Part D Prescribers        
+          
+
+      
+
+                                                                      PRIMARY_TAXONOMY_DESC        
+                                                                      Primary Taxonomy Code Description for Part D Prescribers        
+          
+
+      
+
+                                                                      OTHER_TAXONOMY_CLASS01        
+                                                                      Other Taxonomy Classification 1 - for Part D Prescribers        
+          
+
+      
+
+                                                                      OTHER_TAXONOMY_CLASS02        
+                                                                      Other Taxonomy Classification 2 - for Part D Prescribers        
+          
+
+      
+
+                                                                      OTHER_TAXONOMY_CLASS03        
+                                                                      Other Taxonomy Classification 3 - for Part D Prescribers        
+          
+
+      
+
+                                                                      OTHER_TAXONOMY_CLASS04        
+                                                                      Other Taxonomy Classification 4 - for Part D Prescribers        
+          
+
+      
+
+                                                                      PRACTICE_LOC_STATE01        
+                                                                      Prescriber Practice Location State 1        
+          
+
+      
+
+                                                                      PRACTICE_LOC_STATE02        
+                                                                      Prescriber Practice Location State 2        
+          
+
+      
+
+                                                                      PRACTICE_LOC_STATE03        
+                                                                      Prescriber Practice Location State 3        
+          
+
+      
+
+                                                                      PRACTICE_LOC_STATE04        
+                                                                      Prescriber Practice Location State 4        
+          
+
+      
+
+                                                                      CREDENTIAL01        
+                                                                      Academic or Professional Credential 1 - for Part D Prescribers        
+          
+
+      
+
+                                                                      CREDENTIAL02        
+                                                                      Academic or Professional Credential 2 - for Part D Prescribers        
+          
+
+      
+
+                                                                      CREDENTIAL03        
+                                                                      Academic or Professional Credential 3 - for Part D Prescribers        
+          
+
+      
+
+                                                                      CREDENTIAL04        
+                                                                      Academic or Professional Credential 4 - for Part D Prescribers        
+          
+
+      
+
+                                                                      CREDENTIAL05        
+                                                                      Academic or Professional Credential 5 - for Part D Prescribers        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_5",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "Care Plan Identification Number\n\n 23\n\n WVR_TYPE_CD\n\n Waiver Type Code\n\n 24\n\n WVR_ID\n\n Waiver Identification Number\n\n 25\n\n OTHR_INSRNC_IND\n\n Indicator Insured is Covered by Another Plan (Not Medicare or Medicaid)\n\n 26\n\n SECT_1115A_DEMO_IND\n\n 1115(A) Demonstration Participation Indicator\n\n 27\n\n PRSCRBD_DT\n\n Prescribed Date (TAF)\n\n 28\n\n RX_FILL_DT\n\n Prescription Fill Date (TAF)\n\n 29\n\n BLG_PRVDR_ID\n\n Billing Provider Identification Number (TAF)\n\n 30\n\n BLG_PRVDR_NPI\n\n Billing Provider NPI\n\n 31",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

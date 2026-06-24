@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-entity__data-documentation__2e5244efce__chunk_2",
+  "source_document": "data/raw/html/documentation_page/2e5244efce0233d468ea48269e61eadb991d0170.html",
+  "page": null,
+  "text": "Model Name \n\n ENTITY_ID \n Entity Identifier \n\n ENTITY_NAME \n Entity Name \n\n ENTITY_TYPE \n Entity Type \n\n START_DATE \n Entity Start Date \n\n END_DATE \n Entity End Date",
+  "dataset": "cmds-entity",
+  "url": "https://resdac.org/cms-data/files/cmds-entity/data-documentation"
+}

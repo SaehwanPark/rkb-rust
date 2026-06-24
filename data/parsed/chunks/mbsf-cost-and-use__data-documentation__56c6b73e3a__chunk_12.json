@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_12",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "DME_MDCR_PMT \n Durable Medical Equipment Events \n\n OTHC_BENE_PMT \n Other Part B Carrier Beneficiary Payments \n\n OTHC_MDCR_PMT \n Other Part B Carrier Medicare Payments \n\n OTHC_PRMRY_PMT \n Other Part B Carrier Primary Payer Amount \n\n OTHC_EVENTS \n Other Part B Carrier Events \n\n PTD_BENE_PMT \n Part D Beneficiary Payments \n\n PTD_MDCR_PMT \n Part D Medicare Payments \n\n PTD_EVENTS \n Part D Event Count \n\n PTD_FILL_CNT \n Part D Standardized Fill Count \n\n PTD_TOTAL_RX_CST \n Part D Total Prescription",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

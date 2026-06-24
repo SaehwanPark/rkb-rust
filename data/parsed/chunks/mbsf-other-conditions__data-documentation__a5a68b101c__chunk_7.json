@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_7",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Indicator - Medicare Only Claims \n\n DEPSN_MEDICARE_EVER \n Major Depressive Affective Disorder First Ever Occurrence Date - Medicare Only Claims \n\n DRUG_MEDICARE \n Drug Use Disorder End-of-Year Indicator-Medicare Only Claims \n\n DRUG_MEDICARE_EVER \n Drug Use Disorder First Ever Occurrence Date - Medicare Only Claims \n\n EPILEP_MEDICARE \n Epilepsy End-of-Year Indicator - Medicare Only Claims \n\n EPILEP_MEDICARE_EVER \n Epilepsy First Ever Occurrence Date - Medicare Only Claims \n\n FIBRO_MEDICARE",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

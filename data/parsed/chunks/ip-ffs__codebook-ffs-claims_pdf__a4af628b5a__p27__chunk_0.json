@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p27__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 27,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 9 \n\nBENE_CNTY_CD \n\nLABEL: County Code from Claim (SSA) \n\nDESCRIPTION: The 3-digit social security administration (SSA) standard county code of a beneficiary's residence. \n\nSHORT NAME: CNTY_CD \n\nLONG NAME: BENE_CNTY_CD \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: SSA/EDB \n\nVALUES: — \n\nCOMMENT: The US Census website lists county codes. Also, CMS has core-based statistical area (CBSA)",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

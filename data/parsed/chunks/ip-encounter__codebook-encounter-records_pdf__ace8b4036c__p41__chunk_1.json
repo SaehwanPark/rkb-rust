@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p41__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 41,
+  "text": "same encounter record. \n\nAll revenue center records or claim lines on a given claim have the same encounter join key (variable \ncalled ENC_JOIN_KEY). \n\nSHORT NAME: CLM_LINE_NUM \n\nLONG NAME: CLM_LINE_NUM \n\nTYPE: NUM \n\nLENGTH: 13 \n\nSOURCE: CCW \n\nFILE(S): IP revenue \nSNF revenue \nHH revenue \nOP revenue \nCarrier line \nDME line \n\nVALUES: — \n\nCOMMENT: Note that the original claim line number from the CMS Integrated Data Repository (IDR) is also \nincluded in these data files (variable called",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

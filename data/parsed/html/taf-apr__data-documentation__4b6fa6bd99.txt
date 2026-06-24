@@ -1,0 +1,3921 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+T-MSIS Analytic File Annual Provider
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - T-MSIS Analytic File (TAF) Annual Provider
+CCW Record Layout - T-MSIS Analytic File (TAF) Annual Provider
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+      
+
+                                                                             
+
+        
+
+          
+                  
+NumberSAS NameVariable Name
+
+          
+
+                                                                                                                                        
+                  1
+               
+                                                                                                                                        
+                  SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        
+                  Submitting State Provider Identification Number
+               
+                      
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        PRVDR_LGL_NAME
+               
+                                                                                                                                        Provider Legal Name
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        CMS_RGN
+               
+                                                                                                                                        CMS Region for Submitting State
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_ENT_TYPE_CD
+               
+                                                                                                                                        Provider Entity Type Code — individual, group or facility
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_TAX_NAME
+               
+                                                                                                                                        Provider Tax (IRS) Name
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_ORG_NAME
+               
+                                                                                                                                        Provider Organization Name
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_DBA_NAME
+               
+                                                                                                                                        Provider Doing Business as (DBA) Name
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_NPI_1
+               
+                                                                                                                                        Provider NPI — First Occurrence
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_NPI_2
+               
+                                                                                                                                        Provider NPI — Second Occurrence
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_NPI_CNT
+               
+                                                                                                                                        Provider NPI Count
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_01
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_02
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_03
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_04
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_05
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_06
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_07
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_08
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_9
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        22
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_10
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        23
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_11
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        24
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_IND_12
+               
+                                                                                                                                        Submitting State Provider Identifier Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        25
+               
+                                                                                                                                        PRVDR_LAST_NAME
+               
+                                                                                                                                        Provider Last Name — Individual
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        26
+               
+                                                                                                                                        PRVDR_FIRST_NAME
+               
+                                                                                                                                        Provider First Name — Individual
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        27
+               
+                                                                                                                                        PRVDR_MDL_INITL_NAME
+               
+                                                                                                                                        Provider Middle Initial — Individual
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        28
+               
+                                                                                                                                        PRVDR_SEX_CD
+               
+                                                                                                                                        Provider Sex Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        29
+               
+                                                                                                                                        PRVDR_BIRTH_DT
+               
+                                                                                                                                        Provider Date of Birth
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        30
+               
+                                                                                                                                        PRVDR_DEATH_DT
+               
+                                                                                                                                        Provider Date of Death
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        31
+               
+                                                                                                                                        PRVDR_AGE
+               
+                                                                                                                                        Provider Age (in Years)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        32
+               
+                                                                                                                                        TCHNG_IND
+               
+                                                                                                                                        Provider Organization Teaching Facility Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        33
+               
+                                                                                                                                        OWNRSHP_CD
+               
+                                                                                                                                        Provider Ownership Code — Latest in Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        34
+               
+                                                                                                                                        OWNRSHP_CTGRY_CD
+               
+                                                                                                                                        Provider Ownership Category Code — Latest in Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        35
+               
+                                                                                                                                        PRVDR_PRFT_STUS_CD
+               
+                                                                                                                                        Provider Profit Status Code — Latest in Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        36
+               
+                                                                                                                                        ACPTG_NEW_PTNTS_IND
+               
+                                                                                                                                        Provider Accepting New Patients Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        37
+               
+                                                                                                                                        PRVDR_MDCD_ENRLMT_IND
+               
+                                                                                                                                        Enrolled in Medicaid Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        38
+               
+                                                                                                                                        PRVDR_CHIP_ENRLMT_IND
+               
+                                                                                                                                        Enrolled in CHIP Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        39
+               
+                                                                                                                                        NOT_SP_AFLTD_IND
+               
+                                                                                                                                        Not Affiliated with State Plan Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        40
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_ACTV_IND
+               
+                                                                                                                                        Medicaid or CHIP Active Enrollment Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        41
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_DND_IND
+               
+                                                                                                                                        Medicaid or CHIP Enrollment Denied Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        42
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_TRMNTD_IND
+               
+                                                                                                                                        Medicaid or CHIP Enrollment Terminated Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        43
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_PENDG_IND
+               
+                                                                                                                                        Medicaid or CHIP Enrollment Status Pending Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        44
+               
+                                                                                                                                        MLT_SNGL_SPCLTY_GRP_TXNMY_IND
+               
+                                                                                                                                        Multi- or Single-Specialty Group Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        45
+               
+                                                                                                                                        ALPTHC_OSTPTHC_PHYSN_TXNMY_IND
+               
+                                                                                                                                        Allopathic or Osteopathic Physician Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        46
+               
+                                                                                                                                        BHVRL_HLTH_SCL_SRVC_TXNMY_IND
+               
+                                                                                                                                        Behavioral Health-Social Service Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        47
+               
+                                                                                                                                        CHRPRCTIC_TXNMY_IND
+               
+                                                                                                                                        Chiropractic Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        48
+               
+                                                                                                                                        DNTL_TXNMY_IND
+               
+                                                                                                                                        Dental Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        49
+               
+                                                                                                                                        DTRY_NTRTNL_SRVC_TXNMY_IND
+               
+                                                                                                                                        Dietary or Nutritional Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        50
+               
+                                                                                                                                        EMER_MDCL_SRVC_TXNMY_IND
+               
+                                                                                                                                        Emergency Medical Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        51
+               
+                                                                                                                                        EYE_VSN_SRVC_TXNMY_IND
+               
+                                                                                                                                        Eye or Vision Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        52
+               
+                                                                                                                                        NRSNG_SRVC_TXNMY_IND
+               
+                                                                                                                                        Nursing Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        53
+               
+                                                                                                                                        RLTD_NRSNG_SRVC_TXNMY_IND
+               
+                                                                                                                                        Related Nursing Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        54
+               
+                                                                                                                                        OTHR_INDVDL_SRVC_TXNMY_IND
+               
+                                                                                                                                        Other Individual Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        55
+               
+                                                                                                                                        PHRMCY_SRVC_TXNMY_IND
+               
+                                                                                                                                        Pharmacy Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        56
+               
+                                                                                                                                        PA_APN_TXNMY_IND
+               
+                                                                                                                                        Physician Assistant or Advanced Practice Nursing Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        57
+               
+                                                                                                                                        PDTRY_TXNMY_IND
+               
+                                                                                                                                        Podiatry Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        58
+               
+                                                                                                                                        RT_DEVMTL_REHAB_RSTRTV_TXNMY_IND
+               
+                                                                                                                                        Respiratory, Development, Rehabilitate, or Restorative Services Taxonomy Indicator — Ever in Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        59
+               
+                                                                                                                                        SPCH_LANG_HEARG_TXNMY_IND
+               
+                                                                                                                                        Speech, Language or Hearing Services Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        60
+               
+                                                                                                                                        STDNT_HLTH_CARE_PRVDR_TXNMY_IND
+               
+                                                                                                                                        Student Health Care Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        61
+               
+                                                                                                                                        RDLGY_OTHR_TCHNCL_SRVC_TXNMY_IND
+               
+                                                                                                                                        Radiologic and Other Technical Services Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        62
+               
+                                                                                                                                        AGNCY_PRVDR_TXNMY_IND
+               
+                                                                                                                                        Agency Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        63
+               
+                                                                                                                                        AMBLTRY_CLNC_TXNMY_IND
+               
+                                                                                                                                        Ambulatory Health Services Clinic Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        64
+               
+                                                                                                                                        HOSP_UNIT_TXNMY_IND
+               
+                                                                                                                                        Hospital Unit Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        65
+               
+                                                                                                                                        HOSP_TXNMY_IND
+               
+                                                                                                                                        Hospital Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        66
+               
+                                                                                                                                        LAB_TXNMY_IND
+               
+                                                                                                                                        Laboratory Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        67
+               
+                                                                                                                                        MCO_TXNMY_IND
+               
+                                                                                                                                        Managed Care Organization Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        68
+               
+                                                                                                                                        NRSNG_CSTDL_CARE_PRVDR_TXNMY_IND
+               
+                                                                                                                                        Nursing Custodial Care Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        69
+               
+                                                                                                                                        LDGNG_MEALS_PRVDR_TXNMY_IND
+               
+                                                                                                                                        Lodging or Meals Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        70
+               
+                                                                                                                                        RSDNTL_TRTMT_FAC_TXNMY_IND
+               
+                                                                                                                                        Residential Treatment Facility Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        71
+               
+                                                                                                                                        RESP_CARE_FAC_TXNMY_IND
+               
+                                                                                                                                        Respite Care Facility Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        72
+               
+                                                                                                                                        SUPLR_PRVDR_TXNMY_IND
+               
+                                                                                                                                        Supplier Provider (DME, Pharmacy, Organs, Etc.) Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        73
+               
+                                                                                                                                        TRNSPRTN_SRVC_TXNMY_IND
+               
+                                                                                                                                        Transportation Services Provider Taxonomy Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        74
+               
+                                                                                                                                        SUD_SRVC_PRVDR_CLSFCTN_IND
+               
+                                                                                                                                        Substance Use Disorder Service Provider Classification Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        75
+               
+                                                                                                                                        MH_SRVC_PRVDR_CLSFCTN_IND
+               
+                                                                                                                                        Mental Health Service Provider Classification Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        76
+               
+                                                                                                                                        EMER_SRVC_PRVDR_CLSFCTN_IND
+               
+                                                                                                                                        Emergency Services Provider Classification Indicator — Ever in Calendar Year
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        77
+               
+                                                                                                                                        SPLMTL_ADDR_LCTN
+               
+                                                                                                                                        Annual Provider Record in Supplemental Provider Address Location File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        78
+               
+                                                                                                                                        SPLMTL_LCNS_ACRDTN
+               
+                                                                                                                                        Annual Provider Record in Supplemental Provider License and Accreditation File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        79
+               
+                                                                                                                                        SPLMTL_PRVDR_ID
+               
+                                                                                                                                        Annual Provider Record in Supplemental Identifier File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        80
+               
+                                                                                                                                        SPLMTL_AFLTD_GRP
+               
+                                                                                                                                        Annual Provider Record in Supplemental Affiliated Groups File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        81
+               
+                                                                                                                                        SPLMTL_AFLTD_PGM
+               
+                                                                                                                                        Annual Provider Record in Supplemental Affiliated Programs File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        82
+               
+                                                                                                                                        SPLMTL_TXNMY
+               
+                                                                                                                                        Annual Provider Record in Supplemental Taxonomy File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        83
+               
+                                                                                                                                        SPLMTL_ENRLMT
+               
+                                                                                                                                        Annual Provider Record in Supplemental Enrollment File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        84
+               
+                                                                                                                                        SPLMTL_BED_TYPE
+               
+                                                                                                                                        Annual Provider Record in Supplemental Bed Type File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        85
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        86
+               
+                                                                                                                                        DA_RUN_ID
+               
+                                                                                                                                        TAF Production Run Identifier (unique for each TAF run)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        87
+               
+                                                                                                                                        PR_VRSN
+               
+                                                                                                                                        Provider File Version Representing the Iteration of the File
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        88
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        89
+               
+                                                                                                                                        CCW_LD_DT
+               
+                                                                                                                                        CCW Load Date
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Taxonomy 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_CLSFCTN_SYS
+               
+                                                                                                                                        Procedure Classification System/Nomenclature
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRVDR_CLSFCTN_CD
+               
+                                                                                                                                        Provider Classification Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_01
+               
+                                                                                                                                        Provider Classification Code Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_02
+               
+                                                                                                                                        Provider Classification Code Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_03
+               
+                                                                                                                                        Provider Classification Code Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_04
+               
+                                                                                                                                        Provider Classification Code Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_05
+               
+                                                                                                                                        Provider Classification Code Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_06
+               
+                                                                                                                                        Provider Classification Code Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_07
+               
+                                                                                                                                        Provider Classification Code Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_08
+               
+                                                                                                                                        Provider Classification Code Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_09
+               
+                                                                                                                                        Provider Classification Code Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_10
+               
+                                                                                                                                        Provider Classification Code Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_11
+               
+                                                                                                                                        Provider Classification Code Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_CLSFCTN_ACTV_IND_12
+               
+                                                                                                                                        Provider Classification Code Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Enrollment 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_MDCD_CHIP_ENRLMT_CD
+               
+                                                                                                                                        Provider State Plan Enrollment Code (Medicaid and/or CHIP)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_CD
+               
+                                                                                                                                        Provider Enrollment Status Code (Medicaid and/or CHIP)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_ENRLMT_STUS_CTGRY_CD
+               
+                                                                                                                                        Provider Enrollment Status Category Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_ENRLMT_MTHD_CD
+               
+                                                                                                                                        Provider Medicaid or CHIP Program Enrollment Method Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        APLCTN_DT
+               
+                                                                                                                                        Provider Medicaid or CHIP Program Application Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_ENRLMT_START_DT
+               
+                                                                                                                                        Provider Enrollment (Medicaid and/or CHIP) Start Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_ENRLMT_END_DT
+               
+                                                                                                                                        Provider Enrollment (Medicaid and/or CHIP) End Date
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_01
+               
+                                                                                                                                        Provider Enrollment Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_02
+               
+                                                                                                                                        Provider Enrollment Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_03
+               
+                                                                                                                                        Provider Enrollment Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_04
+               
+                                                                                                                                        Provider Enrollment Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_05
+               
+                                                                                                                                        Provider Enrollment Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_06
+               
+                                                                                                                                        Provider Enrollment Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_07
+               
+                                                                                                                                        Provider Enrollment Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_08
+               
+                                                                                                                                        Provider Enrollment Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_09
+               
+                                                                                                                                        Provider Enrollment Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_10
+               
+                                                                                                                                        Provider Enrollment Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_11
+               
+                                                                                                                                        Provider Enrollment Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        22
+               
+                                                                                                                                        PRVDR_ENRLMT_ACTV_IND_12
+               
+                                                                                                                                        Provider Enrollment Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        23
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        24
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Affiliated Groups 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_GRP_ID
+               
+                                                                                                                                        Submitting State Provider Group Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_01
+               
+                                                                                                                                        Provider Group Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_02
+               
+                                                                                                                                        Provider Group Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_03
+               
+                                                                                                                                        Provider Group Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_03
+               
+                                                                                                                                        Provider Group Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_05
+               
+                                                                                                                                        Provider Group Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_06
+               
+                                                                                                                                        Provider Group Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_07
+               
+                                                                                                                                        Provider Group Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_08
+               
+                                                                                                                                        Provider Group Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_09
+               
+                                                                                                                                        Provider Group Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_10
+               
+                                                                                                                                        Provider Group Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_11
+               
+                                                                                                                                        Provider Group Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_GRP_ACTV_IND_12
+               
+                                                                                                                                        Provider Group Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Affiliated Programs 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        AFLTD_PGM_TYPE_CD
+               
+                                                                                                                                        Affiliated Program Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ID
+               
+                                                                                                                                        Provider Affiliated Program Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_01
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_02
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_03
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_04
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_05
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_06
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_07
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_08
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_09
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_10
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_11
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_AFLTD_PGM_ACTV_IND_12
+               
+                                                                                                                                        Provider Affiliated Program Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Location 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_LCTN_ID
+               
+                                                                                                                                        Provider Location Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRCTC_LCTN_IND
+               
+                                                                                                                                        Practice Location Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        SRVC_LCTN_IND
+               
+                                                                                                                                        Service Location Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_ADR_LINE_1
+               
+                                                                                                                                        Provider Street Address 1
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_ADR_LINE_2
+               
+                                                                                                                                        Provider Street Address 2
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_ADR_LINE_3
+               
+                                                                                                                                        Provider Street Address 3
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_CITY
+               
+                                                                                                                                        Provider City
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_STATE_CD
+               
+                                                                                                                                        Provider State (FIPS) Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_ZIP_CD
+               
+                                                                                                                                        Provider Zip Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_CNTY_CD
+               
+                                                                                                                                        Provider County (FIPS) Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        BRDR_STATE_IND
+               
+                                                                                                                                        Border State Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_STATE_CD_DFRNT_IND
+               
+                                                                                                                                        Provider Location State Differs from Submitting State Indicator
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_01
+               
+                                                                                                                                        Provider Location Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_02
+               
+                                                                                                                                        Provider Location Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_03
+               
+                                                                                                                                        Provider Location Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_04
+               
+                                                                                                                                        Provider Location Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_05
+               
+                                                                                                                                        Provider Location Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_06
+               
+                                                                                                                                        Provider Location Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        22
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_07
+               
+                                                                                                                                        Provider Location Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        23
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_08
+               
+                                                                                                                                        Provider Location Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        24
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_09
+               
+                                                                                                                                        Provider Location Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        25
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_10
+               
+                                                                                                                                        Provider Location Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        26
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_11
+               
+                                                                                                                                        Provider Location Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        27
+               
+                                                                                                                                        PRVDR_LCTN_ACTV_IND_12
+               
+                                                                                                                                        Provider Location Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        28
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        29
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR License 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_LCTN_ID
+               
+                                                                                                                                        Provider Location Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        LCNS_TYPE_CD
+               
+                                                                                                                                        Provider License Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        LCNS_NUM
+               
+                                                                                                                                        Provider License or Accreditation Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        LCNS_ISSG_ENT_ID
+               
+                                                                                                                                        Provider License Issuing Entity Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_01
+               
+                                                                                                                                        Provider License Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_02
+               
+                                                                                                                                        Provider License Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_03
+               
+                                                                                                                                        Provider License Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_04
+               
+                                                                                                                                        Provider License Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_05
+               
+                                                                                                                                        Provider License Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_06
+               
+                                                                                                                                        Provider License Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_07
+               
+                                                                                                                                        Provider License Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_08
+               
+                                                                                                                                        Provider License Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_09
+               
+                                                                                                                                        Provider License Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_10
+               
+                                                                                                                                        Provider License Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_11
+               
+                                                                                                                                        Provider License Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        PRVDR_LCNS_ACTV_IND_12
+               
+                                                                                                                                        Provider License Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Identifiers 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_LCTN_ID
+               
+                                                                                                                                        Provider Location Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        PRVDR_NUM_SYS
+               
+                                                                                                                                        Provider Number System/Nomenclature
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        PRVDR_NUM
+               
+                                                                                                                                        Provider Number (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_NUM_ISSG_ENT_ID
+               
+                                                                                                                                        Provider Number Issuing Entity Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_01
+               
+                                                                                                                                        Provider Number Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_02
+               
+                                                                                                                                        Provider Number Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_03
+               
+                                                                                                                                        Provider Number Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_04
+               
+                                                                                                                                        Provider Number Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_05
+               
+                                                                                                                                        Provider Number Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_06
+               
+                                                                                                                                        Provider Number Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_07
+               
+                                                                                                                                        Provider Number Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_08
+               
+                                                                                                                                        Provider Number Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_09
+               
+                                                                                                                                        Provider Number Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_10
+               
+                                                                                                                                        Provider Number Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_11
+               
+                                                                                                                                        Provider Number Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        PRVDR_NUM_ACTV_IND_12
+               
+                                                                                                                                        Provider Number Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        21
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+          
+                  
+
+            
+
+                               
+                               
+                                                APR Bed Type 
+                          
+
+          
+NumberSAS NameVariable Name
+
+        
+          
+                  
+
+                                                                                                                                        1
+               
+                                                                                                                                        SUBMTG_STATE_PRVDR_ID
+               
+                                                                                                                                        Submitting State Provider Identification Number
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        2
+               
+                                                                                                                                        STATE_CD
+               
+                                                                                                                                        Submitting State Alpha Abbreviation
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        3
+               
+                                                                                                                                        SUBMTG_STATE_CD
+               
+                                                                                                                                        Submitting State FIPS Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        4
+               
+                                                                                                                                        PRVDR_LCTN_ID
+               
+                                                                                                                                        Provider Location Identifier
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        5
+               
+                                                                                                                                        BED_TYPE_CD
+               
+                                                                                                                                        Bed Type Code
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        6
+               
+                                                                                                                                        BED_CNT
+               
+                                                                                                                                        Bed Count
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        7
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_01
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — January
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        8
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_02
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — February
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        9
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_03
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — March
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        10
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_04
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — April
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        11
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_05
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — May
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        12
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_06
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — June
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        13
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_07
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — July
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        14
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_08
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — August
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        15
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_09
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — September
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        16
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_10
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — October
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        17
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_11
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — November
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        18
+               
+                                                                                                                                        PRVDR_BED_ACTV_IND_12
+               
+                                                                                                                                        Provider Bed Type and Count for Facility Active Indicator — December
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        19
+               
+                                                                                                                                        CCW_APL_LINK_KEY
+               
+                                                                                                                                        CCW Key to Link APL base Record to Related Supplement Records
+               
+                      
+
+
+        
+          
+                  
+
+                                                                                                                                        20
+               
+                                                                                                                                        RFRNC_YR
+               
+                                                                                                                                        Reference Year (TAF)
+               
+                      
+
+
+        
+  
+  
+
+ 
+
+
+
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_4",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "ACSC admission for heart failure \n\n ACSC_ADM_DH \n ACSC admission for dehydration \n\n ACSC_ADM_PN \n ACSC admission for pneumonia \n\n ACSC_ADM_UTI \n ACSC admission for UTI \n\n SURVIVED_RA_ALL \n Beneficiary included in Per Capita Costs for All Attributed Beneficiaries measure \n\n ATTRIB_STEP \n Basis for attribution \n\n ED_ADM \n Emergency department admission \n\n NUM_PC_SVCS_PRAC \n Number of primary care services provided by practice \n\n PCT_PC_SVCS_PRAC \n Percent of beneficiary primary care services",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

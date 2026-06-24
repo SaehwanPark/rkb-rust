@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_278",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "current number of stage I pressure ulcers. 00 = Zero\r\n01 = One\r\n02 = Two\r\n03 = Three\r\n04 = Four or more CHAR 2 x x x x x x\nM1324_STG_PRBL_PRU M1324 (M0460) Stage of Most Problematic Pressure Ulcer This field indicates the stage of the most problematic unhealed (observable) pressure ulcer. 01 = Stage I\r\n02 = Stage II\r\n03 = Stage III\r\n04 = Stage IV\r\nNA = NA - Patient has no pressure ulcers or no stageable pressure ulcers CHAR 2 x x x x x x\nM1330_STAS_ULCR_PRSNT M1330 Stasis Ulcer Present This",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

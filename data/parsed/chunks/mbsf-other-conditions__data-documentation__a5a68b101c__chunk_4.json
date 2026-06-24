@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_4",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "AUTISM_MEDICARE \n Autism Spectrum Disorders Indicator - Medicare Only Data \n\n AUTISM_MEDICARE_EVER \n Autism Spectrum Disorders First Ever Occurrence Date - Medicare Only Claims \n\n BIPL_MEDICARE \n Bipolar Disorder Indicator - Medicare Only Data (MBSF) \n\n BIPL_MEDICARE_EVER \n Bipolar Disorder First Ever Occurrence Date - Medicare Only Claims \n\n BRAINJ_MEDICARE \n Traumatic Brain Injury and Nonpsychotic Mental Disorders due to Brain Damage End-of-Year Indicator - Medicare Only Claims",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

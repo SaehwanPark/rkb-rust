@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p75__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 75,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 64 \n\nCMS_64_FED_CTGRY_CD \n\nLABEL: CMS-64 Form Code for Federal Reimbursement \n\nDESCRIPTION: This code indicates if the claim was matched with Title XIX or Title XXI, ACA, or funding under other \nlegislation. \n\nSHORT NAME: CMS_64_FED_CTGRY_CD \n\nLONG NAME: CMS_64_FED_CTGRY_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): All line files \n\nVALUES: 01 =",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

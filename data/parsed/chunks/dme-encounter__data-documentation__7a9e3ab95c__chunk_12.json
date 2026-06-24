@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__data-documentation__7a9e3ab95c__chunk_12",
+  "source_document": "data/raw/html/documentation_page/7a9e3ab95c81408f2ef1644024e5ac09aae2fff6.html",
+  "page": null,
+  "text": "Address - USPS State Code \n\n CLM_SUBSCR_ADR_ZIP_CD \n Medicare Subscriber Address - ZIP Code \n\n BENE_RACE_CD \n Beneficiary Race Code (Encounter) \n\n DOB_DT \n Date of Birth from Encounter \n\n BENE_MDCR_STUS_CD \n Beneficiary Medicare Status Code \n\n TAX_NUM \n Provider Tax Number \n\n BENE_STATE \n State of beneficiary (postal abbreviation) \n\nLine File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter/data-documentation"
+}

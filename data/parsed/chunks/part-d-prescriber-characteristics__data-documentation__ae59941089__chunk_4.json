@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-prescriber-characteristics__data-documentation__ae59941089__chunk_4",
+  "source_document": "data/raw/html/documentation_page/ae59941089310a85e905460c13cb389f71abb0b5.html",
+  "page": null,
+  "text": "Prescriber Practice Location State 2 \n\n PRACTICE_LOC_STATE03 \n Prescriber Practice Location State 3 \n\n PRACTICE_LOC_STATE04 \n Prescriber Practice Location State 4 \n\n CREDENTIAL01 \n Academic or Professional Credential 1 - for Part D Prescribers \n\n CREDENTIAL02 \n Academic or Professional Credential 2 - for Part D Prescribers \n\n CREDENTIAL03 \n Academic or Professional Credential 3 - for Part D Prescribers \n\n CREDENTIAL04 \n Academic or Professional Credential 4 - for Part D Prescribers",
+  "dataset": "part-d-prescriber-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-prescriber-characteristics/data-documentation"
+}

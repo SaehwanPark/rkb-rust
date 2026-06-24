@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_7",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "Number of drug therapy problem recommendations to prescribers \n\n DRUG_THER_CHG_NUM \n Number of drug therapy problem resolutions with prescribers \n\n DSPSL_MDCTNS_MTHD \n Method of delivery for information regarding safe disposal of medications \n\n NUM_COMMS_SAFE_DSPSL_MDCTNS \n Number of communications sent to beneficiary regarding safe disposal of medications \n\n TARG_CRITERIA_MET_REASON \n Reason why beneficiary met the targeting criteria",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

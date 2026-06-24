@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_876",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "but eyes appear to follow objects\r\n4. Severely impaired – no vision or sees only light, colors or shapes; eyes do not appear to follow objects CHAR 1 x\nB1300_HLTH_LTRCY_CD Health Literacy Indicates the frequency the patient needs someone to help them when they read instructions, pamphlets, or other written material from their doctor or pharmacy. 0. Never\r\n1. Rarely\r\n2. Sometimes\r\n3. Often\r\n4. Always\r\n8. Patient unable to respond CHAR 1 x\nC0100_CNDCT_MENTL_STUS_CD Brief Interview for Mental",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

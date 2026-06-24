@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_249",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "Received This field indicates the reason why the influenza vaccine was not received from the agency during this episode of\r\ncare. 01 = Received from another health care provider (e.g. physician)\r\n02 = Received from your agency previously during this year's flu season.\r\n03 = Offered and declined.\r\n04 = Assessed and determined to have medical contraindication(s).\r\n05 = Not indicated: patient does not meet age/condition guidelines for\r\ninfluenza vaccine.\r\n06 = Inability to obtain vaccine due to",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

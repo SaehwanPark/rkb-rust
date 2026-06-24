@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p36__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 36,
+  "text": "the final \nversion of the record. Note that the term “final action” is used differently in encounter data, \ncompared to fee-for-service (FFS) claims. \n\nSHORT NAME: CLM_FINL_ACTN_IND \n\nLONG NAME: CLM_FINL_ACTN_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Integrated Data Repository (IDR) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base \nDME base \n\nVALUES: Y = Final action and the claim is not voided \nN = Subsequent adjustments to the claim exist or the final action was to void the claim",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

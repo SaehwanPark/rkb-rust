@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ocm-current-clinical-status__data-documentation__48a7e5faf1__chunk_2",
+  "source_document": "data/raw/html/documentation_page/48a7e5faf18b8abe2883eacd74972225c4f0cfa7.html",
+  "page": null,
+  "text": "Model\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ICD10_CNCR_DGNS_CD_RPTD \n ICD10 Cancer Diagnosis Code Reported by Participant \n\n INITL_DGNS_DT \n Initial Diagnosis Date \n\n CRNT_CLNCL_STUS \n Current Clinical Status \n\n CRNT_CLNCL_STUS_DT \n Current Clinical Status Date",
+  "dataset": "ocm-current-clinical-status",
+  "url": "https://resdac.org/cms-data/files/ocm-current-clinical-status/data-documentation"
+}

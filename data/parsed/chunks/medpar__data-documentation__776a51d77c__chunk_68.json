@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_68",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Next Generation (NG) Accountable Care Organization (ACO) Indicator Code 2\n\n 387\n\n CLM_NGACO_IND_3_CD\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code 3\n\n 388\n\n CLM_NGACO_IND_4_CD\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code 4\n\n 389\n\n CLM_NGACO_IND_5_CD\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code 5\n\n 390\n\n CLM_RSDL_PYMT_IND_CD\n\n MedPAR Claim Residual Payment Indicator Code\n\n 391",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

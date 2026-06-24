@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-base__operational-payment-risk-score-user-guide_pdf__d8c366dd0a__p11__chunk_2",
+  "source_document": "data/raw/assets/pdf/d8c366dd0abbcfd26c61b8c4fd0774178fc9ab1b.pdf",
+  "page": 11,
+  "text": "Community Non- Low Income Non-ESRD X X \nP3 PACE New Enrollee Institutional Non-ESRD X X \nP4 PACE New Enrollee Institutional ESRD X X \nP5 PACE New Enrollee Community Low Income ESRD X X \nP6 PACE New Enrollee Community Non- Low Income ESRD X X \nP7 PACE Community Non- Low Income Continuing Enrollee X X \nP8 PACE Community Low Income Continuing Enrollee X X \nP9 PACE Institutional Continuing Enrollee X X \nNull/missing Not applicable X X \n\nIn addition to the Part C and Part D monthly model segment",
+  "dataset": "risk-score-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19002246/operational-payment-risk-score-user-guide.pdf"
+}

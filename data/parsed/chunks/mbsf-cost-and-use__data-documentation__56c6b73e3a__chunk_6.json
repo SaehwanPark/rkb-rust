@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_6",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "HH_VISITS \n Home Health Visits \n\n HOP_BENE_PMT \n Hospital Outpatient Beneficiary Payments \n\n HOP_MDCR_PMT \n Hospital Outpatient Medicare Payments \n\n HOP_PRMRY_PMT \n Hospital Outpatient Primary Payer Amount \n\n HOP_VISITS \n Hospital Outpatient Visits \n\n HOP_ER_VISITS \n Hospital Outpatient Emergency Room Visits \n\n ASC_BENE_PMT \n Ambulatory Surgery Center Beneficiary Payments \n\n ASC_MDCR_PMT \n Ambulatory Surgery Center Medicare Payments \n\n ASC_PRMRY_PMT \n Ambulatory Surgery Center Primary Payer",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

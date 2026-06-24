@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-provider__data-documentation__89a050d3ee__chunk_2",
+  "source_document": "data/raw/html/documentation_page/89a050d3eeaecbde9f3604180849d89b9fb097cf.html",
+  "page": null,
+  "text": "ENTITY_ID \n Entity Identifier \n\n PRVDR_TIN \n Taxpayer Identification Number of Provider \n\n NPI \n Provider's National Provider Identifier \n\n PRVDR_CCN \n CMS Certification Number of Provider \n\n START_DATE \n Provider Start Date \n\n END_DATE \n Provider End Date \n\n PART_TYPE \n Provider Participation Type",
+  "dataset": "cmds-provider",
+  "url": "https://resdac.org/cms-data/files/cmds-provider/data-documentation"
+}

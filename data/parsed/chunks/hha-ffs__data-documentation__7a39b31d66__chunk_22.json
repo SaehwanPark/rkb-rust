@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_22",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "(FFS)\n\n 18\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (FFS)\n\n 19\n\n REV_CNTR_RATE_AMT\n\n Revenue Center Rate Amount\n\n 20\n\n REV_CNTR_PRVDR_PMT_AMT\n\n Revenue Center (Medicare) Provider Payment Amount\n\n 21\n\n REV_CNTR_PTNT_RSPNSBLTY_PMT\n\n Revenue Center Patient Responsibility Payment Amount\n\n 22\n\n REV_CNTR_PMT_AMT_AMT\n\n Revenue Center (Medicare) Payment Amount\n\n 23\n\n REV_CNTR_TOT_CHRG_AMT\n\n Revenue Center Total Charge Amount\n\n 24\n\n REV_CNTR_NCVRD_CHRG_AMT\n\n Revenue Center Non-Covered Charge",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

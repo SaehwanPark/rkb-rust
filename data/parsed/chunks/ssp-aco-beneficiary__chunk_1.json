@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__chunk_1",
+  "source_document": "data/raw/html/dataset_page/e0b196e3d259fa2849b7e990d5bd1d887944fcad.html",
+  "page": null,
+  "text": "files that contain data from the Medicare Shared Saving Program. There are two separate files in this data set:\nThe Shared Savings Program Beneficiary-Level Research Identifiable File (RIF)\nThe Shared Savings Program Provider-Level RIF\n\nWhat does this file include? (variable highlights)\nACO ID\nAssigned in Preliminary/Prospective Assignment Period\nAssigned in Quarter 1\nAssigned in Quarter 2\nAssigned in Quarter 3\nAssigned in Quarter 4\nAssigned in Final Reconciliation\nPart D Eligible Months\nHICN",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary?page=1"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_52",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "NPI (FFS)\n\n 20\n\n RNDRNG_PHYSN_SPCLTY_CD\n\n Claim or Revenue Center Rendering Physician Specialty Code\n\n 21\n\n REV_CNTR_IDE_NDC_UPC_NUM\n\n Revenue Center IDE, NDC, or UPC Number (FFS)\n\n 22\n\n REV_CNTR_PRCNG_IND_CD\n\n Revenue Center Pricing Indicator Code\n\n 23\n\n THRPY_CAP_IND_CD1\n\n Therapy cap Indicator 1 Code\n\n 24\n\n THRPY_CAP_IND_CD2\n\n Therapy cap Indicator 2 Code\n\n 25\n\n RC_MODEL_REIMBRSMT_AMT\n\n Revenue Center Model Reimbursement Amount\n\n 26\n\n REV_CNTR_ADJUST_GRP_CD\n\n Revenue Center Adjustment Group",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

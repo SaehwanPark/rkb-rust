@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p9__chunk_0",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 9,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF National Death Index Segment Codebook │ May 2026 │ V 2.6 4 \n\nENRL_SRC \n\nLABEL: Enrollment Source \n\nDESCRIPTION: This variable indicates the source of enrollment data. \n\nSHORT NAME: ENRL_SRC \n\nLONG NAME: ENRL_SRC \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: CCW \n\nVALUES: EDB = CMS Enrollment Database \n\nCME = CMS Common Medicare Environment \n\nCOMMENT: The Centers for Medicare & Medicaid Services (CMS) has updated the Medicare enrollment source",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__codebook-aco-pioneer-v2_pdf__e9794fb02d__p14__chunk_0",
+  "source_document": "data/raw/assets/pdf/e9794fb02d175a1909be3f0dea52965ad4524cdd.pdf",
+  "page": 14,
+  "text": "MO1_ALIGN \n\nChronic Conditions Warehouse Virtual Research Data Center \nACO Pioneer V2 Codebook │ May 2025 │ V 1.1 10 \n\nMO1_ALIGN \n\nMO2_ALIGN \n\nMO3_ALIGN \n\nMO4_ALIGN \n\nMO5_ALIGN \n\nMO6_ALIGN \n MO7_ALIGN \n\nMO8_ALIGN \n\nMO9_ALIGN \n\nMO10_ALIGN \n\nMO11_ALIGN \n\nMO12_ALIGN \n\nLABEL: Month1–Month 12 Alignment Flag \n\nDESCRIPTION: Monthly alignment eligibility of a Beneficiary to a Pioneer ACO. \n\nSHORT NAME: MO1_ALIGN–M12_ALIGN \n\nLONG NAME: MO1_ALIGN–M12_ALIGN \n\nTYPE: NUM \n\nLENGTH: 1 \n\nSOURCE: CMS Aligned",
+  "dataset": "pioneer-aco",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-aco-pioneer-v2.pdf"
+}

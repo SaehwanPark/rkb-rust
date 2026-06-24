@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_6",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "1115(A) Demonstration Participation Indicator\n\n 30\n\n SRVC_BGN_DT\n\n Claim Beginning Date of Service\n\n 31\n\n SRVC_END_DT\n\n Claim Ending Date of Service\n\n 32\n\n SRVC_END_DT_CD\n\n Identifies the Date Field Used to Populate SRVC_END_DT\n\n 33\n\n HOSP_TYPE_CD\n\n Hospital Type Code\n\n 34\n\n ADMSN_TYPE_CD\n\n Admission Type Code\n\n 35\n\n ADMSM_DT\n\n Admission Date (TAF)\n\n 36\n\n ADMSN_HR\n\n Admission Hour\n\n 37\n\n DSCHRG_DT\n\n Discharge Date\n\n 38\n\n DSCHRG_HR\n\n Discharge Hour\n\n 39\n\n ADMTG_DGNS_CD\n\n Admitting Diagnosis",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p9__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 9,
+  "text": "level percent code $FPL\nsa_ﬁps_state Fips state code\nsa_ﬁps_cnty Fips county code\nsa_dodeath Date of death of beneﬁciary\nsa_dob Date of birth of beneﬁciary\nsa_disbld Disabled ﬂag $ID_F\nsa_deemd_lis Deemed for low income subsidy $ID_F\nsa_deemd_cpmt Generic level for copay computation $GENLEVF\nsa_cvrg_type Part a-b coverage type $CVT\nsa_cntrct_num Health plan id of surveyed plan\nsa_age Age derived as su_received - sa_dob\nr_pl_xtrabeneﬁts REVERSED: Last 6 mths, did health plan offer extra beneﬁts",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

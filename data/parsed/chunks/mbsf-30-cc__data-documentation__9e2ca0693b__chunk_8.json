@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_8",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "Kidney Disease End-of-Year Indicator \n\n CHRONICKIDNEY_EVER \n Date that beneficiary first met claims criteria for the chronic kidney disease indicator \n\n COPD \n Chronic Obstructive Pulmonary Disease End-of-Year Indicator \n\n COPD_EVER \n Date that beneficiary first met claims criteria for the chronic obstructive pulmonary disease indicator \n\n DEPRESSION \n Depression, Bipolar, or Other Depressive Mood Disorders End-of-Year Indicator \n\n DEPRESSION_EVER \n Date that beneficiary first met claims",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

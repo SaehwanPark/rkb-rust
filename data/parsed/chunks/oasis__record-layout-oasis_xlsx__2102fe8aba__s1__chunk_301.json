@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_301",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "Within the Last 14 Days). 00 = Never\r\n01 = In new or complex situations only\r\n02 = On awakening or at night only\r\n03 = During the day and evening, but not constantly\r\n04 = Constantly\r\nNA = NA - Patient nonresponsive CHAR 2 x x x x x x\nM1720_WHEN_ANXIOUS M1720 (M0580) When Anxious This field indicates when the patient is anxious (Reported or Observed Within the Last 14 Days). 00 = None of the time\r\n01 = Less often than daily\r\n02 = Daily, but not constantly\r\n03 = All of the time\r\nNA = Patient",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

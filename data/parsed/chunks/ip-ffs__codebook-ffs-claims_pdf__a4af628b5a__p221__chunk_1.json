@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p221__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 221,
+  "text": "service on the line-item record. \n\nBeneficiaries only face coinsurance once they have satisfied Part B’s annual deductible, which applies \nto both institutional (e.g., Hospital outpatient) and non-institutional (e.g., carrier and DME) services. \n\nFor most Part B services, coinsurance equals 20 percent of the allowed amount. \n\nSHORT NAME: COINAMT \n\nLONG NAME: LINE_COINSRNC_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: XXX.XX \n\nCOMMENT: Medicare payments are described in detail in a series",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p68__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 68,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 52 \n\nCLM_SS_OUTLIER_STD_PYMT_AMT \n\nLABEL: Claim Short Stay Outlier (SSO) Standard Payment Amount \n\nDESCRIPTION: Under the Long-Term Care Hospital (LTCH) Prospective Payment System (PPS), the payment amount \nbased on the MS-LTC-DRG payment with short stay outlier (SSO) adjustment. \n\nSHORT NAME: CLM_SS_OUTLIER_STD_PYMT_AMT \n\nLONG NAME: CLM_SS_OUTLIER_STD_PYMT_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: NCH",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

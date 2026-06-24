@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_9",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Code VIII (FFS) \n\n ICD_DGNS_VRSN_CD8 \n Claim Diagnosis Code VIII Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD9 \n Claim Diagnosis Code IX (FFS) \n\n ICD_DGNS_VRSN_CD9 \n Claim Diagnosis Code IX Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD10 \n Claim Diagnosis Code X (FFS) \n\n ICD_DGNS_VRSN_CD10 \n Claim Diagnosis Code X Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n ICD_DGNS_CD11 \n Claim Diagnosis Code XI (FFS) \n\n ICD_DGNS_VRSN_CD11 \n Claim Diagnosis Code XI",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_469",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "I7900 No Active Disease Code - The data in this column indicates that the patient had none of the active diagnoses at the time of admission. CHAR 1 The data in this column indicates that the patient had none of the active diagnoses at the time of admission. 0 = No\r\n1 = Yes\n388 J1750_HSTRY_OF_FLS_IND J1750_HSTRY_OF_FLS_IND J1750 History of Falls Code - The data in this column indicates whether the patient had two or more falls in the past year or any fall with injury within the past year. CHAR 1",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

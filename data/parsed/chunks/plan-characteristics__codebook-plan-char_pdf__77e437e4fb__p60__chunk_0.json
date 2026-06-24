@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p60__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 60,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 46 \n\nCOV_CRITERIA \n\nLABEL: Coverage Criteria (Part A/B or B only Requirement) \n\nDESCRIPTION: This variable indicates whether the requirement that beneficiaries be entitled to Medicare Part A is \nwaived. \n\nThe value will indicate whether beneficiaries with only Part B entitlement may enroll in the plan \nbenefit package. \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS files)",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

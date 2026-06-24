@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_308",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "in this column indicates whether the resident has had pain or hurting in the last five days. -=Not assessed/no information\r\n 0=No\r\n 1=Yes\r\n 9=Unable to Determine\r\n ^=Blank(skip pattern)\n338 J0400_PAIN_FREQ_CD J0400_PAIN_FREQ_CD J0400 Pain Assessment Interview: Pain Frequency Code CHAR 1 The data in this column indicates the resident's pain or hurting frequency over the last five days. -=Not assessed/no information\r\n1=Almost constantly\r\n2=Frequently\r\n3=Occasionally\r\n4=Rarely\r\n9=Unable to",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

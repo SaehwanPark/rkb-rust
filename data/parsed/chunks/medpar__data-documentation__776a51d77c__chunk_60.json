@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_60",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Procedure Date 24\n\n 344\n\n SRGCL_PRCDR_PRFRM_25_DT\n\n Procedure Date 25\n\n 345\n\n CLM_PTNT_RLTNSHP_CD \n\n Claim Patient Relationship Code\n\n 346\n\n CARE_IMPRVMT_MODEL_1_CD\n\n Care Improvement Model 1 Code\n\n 347\n\n CARE_IMPRVMT_MODEL_2_CD \n\n Care Improvement Model 2 Code\n\n 348\n\n CARE_IMPRVMT_MODEL_3_CD\n\n Care Improvement Model 3 Code\n\n 349\n\n CARE_IMPRVMT_MODEL_4_CD\n\n Care Improvement Model 4 Code\n\n 350\n\n VBP_PRTCPNT_IND_CD\n\n Value-Based Purchasing (VBP) Participant Indicator Code\n\n 351",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

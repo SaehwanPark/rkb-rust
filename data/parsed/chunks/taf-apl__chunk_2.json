@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__chunk_2",
+  "source_document": "data/raw/html/dataset_page/ef2fdeba8f725b33646c3330c2dd580e7ae885c9.html",
+  "page": null,
+  "text": "a waiver or state plan authority; how the plan reimburses its providers; and whether the plan is for profit.\n\nWhat does this file include (variable highlights)\nManaged Care Plan type\nWaivers such as 1115\nEligible population indicators such as CHIP coverage\nSpecial considerations\nThis file does not contain individual service records but contains information about plans that can be linked to individual enrollment information and may help put utilization into context.\nCMS continues to work with",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl?page=1"
+}

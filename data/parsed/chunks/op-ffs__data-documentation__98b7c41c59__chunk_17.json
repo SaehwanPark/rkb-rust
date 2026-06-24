@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_17",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "PRCDR_DT10\n\n Claim Procedure Code X Date (FFS)\n\n 103\n\n ICD_PRCDR_CD11\n\n Claim Procedure Code XI (FFS)\n\n 104\n\n PRCDR_DT11\n\n Claim Procedure Code XI Date (FFS)\n\n 105\n\n ICD_PRCDR_CD12\n\n Claim Procedure Code XII (FFS)\n\n 106\n\n PRCDR_DT12\n\n Claim Procedure Code XII Date (FFS)\n\n 107\n\n ICD_PRCDR_CD13\n\n Claim Procedure Code XIII (FFS)\n\n 108\n\n PRCDR_DT13\n\n Claim Procedure Code XIII Date (FFS)\n\n 109\n\n ICD_PRCDR_CD14\n\n Claim Procedure Code XIV\n\n 110\n\n PRCDR_DT14\n\n Claim Procedure Code XIV Date\n\n 111",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

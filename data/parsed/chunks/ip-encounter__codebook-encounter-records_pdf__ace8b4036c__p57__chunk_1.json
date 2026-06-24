@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p57__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 57,
+  "text": "(variables \ncalled the CLM_SPAN_FROM_DT and CLM_SPAN_THRU_DT). \n\nSHORT NAME: CLM_SPAN_CD \n\nLONG NAME: CLM_SPAN_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP span code file \nSNF span code file \nHH span code file \nOP span code file \n\nVALUES: This code set is an external code set maintained by the National Uniform Billing Committee (NUBC™) \nhttps://www.nubc.org/ \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

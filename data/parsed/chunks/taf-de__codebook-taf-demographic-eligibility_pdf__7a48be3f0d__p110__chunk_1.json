@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p110__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 110,
+  "text": "this date is edited to \nDecember 31 of the calendar year. \n\nSHORT NAME: ENRLMT_END_DT \n\nLONG NAME: ENRLMT_END_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nFILE(S): Enrollment dates \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: Date (numeric, system dependent) \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

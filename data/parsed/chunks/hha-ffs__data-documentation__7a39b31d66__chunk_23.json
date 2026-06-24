@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_23",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Revenue Center Total Charge Amount\n\n 24\n\n REV_CNTR_NCVRD_CHRG_AMT\n\n Revenue Center Non-Covered Charge Amount\n\n 25\n\n REV_CNTR_DDCTBL_COINSRNC_CD\n\n Revenue Center Deductible Coinsurance Code\n\n 26\n\n REVSTIND\n\n Revenue Center Status Indicator Code\n\n 27\n\n REV_CNTR_NDC_QTY\n\n Revenue Center National Drug Code (NDC) Quantity (FFS)\n\n 28\n\n REV_CNTR_NDC_QTY_QLFR_CD\n\n Revenue Center NDC Quantity Qualifier Code (FFS)\n\n 29\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center Rendering Physician UPIN\n\n 30",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

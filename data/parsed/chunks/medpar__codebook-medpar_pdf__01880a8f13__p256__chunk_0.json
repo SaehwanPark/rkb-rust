@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p256__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 256,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 240 \n\nUNIQ_TRKNG_NUM \n\nLABEL: Unique Tracking Number \n\nDESCRIPTION: This field identifies the unique tracking number assigned to each prior authorization request. \n\nSHORT NAME: UNIQ_TRKNG_NUM \n\nLONG NAME: UNIQ_TRKNG_NUM \n\nTYPE: CHAR \n\nLENGTH: 14 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This field comes from the Unique Tracking Number (CLM-UNIQ-TRKNG-NUM) that is present on the first \nclaim record",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

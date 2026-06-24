@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p53__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 53,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 37 \n\nBLOOD_PT_FRNSH_QTY \n\nLABEL: Blood Pints Furnished Quantity \n\nDESCRIPTION: The number of whole pints of blood furnished to the beneficiary during the stay. \n\nSHORT NAME: BLDFRNSH \n\nLONG NAME: BLOOD_PT_FRNSH_QTY \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the blood pints furnished quantity from all claim records included in \nthe",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_24",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "NN_CORE_FOOD_CNTCT_FAIL_SW \n Navigated Core HRSN Food Attempts to Reach Failed \n\n NN_CORE_FOOD_CSP_UNAVBL_SW \n Navigated Core HRSN Food Community Service Provider Unable to Help \n\n NN_CORE_FOOD_OUTCM_UNK_SW \n Navigated Core HRSN Food Outcome Unknown \n\n NN_CORE_HOUSNG_RSLVD_SW \n Navigated Core HRSN Housing Resolved \n\n NN_CORE_HOUSNG_CNCT_CSP_SW \n Navigated Core HRSN Housing Connected to Community Service Provider \n\n NN_CORE_HOUSNG_OPTOUT_SW \n Navigated Core HRSN Housing Opted Out",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

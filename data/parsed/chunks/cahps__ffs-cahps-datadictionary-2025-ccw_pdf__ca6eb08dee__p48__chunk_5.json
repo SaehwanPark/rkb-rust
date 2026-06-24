@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p48__chunk_5",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 48,
+  "text": "Q22 Q22 Q24 Q21 —– —– \nmd_testasan* Q23 Q23 Q23 Q25 Q22 \nmd_rxmeds Q24 Q24 Q24 Q26 Q23 \nmd_talkmeds* Q25 Q25 Q25 Q27 Q24 \nmd_hhdevice R Q26 Q26 Q26 \nmd_hhdhelp R Q27 Q27 Q27 \nmd_hhdtalk Q28 Q28 Q28 \nmd_morethan1 Q29 Q29 Q29 Q28 Q28 \nmd_needmngca Q30 Q30 Q30 Q29 Q29 \nmd_getmngca* R Q31 Q31 Q31 Q30 Q30 \nmd_cacoord D Q31 Q22 \nmd_visnotes R Q32 Q32 Q32 Q31 Q32 \nsp_persmd Q33 Q33 Q33 Q32 \nsp_tryappt Q34 Q34 Q34 Q33 Q33 Q23 Q22 Q21 Q21",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

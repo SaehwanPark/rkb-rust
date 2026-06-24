@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__codebook-taf-annual-plan_pdf__5f77cf7c30__p9__chunk_1",
+  "source_document": "data/raw/assets/pdf/5f77cf7c30acd114cc7f3b826ca63f6650c33876.pdf",
+  "page": 9,
+  "text": "Record to Related Supplement Records \n\nDESCRIPTION: CCW Key to Link Annual Managed Care Plan (APL) Base record to corresponding Supplemental file \nrecords. \n\nSHORT NAME: CCW_APL_LINK_KEY \n\nLONG NAME: CCW_APL_LINK_KEY \n\nTYPE: NUM \n\nLENGTH: 15 \n\nFILE(S): All Annual Managed Care Plan files \n\nSOURCE: CCW (derived) \n\nVALUES: Alphanumeric character string (e.g., 123456789) \n\nCOMMENT: The CCW_APL_LINK_KEY identifies each unique combination of submitting state entity code \n(SUBMTG_STATE_CD) and state",
+  "dataset": "taf-apl",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-plan.pdf"
+}

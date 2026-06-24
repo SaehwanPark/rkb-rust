@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p426__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 426,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 413 \n\nRELATIONSHIP_CODE \n\nLABEL: Relationship Code \n\nDESCRIPTION: This variable is the code that identifies whether the Part D Contract and Plan ID that was active in the \nreference year was new or related to a Contract and Plan ID in the previous year. \n\nSHORT NAME: — \n\nLONG NAME: RELATIONSHIP_CODE \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: N = New \n R = Renewal",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

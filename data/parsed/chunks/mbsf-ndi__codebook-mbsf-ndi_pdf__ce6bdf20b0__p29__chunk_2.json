@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p29__chunk_2",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 29,
+  "text": "18400 = Other and unspecified mental \nand behavioral disorders (F50–\nF69, F80–F99) \n\n18500 = VI. Diseases of the nervous \nsystem (G00–G98) \n\n18600 = Meningitis (G00, G03) \n\n18700 = Other inflammatory diseases of \ncentral nervous system (G04–\nG09) \n\n18800 = Parkinson disease (G20–G21) \n\n18900 = Alzheimer disease (G30) \n\n19000 = Multiple sclerosis (G35) \n 19100 = Epilepsy (G40–G41) \n\n19200 = Transient cerebral ischemic \nattacks and related syndromes \n(G45) \n\n19300 = Infantile cerebral palsy",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

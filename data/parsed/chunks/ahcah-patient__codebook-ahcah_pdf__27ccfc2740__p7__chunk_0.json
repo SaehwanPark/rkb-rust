@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__codebook-ahcah_pdf__27ccfc2740__p7__chunk_0",
+  "source_document": "data/raw/assets/pdf/27ccfc27407a53098d675d692da68eaa1b233dfc.pdf",
+  "page": 7,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nCODEBOOK: Acute Hospital Care at Home Patient and Hospital Data Files │ January 2024 │ V 1.0 2 \n\nAHCAH_WVR_SUBMSN_ID \n\nLABEL: AHCAH Waiver Submission ID \n\nDESCRIPTION: The AHCAH waiver submission ID. The waiver ID is assigned to the participating hospital CCN (CMS \nCertification Number); there is only one AHCAH_WVR_SUBMSN_ID for each CCN. \n\nSHORT NAME: AHCAH_WVR_SUBMSN_ID \n\nLONG NAME: AHCAH_WVR_SUBMSN_ID \n\nTYPE: CHAR \n\nLENGTH: 15",
+  "dataset": "ahcah-patient",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahcah.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p63__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 63,
+  "text": "D Q14 Q14 Q14 Q14 Q11 Q11\nca_therapy D Q12 Q12\nca_gettherapy D Q13 Q13\nmd_have Q13 Q13 Q13 Q15 Q15 Q15 Q15 Q14 Q14\nmd_visits Q14 Q14 Q14 Q16 Q16 Q16 Q16 Q15 Q15\nmd_explain* Q15 Q15 Q15 Q17 Q17 Q17 Q17 Q16 Q16\nmd_listen* Q16 Q16 Q16 Q18 Q18 Q18 Q18 Q17 Q17\nmd_respect* Q17 Q17 Q17 Q19 Q19 Q19 Q19 Q18 Q18\nmd_sptime* Q18 Q18 Q18 Q20 Q20 Q20 Q20 Q19 Q19\nrate_md* Q19 Q19 Q19 Q21 Q21 Q21 Q21 Q20 Q20\nmd_medrecs* Q20 Q20 Q20 Q22 Q22\nmd_hlthcond —– —– —–\nmd_ezinstr —– —– —–\nmd_descinstr —– —– —–\nmd_test",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

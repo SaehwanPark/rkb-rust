@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_29",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Center Code (FFS)\n\n 7\n\n REV_CNTR_DT\n\n Revenue Center Date\n\n 8\n\n REV_CNTR_1ST_ANSI_CD\n\n Revenue Center 1st ANSI Code\n\n 9\n\n REV_CNTR_2ND_ANSI_CD\n\n Revenue Center 2nd ANSI Code\n\n 10\n\n REV_CNTR_3RD_ANSI_CD\n\n Revenue Center 3rd ANSI Code\n\n 11\n\n REV_CNTR_4TH_ANSI_CD\n\n Revenue Center 4th ANSI Code\n\n 12\n\n REV_CNTR_APC_HIPPS_CD\n\n Revenue Center APC or HIPPS Code\n\n 13\n\n HCPCS_CD\n\n Healthcare Common Procedure Coding System (HCPCS) Code (FFS)\n\n 14\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (FFS)",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

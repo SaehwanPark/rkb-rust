@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_23",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Signifying Copay was Waived by Provider\n\n 146\n\n TP_PD_AMT\n\n Total Third Party Liability Paid Amount\n\n 147\n\n TP_COINSRNC_PD_AMT\n\n Third Party Coinsurance Paid Amount\n\n 148\n\n TP_COPAY_PD_AMT\n\n Third Party Copayment Paid Amount\n\n 149\n\n OTHR_INSRNC_PD_AMT\n\n Total Other Than Medicare or Medicaid -Insurance Paid Amount\n\n 150\n\n OTHR_TP_CLCTN_CD\n\n Other Third Party Collection Code\n\n 151\n\n FUNDNG_CD\n\n Code To Indicate Source of Non-Federal Funding\n\n 152\n\n FUNDNG_SRC_NON_FED_SHR_CD\n\n Funding Source",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p291__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 291,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 271 \n\nTOS \ncode TOS description IP LT OT RX \n\n021 \n Home health services — Speech pathology and audiology services provided by a \nhome health agency or by a facility licensed by the State to provide medical \nrehabilitation services X \n\n022 Private duty nursing services X \n023 Advanced practice nurse services X \n024 Pediatric nurse X \n025 Nurse-midwife service X \n026 Nurse practitioner",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

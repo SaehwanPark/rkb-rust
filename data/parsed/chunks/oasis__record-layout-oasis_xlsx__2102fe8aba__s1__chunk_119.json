@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_119",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "to the patient\r\n02 = Someone must help the patient put on undergarments, slacks, socks or nylons, and shoes\r\n03 = Patient depends entirely upon another person to dress lower body\r\nUK = Unknown CHAR 2 x x\nM0670_CU_BATHING (M0670) Current Bathing Current ability to wash entire body. 00 = Able to bathe self in shower or tub independently\r\n01 = With the use of devices, is able to bathe self in shower or tub independently\r\n02 = Able to bathe in shower or tub with the assistance of another person:",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

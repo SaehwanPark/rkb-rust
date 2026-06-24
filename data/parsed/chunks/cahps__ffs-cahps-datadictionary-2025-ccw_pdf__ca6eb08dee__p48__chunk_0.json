@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p48__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 48,
+  "text": "A. Crosswalk: 2007 to 2025 - Original Medicare Survey 48 \n\nVariable Reverse 2016 2015 2014 2013 2012 2011 2010 2009 2008 \nYear 10 Year 9 Year 8 Year 7 Year 6 Year 5 Year 4 Year 3 Year 2 \n\nma_hlthplan —– —– —– —– —– —– —– —– —– \nma_hlthplan_txt —– —– —– —– —– —– —– —– —– \nins_have_oth Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01 \nins_medigap Q02A Q02A Q02A Q02A Q02A Q02A Q02A Q02A Q02A \nins_employer Q02B Q02B Q02B Q02B Q02B Q02B Q02B Q02B Q02B \nins_veteran Q02C Q02C Q02C Q02C Q02C Q02C Q02C Q02C Q02C",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

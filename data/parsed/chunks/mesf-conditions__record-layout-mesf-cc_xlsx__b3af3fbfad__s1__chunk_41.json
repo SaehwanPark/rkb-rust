@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__record-layout-mesf-cc_xlsx__b3af3fbfad__s1__chunk_41",
+  "source_document": "data/raw/assets/xlsx/b3af3fbfad2f6ed43af3c60fe6a83820ef895ce6.xlsx",
+  "page": 1,
+  "text": "Palsy Values:\r\n0 - Claims and FFS not met\r\n1 - Claims met, not FFS\r\n2 - Claims not met, FFS\r\n3 - Claims met and FFS\r\nnull/missing\nCERPAL_MEDICAID Cerebral Palsy Indicator - Medicaid-Only Data NUM 1 This code specifies whether the enrollee met the chronic condition algorithm criteria, considering only Medicaid data, for having Cerebral Palsy Values:\r\n0 - Claims and FFS not met\r\n1 - Claims met, not FFS\r\n2 - Claims not met, FFS\r\n3 - Claims met and FFS\nCERPAL_MEDICARE Cerebral Palsy Indicator -",
+  "dataset": "mesf-conditions",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mesf-cc.xlsx"
+}

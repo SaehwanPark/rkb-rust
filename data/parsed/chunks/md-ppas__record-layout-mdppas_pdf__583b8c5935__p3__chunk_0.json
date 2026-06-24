@@ -1,0 +1,8 @@
+{
+  "chunk_id": "md-ppas__record-layout-mdppas_pdf__583b8c5935__p3__chunk_0",
+  "source_document": "data/raw/assets/pdf/583b8c59350c60f3a057b741c5d5e47e73c3d990.pdf",
+  "page": 3,
+  "text": "3 \n\n MD-PPAS File Layout \n\n ID variables Description Data Source \n\nnpi National provider identifier (NPI) Claims \n\nname_last Provider last name NPPES \n\nname_first Provider first name NPPES \n\nname_middle Provider middle name NPPES \n\n Demographic \nvariables Description Data Source \n\nsex 1=Male; 2=Female NPPES \n\nbirth_dt Birth date PECOS \n\n Specialty variables Description Data Source \n\nspec_broad \n Broad specialty based on spec_prim_1 . \n1 = Physician - Primary care \n2 = Physician - Medical",
+  "dataset": "md-ppas",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mdppas.pdf"
+}

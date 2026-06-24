@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_3",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "2016 \n\n BENE_RISK_SCORE_PCTL \n Risk percentile rank \n\n MSPB_RISK_SCORE_PCTL \n Risk percentile rank \n\n COPD \n Chronic condition flag for COPD \n\n IHD \n Chronic condition flag for CAD \n\n DIA \n Chronic condition flag for diabetes \n\n CHF \n Chronic condition flag for heart failure \n\n ACSC_ADM_COPD \n ACSC admission for COPD or Asthma \n\n ACSC_ADM_DIA \n ACSC admission for diabetes \n\n ACSC_ADM_HF \n ACSC admission for heart failure \n\n ACSC_ADM_DH \n ACSC admission for dehydration \n\n ACSC_ADM_PN \n ACSC",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

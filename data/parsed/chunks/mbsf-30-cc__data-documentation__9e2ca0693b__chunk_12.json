@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_12",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "End-of-Year Indicator \n\n HYPTHYRD_EVER \n Date that beneficiary first met claims criteria for the hypothyroidism indicator \n\n ISCHEMICHEART \n Ischemic Heart Disease End-of-Year Indicator \n\n ISCHEMICHEART_EVER \n Date that beneficiary first met claims criteria for the ischemic heart disease indicator \n\n NONALZH_DEMEN \n Non-Alzheimer's Dementia End-of-Year Indicator \n\n NONALZH_DEMEN_EVER \n Date that beneficiary first met claims criteria for the non-Alzheimer's dementia indicator \n\n OSTEOPOROSIS",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

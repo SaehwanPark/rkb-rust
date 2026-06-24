@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-lt__data-documentation__a8432c524b__chunk_4",
+  "source_document": "data/raw/html/documentation_page/a8432c524b85150fc96bbb6683c157ef98a21669.html",
+  "page": null,
+  "text": "Crossover code (Annual) old values \n\n MSNG_ELG_DATA \n Missing eligibility data \n\n EL_MDCR_XOVR_CLM_BSD_CD \n Crossover code (from claims only) \n\n EL_MDCR_ANN_XOVR_99 \n Crossover code (Annual) \n\n MSIS_TOS \n MSIS Type of Service (TOS) \n\n MSIS_TOP \n MSIS Type of Program (TOP) \n\n MAX_TOS \n MAX Type of Service (TOS) \n\n PRVDR_ID_NMBR \n Billing provider identification number (MAX) \n\n NPI \n National Provider Identifier (MAX) \n\n TAXONOMY \n Provider Taxonomy \n\n TYPE_CLM_CD \n Type of claim \n\n ADJUST_CD",
+  "dataset": "max-lt",
+  "url": "https://resdac.org/cms-data/files/max-lt/data-documentation"
+}

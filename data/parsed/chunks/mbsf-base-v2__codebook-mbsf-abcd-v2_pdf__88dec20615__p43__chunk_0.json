@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p43__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 43,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 36 \n\nPTA_CVRG_STRT_DT \n\nLABEL: Medicare Part A Coverage Start Date \n\nDESCRIPTION: This variable is the start date of coverage for Medicare Part A. It reflects the initial date a beneficiary \nbecame enrolled in Medicare Part A coverage. \n\nLONG NAME: PTA_CVRG_STRT_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: — \n\nCOMMENT: This",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

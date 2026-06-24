@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p167__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 167,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 127 \n\nMASBOE_CD_01 \n\nMASBOE_CD_02 \n\nMASBOE_CD_03 \n\nMASBOE_CD_04 \n\nMASBOE_CD_05 \n\nMASBOE_CD_06 \n\nMASBOE_CD_07 \n\nMASBOE_CD_08 \n\nMASBOE_CD_09 \n\nMASBOE_CD_10 \n\nMASBOE_CD_11 \n\nMASBOE_CD_12 \n\nLABEL: Maintenance Assistance Status and Basis of Eligibility — January–December (01–12) \n\nDESCRIPTION: A beneficiary’s Maintenance Assistance Status and Basis of Eligibility (MASBOE)",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

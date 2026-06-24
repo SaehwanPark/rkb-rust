@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p76__chunk_2",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 76,
+  "text": "R —– —– —– —– —– —–\nmtm_summ R —– —– —– —– —– —–\nmtm_info R —– —– —– —– —– —–\nmtm_prog R —– —– —– —– —– —–\nknowcare R\nhelpperscare\nhelproutine\nlim_physcond\ncnd_heartattack Q15A Q15A Q15A Q15A Q15A Q15A Q15A Q15A\ncnd_angina Q15B Q15B Q15B Q15B Q15B Q15B Q15B Q15B\ncnd_stroke\ncnd_hbp Q15C Q15C Q15C Q15C Q15C Q15C Q15C Q15C\ncnd_cancer Q15D Q15D Q15D Q15D Q15D Q15D Q15D Q15D\ncnd_copd Q15E Q15E Q15E Q15E Q15E Q15E Q15E Q15E\ncnd_diabetes Q15F Q15F Q15F Q15F Q15F Q15F Q15F Q15F\nprob_walking Q16 Q16 Q16",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

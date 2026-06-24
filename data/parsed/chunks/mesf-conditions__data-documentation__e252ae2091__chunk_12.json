@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_12",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "- Combined Data\n\n 57\n\n COPD_MEDICAID\n\n Chronic Obstructive Pulmonary Disease Indicator - Medicaid-Only Data\n\n 58\n\n COPD_MEDICARE\n\n Chronic Obstructive Pulmonary Disease Indicator - Medicare-Only Data\n\n 59\n\n CRC_COMBINED\n\n Colorectal Cancer Indicator - Combined Data\n\n 60\n\n CRC_MEDICAID\n\n Colorectal Cancer Indicator - Medicaid-Only Data\n\n 61\n\n CRC_MEDICARE\n\n Colorectal Cancer Indicator - Medicare-Only Data\n\n 62\n\n CYSFIB_COMBINED\n\n Cystic Fibrosis Indicator - Combined Data\n\n 63\n\n CYSFIB_MEDICAID",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

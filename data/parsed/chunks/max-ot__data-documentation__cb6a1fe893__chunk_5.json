@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__data-documentation__cb6a1fe893__chunk_5",
+  "source_document": "data/raw/html/documentation_page/cb6a1fe893be87f24ba21899636e73ef0ee381c1.html",
+  "page": null,
+  "text": "MAX Type of Service (TOS) \n\n CLTC_FLAG \n Community-based LT care (CLTC) flag \n\n PRVDR_ID_NMBR \n Billing provider identification number (MAX) \n\n NPI \n National Provider Identifier (MAX) \n\n TAXONOMY \n Provider Taxonomy \n\n TYPE_CLM_CD \n Type of claim \n\n ADJUST_CD \n Adjustment code \n\n PHP_TYPE \n Managed care type of plan code \n\n PHP_ID \n Managed care plan identification code \n\n MDCD_PYMT_AMT \n Medicaid payment amount \n\n TP_PYMT_AMT \n Third party payment amount \n\n PYMT_DT \n Payment/adjudication",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot/data-documentation"
+}

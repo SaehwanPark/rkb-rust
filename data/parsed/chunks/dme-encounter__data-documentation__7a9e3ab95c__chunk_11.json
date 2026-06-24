@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__data-documentation__7a9e3ab95c__chunk_11",
+  "source_document": "data/raw/html/documentation_page/7a9e3ab95c81408f2ef1644024e5ac09aae2fff6.html",
+  "page": null,
+  "text": "- USPS State Code \n\n CLM_BPRVDR_ADR_ZIP_CD \n Billing Provider Zip Code \n\n BENE_CNTY_CD \n Beneficiary County Code from Claim (SSA) \n\n BENE_STATE_CD \n Beneficiary Residence (SSA) State Code (Encounter) \n\n BENE_MLG_CNTCT_ZIP_CD \n Beneficiary ZIP Code of Residence from Claim \n\n CLM_SUBSCR_CITY_NAME \n Medicare Subscriber Address - City \n\n CLM_SUBSCR_USPS_STATE_CD \n Medicare Subscriber Address - USPS State Code \n\n CLM_SUBSCR_ADR_ZIP_CD \n Medicare Subscriber Address - ZIP Code \n\n BENE_RACE_CD",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_8",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "Home: OMRA Start of Therapy\r\nNSD=Nursing Home: OMRA Start of Therapy + Discharge\r\nNT=Nursing Home: Tracking (entry/expired)\r\nSD=Swing Bed: Discharge\r\nSO=Swing Bed: OMRA Other\r\nSP=Swing Bed: PPS\r\nSS=Swing Bed: OMRA Start of Therapy\r\nSSD=Swing Bed: OMRA Start of Therapy + Discharge\r\nST=Swing Bed: Tracking (entry/expired)\r\nXX=Inactivation\n8 SUBMSN_DT SUBMSN_DT Submission Date DATE 8 This column contains the date the submission file was received by the system.\n9 MDS_CRCTN_STUS_CD MDS_CRCTN_STUS_CD",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

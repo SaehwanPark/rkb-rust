@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_322",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Able to independently transfer.\r\n01 = Able to transfer with minimal human assistance or with use of an assistive device.\r\n02 = Able to bear weight and pivot during the transfer but unable to transfer self.\r\n03 = Unable to transfer self and is unable to bear weight or pivot when transferred by another person.\r\n04 = Bedfast, unable to transfer but is able to turn and position self in bed.\r\n05 = Bedfast, unable to transfer and is unable to turn and position self. CHAR 2 x x x x x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

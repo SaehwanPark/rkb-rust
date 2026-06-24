@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p72__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 72,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 58 \n\nEFFECTIVE_DATE \n\nLABEL: Plan Effective Date \n\nDESCRIPTION: This variable is the date the Part D plan sponsor began offering the particular plan benefit package. \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: date \n\nCOMMENT: This is the date the contract (CONTRACT_ID) and benefit package number (PLAN_ID) was first offered. \n\nThe CCW constructs the plan",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

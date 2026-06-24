@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__codebook-ahc_pdf__2ecadb1aec__p155__chunk_0",
+  "source_document": "data/raw/assets/pdf/2ecadb1aec0f9d6e0f07a7cc628ccf35b46ec6c5.pdf",
+  "page": 155,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nAHC Model Data File Codebook │ December 2024 │ V 1.0 154 \n\nSR_ELGBL_FOR_NVGTN_IND \n\nLABEL: Beneficiary Eligibility for Navigation, Includes Track 1 Control Group Benes \n\nDESCRIPTION: Screening result (SR) Beneficiary eligible for navigation, includes track 1 control group beneficiaries. \n\nLONG NAME: SR_ELGBL_FOR_NVGTN_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: AHC data system (derived) \n\nVALUES: 0 = Not eligible for intervention \n1 =",
+  "dataset": "ahc-model",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahc.pdf"
+}

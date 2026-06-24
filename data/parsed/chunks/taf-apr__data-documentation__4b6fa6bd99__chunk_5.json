@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_5",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Identifier Indicator — May\n\n 18\n\n SUBMTG_STATE_PRVDR_IND_06\n\n Submitting State Provider Identifier Indicator — June\n\n 19\n\n SUBMTG_STATE_PRVDR_IND_07\n\n Submitting State Provider Identifier Indicator — July\n\n 20\n\n SUBMTG_STATE_PRVDR_IND_08\n\n Submitting State Provider Identifier Indicator — August\n\n 21\n\n SUBMTG_STATE_PRVDR_IND_9\n\n Submitting State Provider Identifier Indicator — September\n\n 22\n\n SUBMTG_STATE_PRVDR_IND_10\n\n Submitting State Provider Identifier Indicator — October\n\n 23",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

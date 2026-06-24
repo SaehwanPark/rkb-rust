@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p38__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 38,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 29 \n\nHMO_IND_01 \n\nHMO_IND_02 \n\nHMO_IND_03 \n\nHMO_IND_04 \n\nHMO_IND_05 \n\nHMO_IND_06 \n HMO_IND_07 \n\nHMO_IND_08 \n\nHMO_IND_09 \n\nHMO_IND_10 \n\nHMO_IND_11 \n\nHMO_IND_12 \n\nLABEL: HMO Indicator – January through December \n\nDESCRIPTION: Monthly Medicare Advantage (MA) enrollment indicator (January through December). \n\nLONG NAME: HMO_IND_01 \nHMO_IND_02 \nHMO_IND_03 \nHMO_IND_04",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

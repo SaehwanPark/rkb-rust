@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p11__chunk_0",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 11,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Part D Event (PDE)/Drug Characteristics Codebook │ July 2025 │ V 1.8 6 \n\nBRND_GNRC_CD \n\nLABEL: Brand-Generic Code Reported by Submitting Plan \n\nDESCRIPTION: Plan reported value indicating whether the plan adjudicated the claim as a brand or generic drug. \n\nApplies to covered drugs only. \n\nSHORT NAME: BRNDGNCD \n\nLONG NAME: BRND_GNRC_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: PDE \n\nVALUES: B = Brand \nG = Generic \nNull/missing",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

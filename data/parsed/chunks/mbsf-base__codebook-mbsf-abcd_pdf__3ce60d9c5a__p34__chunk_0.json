@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p34__chunk_0",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 34,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D Codebook │ May 2026 │ V 1.9 26 \n\nENHANCED_FIVE_PERCENT_FLAG \n\nLABEL: Enhanced Medicare 5% Sample Indicator \n\nDESCRIPTION: This variable indicates whether the beneficiary was ever included in the CCW 5% sample for any year \n(1999+). \n\nSHORT NAME: EFIVEPCT \n\nLONG NAME: ENHANCED_FIVE_PERCENT_FLAG \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CCW (derived) \n\nVALUES: Y = Yes, included in enhanced 5% sample \nNull =",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

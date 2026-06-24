@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_19",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "State of beneficiary (postal abbreviation)\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number (Encounter)\n\n 5\n\n LINE_NUM_ORIG\n\n Original Claim Line Number\n\n 6\n\n CLM_THRU_DT\n\n Claim Through Date (Encounter)\n\n 7\n\n REV_CNTR\n\n Revenue Center Code (Encounter)\n\n 8\n\n REV_CNTR_FROM_DT\n\n Revenue Center From Date\n\n 9\n\n REV_CNTR_THRU_DT",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

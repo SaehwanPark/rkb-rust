@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__codebook-ahc_pdf__2ecadb1aec__p137__chunk_0",
+  "source_document": "data/raw/assets/pdf/2ecadb1aec0f9d6e0f07a7cc628ccf35b46ec6c5.pdf",
+  "page": 137,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nAHC Model Data File Codebook │ December 2024 │ V 1.0 136 \n\nSR_CORE_HOUSNG_2_LEAD_SW \n\nLABEL: Core HRSN Housing 2: Lead Paint Pipes \n\nDESCRIPTION: Screening result (SR) core health related social need (HRSN) housing has lead paint or pipes. \n\nLONG NAME: SR_CORE_HOUSNG_2_LEAD_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: AHC data system (derived) \n\nVALUES: 0 = No \n1 = Yes \nMissing \n\nCOMMENT: Variables that start with “SR” include information for",
+  "dataset": "ahc-model",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahc.pdf"
+}

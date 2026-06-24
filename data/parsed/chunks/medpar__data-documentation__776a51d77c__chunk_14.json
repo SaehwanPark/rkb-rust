@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_14",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "67\n\n TOT_PPS_CPTL_AMT \n\n Total PPS Capital Amount ($)\n\n 68\n\n IP_LOW_VOL_PYMT_AMT\n\n Inpatient Low Volume Payment Amount\n\n 69\n\n TOT_CHRG_AMT \n\n Total Charge Amount ($)\n\n 70\n\n TOT_CVR_CHRG_AMT \n\n Total Covered Charge Amount ($)\n\n 71\n\n MDCR_PMT_AMT \n\n Total Medicare Payment Amount ($)\n\n 72\n\n PPS_PRCR_VRSN_CD\n\n Prospective Payment System (PPS) Pricer Version\n\n 73\n\n ACMDTNS_TOT_CHRG_AMT \n\n Total Charge for All Accommodations ($)\n\n 74\n\n DPRTMNTL_TOT_CHRG_AMT \n\n Total charge for all ancillary",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

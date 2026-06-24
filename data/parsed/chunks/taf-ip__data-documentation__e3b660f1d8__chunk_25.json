@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_25",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Date - Represents the Year and Month of the Reporting Period\n\n 157\n\n CCW_LD_DT\n\n CCW Load Date\n\n Occurrence Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 2\n\n MSIS_ID\n\n Encrypted State Assigned Beneficiary Unique Identifier\n\n 3\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 4\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 5\n\n CLM_ID\n\n CCW Claim Identifier\n\n 6\n\n OCRNC_CD_SEQ  \n\n Occurrence Code Sequence\n\n 7\n\n OCRNC_CD\n\n Occurrence Code\n\n 8",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

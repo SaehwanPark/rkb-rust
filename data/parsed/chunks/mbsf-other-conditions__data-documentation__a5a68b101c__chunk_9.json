@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_9",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Indicator - Medicare Only Claims \n\n HEARIM_MEDICARE_EVER \n Sensory - Deafness and Hearing Impairment First Ever Occurrence Date - Medicare Only Claims \n\n HEPVIRAL_MEDICARE \n Viral Hepatitis (General) End-of-Year Indicator - Medicare Only Claims \n\n HEPVIRAL_MEDICARE_EVER \n Viral Hepatitis (General) First Ever Occurrence Date - Medicare Only Claims \n\n HIVAIDS_MEDICARE \n Human Immunodeficiency Virus and/or Acquired Immunodeficiency Syndrome (HIV/AIDS) End-of-Year Indicator - Medicare Only Claims",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

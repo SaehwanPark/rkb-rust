@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p128__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 128,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 118 \n\nTAX_NUM \n\nLABEL: Provider Tax Number \n\nDESCRIPTION: The federal taxpayer identification number (TIN) that identifies the \nprovider/physician/practice/supplier to whom payment is made for the service. \n\nSHORT NAME: TAX_NUM \n\nLONG NAME: TAX_NUM \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: CCW \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base \nDME base \n\nVALUES: — \n\nCOMMENT: This",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

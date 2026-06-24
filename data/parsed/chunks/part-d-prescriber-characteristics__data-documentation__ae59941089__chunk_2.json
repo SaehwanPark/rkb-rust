@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-prescriber-characteristics__data-documentation__ae59941089__chunk_2",
+  "source_document": "data/raw/html/documentation_page/ae59941089310a85e905460c13cb389f71abb0b5.html",
+  "page": null,
+  "text": "Characteristics\n\n SAS Name\n Variable Name\n\n CCW_PRSCRBR_ID \n CCW-assigned Prescriber Identifier \n\n NPI \n Prescriber NPI Number \n\n HCID \n HCIdea Proprietary Prescriber Identifier \n\n PRIMARY_TAXONOMY_CD \n Primary Taxonomy Code for Part D Prescribers \n\n PRIMARY_TAXONOMY_DESC \n Primary Taxonomy Code Description for Part D Prescribers \n\n OTHER_TAXONOMY_CLASS01 \n Other Taxonomy Classification 1 - for Part D Prescribers \n\n OTHER_TAXONOMY_CLASS02 \n Other Taxonomy Classification 2 - for Part D",
+  "dataset": "part-d-prescriber-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-prescriber-characteristics/data-documentation"
+}

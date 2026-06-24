@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_4",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "Review (CMR) offered \n\n CMR_RECIPIENT \n Comprehensive Medication Review (CMR) recipient \n\n CMR_RECEIVED \n Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_NUM \n Number of Comprehensive Medication Reviews (CMRs) received \n\n CMR_RECEIVED_DT1 \n Date First Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_DT2 \n Date Second Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_DT3 \n Date Third Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_DT4",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

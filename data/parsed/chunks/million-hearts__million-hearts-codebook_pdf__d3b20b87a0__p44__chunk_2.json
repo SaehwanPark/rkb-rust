@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p44__chunk_2",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 44,
+  "text": "or stroke \n\nS010 Temporary: Not enrolled for \ncause SC012 One-time encounter/Will not return for follow up \n\nS010 Temporary: Not enrolled for \ncause SC013 Beneficiary declines to participate in the model \n\n S010 Unavailable cholesterol SC016 Cholesterol not available or out of range \nS011 Lost to follow-up Enrolled beneficiary lost to follow-up \nS012 Dropped Low/Medium beneficiary lost to follow-up \n\nCOMMENT: Provides reason code(s) for patient status change, and if ELIGIBLE variable value is",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

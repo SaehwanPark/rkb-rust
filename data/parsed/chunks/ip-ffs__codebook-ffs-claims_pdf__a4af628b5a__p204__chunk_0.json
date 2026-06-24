@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p204__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 204,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 186 \n\nICD_DGNS_E_CD1 \n\nICD_DGNS_E_CD2 \n\nICD_DGNS_E_CD3 \n\nICD_DGNS_E_CD4 \n\nICD_DGNS_E_CD5 \n\nICD_DGNS_E_CD6 \n ICD_DGNS_E_CD7 \n\nICD_DGNS_E_CD8 \n\nICD_DGNS_E_CD9 \n\nICD_DGNS_E_CD10 \n\nICD_DGNS_E_CD11 \n\nICD_DGNS_E_CD12 \n\nLABEL: Claim Diagnosis E Code \n\nDESCRIPTION: The code used to identify the external cause of injury, poisoning, or other adverse effect. \n\nSHORT NAME: \nICD_DGNS_E_CD1",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

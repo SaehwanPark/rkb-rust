@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p124__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 124,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 108 \n\nIME_AMT \n\nLABEL: Indirect Medical Education (IME) Amount ($) \n\nDESCRIPTION: The amount of additional payment (rounded to whole dollars) made to teaching hospitals for Indirect \nMedical Education (IME) for the stay. \n\nSHORT NAME: IME_AMT \n\nLONG NAME: IME_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the value amount associated",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

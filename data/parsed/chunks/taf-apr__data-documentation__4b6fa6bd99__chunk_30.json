@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_30",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Indicator — August\n\n 19\n\n PRVDR_ENRLMT_ACTV_IND_09\n\n Provider Enrollment Active Indicator — September\n\n 20\n\n PRVDR_ENRLMT_ACTV_IND_10\n\n Provider Enrollment Active Indicator — October\n\n 21\n\n PRVDR_ENRLMT_ACTV_IND_11\n\n Provider Enrollment Active Indicator — November\n\n 22\n\n PRVDR_ENRLMT_ACTV_IND_12\n\n Provider Enrollment Active Indicator — December\n\n 23\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 24\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n APR Affiliated Groups",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

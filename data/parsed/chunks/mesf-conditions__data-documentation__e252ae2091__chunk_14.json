@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_14",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Depression Indicator - Medicare-Only Data\n\n 68\n\n DEPSN_COMBINED\n\n TO10 Depression Indicator - Combined Data\n\n 69\n\n DEPSN_MEDICAID\n\n TO10 Depression Indicator - Medicaid Only Data\n\n 70\n\n DEPSN_MEDICARE\n\n TO10 Depression Indicator - Medicare Only Data\n\n 71\n\n DIAB_COMBINED\n\n Diabetes Indicator - Combined Data\n\n 72\n\n DIAB_MEDICAID\n\n Diabetes Indicator - Medicaid-Only Data\n\n 73\n\n DIAB_MEDICARE\n\n Diabetes Indicator - Medicare-Only Data\n\n 74\n\n DRUG_COMBINED\n\n Drug Use Disorder Indicator - Combined",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

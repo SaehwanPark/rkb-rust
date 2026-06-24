@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__chunk_1",
+  "source_document": "data/raw/html/dataset_page/0c2a4f81a325635749c0d9ab9fa80b2ffcc04d1f.html",
+  "page": null,
+  "text": "Medicare Advantage plans records for medical supplies.\n\nThis file includes (variable highlights):\nPart C Benefit Package and Contract number\nDiagnosis (ICD diagnosis)\nHCPCS code\nOrganization NPI\nNPI for line supplier\nDate of service (line date)\nSpecial considerations:\nMany Medicare Advantage Plans offer extra coverage in addition to services covered under traditional fee-for-service Medicare (e.g., vision, hearing, dental, and/or health and wellness programs). Encounter data may include records",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter?page=1"
+}

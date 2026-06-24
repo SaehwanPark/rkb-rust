@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_2",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Analytic File (TAF) Annual Provider\n\nNumberSAS NameVariable Name\n\n 1\n\n SUBMTG_STATE_PRVDR_ID\n\n Submitting State Provider Identification Number\n\n 2\n\n PRVDR_LGL_NAME\n\n Provider Legal Name\n\n 3\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 4\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 5\n\n CMS_RGN\n\n CMS Region for Submitting State\n\n 6\n\n PRVDR_ENT_TYPE_CD\n\n Provider Entity Type Code — individual, group or facility\n\n 7\n\n PRVDR_TAX_NAME\n\n Provider Tax (IRS) Name\n\n 8\n\n PRVDR_ORG_NAME",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

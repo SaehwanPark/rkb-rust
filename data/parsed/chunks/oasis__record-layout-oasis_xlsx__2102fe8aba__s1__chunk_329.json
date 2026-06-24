@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_329",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "routinely performed light meal preparation in the past (i.e., prior to this home care admission).\r\n01 = Unable to prepare light meals on a regular basis due to physical, cognitive, or mental limitations.\r\n02 = Unable to prepare any light meals or reheat any delivered meals. CHAR 2 x x x x\nM1890_CU_PHONE_USE M1890 (M0770) Current Phone Use This field indicates the patient's current ability to answer the phone safely, including dialing numbers, and effectively using the telephone to communicate.",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

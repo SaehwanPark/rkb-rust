@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_33",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Amount\n\n 30\n\n REV_CNTR_1ST_MSP_PD_AMT\n\n Revenue Center 1st Medicare Secondary Payer (MSP) Paid Amount\n\n 31\n\n REV_CNTR_2ND_MSP_PD_AMT\n\n Revenue Center 2nd Medicare Secondary Payer (MSP) Paid Amount\n\n 32\n\n REV_CNTR_PRVDR_PMT_AMT\n\n Revenue Center (Medicare) Provider Payment Amount\n\n 33\n\n REV_CNTR_BENE_PMT_AMT\n\n Revenue Center Payment Amount to Beneficiary\n\n 34\n\n REV_CNTR_PTNT_RSPNSBLTY_PMT\n\n Revenue Center Patient Responsibility Payment\n\n 35\n\n REV_CNTR_PMT_AMT_AMT\n\n Revenue Center (Medicare)",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

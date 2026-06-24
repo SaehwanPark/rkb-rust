@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_860",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "Race: Patient declines to respond Indicates the patient's self reported race. 0. No\r\n1. Yes CHAR 1 x\nA1010Z_RACE_NOA_CD Race: None of the above Indicates the patient's self reported race. 0. No\r\n1. Yes CHAR 1 x\nA1110A_PREFRD_LANG_TXT Preferred language Indicates the patient's preferred language. CHAR 15 x\nA1110B_NEED_WNT_INTRPTR_CD Do you need or want an interpreter Indicates whether the patient would like an interpreter to communicate with a doctor or health care staff? 0. No\r\n1. Yes\r\n9.",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

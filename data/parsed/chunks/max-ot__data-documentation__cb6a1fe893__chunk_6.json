@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__data-documentation__cb6a1fe893__chunk_6",
+  "source_document": "data/raw/html/documentation_page/cb6a1fe893be87f24ba21899636e73ef0ee381c1.html",
+  "page": null,
+  "text": "Medicaid payment amount \n\n TP_PYMT_AMT \n Third party payment amount \n\n PYMT_DT \n Payment/adjudication date \n\n CHRG_AMT \n Charge amount \n\n PHP_VAL \n Prepaid plan value \n\n MDCR_COINSUR_PYMT_AMT \n Medicare coinsurance payment amount \n\n MDCR_DED_PYMT_AMT \n Medicare deductible payment amount \n\n SRVC_BGN_DT \n Beginning date of service \n\n SRVC_END_DT \n Ending date of service \n\n PRCDR_CD_SYS \n Procedure (service) coding system \n\n PRCDR_CD \n Procedure (service) code \n\n PRCDR_SRVC_MDFR_CD \n Procedure",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot/data-documentation"
+}

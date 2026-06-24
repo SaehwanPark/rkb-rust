@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-beneficiary__record-layout-cmds_xlsx__db71320620__s3__chunk_1",
+  "source_document": "data/raw/assets/xlsx/db713206205b9bc4a36a311a78fdfb65414c59e1.xlsx",
+  "page": 3,
+  "text": "= Medicare Facility \r\nHSP = Medicare Hospital\r\nPAC = Post-Acute Care Medicare Facility\r\nPRA = Medicare Enrolled Practice\r\nACO = Accountable Care Organization\r\nCBO = Community Based Organization\r\nCNV = Convener\r\nMRE = Medicaid Related Entity\r\nMAP = Medicare Advantage Plan\r\nPLN = Commercial Health Plan\r\nSTE = State\r\nOTH = Other/Unknown\nSTART_DATE Entity Start Date DATE 8 CCYYMMDD\nEND_DATE Entity End Date DATE 8 CCYYMMDD",
+  "dataset": "cmds-beneficiary",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-cmds.xlsx"
+}

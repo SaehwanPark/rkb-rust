@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_25",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "(NG) Accountable Care Organization (ACO) Indicator Code - Telehealth\n\n 155\n\n CLM_NEXT_GNRTN_ACO_IND_CD3\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Post Discharge HH visits\n\n 156\n\n CLM_NEXT_GNRTN_ACO_IND_CD4\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - 3-day SNF waiver\n\n 157\n\n CLM_NEXT_GNRTN_ACO_IND_CD5\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Capitation\n\n 158\n\n ACO_ID_NUM\n\n Claim",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

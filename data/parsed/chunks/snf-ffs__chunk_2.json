@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__chunk_2",
+  "source_document": "data/raw/html/dataset_page/8377dc546ecfb2a54ed25e3e14aa2eeb838960e6.html",
+  "page": null,
+  "text": "codes (ICD procedure)\nAdmission/discharge dates\nFFS Reimbursement amount\nSNF provider number\n\nProgram: \nMedicare\nCategory: \nMedicare Fee-For-Service Claims\nPrivacy Level: \nResearch Identifiable Files\n\nLearn more about the Limited Data Set version of this file:\nVisit the CMS Website\n\nAvailability of this file\n\nAvailability: \nAnnual: 1999-2024\nQuarterly: 2024 Q1-Q4; 2025 Q1-Q3\nMonthly*: 2025 and 2026\n*Data is only available to CCW VRDC users, and cannot be shipped.\nDate Requests Can Be Accepted",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs"
+}

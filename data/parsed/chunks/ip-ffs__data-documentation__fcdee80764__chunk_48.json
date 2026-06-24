@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_48",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Provider Validation Type Code\n\n 248\n\n RR_BRD_EXCLSN_IND_SW\n\n Railroad Board Exclusion Indicator Switch\n\n 250\n\n CLM_MODEL_REIMBRSMT_AMT\n\n Claim Model Reimbursement Amount\n\n 251\n\n LTCH_DSCHRG_PYMT_ADJSTMT_AMT\n\n LTCH Discharge Payment Adjustment Amount\n\n 251\n\n CLM_ADJUST_GRP_CD\n\n Claim Adjustment Group Code\n\n 252\n\n CLM_ADJUST_RSN_CD\n\n Claim Adjustment Reason Code\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

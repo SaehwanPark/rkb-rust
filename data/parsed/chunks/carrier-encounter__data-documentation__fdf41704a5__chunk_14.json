@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_14",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "(Encounter) \n\n LINE_PLACE_OF_SRVC_CD \n Line Place of Service Code (Encounter) \n\n LINE_1ST_EXPNS_DT \n Line First Expense Date (Encounter) \n\n LINE_LAST_EXPNS_DT \n Line Last Expense Date (Encounter) \n\n HCPCS_CD \n Healthcare Common Procedure Coding System (HCPCS) Code (Encounter) \n\n HCPCS_1ST_MDFR_CD \n HCPCS Initial Modifier Code (Encounter) \n\n HCPCS_2ND_MDFR_CD \n HCPCS Second Modifier Code (Encounter) \n\n HCPCS_3RD_MDFR_CD \n HCPCS Third Modifier Code (Encounter) \n\n HCPCS_4TH_MDFR_CD \n HCPCS Fourth",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

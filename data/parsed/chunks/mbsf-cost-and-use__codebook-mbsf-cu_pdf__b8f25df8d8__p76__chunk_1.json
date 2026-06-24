@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__codebook-mbsf-cu_pdf__b8f25df8d8__p76__chunk_1",
+  "source_document": "data/raw/assets/pdf/b8f25df8d81906f5defd1b315d22b81093ed2f5d.pdf",
+  "page": 76,
+  "text": "(PDE) file. \n\nSHORT NAME: — \n\nLONG NAME: PTD_EVENTS \n\nTYPE: NUM \n\nLENGTH: 6 \n\nSOURCE: CCW (derived) \n\nVALUES: Null/missing or 1–XXXX \n\nCOMMENT: The value will be null if the beneficiary was not enrolled in Part D or did not use any Part D drugs during \nthe year. \n\nPDEs consist of highly variable days’ supply of the medication. We also create a derived variable that \ncounts a standard 30-day supply of a filled Part D prescription (reference PTD_FILL_CNT). \n\n^ Back to TOC ^",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-cu.pdf"
+}

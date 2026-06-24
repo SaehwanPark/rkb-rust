@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_4",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "Adjustment Deletion Code \n\n NSTD_FRMT_CD \n Non-Standard Format Code \n\n PRCNG_EXCPTN_CD \n Pricing Exception Code \n\n CTSTRPHC_CVRG_CD \n Catastrophic Coverage Code \n\n GDC_BLW_OOPT_AMT \n Gross Drug Cost Below Part D Out-of-Pocket Threshold (GDCB) \n\n GDC_ABV_OOPT_AMT \n Gross Drug Cost Above Part D Out-of-Pocket Threshold (GDCA) \n\n PTNT_PAY_AMT \n Amount Paid by Patient \n\n OTHR_TROOP_AMT \n Other True Out-of-Pocket (TrOOP) Amount \n\n LICS_AMT \n Amount paid for the PDE by Part D low income subsidy",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

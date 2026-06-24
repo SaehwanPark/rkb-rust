@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_13",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "Date that beneficiary first met claims criteria for the non-Alzheimer's dementia indicator \n\n OSTEOPOROSIS \n Osteoporosis With or Without Pathological Fracture End-of-Year Indicator \n\n OSTEOPOROSIS_EVER \n Date that beneficiary first met claims criteria for the osteoporosis with or without pathological fracture indicator \n\n PNEUMO \n All Cause Pneumonia End-of-Year Indicator \n\n PNEUMO_EVER \n Date that beneficiary first met claims criteria for the all-cause pneumonia indicator \n\n PRKNSN",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

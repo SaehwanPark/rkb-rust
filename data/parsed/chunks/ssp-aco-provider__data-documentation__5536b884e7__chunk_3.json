@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-provider__data-documentation__5536b884e7__chunk_3",
+  "source_document": "data/raw/html/documentation_page/5536b884e7233be4eb8f47d766a551801359d265.html",
+  "page": null,
+  "text": "Start Date \n\n FAC_TYPE \n CCN Facility Type \n\n FAC_DESC \n CCN Facility Type Description \n\n PRVDR_SPCLTY_CD \n Provider Specialty Code \n\n ACO_LOCATION \n ACO Location (county primarily served)",
+  "dataset": "ssp-aco-provider",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-provider/data-documentation"
+}

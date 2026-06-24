@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_20",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "78\n\n SPLMTL_LCNS_ACRDTN\n\n Annual Provider Record in Supplemental Provider License and Accreditation File\n\n 79\n\n SPLMTL_PRVDR_ID\n\n Annual Provider Record in Supplemental Identifier File\n\n 80\n\n SPLMTL_AFLTD_GRP\n\n Annual Provider Record in Supplemental Affiliated Groups File\n\n 81\n\n SPLMTL_AFLTD_PGM\n\n Annual Provider Record in Supplemental Affiliated Programs File\n\n 82\n\n SPLMTL_TXNMY\n\n Annual Provider Record in Supplemental Taxonomy File\n\n 83\n\n SPLMTL_ENRLMT\n\n Annual Provider Record in Supplemental",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

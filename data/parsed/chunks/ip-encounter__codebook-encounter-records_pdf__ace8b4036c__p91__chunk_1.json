@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p91__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 91,
+  "text": "NUM \n\nLENGTH: 13 \n\nSOURCE: CCW \n\nFILE(S): IP revenue \n\nSNF revenue \n\nHH revenue \n\nOP revenue \n\nCarrier Line \n\nDME Line \n\nVALUES: — \n\nCOMMENT: This field is included for the benefit of CMS users who wish to trace the encounter records in the IDR. \n\nNote that this original claim line number may differ from the claim line number (CLM_LINE_NUM), \nwhich is a sequential line number on the CCW encounter RIF to distinguish distinct services that are \nsubmitted on the same encounter record. \n ^ Back to",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

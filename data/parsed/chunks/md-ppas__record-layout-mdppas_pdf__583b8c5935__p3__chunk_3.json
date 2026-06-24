@@ -1,0 +1,8 @@
+{
+  "chunk_id": "md-ppas__record-layout-mdppas_pdf__583b8c5935__p3__chunk_3",
+  "source_document": "data/raw/assets/pdf/583b8c59350c60f3a057b741c5d5e47e73c3d990.pdf",
+  "page": 3,
+  "text": "of primary specialty \n\nspec_prim_2 Concurrently reported primary specialty PECOS/claims \n\nspec_prim_2_name Name of concurrently reported primary specialty \n\nspec_source Source data for specialty \n1=PECOS \n2=claims PECOS/claims \n\nspec_source_hosp Source data for hospitalist specialty designation \n1=PECOS \n2=claims PECOS/claims \n\n Place of service \n(POS) variables Description Data Source \n\npos_office % of line items delivered in office Claims \n\npos_retail % of line items delivered in retail",
+  "dataset": "md-ppas",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mdppas.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-beneficiary__chunk_5",
+  "source_document": "data/raw/html/dataset_page/d48a69cecaed5ae7646e6ef39ac98789b97bdbc6.html",
+  "page": null,
+  "text": "End Date” would match the field “Entity End Date”, but the field “Beneficiary Operational End Date” would reflect any additional time the Beneficiary is in the model after the Entity leaves.\n\nProgram: \nMedicare\nCategory: \nSpecial Programs\nPrivacy Level: \nResearch Identifiable Files\n\nAvailability of this file\n\nAvailability: \n2016-2025 Q1\nThis file set will be updated on a quarterly basis, reflecting changes captured for the prior quarter.\nDate Requests Can Be Accepted for Upcoming Releases: \nQ2",
+  "dataset": "cmds-beneficiary",
+  "url": "https://resdac.org/cms-data/files/cmds-beneficiary"
+}

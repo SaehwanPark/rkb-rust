@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p28__chunk_0",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 28,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nT-MSIS TAF Annual Provider RIFs Codebook │ December 2025 │ V 1.3 19 \n\nCCW_APR_LINK_KEY \n\nLABEL: CCW Key to Link APR base Record to Related Supplement Records \n\nDESCRIPTION: CCW Key to Link annual provider (APR) base Record to Corresponding Supplement Records. \n\nSHORT NAME: CCW_APR_LINK_KEY \n\nLONG NAME: CCW_APR_LINK_KEY \n\nTYPE: NUM \n\nLENGTH: 15 \n\nFILE(S): All APR files \n\nSOURCE: CCW (derived) \n\nVALUES: Alphanumeric character string",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

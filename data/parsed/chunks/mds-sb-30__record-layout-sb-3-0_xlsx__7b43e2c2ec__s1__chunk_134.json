@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_134",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "days, but less than daily\r\n3=Behavior of this type occurred daily\r\n^=Blank (skip pattern)\n165 E0200C_OTHR_BHVRL_CD E0200C_OTHR_BHVRL_CD E0200C Behavior: Other Behavioral Code CHAR 1 The data in this column indicates the frequency that the resident has other behavioral symptoms directed toward others (e.g., physical symptoms, such as hitting or scratching self, pacing, rummaging, public sexual acts, disrobing in public, hrowing or smeaing food or bodily wastes, or verbal,/vocal symptoms like",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

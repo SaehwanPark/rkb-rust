@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_348",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "GG0130G2_LWR_DRSNG_GOAL_CD GG0130G2 Discharge Goal Lower Dressing Code - The data in this column indicates the patient's discharge goal for dressing below the waist including fasteners, excluding footwear. CHAR 2 The data in this column indicates the patient's discharge goal for dressing below the waist including fasteners, excluding footwear. 01 = Dependent\r\n02 = Substantial/maximal assistance\r\n03 = Partial/moderate assistance\r\n04 = Supervision or touching assistance\r\n05 = Setup or clean-up",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

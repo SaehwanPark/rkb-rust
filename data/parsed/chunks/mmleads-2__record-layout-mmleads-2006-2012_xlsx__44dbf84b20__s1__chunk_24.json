@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_24",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "Annual Medicaid FFS Indicator 1 - All months alive Medicaid FFS\r\n0 - Some months Medicaid PHP\r\nNull - No months PHP, not all months alive Medicaid FFS\n E_MEDICAREMA Annual Medicare Managed Care Summary 1 - Some eligible months MA\r\n0 - FFS = No eligible months MA\r\nNull - Not FFS or MA\n E_MEDICAIDPHP Annual Medicaid Managed Care (Prepaid Health Plan - PHP) Indicator 4 - Some eligible months LTC\r\n3 - No LTC but some eligible months CMC\r\n2 - No LTC or CMC but some eligible months PCCM\r\n1 - No LTC",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

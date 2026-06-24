@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-rx__data-documentation__245e1542b6__chunk_5",
+  "source_document": "data/raw/html/documentation_page/245e1542b60667a079cb2e389190d43128123fbf.html",
+  "page": null,
+  "text": "number (MAX) \n\n NPI \n National Provider Identifier (MAX) \n\n TAXONOMY \n Provider Taxonomy \n\n TYPE_CLM_CD \n Type of claim \n\n ADJUST_CD \n Adjustment code \n\n PHP_TYPE \n Managed care type of plan code \n\n PHP_ID \n Managed care plan identification code \n\n MDCD_PYMT_AMT \n Medicaid payment amount \n\n TP_PYMT_AMT \n Third party payment amount \n\n PYMT_DT \n Payment/adjudication date \n\n CHRG_AMT \n Charge amount \n\n PHP_VAL \n Prepaid plan value \n\n MDCR_COINSUR_PYMT_AMT \n Medicare coinsurance payment amount",
+  "dataset": "max-rx",
+  "url": "https://resdac.org/cms-data/files/max-rx/data-documentation"
+}

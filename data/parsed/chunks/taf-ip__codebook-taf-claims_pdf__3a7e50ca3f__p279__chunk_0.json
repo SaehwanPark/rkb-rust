@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p279__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 279,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 259 \n\nSTATE_CD \n\nLABEL: Submitting State Alpha Abbreviation \n\nDESCRIPTION: Submitting State (postal abbreviation) \n\nSHORT NAME: STATE_CD \n\nLONG NAME: STATE_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: CCW and CMS/Census Bureau crosswalk (derived) \n\nFILE(S): All header claim, line, and occurrence code files \n\nVALUES: Two-character postal state code \nAK = Alaska \nAL = Alabama \nAR = Arkansas \nAZ =",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

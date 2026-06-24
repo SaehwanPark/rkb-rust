@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_8",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "MDCR_STATUS_CODE_10 \n Medicare Status Code - October \n\n MDCR_STATUS_CODE_11 \n Medicare Status Code - November \n\n MDCR_STATUS_CODE_12 \n Medicare Status Code - December \n\n BENE_PTA_TRMNTN_CD \n Part A Termination Code \n\n BENE_PTB_TRMNTN_CD \n Part B Termination Code \n\n BENE_HI_CVRAGE_TOT_MONS \n Part A Months Count \n\n BENE_SMI_CVRAGE_TOT_MONS \n Part B Months Count \n\n BENE_STATE_BUYIN_TOT_MONS \n State Buy-In Coverage Count \n\n BENE_HMO_CVRAGE_TOT_MONS \n HMO Coverage Count \n\n PTD_PLAN_CVRG_MONS",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

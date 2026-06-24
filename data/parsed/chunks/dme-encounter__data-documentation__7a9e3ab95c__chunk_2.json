@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__data-documentation__7a9e3ab95c__chunk_2",
+  "source_document": "data/raw/html/documentation_page/7a9e3ab95c81408f2ef1644024e5ac09aae2fff6.html",
+  "page": null,
+  "text": "Claim File\n\nLine File\n\nBase Claim File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n SAMPLE_GROUP \n CCW Beneficiary Random Sample Group \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n CLM_FROM_DT \n Claim From Date (Encounter) \n\n CLM_THRU_DT \n Claim Through Date (Encounter) \n\n SRVC_MONTH \n Service Month \n\n CLM_CHRT_RVW_SW \n Claim Chart Review Switch \n\n CLM_CNTL_NUM \n Claim Control Number \n\n CLM_ORIG_CNTL_NUM \n Claim Original Control Number",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter/data-documentation"
+}

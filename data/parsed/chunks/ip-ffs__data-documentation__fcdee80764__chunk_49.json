@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_49",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n CLM_THRU_DT\n\n Claim Through Date (FFS)\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line Number\n\n 5\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 6\n\n REV_CNTR\n\n Revenue Center Code (FFS)\n\n 7\n\n HCPCS_CD\n\n Healthcare Common Procedure Coding System (HCPCS) Code (FFS)\n\n 8\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (FFS)\n\n 9\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (FFS)\n\n 10\n\n HCPCS_3RD_MDFR_CD",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

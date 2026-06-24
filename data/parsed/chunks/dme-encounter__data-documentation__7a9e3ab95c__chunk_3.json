@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__data-documentation__7a9e3ab95c__chunk_3",
+  "source_document": "data/raw/html/documentation_page/7a9e3ab95c81408f2ef1644024e5ac09aae2fff6.html",
+  "page": null,
+  "text": "Chart Review Switch \n\n CLM_CNTL_NUM \n Claim Control Number \n\n CLM_ORIG_CNTL_NUM \n Claim Original Control Number \n\n CLM_FINL_ACTN_IND \n Claim Final Action Indicator \n\n CLM_LTST_CLM_IND \n Latest Claim Indicator \n\n EDPS_CREATE_DT \n Encounter Data Processing System (EDPS) Create Date \n\n CLM_RCPT_DT \n Claim Receipt Date \n\n CLM_FREQ_CD \n Claim Frequency Code (Encounter) \n\n CNTRCT_NUM \n Medicare Part C Contract Number \n\n CNTRCT_PBP_NUM \n Medicare Part C Plan Benefit Package (PBP) Number",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter/data-documentation"
+}

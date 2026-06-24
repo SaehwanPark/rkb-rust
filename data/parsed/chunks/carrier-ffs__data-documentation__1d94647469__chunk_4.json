@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_4",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "RFR_PHYSN_UPIN \n Carrier/DMERC Claim Referring Physician UPIN Number \n\n RFR_PHYSN_NPI \n Claim Referring Physician NPI Number \n\n CARR_CLM_PRVDR_ASGNMT_IND_SW \n Carrier Claim Provider Assignment Indicator Switch \n\n NCH_CLM_PRVDR_PMT_AMT \n NCH Claim Provider Payment Amount \n\n NCH_CLM_BENE_PMT_AMT \n NCH Claim Payment Amount to Beneficiary \n\n CLM_BENE_PD_AMT \n Carrier Claim Beneficiary Paid Amount \n\n NCH_CARR_CLM_SBMTD_CHRG_AMT \n NCH Carrier Claim Submitted Charge Amount (sum of all line-level",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

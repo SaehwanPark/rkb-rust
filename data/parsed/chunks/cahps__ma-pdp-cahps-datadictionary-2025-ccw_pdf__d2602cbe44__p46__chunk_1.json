@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p46__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 46,
+  "text": "R\nsf_downblue\nlim_socacts\nds_nointerest R\nds_depressed R\ncnd_seemd2 D\ncnd_last3mo D\ncnd_rxmeds D\ncnd_meds3mo D\nrxmedslist\nrxezmeds —– —– —– —– —– —– —– —–\nrxinspay —– —– —– —– —– —– —– —–\nrxdelay Q51 Q52 Q51 Q51 Q51 Q51 Q51 Q51\nrxmailunreq D Q52 Q52 Q52 Q52 Q52 Q52\npdpenroll R —– —– —– —– —– —–\nmtm_enrollprog —– —– —– —– —– —–\nmtm_medansr R —– —– —– —– —– —–\nmtm_meduse R —– —– —– —– —– —–\nmtm_summ R —– —– —– —– —– —–\nmtm_info R —– —– —– —– —– —–\nmtm_prog R —– —– —– —– —– —–\nknowcare",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

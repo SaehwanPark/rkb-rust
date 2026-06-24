@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_26",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Medicaid Allowed Amount\n\n 53\n\n LINE_MDCD_PD_AMT\n\n Line Medicaid Paid Amount\n\n 54\n\n LINE_MDCD_FFS_EQUIV_AMT\n\n Line Medicaid Fee For Service Equivalent Amount\n\n 55\n\n LINE_MDCR_PD_AMT\n\n Line Medicare Paid Amount\n\n 56\n\n LINE_COPAY_AMT\n\n Line Beneficiary Copayment Amount\n\n 57\n\n LINE_TP_PD_AMT\n\n Line Third Party Liability Paid Amount\n\n 58\n\n LINE_OTHR_INSRNC_PD_AMT\n\n Line Other Than Medicare or Medicaid -Insurance Paid Amount\n\n 59\n\n OT_ACCMDTN_HCPCS_RATE\n\n Other Services Accommodation Rate\n\n 60",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

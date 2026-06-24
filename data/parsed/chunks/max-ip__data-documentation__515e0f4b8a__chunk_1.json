@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ip__data-documentation__515e0f4b8a__chunk_1",
+  "source_document": "data/raw/html/documentation_page/515e0f4b8a82429031028f6befb46024fb536839.html",
+  "page": null,
+  "text": "with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Record Layout - MAX\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted 723 CCW Beneficiary ID \n\n MSIS_ID \n Encrypted MSIS Identification Number \n\n STATE_CD \n State \n\n YR_NUM \n Year of MAX Record",
+  "dataset": "max-ip",
+  "url": "https://resdac.org/cms-data/files/max-ip/data-documentation"
+}

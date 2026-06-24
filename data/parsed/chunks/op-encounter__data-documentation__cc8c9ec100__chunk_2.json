@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_2",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n SAMPLE_GROUP\n\n CCW Beneficiary Random Sample Group\n\n 3\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 4\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 5\n\n CLM_FROM_DT\n\n Claim From Date (Encounter)\n\n 6\n\n CLM_THRU_DT\n\n Claim Through Date (Encounter)\n\n 7\n\n SRVC_MONTH\n\n Service Month\n\n 8\n\n CLM_CHRT_RVW_SW\n\n Claim Chart Review Switch\n\n 9\n\n CLM_CNTL_NUM\n\n Claim Control Number\n\n 10\n\n CLM_ORIG_CNTL_NUM\n\n Claim Original Control Number\n\n 11",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

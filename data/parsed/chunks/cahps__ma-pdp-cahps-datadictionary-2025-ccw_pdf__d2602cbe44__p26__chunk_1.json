@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p26__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 26,
+  "text": "NO\n\nU: UNKNOWN\n\nY: YES\n\nsa_mdcr_stus: Reason for Beneﬁciary Entitlement\n\nSAS Format: $MCR\n\n0 : MISSING\n\n10: AGED WITHOUT ESRD\n\n11: AGED WITH ESRD\n\n20: DISABLED WITHOUT ESRD\n\n21: DISABLED WITH ESRD\n\n31: ESRD ONLY\n\nsa_org_entlmt: Original Reason for Entitlement\n\nSAS Format: $OEN\n\n0: AGE\n\n1: DISABILITY\n\n2: ESRD\n\n3: DISABILITY & ESRD\n\nU: UNKNOWN",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p69__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 69,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 29 \n\nCMPRHNSV_MCO_MOS \n\nLABEL: Comprehensive Managed Care Organization (MCO) Plan Months \n\nDESCRIPTION: Number of months the beneficiary was enrolled in a Comprehensive Managed Care Organization \n(MCO) Managed Care Plan in the calendar year. \n\nSHORT NAME: CMPRHNSV_MCO_MOS \n\nLONG NAME: CMPRHNSV_MCO_MOS \n\nTYPE: NUM \n\nLENGTH: 3 \n\nFILE(S): Managed Care \n\nSOURCE: T-MSIS",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p32__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 32,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 14 \n\nBENE_RACE_CD \n\nLABEL: Beneficiary Race Code \n\nDESCRIPTION: Race code from claim \n\nSHORT NAME: RACE_CD \n\nLONG NAME: BENE_RACE_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: SSA \n\nVALUES: 0 = Unknown \n1 = White \n2 = Black \n3 = Other \n4 = Asian \n5 = Hispanic \n6 = North American Native \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

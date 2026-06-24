@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_617",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "whether there was an indication noted for all medications in the drug class. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\r\n^ = Blank\n557 HYPOGLYCEMIC_TKNG_ADMSN_CD HYPOGLYCEMIC_TKNG_ADMSN_CD High-Risk Drug (Is taking): Hypoglycemic (Adm) CHAR 1 This column documents whether, at the time of admission, the patient was taking any medications by pharmacological classification, not how it is used, \r\nfrom the hypoglycemic class. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n558",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_17",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - 3-day SNF waiver\n\n 98\n\n CLM_NEXT_GNRTN_ACO_IND_CD5\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Capitation\n\n 99\n\n ACO_ID_NUM\n\n Claim Accountable Care Organization (ACO) Identification Number\n\n 100\n\n FINL_STD_AMT\n\n Claim Final Standard Payment Amount\n\n 101\n\n CLM_BENE_ID_TYPE_CD\n\n Claim Beneficiary Identifier Type Code\n\n 102\n\n CLM_RSDL_PYMT_IND_CD\n\n Claim Residual Payment Indicator",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

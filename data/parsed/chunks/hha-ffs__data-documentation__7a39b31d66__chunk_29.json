@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_29",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n RLT_VAL_CD_SEQ\n\n Claim Related Value Code Sequence\n\n 5\n\n CLM_VAL_CD\n\n Claim Value Code (FFS)\n\n 6\n\n CLM_VAL_AMT\n\n Claim Value Amount\n\n Demonstrations/Innovations Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n DEMO_ID_SQNC_NUM\n\n Demonstration sequence",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

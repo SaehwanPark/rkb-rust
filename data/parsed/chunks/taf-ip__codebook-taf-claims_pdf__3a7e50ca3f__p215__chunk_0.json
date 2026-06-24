@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p215__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 215,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 195 \n\nOUTLIER_DAYS \n\nLABEL: Outlier Days Count \n\nDESCRIPTION: This field specifies the number of days paid as outliers under Prospective Payment System (PPS) and \nthe days over the threshold for the DRG. \n\nSHORT NAME: OUTLIER_DAYS \n\nLONG NAME: OUTLIER_DAYS \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \n\nVALUES: 0–XXXXXX; may be negative",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

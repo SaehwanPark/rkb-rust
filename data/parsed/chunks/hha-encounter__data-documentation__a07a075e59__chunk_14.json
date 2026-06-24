@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_14",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n CLM_LINE_NUM \n Claim Line Number (Encounter) \n\n LINE_NUM_ORIG \n Original Claim Line Number \n\n CLM_THRU_DT \n Claim Through Date (Encounter) \n\n REV_CNTR \n Revenue Center Code (Encounter) \n\n REV_CNTR_FROM_DT \n Revenue Center From Date \n\n REV_CNTR_THRU_DT \n Revenue Center Thru Date \n\n REV_CNTR_UNIT_CNT \n Revenue Center Unit Count (Encounter) \n\n HCPCS_CD \n Healthcare Common Procedure Coding System (HCPCS) Code (Encounter)",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

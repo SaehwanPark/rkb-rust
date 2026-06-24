@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_29",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "Reference Year (TAF)\n\n 115\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n APL Service Area \n\nNumberSAS NameVariable Name\n\n 1\n\n MC_PLAN_ID\n\n Managed Care Plan Identification Number\n\n 2\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 3\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 4\n\n MC_PLAN_SAREA_NAME\n\n Managed Care Plan Service Area Name\n\n 5\n\n MC_PLAN_SAREA_ACTV_IND_01\n\n Managed Care Plan Service Area Active Indicator — January\n\n 6",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

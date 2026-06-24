@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_9",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "SPECIALTY_NPI_IN_PRIM \n Specialty of EP billing most primary care services in practice \n\n TOTCOST \n Total payment-standardized Medicare FFS cost \n\n OTHER_ALL \n Total costs for all other services \n\n MINOR_PROCS_INGRP \n Total costs for ambulatory/minor procedures billed by EPs in practice \n\n MINOR_PROCS_OTHGRP \n Total costs for ambulatory/minor procedures billed by EPs outside practice \n\n TOTAL_ANC \n Total costs for ancillary services \n\n ALL_EANDM_INGRP \n Total costs for E and M services",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

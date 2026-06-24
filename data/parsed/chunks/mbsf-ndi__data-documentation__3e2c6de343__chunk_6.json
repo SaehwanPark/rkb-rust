@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__data-documentation__3e2c6de343__chunk_6",
+  "source_document": "data/raw/html/documentation_page/3e2c6de343e763d4853bd71b6a39d6860c145fb8.html",
+  "page": null,
+  "text": "ENTITY_COND_16 \n NDI Entity Axis Cause of Death - 16th Condition \n\n ENTITY_COND_17 \n NDI Entity Axis Cause of Death - 17th Condition \n\n ENTITY_COND_18 \n NDI Entity Axis Cause of Death - 18th Condition \n\n ENTITY_COND_19 \n NDI Entity Axis Cause of Death - 19th Condition \n\n ENTITY_COND_20 \n NDI Entity Axis Cause of Death - 20th Condition \n\n RECORD_COND_1 \n NDI Record Axis Cause of Death - 1st Condition \n\n RECORD_COND_2 \n NDI Record Axis Cause of Death - 2nd Condition \n\n RECORD_COND_3 \n NDI",
+  "dataset": "mbsf-ndi",
+  "url": "https://resdac.org/cms-data/files/mbsf-ndi/data-documentation"
+}

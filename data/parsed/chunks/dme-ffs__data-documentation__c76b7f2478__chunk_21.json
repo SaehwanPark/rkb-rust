@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_21",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Amount for 2nd Code \n\n LINE_OTHR_APLD_AMT3 \n Line Other Applied Amount for 3rd Code \n\n LINE_OTHR_APLD_AMT4 \n Line Other Applied Amount for 4th Code \n\n LINE_OTHR_APLD_AMT5 \n Line Other Applied Amount for 5th Code \n\n LINE_OTHR_APLD_AMT6 \n Line Other Applied Amount for 6th Code \n\n LINE_OTHR_APLD_AMT7 \n Line Other Applied Amount for 7th Code \n\n LINE_RSDL_PYMT_IND_CD \n Line Residual Payment Indicator Code \n\n LINE_RP_IND_CD \n Line Representative Payee (RP) Indicator Code \n\n DMERC_LINE_FRGN_ADR_IND",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

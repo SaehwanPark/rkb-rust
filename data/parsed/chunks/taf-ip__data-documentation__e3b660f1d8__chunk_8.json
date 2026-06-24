@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_8",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "44\n\n DGNS_1_CCSR_CTGRY_CD\n\n AHRQ Clinical Classifications Software Refined (CCSR) Diagnosis 1 Category Code\n\n 45\n\n DGNS_CD_2\n\n Diagnosis Code 2\n\n 46\n\n DGNS_VRSN_CD_2\n\n Diagnosis Version Code 2 (ICD-9 or ICD-10)\n\n 47\n\n DGNS_POA_IND_2\n\n Diagnosis Present on Admission Indicator 2\n\n 48\n\n DGNS_CD_3\n\n Diagnosis Code 3\n\n 49\n\n DGNS_VRSN_CD_3\n\n Diagnosis Version Code 3 (ICD-9 or ICD-10)\n\n 50\n\n DGNS_POA_IND_3\n\n Diagnosis Present on Admission Indicator 3\n\n 51\n\n DGNS_CD_4\n\n Diagnosis Code 4\n\n 52",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p22__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 22,
+  "text": "B. 2025 MCAHPS Format Tables 22\n\nr_pl_xtrabeneﬁts: REVERSED: Last 6 mths, did health plan offer extra beneﬁts because of health condition\n\nSAS Format: YND\n\n1: NO\n\n2: YES\n race_asian: RECODE : Race: Asian\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nrace_black: RECODE : Race: Black or African American\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nrace_hisp: RECODE : Hispanic or Latino origin/descent\n\nSAS Format: HSP\n\n1: HISPANIC OR LATINO\n\n2: NOT HISPANIC OR LATINO\n\nrace_natamer: RECODE : Race:",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

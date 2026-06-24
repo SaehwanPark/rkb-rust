@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__codebook-ptd-pharm-char_pdf__58526b7375__p18__chunk_1",
+  "source_document": "data/raw/assets/pdf/58526b73752036ae7547b8f5fa7fc8287000d944.pdf",
+  "page": 18,
+  "text": "reference \nyear and the new owner did not keep the same pharmacy identifiers as the previous owner. This \nvariable allows linkage of records in this file that are for the same physical location. \n\nSHORT NAME: — \n\nLONG NAME: PREV_CCW_PHARM_ID \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: PDE and NCDPD DataQ™ (derived) \n\nVALUES: Null/missing (n/a) \n 5-digit numeric value \n\nCOMMENT: Available in 2012 and 2013 files only. \n\nThe CCW Pharmacy ID is created by linking the service provider identification number",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-pharm-char.pdf"
+}

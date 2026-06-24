@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_27",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "ADMTG_DGNS_CD\n\n Initial diagnosis at time of admission\n\n 147\n\n ADMTG_DGNS_VRSN_CD\n\n MedPAR Admitting Diagnosis Version Code (ICD-9 or ICD-10)\n\n 148\n\n DGNS_CD_CNT \n\n Count of Diagnosis Codes\n\n 149\n\n DGNS_VRSN_CD\n\n MEDPAR Diagnosis Version Code (ICD-9 or ICD-10)\n\n 150\n\n DGNS_VRSN_CD_1\n\n MedPAR Diagnosis Version Code 1 (ICD-9 or ICD-10)\n\n 151\n\n DGNS_VRSN_CD_2\n\n MedPAR Diagnosis Version Code 2 (ICD-9 or ICD-10)\n\n 152\n\n DGNS_VRSN_CD_3\n\n MedPAR Diagnosis Version Code 3 (ICD-9 or ICD-10)\n\n 153",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

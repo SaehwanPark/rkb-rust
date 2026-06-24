@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p73__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 73,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 33 \n\nDA_RUN_ID \n\nLABEL: TAF Production Run Identifier (unique for each TAF run) \n\nDESCRIPTION: A unique identifier that identifies the TAF production run that produced the TAF file. \n\nSHORT NAME: DA_RUN_ID \n\nLONG NAME: DA_RUN_ID \n\nTYPE: NUM \n\nLENGTH: 8 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: XXXX \n\nCOMMENT: Higher",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

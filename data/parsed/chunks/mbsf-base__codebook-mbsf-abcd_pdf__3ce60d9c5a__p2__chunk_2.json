@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p2__chunk_2",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 2,
+  "text": "and adjusted description for value 55 \n 1.5 \n\nFebruary 2021 K. Russell \nC. Alleman \nD. Happe \n Migrated codebook to new document template; revised Table of \nContents to include SAS long names rather than short names 1.4 \n\nAugust 2019 K. Schneider Corrected values 10 and 13 for monthly cost share group \n(CST_SHR_GRP_CD_01–12), and added a comment 1.3 \n\nApril 2019 C. Alleman \nK. Schneider Added clarity re: valid values for monthly cost share group \n(CST_SHR_GRP_CD_01–12) 1.2 \n\nJanuary 2019 C.",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

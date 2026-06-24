@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p50__chunk_2",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 50,
+  "text": "PTDCNTRCT10 \nPTDCNTRCT11 \nPTDCNTRCT12 \nLONG NAME: \n PTD_CNTRCT_ID_01 \nPTD_CNTRCT_ID_02 \nPTD_CNTRCT_ID_03 \nPTD_CNTRCT_ID_04 \nPTD_CNTRCT_ID_05 \nPTD_CNTRCT_ID_06 \n PTD_CNTRCT_ID_07 \nPTD_CNTRCT_ID_08 \nPTD_CNTRCT_ID_09 \nPTD_CNTRCT_ID_10 \nPTD_CNTRCT_ID_11 \nPTD_CNTRCT_ID_12 \n\nTYPE: CHAR \n\nLENGTH: 5 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: The first character of the contract ID is a letter or number representing the type of plan: \nE = Employer direct plan (starting January 2007) \nH =",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

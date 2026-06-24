@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p63__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 63,
+  "text": "B. Crosswalk: 2007 to 2025 - MA-Only Survey 63\n\nVariable Reverse 2016 2015 2014 2013 2012 2011 2010 2009 2008\nYear 10 Year 9 Year 8 Year 7 Year 6 Year 5 Year 4 Year 3 Year 2\n\nma_hlthplan Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01\nma_hlthplan_txt Q02 Q02 Q02 Q02 Q02 Q02 Q02 Q02 Q02\nins_have_oth —– —– —– —– —– —– —– —– —–\nins_medigap —– —– —– —– —– —– —– —– —–\nins_employer —– —– —– —– —– —– —– —– —–\nins_veteran —– —– —– —– —– —– —– —– —–\nins_military —– —– —– —– —– —– —– —– —–\nins_medicaid —– —– —– —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_27",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "or Medicaid -Insurance Paid Amount\n\n 59\n\n OT_ACCMDTN_HCPCS_RATE\n\n Other Services Accommodation Rate\n\n 60\n\n DA_RUN_ID\n\n TAF Production Run Identifier (unique for each TAF run)\n\n 61\n\n TMSIS_RUN_ID\n\n TMSIS State Data Processing Run Identifier",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

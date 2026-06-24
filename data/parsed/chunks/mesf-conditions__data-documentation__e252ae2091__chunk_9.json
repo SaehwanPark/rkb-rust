@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_9",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Only Data\n\n 40\n\n BRAINJ_MEDICARE\n\n Brain Injury Indicator - Medicare Only Data\n\n 41\n\n BRC_COMBINED\n\n Breast Cancer Indicator - Combined Data\n\n 42\n\n BRC_MEDICAID\n\n Breast Cancer Indicator - Medicaid-Only Data\n\n 43\n\n BRC_MEDICARE\n\n Breast Cancer Indicator - Medicare-Only Data\n\n 44\n\n CAT_COMBINED\n\n Cataract Indicator - Combined Data\n\n 45\n\n CAT_MEDICAID\n\n Cataract Indicator - Medicaid-Only Data\n\n 46\n\n CAT_MEDICARE\n\n Cataract Indicator - Medicare-Only Data\n\n 47\n\n CERPAL_COMBINED\n\n Cerebral Palsy",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

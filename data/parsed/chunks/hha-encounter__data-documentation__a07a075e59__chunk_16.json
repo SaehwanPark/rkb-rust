@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_16",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Revenue Center National Drug Code (NDC) Quantity (Encounter) \n\n REV_CNTR_NDC_QTY_QLFR_CD \n Revenue Center NDC Quantity Qualifier Code (Encounter) \n\n REV_CNTR_RNDRNG_PHYSN_NPI_NUM \n Revenue Center Rendering Physician NPI \n\n LINE_LTST_CLM_IND \n Line Latest Claim Indicator \n\nCondition Code File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n RLT_COND_CD_SEQ \n Claim Related Condition Code Sequence",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

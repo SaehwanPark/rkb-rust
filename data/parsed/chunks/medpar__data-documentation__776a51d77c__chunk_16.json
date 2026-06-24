@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_16",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Coronary Care Day Count\n\n 80\n\n PRVT_ROOM_CHRG_AMT \n\n Private Room Charge Amount ($)\n\n 81\n\n SEMIPRVT_ROOM_CHRG_AMT \n\n Semi-Private Room Charge Amount ($)\n\n 82\n\n WARD_CHRG_AMT \n\n Ward Charge Amount ($)\n\n 83\n\n INTNSV_CARE_CHRG_AMT \n\n Intensive Care Charge Amount ($)\n\n 84\n\n CRNRY_CARE_CHRG_AMT \n\n Coronary Care Charge Amount ($)\n\n 85\n\n OTHR_SRVC_CHRG_AMT \n\n Other Service Charge Amount ($)\n\n 86\n\n PHRMCY_CHRG_AMT \n\n Pharmacy Charge Amount ($)\n\n 87\n\n MDCL_SUPLY_CHRG_AMT \n\n Medical/Surgical Supplies",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

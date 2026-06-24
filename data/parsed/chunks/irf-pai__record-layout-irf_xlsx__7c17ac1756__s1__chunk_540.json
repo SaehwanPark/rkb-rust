@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_540",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "1 = Behavior continuously present, does not fluctuate \r\n2 = Behavior present, fluctuates (comes and goes, changes in severity) \r\n- = Not Assessed/No Information\n474 LVL_CNSCSNS_ADMSN_CD LVL_CNSCSNS_ADMSN_CD Delirium: Altered level of consciousness (Adm) CHAR 1 At the time of admission, did the patient have altered level of consciousness as \r\nindicated by any of the following criteria:\r\n• vigilant - startled easily to any sound or touch\r\n• lethargic - repeatedly dozed off when being asked",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

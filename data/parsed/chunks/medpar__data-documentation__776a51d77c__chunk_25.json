@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_25",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "RC_NDC_2_CD\n\n Revenue Center National Drug Code (NDC) 2\n\n 134\n\n RC_NDC_3_CD\n\n Revenue Center National Drug Code (NDC) 3\n\n 135\n\n RC_NDC_4_CD\n\n Revenue Center National Drug Code (NDC) 4\n\n 136\n\n RC_NDC_5_CD\n\n Revenue Center National Drug Code (NDC) 5\n\n 137\n\n RC_NDC_6_CD\n\n Revenue Center National Drug Code (NDC) 6\n\n 138\n\n RC_NDC_7_CD\n\n Revenue Center National Drug Code (NDC) 7\n\n 139\n\n RC_NDC_8_CD\n\n Revenue Center National Drug Code (NDC) 8\n\n 140\n\n RC_NDC_9_CD\n\n Revenue Center National Drug Code",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

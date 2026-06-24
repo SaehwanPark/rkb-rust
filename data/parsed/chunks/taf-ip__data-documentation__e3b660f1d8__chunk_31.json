@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_31",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Specialty Code (TAF)\n\n 34\n\n OPRTG_PRVDR_NPI\n\n Operating Provider NPI\n\n 35\n\n REV_CNTR_CHRG_AMT\n\n Revenue Center Charge Amount\n\n 36\n\n LINE_MDCD_ALOWD_AMT\n\n Line Medicaid Allowed Amount\n\n 37\n\n LINE_MDCD_PD_AMT\n\n Line Medicaid Paid Amount\n\n 38\n\n LINE_MDCD_FFS_EQUIV_AMT\n\n Line Medicaid Fee For Service Equivalent Amount\n\n 39\n\n LINE_OTHR_INSRNC_PD_AMT\n\n Line Other Than Medicare or Medicaid -Insurance Paid Amount\n\n 40\n\n IP_ACCMDTN_HCPCS_RATE\n\n Inpatient Hospital Accommodation Rate\n\n 41\n\n DA_RUN_ID",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

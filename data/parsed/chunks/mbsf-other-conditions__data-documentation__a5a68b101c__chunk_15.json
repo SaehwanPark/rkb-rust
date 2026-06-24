@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_15",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "First Ever Occurrence Date - Medicare Only Claims \n\n OBESITY_MEDICARE \n Obesity End-of-Year Indicator - Medicare Only Claims \n\n OBESITY_MEDICARE_EVER \n Obesity First Ever Occurrence Date - Medicare Only Claims \n\n OTHDEL_MEDICARE \n Other Developmental Delays End-of-Year Indicator - Medicare Only Claims \n\n OTHDEL_MEDICARE_EVER \n Other Developmental Delays First Ever Occurrence Date - Medicare Only Claims \n\n OUD_ANY_MEDICARE \n Overarching OUD Disorder (Any of the Three Sub-Indicators) - Medicare",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

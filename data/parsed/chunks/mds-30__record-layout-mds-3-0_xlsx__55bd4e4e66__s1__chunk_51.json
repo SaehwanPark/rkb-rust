@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_51",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "A2000_DSCHRG_DT A2000 Discharge Date CHAR 8 This column contains the discharge date from the current facility.\n80 A2100_DSCHRG_STUS_CD A2100_DSCHRG_STUS_CD A2100 Discharge Status Code CHAR 2 The data in this column identifies the resident's discharge status. 01=Community (private home/apt.,board/care,assisted living, group home)\r\n02=Another nursing home or swing bed\r\n03=Acute hospital\r\n04=Psychiatric hospital\r\n05=Inpatient rehabilitation facility\r\n06=ID/DD facility\r\n07=Hospice\r\n08=Deceased\r\n09=L",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

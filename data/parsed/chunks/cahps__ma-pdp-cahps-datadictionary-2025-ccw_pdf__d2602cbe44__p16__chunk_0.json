@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p16__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 16,
+  "text": "B. 2025 MCAHPS Format Tables 16\n\nmd_respect: RECODE : Last 6 mths, how often personal MD show respect\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\nmd_rxmeds: RECODE : Last 6 mths, took any prescription medicine\n\nSAS Format: YNA\n\n1: YES\n\n2: NO\n\nmd_sptime: RECODE : Last 6 mths, how often personal MD spend enough time with you\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\nmd_talkmeds: RECODE : Last 6 mths, how often personal MD talk about all Rx",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

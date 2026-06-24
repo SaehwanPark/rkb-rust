@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p65__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 65,
+  "text": "Q36B\nma_resolve Q52C Q52C Q52C Q51C Q48C Q40C Q46C Q35C Q36C\nma_listen Q52D Q52D Q52D Q51D Q48D Q40D Q46D Q35D Q36D\nma_discourage Q52E Q52E Q52E Q51E Q48E Q40E Q46E Q35E Q36E\nma_nothing Q52F Q52F Q52F Q51F Q48F Q40F Q46F Q35F Q36F\nma_complaint Q53 Q53 Q53 Q52 Q49 Q41 Q47\nma_comphandle Q54 Q54 Q54 Q53 Q50\nma_compresolv R Q55 Q55 Q55 Q54 Q51 Q42 Q48\nma_compsat R Q56 Q56 Q56 Q55 Q52 Q43 Q49\npd_hlthplan —– —– —– —– —– —– —– —– —–\npd_hlthplan_txt —– —– —– —– —– —– —– —– —–\npd_covrxmeds —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

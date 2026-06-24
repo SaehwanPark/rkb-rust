@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p268__chunk_1",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 268,
+  "text": "TYPE: CHAR \n\nLENGTH: 10 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP line \nLT line \nOT line \n\nVALUES: https://www.cms.gov/Regulations-and-Guidance/Administrative-\nSimplification/NationalProvIdentStand/index \n\nNull/missing = Source value is missing or unknown \n\nCOMMENT: This field is required when rendering provider is different than the attending provider and state or \nfederal regulatory requirements call for a \"combined claim\" (i.e., a claim that includes both facility and",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

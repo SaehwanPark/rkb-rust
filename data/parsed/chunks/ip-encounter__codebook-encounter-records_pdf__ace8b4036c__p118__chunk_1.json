@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p118__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 118,
+  "text": "or encounter record. \n\nDepending on type of service, units are measured by number of covered days in a particular \naccommodation, pints of blood, emergency room visits, clinic visits, dialysis treatments (sessions or \ndays), outpatient therapy visits, and outpatient clinical diagnostic laboratory tests. \n\nSHORT NAME: REV_CNTR_UNIT_CNT \n\nLONG NAME: REV_CNTR_UNIT_CNT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP revenue \nSNF revenue \nHH revenue \nOP",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts-model-visit__chunk_1",
+  "source_document": "data/raw/html/dataset_page/b3cf81e0d45803a40a7257d835f432647f90ecbd.html",
+  "page": null,
+  "text": "and includes both uploaded data and manually entered data from the model data collection registry. All generated risk scores and baseline groups are contained in this file. The file is generated at the visit level, with one row for each visit for each beneficiary.\n\nWhat does this file include? (variable highlights)\nModel-Assigned Practice ID\nModel-Assigned Patient ID\nVisit Date\nBaseline CVD Risk Score\nCVD Risk Score at the time of the visit\nBaseline risk group (low, medium, high)\nA record",
+  "dataset": "million-hearts-model-visit",
+  "url": "https://resdac.org/cms-data/files/million-hearts-model-visit?page=1"
+}

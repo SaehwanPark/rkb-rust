@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_9",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "Ischemic Heart Disease Mid-Year Indicator \n\n ISCHEMICHEART_EVER \n Date that beneficiary first met claims criteria for the ischemic heart disease indicator \n\n DEPRESSION \n Depression End-of-Year Indicator \n\n DEPRESSION_MID \n Depression Mid-Year Indicator \n\n DEPRESSION_EVER \n Date that beneficiary first met claims criteria for the depression indicator \n\n OSTEOPOROSIS \n Osteoporosis End-of-Year Indicator \n\n OSTEOPOROSIS_MID \n Osteoporosis Mid-Year Indicator \n\n OSTEOPOROSIS_EVER \n Date that",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

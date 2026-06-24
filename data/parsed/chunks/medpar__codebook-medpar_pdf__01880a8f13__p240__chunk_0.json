@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p240__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 240,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 224 \n\nSRGCL_PRCDR_IND_SW \n\nLABEL: Surgical Procedure Indicator \n\nDESCRIPTION: The switch indicating whether there were any surgical procedures performed during the beneficiary's \nstay. \n\nSHORT NAME: PRCDRSW \n\nLONG NAME: SRGCL_PRCDR_IND_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: 0 = No surgery indicated \n1 = Yes surgery indicated \n\nCOMMENT: This field is derived by checking for the presence",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

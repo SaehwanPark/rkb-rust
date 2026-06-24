@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p13__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 13,
+  "text": "RECODE : Last 6 mths, how often health plan customer service treat w/respect and courtesy\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\ncs_cstryinfo: RECODE : Last 6 mths, try to get info or help from health plan customer service\n\nSAS Format: YNA\n\n1: YES\n\n2: NO\n educ: RECODE : Highest education level completed\n\nSAS Format: EDU\n\n1: <= 8TH GRADE\n\n2: SOME HS\n\n3: HS GRAD/GED\n\n4: SOME COLLEGE/2-YR DEGREE\n\n5: 4-YR COLLEGE GRAD\n\n6: >4-YR COLLEGE DEGREE\n\nghs: RECODE : Rate overall",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

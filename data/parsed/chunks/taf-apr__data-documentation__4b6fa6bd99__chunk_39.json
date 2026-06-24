@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_39",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "SUBMTG_STATE_PRVDR_ID\n\n Submitting State Provider Identification Number\n\n 2\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 3\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 4\n\n PRVDR_LCTN_ID\n\n Provider Location Identifier\n\n 5\n\n PRCTC_LCTN_IND\n\n Practice Location Indicator\n\n 6\n\n SRVC_LCTN_IND\n\n Service Location Indicator\n\n 7\n\n PRVDR_ADR_LINE_1\n\n Provider Street Address 1\n\n 8\n\n PRVDR_ADR_LINE_2\n\n Provider Street Address 2\n\n 9\n\n PRVDR_ADR_LINE_3\n\n Provider Street Address 3\n\n 10\n\n PRVDR_CITY",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

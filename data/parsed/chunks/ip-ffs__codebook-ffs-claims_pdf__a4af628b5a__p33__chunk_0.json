@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p33__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 33,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 15 \n\nBENE_STATE_CD \n\nLABEL: Beneficiary Residence (SSA) State Code \n\nDESCRIPTION: The social security administration (SSA) standard 2-digit state code of a beneficiary's residence. \n\nSHORT NAME: STATE_CD \n\nLONG NAME: BENE_STATE_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: SSA/EDB \n\nVALUES: 01 = Alabama \n02 = Alaska \n03 = Arizona \n04 = Arkansas \n05 = California \n06 = Colorado \n07 =",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

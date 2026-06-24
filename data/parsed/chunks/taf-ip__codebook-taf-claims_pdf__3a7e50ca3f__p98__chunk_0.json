@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p98__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 98,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 87 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \nLT header \nOT header \n\nVALUES: http://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/codes.html \nhttps://www.cms.gov/Medicare/Coding/ICD10 \nNull/missing = Source value is missing, unknown \n\nCOMMENT: The code is either an ICD-9 or an ICD-10-CM code, depending on the date. For ICD-9 diagnosis codes, \nthis is a 3–5",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

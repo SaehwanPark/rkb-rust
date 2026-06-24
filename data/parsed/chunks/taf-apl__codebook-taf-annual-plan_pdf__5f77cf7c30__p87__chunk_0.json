@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__codebook-taf-annual-plan_pdf__5f77cf7c30__p87__chunk_0",
+  "source_document": "data/raw/assets/pdf/5f77cf7c30acd114cc7f3b826ca63f6650c33876.pdf",
+  "page": 87,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: TAF Annual Managed Care Plan (APL) RIFs │ October 2022 │ V 1.1 79 \n\nRFRNC_YR \n\nLABEL: Reference Year \n\nDESCRIPTION: This variable represents the year of the data file \n\nSHORT NAME: RFRNC_YR \n\nLONG NAME: RFRNC_YR \n\nTYPE: CHAR \n\nLENGTH: 4 \n\nFILE(S): All Annual Managed Care Plan files \n\nSOURCE: T-MSIS Annual Managed Care Plan TAF \n\nVALUES: YYYY \n\nCOMMENT: First year possible is 2014. \n ^ Back to TOC ^",
+  "dataset": "taf-apl",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-plan.pdf"
+}

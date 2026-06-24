@@ -1,0 +1,706 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Medicaid Analytic Extract Prescription Drug
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Record Layout - MAX
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted 723 CCW Beneficiary ID        
+          
+
+      
+
+                                                                      MSIS_ID        
+                                                                      Encrypted MSIS Identification Number        
+          
+
+      
+
+                                                                      STATE_CD        
+                                                                      State        
+          
+
+      
+
+                                                                      YR_NUM        
+                                                                      Year of MAX Record        
+          
+
+      
+
+                                                                      EL_DOB         
+                                                                      Birth date        
+          
+
+      
+
+                                                                      EL_SEX_CD        
+                                                                      Sex (MAX)        
+          
+
+      
+
+                                                                      EL_RACE_ETHNCY_CD        
+                                                                      Race/ethnicity (from MSIS)        
+          
+
+      
+
+                                                                      RACE_CODE_1        
+                                                                      Race - White (from MSIS)        
+          
+
+      
+
+                                                                      RACE_CODE_2        
+                                                                      Race - Black (from MSIS)        
+          
+
+      
+
+                                                                      RACE_CODE_3        
+                                                                      Race - Am Indian/Alaskan (from MSIS)        
+          
+
+      
+
+                                                                      RACE_CODE_4        
+                                                                      Race - Asian (from MSIS)        
+          
+
+      
+
+                                                                      RACE_CODE_5        
+                                                                      Race - Hawaiian/Pac Islands (from MSIS)        
+          
+
+      
+
+                                                                      ETHNICITY_CODE        
+                                                                      Ethnicity - Hispanic (from MSIS)        
+          
+
+      
+
+                                                                      EL_SS_ELGBLTY_CD_LTST        
+                                                                      State specific eligibility - most recent        
+          
+
+      
+
+                                                                      EL_SS_ELGBLTY_CD_MO        
+                                                                      State specific eligibility - mo of svc        
+          
+
+      
+
+                                                                      EL_MAX_ELGBLTY_CD_LTST        
+                                                                      MAX eligibility - most recent        
+          
+
+      
+
+                                                                      EL_MAX_ELGBLTY_CD_MO        
+                                                                      MAX eligibility - mo of svc        
+          
+
+      
+
+                                                                      EL_MDCR_ANN_XOVR_OLD        
+                                                                      Medicare Crossover code (Annual) old values        
+          
+
+      
+
+                                                                      MSNG_ELG_DATA         
+                                                                      Missing eligibility data        
+          
+
+      
+
+                                                                      EL_MDCR_XOVR_CLM_BSD_CD        
+                                                                      Crossover code (from claims only)        
+          
+
+      
+
+                                                                      EL_MDCR_ANN_XOVR_99        
+                                                                      Crossover code (Annual)        
+          
+
+      
+
+                                                                      MSIS_TOS         
+                                                                      MSIS Type of Service (TOS)        
+          
+
+      
+
+                                                                      MSIS_TOP        
+                                                                      MSIS Type of Program (TOP)        
+          
+
+      
+
+                                                                      MAX_TOS        
+                                                                      MAX Type of Service (TOS)        
+          
+
+      
+
+                                                                      PRVDR_ID_NMBR         
+                                                                      Billing provider identification number (MAX)        
+          
+
+      
+
+                                                                      NPI         
+                                                                      National Provider Identifier (MAX)        
+          
+
+      
+
+                                                                      TAXONOMY         
+                                                                      Provider Taxonomy        
+          
+
+      
+
+                                                                      TYPE_CLM_CD         
+                                                                      Type of claim        
+          
+
+      
+
+                                                                      ADJUST_CD        
+                                                                      Adjustment code        
+          
+
+      
+
+                                                                      PHP_TYPE        
+                                                                      Managed care type of plan code        
+          
+
+      
+
+                                                                      PHP_ID        
+                                                                      Managed care plan identification code        
+          
+
+      
+
+                                                                      MDCD_PYMT_AMT        
+                                                                      Medicaid payment amount        
+          
+
+      
+
+                                                                      TP_PYMT_AMT        
+                                                                      Third party payment amount        
+          
+
+      
+
+                                                                      PYMT_DT        
+                                                                      Payment/adjudication date        
+          
+
+      
+
+                                                                      CHRG_AMT        
+                                                                      Charge amount        
+          
+
+      
+
+                                                                      PHP_VAL        
+                                                                      Prepaid plan value        
+          
+
+      
+
+                                                                      MDCR_COINSUR_PYMT_AMT        
+                                                                      Medicare coinsurance payment amount        
+          
+
+      
+
+                                                                      MDCR_DED_PYMT_AMT        
+                                                                      Medicare deductible payment amount        
+          
+
+      
+
+                                                                      PRES_PHYSICIAN_ID_NUM        
+                                                                      Prescribing physician id number        
+          
+
+      
+
+                                                                      PRSC_WRTE_DT        
+                                                                      Prescribed date        
+          
+
+      
+
+                                                                      PRSCRPTN_FILL_DT        
+                                                                      Prescription fill date (MAX)        
+          
+
+      
+
+                                                                      NEW_REFILL_IND        
+                                                                      New or refill indicator        
+          
+
+      
+
+                                                                      NDC        
+                                                                      National Drug Code (NDC)        
+          
+
+      
+
+                                                                      QTY_SRVC_UNITS        
+                                                                      Quantity of service        
+          
+
+      
+
+                                                                      DAYS_SUPPLY        
+                                                                      Days Supply (MAX)        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

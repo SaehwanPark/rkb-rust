@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p359__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 359,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 341 \n\nREV_CNTR_BENE_PMT_AMT \n\nLABEL: Revenue Center Payment Amount to Beneficiary \n\nDESCRIPTION: The amount paid to the beneficiary for the services reported on the line item. \n\nSHORT NAME: RBENEPMT \n\nLONG NAME: REV_CNTR_BENE_PMT_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: XXX.XX \n\nCOMMENT: This field is populated for those claims that are required to process through",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

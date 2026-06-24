@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_5",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "ORG_NPI \n Organization NPI Number (Encounter) \n\n ORG_TXNMY_CD \n Organization Taxonomy Code \n\n RNDRNG_PHYSN_NPI \n Rendering Physician NPI (Encounter) \n\n RFRG_PHYSN_NPI \n Carrier/DME Referring Physician NPI Number \n\n AT_PHYSN_NPI \n Claim Attending Physician NPI Number (Encounter) \n\n AT_PHYSN_TXNMY_CD \n Claim Attending Physician Taxonomy Code \n\n OP_PHYSN_NPI \n Claim Operating Physician NPI Number (Encounter) \n\n OT_PHYSN_NPI \n Claim Other Physician NPI Number (Encounter) \n\n CLM_ADMSN_DT \n Claim",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_18",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "DMERC_LINE_PRCNG_STATE_CD \n DMERC Line Pricing State Code (SSA) \n\n PRVDR_STATE_CD \n NCH Provider SSA State Code \n\n DMERC_LINE_SUPPLR_TYPE_CD \n DMERC Line Supplier Type Code \n\n DMERC_LINE_SCRN_SVGS_AMT \n DMERC Line Screen Savings Amount \n\n DMERC_LINE_MTUS_CNT \n DMERC Line Miles/Time/Units/Services (MTUS) Count \n\n DMERC_LINE_MTUS_CD \n DMERC Line Miles/Time/Units/Services (MTUS) Indicator Code \n\n LINE_HCT_HGB_RSLT_NUM \n Hematocrit/Hemoglobin Test Results \n\n LINE_HCT_HGB_TYPE_CD",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

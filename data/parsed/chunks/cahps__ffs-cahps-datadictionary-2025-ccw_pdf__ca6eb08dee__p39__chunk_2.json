@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p39__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 39,
+  "text": "FFS Q55B \nMA-PD Q61C \nMA-Only Q56C What is your race? Please mark one or more. \nrace_black PDP Q21C Black or African-American \nFFS Q55C \nMA-PD Q61D \nMA-Only Q56D What is your race? Please mark one or more. \nrace_pacific PDP Q21D Native Hawaiian or other Pacific Islander \nFFS Q55D \nMA-PD Q61E \nMA-Only Q56E What is your race? Please mark one or more. \nrace_white PDP Q21E White \nFFS Q55E \nMA-PD Q62 \nMA-Only Q57 \nliving_numinhh How many people live in your household now, including yourself? \nPDP",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_26",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Adjustment Reason Code\n\n 40\n\n REV_CNTR_RA_RMRK_CD\n\n Revenue Center Remittance Advice Remark Code\n\n Condition Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n RLT_COND_CD_SEQ\n\n Claim Related Condition Code Sequence\n\n 5\n\n CLM_RLT_COND_CD\n\n Claim Related Condition Code (FFS)\n\n Occurence Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

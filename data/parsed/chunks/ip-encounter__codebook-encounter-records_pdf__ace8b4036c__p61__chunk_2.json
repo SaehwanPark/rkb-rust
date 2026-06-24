@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p61__chunk_2",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 61,
+  "text": "Intermediate care — level II \n7 = Subacute inpatient (revenue \ncode 019X required) (formerly \nIntermediate care — level III) \n8 = Swing bed \nFor facility type code 7 (clinics): \n\n1 = Rural Health Clinic (RHC) \n2 = Hospital based or independent \nrenal dialysis facility \n3 = Free-standing provider based \nfederally qualified health \ncenter (FQHC) \n4 = Other Rehabilitation Facility \n(ORF) \n 5 = Comprehensive Rehabilitation \nCenter (CORF) \n6 = Community Mental Health \nCenter (CMHC) \n7 = Federally",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

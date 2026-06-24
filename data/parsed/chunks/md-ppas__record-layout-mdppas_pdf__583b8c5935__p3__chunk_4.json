@@ -1,0 +1,8 @@
+{
+  "chunk_id": "md-ppas__record-layout-mdppas_pdf__583b8c5935__p3__chunk_4",
+  "source_document": "data/raw/assets/pdf/583b8c59350c60f3a057b741c5d5e47e73c3d990.pdf",
+  "page": 3,
+  "text": "Source \n\npos_office % of line items delivered in office Claims \n\npos_retail % of line items delivered in retail clinics Claims \n\npos_urgent % of line items delivered in urgent care centers Claims \n\npos_inpat % of line items delivered in inpatient hospital Claims \n\npos_opd % of line items delivered in hospital outpatient department (OPD) Claims",
+  "dataset": "md-ppas",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mdppas.pdf"
+}

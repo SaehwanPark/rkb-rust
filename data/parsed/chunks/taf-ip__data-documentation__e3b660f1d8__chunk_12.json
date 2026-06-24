@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_12",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Version Code 10 (ICD-9 or ICD-10)\n\n 71\n\n DGNS_POA_IND_10\n\n Diagnosis Present on Admission Indicator 10\n\n 72\n\n DGNS_CD_11\n\n Diagnosis Code 11\n\n 73\n\n DGNS_VRSN_CD_11\n\n Diagnosis Version Code 11 (ICD-9 or ICD-10)\n\n 74\n\n DGNS_POA_IND_11\n\n Diagnosis Present on Admission Indicator 11\n\n 75\n\n DGNS_CD_12\n\n Diagnosis Code 12\n\n 76\n\n DGNS_VRSN_CD_12\n\n Diagnosis Version Code 12 (ICD-9 or ICD-10)\n\n 77\n\n DGNS_POA_IND_12\n\n Diagnosis Present on Admission Indicator 12\n\n 78\n\n HAC_IND\n\n Health Care Acquired",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

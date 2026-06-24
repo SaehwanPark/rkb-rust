@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p20__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 20,
+  "text": "YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nproxy_tran: RECODE : How helped: Proxy translated questions\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nproxy_writ: RECODE : How helped: Proxy wrote answers\n\nSAS Format: YNE\n\n0: NOT CHECKED\n\n1: CHECKED\n\nr_ghs: REVERSED: Rate Overall Health\n\nSAS Format: RTC\n\n1: POOR\n\n2: FAIR\n\n3: GOOD\n\n4: VERY GOOD\n\n5: EXCELLENT",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

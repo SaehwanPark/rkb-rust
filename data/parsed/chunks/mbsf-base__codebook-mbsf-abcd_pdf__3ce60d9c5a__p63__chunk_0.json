@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p63__chunk_0",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 63,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D Codebook │ May 2026 │ V 1.9 55 \n\nSTATE_CODE \n\nLABEL: State code for beneficiary (SSA code) \n\nDESCRIPTION: The social security administration (SSA) standard 2-digit state code of a beneficiary's residence. \n\nSHORT NAME: STATE_CD \n\nLONG NAME: STATE_CODE \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: SSA/CME \n\nVALUES: \n 01 = Alabama \n02 = Alaska \n03 = Arizona \n04 = Arkansas \n05 = California \n06 = Colorado \n07 =",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

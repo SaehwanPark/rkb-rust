@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_18",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "- Combined Data\n\n 90\n\n HEARIM_MEDICAID\n\n Hearing Impaired Indicator - Medicaid-Only Data\n\n 91\n\n HEARIM_MEDICARE\n\n Hearing Impaired Indicator - Medicare-Only Data\n\n 92\n\n HEPA_COMBINED\n\n Hepatitis A - Combined Medicare & Medicaid Claims\n\n 93\n\n HEPA_MEDICAID\n\n Hepatitis A - Medicaid Only Claims\n\n 94\n\n HEPA_MEDICARE\n\n Hepatitis A - Medicare Only Claims\n\n 95\n\n HEPB_ACT_COMBINED\n\n Hepatitis B (Acute or Unspecified) - Combined Medicare & Medicaid Claims\n\n 96\n\n HEPB_ACT_MEDICAID\n\n Hepatitis B (Acute or",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

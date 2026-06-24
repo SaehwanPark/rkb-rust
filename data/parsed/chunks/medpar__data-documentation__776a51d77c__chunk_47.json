@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_47",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Diagnosis E Code Present on Admission Indicator 10\n\n 264\n\n POA_DGNS_E_11_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 11\n\n 265\n\n POA_DGNS_E_12_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 12\n\n 266\n\n SRGCL_PRCDR_IND_SW\n\n Surgical Procedure Indicator\n\n 267\n\n SRGCL_PRCDR_CD_CNT\n\n Surgical procedure codes included in stay\n\n 268\n\n SRGCL_PRCDR_VRSN_CD\n\n Surgical Procedure Version Code (Earlier Version)\n\n 269\n\n SRGCL_PRCDR_VRSN_CD_1\n\n MEDPAR Surgical Procedure Version Code 1",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

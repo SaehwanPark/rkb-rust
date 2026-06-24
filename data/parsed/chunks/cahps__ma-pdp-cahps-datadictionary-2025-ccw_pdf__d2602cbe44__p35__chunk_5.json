@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p35__chunk_5",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 35,
+  "text": "mark the box below for each type of health insurance that you have.\nins_other_txt FFS Q02_O (Please write the name of the other health insurance you currently have on the line below.)\nPlease mark the box below for each type of health insurance that you have.\nins_medicare FFS Q02H I don’t have health insurance other than Medicare.\nMA-PD\nca_illness MA-Only Q03 In the last 6 months, did you have an illness, injury, or condition that needed care right away?\nFFS\nMA-PD\nca_illasaw MA-Only Q04 In the",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

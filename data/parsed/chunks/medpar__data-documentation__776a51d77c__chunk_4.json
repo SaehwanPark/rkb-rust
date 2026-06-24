@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_4",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "14\n\n BENE_DSCHRG_STUS_CD \n\n Code identifying status of patient as of CLM_THRU_DT\n\n 15\n\n FICARR_IDENT_NUM\n\n Fiscal Intermediary (FI) ID Number\n\n 16\n\n WRNG_IND_CD\n\n Warning indicators code specifying detailed billing info\n\n 17\n\n GHO_PD_CD \n\n Code indicating whether Group Health Organization (GHO) has paid provider for claim(s)\n\n 18\n\n PPS_IND_CD \n\n Prospective payment system (PPS) Indicator Code\n\n 19\n\n ORG_NPI_NUM \n\n Organization NPI Number (FFS)\n\n 20\n\n PRVDR_NUM \n\n MEDPAR Provider Number\n\n 21",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

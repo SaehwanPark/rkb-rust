@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_9",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Date Verification Code\n\n 41\n\n ADMSN_DEATH_DAY_CNT\n\n Days from date admitted to facility to date of death\n\n 42\n\n INTRNL_USE_SSI_IND_CD \n\n MEDPAR Internal Use SSI Indicator Code\n\n 43\n\n INTRNL_USE_SSI_DAY_CNT \n\n MEDPAR Internal Use SSI Day Count\n\n 44\n\n INTRNL_USE_SSI_DATA\n\n MEDPAR Internal Use SSI Data\n\n 45\n\n INTRNL_USE_IPSB_CD\n\n For internal Use Only. IPSB Code\n\n 46\n\n INTRNL_USE_FIL_DT_CD\n\n For internal use only. Fiscal year/calendar year segments.\n\n 47\n\n INTRNL_USE_SMPL_SIZE_CD\n\n For internal",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

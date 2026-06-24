@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-drug-characteristics__data-documentation__94330ae01c__chunk_2",
+  "source_document": "data/raw/html/documentation_page/94330ae01c5174c465ae2ea92c4c7ac5374ce077.html",
+  "page": null,
+  "text": "Part D Event (PDE)/Drug Characteristics\n\n SAS Name\n Variable Name\n\n BN \n Brand Name \n\n GNN \n Generic Name \n\n STR \n Drug Strength Description \n\n GCDF \n Dosage Form Code \n\n GCDF_DESC \n Dosage Form Code Description",
+  "dataset": "part-d-drug-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-drug-characteristics/data-documentation"
+}

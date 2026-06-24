@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__codebook-ptd-plan-election-type-beneficiary-summary-file_pdf__d89f73f952__p17__chunk_1",
+  "source_document": "data/raw/assets/pdf/d89f73f9524b703a2cac0a3ae5eee514c245464b.pdf",
+  "page": 17,
+  "text": "has with CMS. \n\nThis field is a key that links Part D sponsor's contract and plan identifiers. \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nFILE(S): Part D Beneficiary Plan Election file \n\nVALUES: 3-digit numeric value \n\nCOMMENT: You need to know both the Part D contract number (variable called CONTRACT_ID) and plan benefit \npackage identifier in order to identify the specific plan benefit package offered to beneficiaries. \n\n^ Back to TOC ^",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-election-type-beneficiary-summary-file.pdf"
+}

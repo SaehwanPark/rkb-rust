@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_40",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Claim service facility ZIP code (where service was provided)\n\n 213\n\n CLM_IP_LOW_VOL_PMT_AMT\n\n Claim Inpatient Low Volume Payment Amount\n\n 214\n\n CLM_CARE_IMPRVMT_MODEL_CD1\n\n Claim Care Improvement Model 1 Code (bundled payment)\n\n 215\n\n CLM_CARE_IMPRVMT_MODEL_CD2\n\n Claim Care Improvement Model 2 Code\n\n 216\n\n CLM_CARE_IMPRVMT_MODEL_CD3\n\n Claim Care Improvement Model 3 Code\n\n 217\n\n CLM_CARE_IMPRVMT_MODEL_CD4\n\n Claim Care Improvement Model 4 Code\n\n 218\n\n CLM_BNDLD_MODEL_1_DSCNT_PCT\n\n Claim Bundled",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

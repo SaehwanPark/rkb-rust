@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_23",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "State Code (FFS)\n\n 145\n\n BENE_MLG_CNTCT_ZIP_CD\n\n Zip Code of Residence from Claim\n\n 146\n\n CLM_MDCL_REC\n\n Claim Medical Record Number (FFS)\n\n 147\n\n CLM_TRTMT_AUTHRZTN_NUM\n\n Claim Treatment Authorization Number\n\n 148\n\n CLM_PRCR_RTRN_CD\n\n Claim Pricer Return Code\n\n 149\n\n CLM_PRCR_VRSN_CD\n\n Claim Pricer Version Code\n\n 150\n\n CLM_SRVC_FAC_ZIP_CD\n\n Claim service facility ZIP code (where service was provided)\n\n 151\n\n CLM_OP_TRANS_TYPE_CD\n\n Claim Outpatient transaction type\n\n 152\n\n CLM_OP_ESRD_MTHD_CD",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p16__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 16,
+  "text": "Format: DIF \n\n1: YES-UNABLE TO DO \n\n2: YES-HAVE DIFFICULTY \n\n3: NO-NO DIFFICULTY \n\nlim_toilet: RECODE : Physical problem limits: Using toilet \n\nSAS Format: DIF \n\n1: YES-UNABLE TO DO \n\n2: YES-HAVE DIFFICULTY \n\n3: NO-NO DIFFICULTY \n\nlim_walking: RECODE : Physical problem limits: Walking \n\nSAS Format: DIF \n\n1: YES-UNABLE TO DO \n\n2: YES-HAVE DIFFICULTY \n\n3: NO-NO DIFFICULTY \n\nliving_numinhh: RECODE : Number of people living in household \n\nSAS Format: NMD \n\n1: 1 PERSON \n\n2: 2-3 PEOPLE \n\n3: 4+ PEOPLE",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

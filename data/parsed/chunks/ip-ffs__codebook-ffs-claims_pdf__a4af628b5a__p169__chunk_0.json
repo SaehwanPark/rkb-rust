@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p169__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 169,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 151 \n\nDEMO_INFO_TXT \n\nLABEL: Demonstration information text \n\nDESCRIPTION: This is a text field that contains information related to the demonstration. \n\nFor example, a claim involving a CHOICES demo id “05” would contain the MCO plan contract number \nin the first five positions of this text field. \n\nSHORT NAME: DEMO_INFO_TXT \n\nLONG NAME: DEMO_INFO_TXT \n\nTYPE: CHAR \n\nLENGTH:",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

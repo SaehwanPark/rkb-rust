@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p23__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 23,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 14 \n\nCOVSTART \n\nLABEL: Medicare Coverage Start Date \n\nDESCRIPTION: This variable is the date when the beneficiary first became enrolled in Medicare benefits (Part A or \nPart B coverage). \n\nLONG NAME: COVSTART \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: — \n\nCOMMENT: Historic date of first Medicare coverage (may be prior to 1999,",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

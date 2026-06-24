@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__data-documentation__5852cefcaf__chunk_34",
+  "source_document": "data/raw/html/documentation_page/5852cefcaf4dca5dba3392a521caae7b6816e9f1.html",
+  "page": null,
+  "text": "Condition Code Sequence\n\n 5\n\n CLM_RLT_COND_CD\n\n Claim Related Condition Code (Encounter)\n\n Occurrence Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n RLT_OCRNC_CD_SEQ\n\n Claim Related Occurrence Code Sequence\n\n 5\n\n CLM_RLT_OCRNC_CD\n\n Claim Related Occurrence Code (Encounter)\n\n 6\n\n CLM_RLT_OCRNC_DT\n\n Claim Related Occurrence Date (Encounter)\n\n Span Code File \n\nNumberSAS",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter/data-documentation"
+}

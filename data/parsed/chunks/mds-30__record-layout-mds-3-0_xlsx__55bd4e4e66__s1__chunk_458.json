@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_458",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "in this column indicates the reason that the resident did not receive the pneumococcal vaccine. -=Not assessed/no information\r\n1=Not elgible - medical contraindication\r\n2=Offered and declined\r\n3=Not offered\r\n^=Blank (skip pattern)\n509 O0400A1_SPCH_THRPY_IND_MIN_NUM O0400A1_SPCH_THRPY_IND_MIN_NUM O0400A1 Speech Therapy/Audiology Individual Minutes Number CHAR 4 The data in this column indicates the total number of minutes that speech-language pathology and audiology services were administered to",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

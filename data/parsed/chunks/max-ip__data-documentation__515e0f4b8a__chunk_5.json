@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ip__data-documentation__515e0f4b8a__chunk_5",
+  "source_document": "data/raw/html/documentation_page/515e0f4b8a82429031028f6befb46024fb536839.html",
+  "page": null,
+  "text": "National Provider Identifier (MAX) \n\n TAXONOMY \n Provider Taxonomy \n\n TYPE_CLM_CD \n Type of claim \n\n ADJUST_CD \n Adjustment code \n\n PHP_TYPE \n Managed care type of plan code \n\n PHP_ID \n Managed care plan identification code \n\n MDCD_PYMT_AMT \n Medicaid payment amount \n\n TP_PYMT_AMT \n Third party payment amount \n\n PYMT_DT \n Payment/adjudication date \n\n CHRG_AMT \n Charge amount \n\n PHP_VAL \n Prepaid plan value \n\n MDCR_COINSUR_PYMT_AMT \n Medicare coinsurance payment amount \n\n MDCR_DED_PYMT_AMT",
+  "dataset": "max-ip",
+  "url": "https://resdac.org/cms-data/files/max-ip/data-documentation"
+}

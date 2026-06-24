@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__data-documentation__d62affc4d5__chunk_6",
+  "source_document": "data/raw/html/documentation_page/d62affc4d53fdc4e8dcb747059a124cbc56c2cd2.html",
+  "page": null,
+  "text": "Immunization Services Indicator \n\n IMMUNIZATIONS_CD \n Code Indicating the Level of Immunization Services Offered \n\n STATUS_340B_IND \n 340B Status Indicator \n\n STATUS_340B_CD \n Code Indicating the Level of 340B Services Offered",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_29",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "CMS-21 Form Category of Service for the Paid Claim\n\n 20\n\n CMS_64_FED_CTGRY_CD\n\n CMS-64 Form Code for Federal Reimbursement\n\n 21\n\n REV_CNTR_CD\n\n Revenue Center Code (TAF)\n\n 22\n\n ACTL_SRVC_QTY\n\n Actual Service Quantity\n\n 23\n\n ALOWD_SRVC_QTY\n\n Maximum Allowed Service Quantity\n\n 24\n\n NDC\n\n National Drug Code\n\n 25\n\n NDC_UOM_CD\n\n NDC Unit of Measure Code\n\n 26\n\n NDC_QTY\n\n NDC Quantity Dispensed\n\n 27\n\n IMNZTN_TYPE_CD\n\n Immunization Type Code\n\n 28\n\n PRVDR_FAC_TYPE_CD\n\n Provider Facility Type Code\n\n 29",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

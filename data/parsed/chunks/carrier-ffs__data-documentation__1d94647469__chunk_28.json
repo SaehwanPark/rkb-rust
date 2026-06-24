@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_28",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "NPI Number \n\n LINE_RSDL_PYMT_IND_CD \n Line Residual Payment Indicator Code \n\n LINE_RP_IND_CD \n Line Representative Payee (RP) Indicator Code \n\n LINE_PRVDR_VLDTN_TYPE_CD \n Line Provider Validation Type Code \n\n LINE_VLNTRY_SRVC_IND_CD \n Line Voluntary Service Indicator Code \n\n LINE_ADJUST_GRP_CD \n Line Adjustment Group Code \n\n LINE_ADJUST_RSN_CD \n Line Adjustment Reason Code \n\n LINE_RA_RMRK_CD \n Line Remittance Advice Remark Code \n\nDemonstrations/Innovations Code File\n\n SAS Name\n Variable Name",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

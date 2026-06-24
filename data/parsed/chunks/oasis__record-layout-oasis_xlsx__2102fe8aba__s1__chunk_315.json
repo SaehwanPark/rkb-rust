@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_315",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "= Patient depends entirely upon another person to dress lower body. CHAR 2 x x x x x x\nM1830_CRNT_BATHG M1830 Current Bathing This field indicates the patient's current ability to wash entire body safely. 00 = Able to bathe self in shower or turn independently, including getting in and out of tub/shower.\r\n01 = With the use of devices, is able to bathe self in shower or tub\r\nindependently including getting in and out of the tub/shower.; 02=Able to bathe in shower or tub with the intermittent",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

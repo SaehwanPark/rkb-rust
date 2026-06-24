@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p80__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 80,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 69 \n\nCOPAY_WVD_IND \n\nLABEL: Indicator Signifying Copay was Waived by Provider \n\nDESCRIPTION: An indicator signifying that the copay was waived by the provider. \n\nSHORT NAME: COPAY_WVD_IND \n\nLONG NAME: COPAY_WVD_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \nLT header \nOT header \nRX header \n\nVALUES: 0 = Not Waived: The provider did not waive",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

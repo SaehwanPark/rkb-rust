@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p274__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 274,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 261 \n\nPRE_ICL_COSTSHARE_TYPE \n\nLABEL: Pre-ICL Cost Share Type \n\nDESCRIPTION: Indicates the type of cost sharing that drugs on the tier are subject to during the pre-initial coverage \nlimit (ICL) phase, which may include copayment, co-insurance, or the greater/lesser of the two. \n\nSHORT NAME: — \n\nLONG NAME: PRE_ICL_COSTSHARE_TYPE \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS Files)",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

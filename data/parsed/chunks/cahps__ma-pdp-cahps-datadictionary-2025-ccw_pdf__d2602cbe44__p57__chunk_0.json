@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p57__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 57,
+  "text": "A. Crosswalk: 2007 to 2025 - MA-PD Survey 57\n\nVariable Reverse 2007\nYear 1\n\nrace_white Q78A\nrace_black Q78B\nrace_asian Q78C\nrace_paciﬁc Q78D\nrace_natamer Q78E\nproxy Q79\nproxy_read Q80A\nproxy_writ Q80B\nproxy_answ Q80C\nproxy_tran Q80D\nproxy_othr Q80E\nproxy_othr_txt Q80_O\nliving_arr Q81\nliving_arr_txt Q81_O\nliving_alone\nliving_numinhh\nlim_bathing Q82A\nlim_dressing Q82B\nlim_eating Q82C\nlim_chairs Q82D\nlim_walking Q82E\nlim_toilet Q82F\nweb_at_home\nrecontact Q83\ndayphone Q84\nlang_speak",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

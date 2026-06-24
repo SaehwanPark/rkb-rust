@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_510",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "to respond to the question regarding lack of transportation. 0 = No\r\n1 = Yes\n442 TRNSPRTN_DCLN_RSPNS_DSCHRG_CD TRNSPRTN_DCLN_RSPNS_DSCHRG_CD Transportation: Patient declines to respond (Dsch) CHAR 1 This column documents that at the time of discharge the patient declined to respond to the question regarding lack of transportation. 0 = No\r\n1 = Yes\n443 CRNT_MDCTN_LST_PRVDR_CD CRNT_MDCTN_LST_PRVDR_CD Current Reconciled Medication List - Provider CHAR 1 This column documents whether, at the time of",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

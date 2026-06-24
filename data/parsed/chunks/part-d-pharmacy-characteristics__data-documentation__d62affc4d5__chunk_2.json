@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__data-documentation__d62affc4d5__chunk_2",
+  "source_document": "data/raw/html/documentation_page/d62affc4d53fdc4e8dcb747059a124cbc56c2cd2.html",
+  "page": null,
+  "text": "SAS Name\n Variable Name\n\n CCW_PHARM_ID \n CCW-assigned Pharmacy Identifier \n\n NCPDP_ID \n NCPDP Pharmacy Identifier (Pharmacy Characteristics) \n\n PREV_CCW_PHARM_ID \n Previous Owner CCW Pharmacy Identifier \n\n PHYSICAL_LOCATION_CLOSE_DATE \n Physical Location of Pharmacy Closure Date \n\n PHYSICAL_LOCATION_OPEN_DATE \n Physical Location of Pharmacy Open Date \n\n PHYSICAL_LOCATION_STATE_CODE \n Physical Location of Pharmacy State Code \n\n DISPENSER_CLASS \n Part D Dispenser Class Code",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_10",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "practice \n\n TOTAL_ANC \n Total costs for ancillary services \n\n ALL_EANDM_INGRP \n Total costs for E and M services billed by EPs in given practice \n\n ALL_EANDM_OTHGRP \n Total costs for E and M services billed by EPs outside practice \n\n TOTAL_ER \n Total costs for emergency services not included in a hospital admission \n\n PHYS_DURHOSP_INGRP \n Total costs for EP services during hospitalization in practice \n\n PHYS_DURHOSP_OTHGRP \n Total costs for EP services during hospitalization outside practice",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

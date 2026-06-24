@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__chunk_1",
+  "source_document": "data/raw/html/dataset_page/d82072986f1b00818ff87f632eef42c89e309650.html",
+  "page": null,
+  "text": "a set of files that contain Pioneer Accountable Care Organizations information. There are three separate files in the set:\nProvider-includes one record for each facility or professional participating provider\nBeneficiary-each record represents an individual beneficiary who was associated with a Pioneer ACO\nSettlement-one record for each Pioneer ACO provides information on the post-performance year financial settlement\n\nWhat does this file include? (variable highlights)\nProvider file\nPioneer ACO",
+  "dataset": "pioneer-aco",
+  "url": "https://resdac.org/cms-data/files/pioneer-aco?page=1"
+}

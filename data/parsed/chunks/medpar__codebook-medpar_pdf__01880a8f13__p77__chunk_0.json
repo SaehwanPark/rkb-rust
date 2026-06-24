@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p77__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 77,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 61 \n\nCVRD_LVL_CARE_THRU_DT \n\nLABEL: Date covered level of care ended in a SNF \n\nDESCRIPTION: The date on which a covered level of care ended in a SNF. \n\nSHORT NAME: CVRLVLDT \n\nLONG NAME: CVRD_LVL_CARE_THRU_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This field comes from the date associated with occurrence code = 22 if present on any of the claims \nincluded in the stay. If",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_4",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "FINAL_PTD_ELIG_MONTHS \n Part D Eligible Months \n\n BIRTH_DT \n Date of Birth \n\n DEATH_DT \n Date of Death \n\n SEX_CD \n Sex \n\n RACE_CD \n Race \n\n M01_ENROLL \n January 2021 Enrollment Flag \n\n M02_ENROLL \n February 2021 Enrollment Flag \n\n M03_ENROLL \n March 2021 Enrollment Flag \n\n M04_ENROLL \n April 2021 Enrollment Flag \n\n M05_ENROLL \n May 2021 Enrollment Flag \n\n M06_ENROLL \n June 2021 Enrollment Flag \n\n M07_ENROLL \n July 2021 Enrollment Flag \n\n M08_ENROLL \n August 2021 Enrollment Flag \n\n M09_ENROLL",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

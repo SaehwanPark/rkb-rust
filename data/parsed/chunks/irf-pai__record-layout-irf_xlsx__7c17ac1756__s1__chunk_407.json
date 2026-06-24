@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_407",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "limitations\r\n88 = Not attempted due to medical condition or safety concerns\n350 GG0170J1_WLK_50_2_TURN_STRT_CD GG0170J1_WLK_50_2_TURN_STRT_CD GG0170J1 Admission Performance Walk 50 Feet Code. CHAR 2 The data in this column indicates the patient's ability to walk at least 50 feet and make two turns at the time of admission. 01 = Dependent\r\n02 = Substantial/maximal assistance\r\n03 = Partial/moderate assistance\r\n04 = Supervision or touching assistance\r\n05 = Setup or clean-up assistance\r\n06 =",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

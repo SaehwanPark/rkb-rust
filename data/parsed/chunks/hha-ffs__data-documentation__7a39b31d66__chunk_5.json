@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_5",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "21\n\n PRVDR_STATE_CD\n\n NCH Provider SSA State Code\n\n 22\n\n ORG_NPI_NUM\n\n Organization (or group) NPI Number\n\n 23\n\n SRVC_LOC_NPI_NUM\n\n Claim Service Location NPI Number\n\n 24\n\n AT_PHYSN_UPIN\n\n Claim Attending Physician UPIN Number\n\n 25\n\n AT_PHYSN_NPI\n\n Claim Attending Physician NPI Number (FFS)\n\n 26\n\n AT_PHYSN_SPCLTY_CD\n\n Claim Attending Physician Specialty Code\n\n 27\n\n OP_PHYSN_NPI\n\n Claim Operating Physician NPI Number (FFS)\n\n 28\n\n OP_PHYSN_SPCLTY_CD\n\n Claim Operating Physician Specialty Code",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

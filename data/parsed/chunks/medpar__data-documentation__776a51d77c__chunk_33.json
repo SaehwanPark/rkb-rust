@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_33",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Diagnosis Code 3\n\n 178\n\n DGNS_4_CD\n\n MedPAR Diagnosis Code 4\n\n 179\n\n DGNS_5_CD\n\n MedPAR Diagnosis Code 5\n\n 180\n\n DGNS_6_CD\n\n MedPAR Diagnosis Code 6\n\n 181\n\n DGNS_7_CD\n\n MedPAR Diagnosis Code 7\n\n 182\n\n DGNS_8_CD\n\n MedPAR Diagnosis Code 8\n\n 183\n\n DGNS_9_CD\n\n MedPAR Diagnosis Code 9\n\n 184\n\n DGNS_10_CD\n\n MedPAR ICD-9-CM Diagnosis Code 10\n\n 185\n\n DGNS_11_CD\n\n MedPAR ICD-9-CM Diagnosis Code 11\n\n 186\n\n DGNS_12_CD\n\n MedPAR ICD-9-CM Diagnosis Code 12\n\n 187\n\n DGNS_13_CD\n\n MedPAR ICD-9-CM Diagnosis Code",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

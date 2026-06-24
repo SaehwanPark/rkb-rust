@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_9",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "RFRG_PRVDR_ID\n\n Referring Provider Identification Number\n\n 48\n\n RFRG_PRVDR_NPI\n\n Referring Provider NPI\n\n 49\n\n RFRG_PRVDR_TXNMY_CD\n\n Referring Provider Taxonomy Code\n\n 50\n\n RFRG_PRVDR_TYPE_CD\n\n Referring Provider Type Code\n\n 51\n\n RFRG_PRVDR_SPCLTY_CD\n\n Referring Provider Specialty Code\n\n 52\n\n DRCTNG_PRVDR_NPI\n\n NPI of Provider Directing the Patient's Care\n\n 53\n\n DRCTNG_PRVDR_TXNMY_CD\n\n Taxonomy Code of Provider Directing the Patient's Care\n\n 54\n\n SPRVSNG_PRVDR_NPI\n\n Supervising Provider NPI",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

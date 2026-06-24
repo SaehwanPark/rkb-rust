@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_21",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Claim Procedure Code XXV\n\n 132\n\n PRCDR_DT25\n\n Claim Procedure Code XXV Date\n\n 133\n\n RSN_VISIT_CD1\n\n Reason for Visit Diagnosis Code I (FFS)\n\n 134\n\n RSN_VISIT_CD2\n\n Reason for Visit Diagnosis Code II (FFS)\n\n 135\n\n RSN_VISIT_CD3\n\n Reason for Visit Diagnosis Code III (FFS)\n\n 136\n\n NCH_BENE_PTB_DDCTBL_AMT\n\n NCH Beneficiary Part B Deductible Amount\n\n 137\n\n NCH_BENE_PTB_COINSRNC_AMT\n\n NCH Beneficiary Part B Coinsurance Amount\n\n 138\n\n CLM_OP_PRVDR_PMT_AMT\n\n Claim Outpatient Provider Payment Amount",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

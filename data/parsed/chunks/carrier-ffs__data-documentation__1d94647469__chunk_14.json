@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_14",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID \n\n CLM_LINE_NUM \n Claim Line Number \n\n NCH_CLM_TYPE_CD \n NCH Claim Type Code \n\n CLM_THRU_DT \n Claim Through Date (FFS) \n\n CARR_PRFRNG_PIN_NUM \n Carrier Line Performing Provider ID Number (PIN) \n\n PRF_PHYSN_UPIN \n Carrier Line Performing UPIN Number \n\n PRF_PHYSN_NPI \n Carrier Line Performing NPI Number \n\n ORG_NPI_NUM \n Organization (or group) NPI Number \n\n CARR_LINE_PRVDR_TYPE_CD \n Carrier Line Provider Type",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

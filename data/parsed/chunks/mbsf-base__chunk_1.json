@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__chunk_1",
+  "source_document": "data/raw/html/dataset_page/bc037fe7a91d939c1551aec399d84c3e4d69bc38.html",
+  "page": null,
+  "text": "file includes beneficiary enrollment information, (A/B/C/D). Medicare Advantage (Part C) and the Prescription Drug Program (Part D) plan enrollment information is included.\n\nWhat does this file include? (variable highlights)\nState, county annual SSA codes\nState, county monthly FIPS codes\nZip code, State and County\nDate of birth, date of death\nRace\nReason for entitlement\nMonthly enrollment for each part of the Medicare program, A/B/C/D\nDual eligible status\nPart C plan and enrollment",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base"
+}

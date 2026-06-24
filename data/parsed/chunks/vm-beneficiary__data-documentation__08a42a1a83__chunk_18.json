@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_18",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "inpatient rehabilitation or long-term care hospital costs \n\n COST_ER_TESTS \n MSPB lab, pathology, and other test costs in an ER setting \n\n COST_MAJOR_PROCS_ANESTHESIA \n MSPB major procedure and anesthesia costs \n\n COST_MINOR_PROCS_AMBULATORY \n MSPB minor procedure and ambulatory service costs \n\n COST_PRTB_HOSP \n MSPB other physician or supplier Part B services billed during any hospitalization \n\n COST_OP_THERAPY \n MSPB outpatient physical, occupational, or speech and language pathology therapy",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p49__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 49,
+  "text": "R —– —– —–\nmd_disagree R —– —– —–\nmd_leavansr —– —– —–\nmd_result —– —– —–\nsp_informed D Q29\nsp_cacoord D Q30\npp_specvis —– —– —– —– —–\npp_specntwk —– —– —–\npp_specrec —– —–\npp_specfar R —– —–\npp_specfew R —– —–\npp_speclist R —–\npl_needcare Q39 Q39 Q39 Q38 Q38 Q30 Q31 Q25 Q25\npl_getcare* Q40 Q40 Q40 Q39 Q39 Q31 Q32 Q26 Q26\npl_paperwk Q44 Q44 Q44 Q43 Q43 Q35 Q36 Q30 Q30\npl_ezpaper* Q45 Q45 Q45 Q44 Q44 Q36 Q37 Q31 Q31\nrate_plan* Q46 Q46 Q46 Q45 Q45 Q37 Q38 Q32 Q32\npl_remindappt R Q47A Q47A Q47A",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

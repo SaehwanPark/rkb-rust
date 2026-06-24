@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p45__chunk_1",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 45,
+  "text": "MCO_TXNMY_IND \n\nLONG NAME: MCO_TXNMY_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): APR base \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: 0 = No \n1 = Yes \n\nCOMMENT: This variable = 1 if PRVDR_CLSFCTN_SYS = “1” or “N” and the taxonomy code value is one of the \nfollowing: \n302F00000X: Exclusive provider organization \n302R00000X: Health maintenance organization \n305R00000X: Preferred provider organization \n305S00000X: Point of service ^ Back to TOC ^",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p41__chunk_0",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 41,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Part D Event (PDE)/Drug Characteristics Codebook │ July 2025 │ V 1.8 36 \n\nPDE_ID \n\nLABEL: CCW Encrypted Part D Event Number \n\nDESCRIPTION: Identifies a unique Part D event for a beneficiary. \n\nSHORT NAME: PDE_ID \n\nLONG NAME: PDE_ID \n\nTYPE: CHAR \n\nLENGTH: 15 \n\nSOURCE: CCW \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

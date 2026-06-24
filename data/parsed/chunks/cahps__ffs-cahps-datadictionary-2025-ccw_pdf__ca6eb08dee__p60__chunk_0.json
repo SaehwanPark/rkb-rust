@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p60__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 60,
+  "text": "A. Composites: 2007 to 2025 - 60 \n\nA. Original Medicare Survey \n Survey Original Medicare\n\nThe following table shows composite crosswalk information for the Original Medicare survey. 2\n\nComposite Item 2025 2024 2023 2022 2021 2020 2019 2018 2017 \nYear 19 Year 18 Year 17 Year 16 Year 15 Year 14 Year 13 Year 12 Year 11 \n\ndp_getinfo pd_getcovinf \npd_getcostinf \npd_infocov \npd_csgetinfo \npd_csrespect \n\ndp_getdrug pd_ezrxmeds —– —– —– —– —– —– —– —– —– \npd_ezrxpharmˆ —– —– —– —– —– —– —– —– —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

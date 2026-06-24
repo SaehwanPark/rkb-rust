@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_5",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "received \n\n CMR_RECEIVED_DT3 \n Date Third Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_DT4 \n Date Fourth Comprehensive Medication Review (CMR) received \n\n CMR_RECEIVED_DT5 \n Date Fifth Comprehensive Medication Review (CMR) received \n\n WRIT_SUMM_DT \n Date the written summary of the required CMR (CMS standardized format) was provided or sent \n\n CMR_DELIVERY_METHOD \n Comprehensive Medication Review (CMR) delivery method \n\n CMR_PROVIDER \n Comprehensive Medication Review (CMR)",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

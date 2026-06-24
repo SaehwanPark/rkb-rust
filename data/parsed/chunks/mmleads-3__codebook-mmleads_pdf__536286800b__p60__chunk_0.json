@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p60__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 60,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 49 \n\nMDCD_PHARMACY_COV_MOS \n\nLABEL: Medicaid — Managed Care Pharmacy Months \n\nDESCRIPTION: This variable is the number of months during the year that the beneficiary was enrolled in a Medicaid \nPharmacy Prepaid Ambulatory Health Plan (PAHP) Managed Care Plan. \n\nTYPE: NUM \n\nLENGTH: 3 \n\nSOURCE: T-MSIS DE file \n\nVALUES: 0–12, or null/missing (if no Medicaid enrollment) \n\nCOMMENT: CCW obtains this directly from the DE Managed",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

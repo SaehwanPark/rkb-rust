@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-base__operational-payment-risk-score-user-guide_pdf__d8c366dd0a__p15__chunk_3",
+  "source_document": "data/raw/assets/pdf/d8c366dd0abbcfd26c61b8c4fd0774178fc9ab1b.pdf",
+  "page": 15,
+  "text": "CMS uses in determining both the raw and the resolved \nrisk scores. \n\nTable 7. Variables added together to create the raw risk scores within the risk adjustment model \n\nInput variables Details \nDemographic variables: \n• Age/sex \n• Originally entitled to Medicare due to disability \n• Medicaid \n There are relative factors associated with each \ndemographic variable. \n\nOther payment information:24 \n• ESRD status \n• LTI status \n• Dual enrollment status \n• PACE frailty score* \n CMS uses separate risk",
+  "dataset": "risk-score-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19002246/operational-payment-risk-score-user-guide.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_22",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "C (Unspecified) - Medicare Only Claims\n\n 110\n\n HEPD_COMBINED\n\n Hepatitis D - Combined Medicare & Medicaid Claims\n\n 111\n\n HEPD_MEDICAID\n\n Hepatitis D - Medicaid Only Claims\n\n 112\n\n HEPD_MEDICARE\n\n Hepatitis D - Medicare Only Claims\n\n 113\n\n HEPE_COMBINED\n\n Hepatitis E - Combined Medicare & Medicaid Claims\n\n 114\n\n HEPE_MEDICAID\n\n Hepatitis E - Medicaid Only Claims\n\n 115\n\n HEPE_MEDICARE\n\n Hepatitis E - Medicare Only Claims\n\n 116\n\n HEPVIRAL_COMBINED\n\n Viral Hepatitis (General) - Combined Medicare &",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

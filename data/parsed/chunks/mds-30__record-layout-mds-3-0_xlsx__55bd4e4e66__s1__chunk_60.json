@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_60",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "understand others. -=Not assessed/no information\r\n0=Understands-clear comprehension\r\n1=Usually understands-misses some part/intent of message but\r\ncomprehends most converstation\r\n2=Sometimes understands-responds adequately to simple, direct\r\ncommunication only\r\n3=Rarely/never understands\r\n^=Blank(skip pattern)\n92 B1000_VSN_CD B1000_VSN_CD B1000 Vision Code CHAR 1 The data in this column identifies the resident's ability to see with adequate light and visual appliances, if used. -=Not",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

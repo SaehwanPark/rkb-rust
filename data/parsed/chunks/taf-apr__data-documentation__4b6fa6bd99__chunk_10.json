@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_10",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Medicaid or CHIP Enrollment Terminated Indicator — Ever in Calendar Year\n\n 43\n\n PRVDR_ENRLMT_STUS_PENDG_IND\n\n Medicaid or CHIP Enrollment Status Pending Indicator — Ever in Calendar Year\n\n 44\n\n MLT_SNGL_SPCLTY_GRP_TXNMY_IND\n\n Multi- or Single-Specialty Group Taxonomy Indicator — Ever in Calendar Year\n\n 45\n\n ALPTHC_OSTPTHC_PHYSN_TXNMY_IND\n\n Allopathic or Osteopathic Physician Taxonomy Indicator — Ever in Calendar Year\n\n 46\n\n BHVRL_HLTH_SCL_SRVC_TXNMY_IND\n\n Behavioral Health-Social Service",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

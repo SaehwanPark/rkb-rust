@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p312__chunk_2",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 312,
+  "text": "STATE_SPEC_ELGBLTY_GRP_CD_LTST \n\nLONG NAME: STATE_SPEC_ELGBLTY_GRP_CD_LTST \n\nTYPE: CHAR \n\nLENGTH: 6 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: Maximum six alphanumeric characters (may include spaces) \n\nNull/missing = source value is missing or unknown \n\nCOMMENT: State-specific composite of eligibility mapping factors used to create the corresponding MAS and BOE \nvalues. \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

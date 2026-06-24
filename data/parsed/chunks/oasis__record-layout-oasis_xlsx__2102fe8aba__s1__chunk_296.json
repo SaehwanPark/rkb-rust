@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_296",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "2 x x x x\nM1620_BWL_INCONT M1620 (M0540) Bowel Incontinence Frequency This field indicates the frequency of bowel incontinence. 00 = Very rarely or never has bowel incontinence\r\n01 = Less than once weekly\r\n02 = One to three times weekly\r\n03 = Four to six times weekly\r\n04 = On a daily basis\r\n05 = More often than once daily\r\nNA = NA - Patient has ostomy for bowel elimination\r\nUK = Unknown CHAR 2 x x x x x x\nM1630_OSTOMY M1630 (M0550) Ostomy For Bowel Elimination This field indicates whether the",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

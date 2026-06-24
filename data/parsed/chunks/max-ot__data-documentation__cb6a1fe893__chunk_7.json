@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__data-documentation__cb6a1fe893__chunk_7",
+  "source_document": "data/raw/html/documentation_page/cb6a1fe893be87f24ba21899636e73ef0ee381c1.html",
+  "page": null,
+  "text": "Procedure (service) coding system \n\n PRCDR_CD \n Procedure (service) code \n\n PRCDR_SRVC_MDFR_CD \n Procedure (service) code modifier \n\n DIAG_CD_1 \n Principle Diagnosis code \n\n ICD_DGNS_VRSN_CD1 \n Claim Diagnosis Code 1 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n DIAG_CD_2 \n Diagnosis codes (2nd diagnosis) \n\n QTY_SRVC_UNITS \n Quantity of service \n\n SRVC_PRVDR_ID_NMBR \n Servicing provider identification number (MAX) \n\n SRVC_PRVDR_SPEC_CD \n Servicing provider specialty code (MAX)",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot/data-documentation"
+}

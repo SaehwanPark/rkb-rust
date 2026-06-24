@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_6",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "NPI Number (Encounter) \n\n OT_PHYSN_NPI \n Claim Other Physician NPI Number (Encounter) \n\n CLM_ADMSN_DT \n Claim Admission Date (Encounter) \n\n PTNT_DSCHRG_STUS_CD \n Patient Discharge Status Code (Encounter) \n\n BENE_DSCHRG_DT \n Beneficiary Discharge Date \n\n PRNCPAL_DGNS_CD \n Claim Principal Diagnosis Code (Encounter) \n\n ICD_DGNS_CD1 \n Claim Diagnosis Code 1 (Encounter) \n\n ICD_DGNS_CD2 \n Claim Diagnosis Code 2 (Encounter) \n\n ICD_DGNS_CD3 \n Claim Diagnosis Code 3 (Encounter) \n\n ICD_DGNS_CD4 \n Claim",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

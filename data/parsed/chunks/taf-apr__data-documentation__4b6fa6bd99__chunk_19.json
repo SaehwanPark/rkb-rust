@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_19",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Classification Indicator — Ever in Calendar Year\n\n 75\n\n MH_SRVC_PRVDR_CLSFCTN_IND\n\n Mental Health Service Provider Classification Indicator — Ever in Calendar Year\n\n 76\n\n EMER_SRVC_PRVDR_CLSFCTN_IND\n\n Emergency Services Provider Classification Indicator — Ever in Calendar Year\n\n 77\n\n SPLMTL_ADDR_LCTN\n\n Annual Provider Record in Supplemental Provider Address Location File\n\n 78\n\n SPLMTL_LCNS_ACRDTN\n\n Annual Provider Record in Supplemental Provider License and Accreditation File\n\n 79",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

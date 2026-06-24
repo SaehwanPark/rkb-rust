@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_26",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "RC_NDC_8_CD\n\n Revenue Center National Drug Code (NDC) 8\n\n 140\n\n RC_NDC_9_CD\n\n Revenue Center National Drug Code (NDC) 9\n\n 141\n\n RC_NDC_10_CD\n\n Revenue Center National Drug Code (NDC) 10\n\n 142\n\n NO_PSTV_TEST_SW\n\n No Positive Test Switch\n\n 143\n\n EXPNDD_ACS_SW\n\n Expanded Access Switch\n\n 144\n\n CLNCL_TRIL_SW\n\n Other Clinical Trial Switch\n\n 145\n\n EMER_USE_SW\n\n Emergency Use Switch\n\n 146\n\n ADMTG_DGNS_CD\n\n Initial diagnosis at time of admission\n\n 147\n\n ADMTG_DGNS_VRSN_CD\n\n MedPAR Admitting Diagnosis",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

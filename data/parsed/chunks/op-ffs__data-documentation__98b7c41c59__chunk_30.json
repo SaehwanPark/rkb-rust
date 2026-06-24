@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_30",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Common Procedure Coding System (HCPCS) Code (FFS)\n\n 14\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (FFS)\n\n 15\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (FFS)\n\n 16\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (FFS)\n\n 17\n\n HCPCS_4TH_MDFR_CD\n\n HCPCS Fourth Modifier Code (FFS)\n\n 18\n\n REV_CNTR_PMT_MTHD_IND_CD\n\n Revenue Center Payment Method Indicator Code\n\n 19\n\n REV_CNTR_DSCNT_IND_CD\n\n Revenue Center Discount Indicator Code\n\n 20\n\n REV_CNTR_PACKG_IND_CD\n\n Revenue Center Packaging",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

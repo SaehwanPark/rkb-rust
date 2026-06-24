@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_19",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Border State Indicator\n\n 120\n\n IP_MH_TXNMY_IND\n\n Mental Health Provider Taxonomy Indicator\n\n 121\n\n IP_SUD_TXNMY_IND\n\n Substance Use Disorder Provider Taxonomy Indicator\n\n 122\n\n NCVRD_DAYS\n\n Medicaid Non-covered Days Count\n\n 123\n\n CVRD_DAYS\n\n Medicaid Covered Inpatient Days Count\n\n 124\n\n OUTLIER_DAYS\n\n Outlier Days Count\n\n 125\n\n OUTLIER_TYPE_CD\n\n Outlier Type Code\n\n 126\n\n DRG_OUTLIER_AMT\n\n DRG Outlier Additional Payment Amount\n\n 127\n\n FIXD_PYMT_IND\n\n Fixed Payment Indicator\n\n 128",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_28",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "coverage during the month\nEligibility (Medicare) E_CREC Current Reason for Medicare Entitlement 0 - Old Age and Survivor's Insurance\r\n1 - Disability Insurance benefits\r\n2 - ESRD\r\n3 - Disability Insurance and ESRD\n E_OREC Original Reason for Medicare Entitlement 0 - Old Age and Survivor's Insurance\r\n1 - Disability Insurance benefits\r\n2 - ESRD\r\n3 - Disability Insurance and ESRD\n E_MS_CD Medicare Status Code (year end) 10 - Aged without ESRD\r\n11 - Aged with ESRD\r\n20 - Disabled without ESRD\r\n21 -",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

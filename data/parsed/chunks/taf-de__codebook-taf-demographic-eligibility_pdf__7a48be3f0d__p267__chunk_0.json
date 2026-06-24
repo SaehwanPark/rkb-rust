@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p267__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 267,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 227 \n\nPRMRY_LANG_CD \n\nLABEL: Primary Language Code — Latest in Year \n\nDESCRIPTION: A code indicating the individual’s preferred spoken or written language; most recent in the calendar \nand the two prior years. \n\nSHORT NAME: PRMRY_LANG_CD \n\nLONG NAME: PRMRY_LANG_CD \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nFILE(S): Annual DE",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p312__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 312,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 298 \n\n REDUCED_COST_SHARE \n\nLABEL: Indicates Whether Part D Plan Offers Reduced Cost-Sharing \n\nDESCRIPTION: This variable indicates whether the plan offers reduced Part D cost-sharing as part of its supplemental \nPart D benefit. \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: Y = Yes \nN = No \n9 = Not applicable \n\nCOMMENT: This variable applies to Enhanced",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

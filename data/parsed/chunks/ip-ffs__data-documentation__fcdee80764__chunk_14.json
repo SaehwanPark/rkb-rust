@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_14",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "NCH Beneficiary Discharge Date\n\n 68\n\n CLM_DRG_CD\n\n Claim Diagnosis Related Group Code (or MS-DRG Code) (FFS)\n\n 69\n\n MS_DRG_GRPR_VRSN_CD\n\n MS-DRG Grouper Version Code\n\n 70\n\n CLM_IP_INITL_MS_DRG_CD\n\n Claim Inpatient Initial MS DRG Code\n\n 71\n\n CLM_DRG_OUTLIER_STAY_CD\n\n Claim Diagnosis Related Group Outlier Stay Code\n\n 72\n\n NCH_DRG_OUTLIER_APRVD_PMT_AMT\n\n NCH DRG Outlier Approved Payment Amount\n\n 73\n\n ADMTG_DGNS_CD\n\n Claim Admitting Diagnosis Code (FFS)\n\n 74\n\n PRNCPAL_DGNS_CD\n\n Claim Principal",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

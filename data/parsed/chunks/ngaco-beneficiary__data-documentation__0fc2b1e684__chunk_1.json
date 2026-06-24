@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ngaco-beneficiary__data-documentation__0fc2b1e684__chunk_1",
+  "source_document": "data/raw/html/documentation_page/0fc2b1e68473fbe27627c6b2ac066fbab69d9d8c.html",
+  "page": null,
+  "text": "with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Record Layout - Next Generation ACO Model\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ACO_ID \n Pioneer ACO Identifier \n\n BIRTH_DT \n Date of Birth \n\n DEATH_DT \n Date of",
+  "dataset": "ngaco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ngaco-beneficiary/data-documentation"
+}

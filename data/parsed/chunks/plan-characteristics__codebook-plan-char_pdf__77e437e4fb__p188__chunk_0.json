@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p188__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 188,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 174 \n\nPART_D_LIS_25 \n\nLABEL: Part D Low Income Subsidy 25% \n\nDESCRIPTION: This variable is the dollar amount of the Part D low-income subsidy (LIS) where the subsidy level is \n25%. \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: — \n\nCOMMENT: This variable has been retired; therefore, the field is blank after 2023. The Inflation Reduction Act of \n2022 expanded",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

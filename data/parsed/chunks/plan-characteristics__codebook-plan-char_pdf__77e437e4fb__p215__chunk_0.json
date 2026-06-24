@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-plan-char_pdf__77e437e4fb__p215__chunk_0",
+  "source_document": "data/raw/assets/pdf/77e437e4fbf75223d4afb45fb37a8a975a86839b.pdf",
+  "page": 215,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Plan Characteristics Codebook │ October 2025 │ V 1.7 201 \n\n PLAN_NAME \n\nLABEL: Plan benefit package Name \n\nDESCRIPTION: This variable is the name of the plan benefit package (PBP) for the plan sponsor's contract. \n\nTYPE: CHAR \n\nLENGTH: 75 \n\nSOURCE: CMS (HPMS files) \n\nVALUES: text description \n\nCOMMENT: This is the name associated with the plan benefit package number (PLAN_ID). \n\nThe CCW constructs the plan characteristics file",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-plan-char.pdf"
+}

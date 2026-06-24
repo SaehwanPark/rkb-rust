@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_20",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "71\n\n MC_ENT_ACRDTN_END_DT_3\n\n Managed Care Entity Accreditation End Date — 3rd Accrediting Organization\n\n 72\n\n MC_ENT_ACRDTN_ORG_CD_4\n\n Managed Care Entity — 4th Accrediting Organization\n\n 73\n\n MC_ENT_ACRDTN_ACHVMT_DT_4 \n\n Managed Care Entity Accreditation Achievement Date — 4th Accrediting Organization\n\n 74\n\n MC_ENT_ACRDTN_END_DT_4\n\n Managed Care Entity Accreditation End Date — 4th Accrediting Organization\n\n 75\n\n MC_ENT_ACRDTN_ORG_CD_5\n\n Managed Care Entity — 5th Accrediting Organization",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_23",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Oxygen Equipment Initial Date Code \n\n DMERC_OXGN_EQUIP_PRVS_DT \n Oxygen Equipment Previous Date \n\n CLM_NEXT_GNRTN_ACO_IND_CD1 \n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP) \n\n CLM_NEXT_GNRTN_ACO_IND_CD2 \n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Telehealth \n\n CLM_NEXT_GNRTN_ACO_IND_CD3 \n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Post Discharge HH",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

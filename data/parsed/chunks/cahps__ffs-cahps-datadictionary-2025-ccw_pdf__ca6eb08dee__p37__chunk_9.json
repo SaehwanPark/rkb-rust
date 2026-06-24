@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p37__chunk_9",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 37,
+  "text": "Q40B In the last 6 months, did anyone from a doctor’s office, pharmacy or your prescription drug plan contact you: \npd_takemeds PDP Q03B To make sure you were taking medicine as directed? \nMA-PD Q41 In the last 6 months, how often was it easy to use your prescription drug plan to get the medicines your doctor \npd_ezrxmeds PDP Q04 prescribed? \nMA-PD Q42 \npd_rxpharm In the last 6 months, did you ever use your prescription drug plan to fill a prescription at your local pharmacy? \nPDP Q05 \nMA-PD",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

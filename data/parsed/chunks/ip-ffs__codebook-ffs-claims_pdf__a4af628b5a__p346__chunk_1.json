@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p346__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 346,
+  "text": "provider of services \n\n140 = Patient/Insured health \nidentification number and name \ndo not match \n\n141 = Claim adjustment because the \nclaim spans eligible and ineligible \nperiods of coverage \n\n142 = Claim adjusted by the monthly \nMedicaid patient liability amount \n\nA0 = Patient refund amount \n\nA1 = Claim denied charges \n\nA2 = Contractual adjustment \n\nA3 = Medicare Secondary Payer \nliability met. INACTIVE \n\nA4 = Medicare Claim PPS Capital Day \nOutlier Amount \n\nA5 = Medicare Claim PPS Capital",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

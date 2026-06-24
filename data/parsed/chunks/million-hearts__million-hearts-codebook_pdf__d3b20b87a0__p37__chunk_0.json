@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p37__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 37,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 32 \n\nPATIENT_DOB \n\nLABEL: Patient's Date of Birth \n\nDESCRIPTION: Patient's date of birth (DOB). \n\nSHORT NAME: PATIENT_DOB \n\nLONG NAME: PATIENT_DOB \n\nTYPE: DATE \n\nLENGTH: 8 \n\nFILE(S): Demographic \nAlignment (final and EVAA cycle files) \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: Ex — 04/22/1943 \n\nCOMMENT: Formatted as MMDDYY10 in SAS \n ^ Back to",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

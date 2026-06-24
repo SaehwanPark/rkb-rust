@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_4",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "Mid-Year Indicator \n\n ALZH_DEMEN_EVER \n Date that beneficiary first met claims criteria for the Alzheimer's disease and related disorders or senile dementia indicator \n\n ATRIAL_FIB \n Atrial Fibrillation End-of-Year Indicator \n\n ATRIAL_FIB_MID \n Atrial Fibrillation Mid-Year Indicator \n\n ATRIAL_FIB_EVER \n Date that beneficiary first met claims criteria for the atrial fibrillation indicator \n\n CATARACT \n Cataract End-of-Year Indicator \n\n CATARACT_MID \n Cataract Mid-Year Indicator \n\n CATARACT_EVER",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

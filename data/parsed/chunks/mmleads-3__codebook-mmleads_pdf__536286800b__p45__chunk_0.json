@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p45__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 45,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 34 \n\nMDCD_LTC_COV_MOS \n\nLABEL: Medicaid — Long-Term Care Prepaid Inpatient Health Plan (PIHP) Months \n\nDESCRIPTION: This variable is the number of months during the year the beneficiary was enrolled in a Long-Term \nCare (LTC) Prepaid Inpatient Health Plan (PIHP) Managed Care Plan. \n\nTYPE: NUM \n\nLENGTH: 3 \n\nSOURCE: T-MSIS DE file \n\nVALUES: 0–12, or null/missing (if no Medicaid enrollment) \n\nCOMMENT: CCW obtains this directly",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

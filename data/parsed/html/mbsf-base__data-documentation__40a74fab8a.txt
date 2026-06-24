@@ -1,0 +1,1603 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Master Beneficiary Summary File Base A/B/C/D
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - MBSF Base A/B/C/D
+CCW Record Layout - MBSF Base A/B/C/D
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+Base
+
+    
+Part C
+
+    
+Part D
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+      
+              
+Base
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      BENE_ENROLLMT_REF_YR        
+                                                                      Reference Year (Base)        
+          
+
+      
+
+                                                                      ENRL_SRC        
+                                                                      Enrollment Source        
+          
+
+      
+
+                                                                      SAMPLE_GROUP        
+                                                                      Medicare Sample Group Indicator        
+          
+
+      
+
+                                                                      ENHANCED_FIVE_PERCENT_FLAG        
+                                                                      Enhanced Medicare 5% Sample Indicator        
+          
+
+      
+
+                                                                      CRNT_BIC_CD        
+                                                                      Current Beneficiary Identification Code        
+          
+
+      
+
+                                                                      STATE_CODE        
+                                                                      State code for beneficiary (SSA code)        
+          
+
+      
+
+                                                                      COUNTY_CD        
+                                                                      County code for beneficiary (SSA code)        
+          
+
+      
+
+                                                                      ZIP_CD        
+                                                                      Zip code for beneficiary        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_01        
+                                                                      State and county FIPS code - January        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_02        
+                                                                      State and county FIPS code - February        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_03        
+                                                                      State and county FIPS code - March        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_04        
+                                                                      State and county FIPS code - April        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_05        
+                                                                      State and county FIPS code - May        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_06        
+                                                                      State and county FIPS code - June        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_07        
+                                                                      State and county FIPS code - July        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_08        
+                                                                      State and county FIPS code - August        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_09        
+                                                                      State and county FIPS code - September        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_10        
+                                                                      State and county FIPS code - October        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_11        
+                                                                      State and county FIPS code - November        
+          
+
+      
+
+                                                                      STATE_CNTY_FIPS_CD_12        
+                                                                      State and county FIPS code - December        
+          
+
+      
+
+                                                                      AGE_AT_END_REF_YR        
+                                                                      Age of beneficiary at end of year        
+          
+
+      
+
+                                                                      BENE_BIRTH_DT        
+                                                                      Beneficiary Date of Birth        
+          
+
+      
+
+                                                                      VALID_DEATH_DT_SW        
+                                                                      Valid Date of Death Switch        
+          
+
+      
+
+                                                                      BENE_DEATH_DT        
+                                                                      Beneficiary Date of Death        
+          
+
+      
+
+                                                                      SEX_IDENT_CD        
+                                                                      Sex        
+          
+
+      
+
+                                                                      BENE_RACE_CD         
+                                                                      Beneficiary Race Code (Base)        
+          
+
+      
+
+                                                                      RTI_RACE_CD        
+                                                                      Research Triangle Institute (RTI) Race Code        
+          
+
+      
+
+                                                                      COVSTART        
+                                                                      Medicare Coverage Start Date        
+          
+
+      
+
+                                                                      ENTLMT_RSN_ORIG        
+                                                                      Original Reason for Entitlement Code        
+          
+
+      
+
+                                                                      ENTLMT_RSN_CURR        
+                                                                      Current Reason for Entitlement Code        
+          
+
+      
+
+                                                                      ESRD_IND        
+                                                                      End-Stage Renal Disease (ESRD) Indicator        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_01        
+                                                                      Medicare Status Code - January        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_02        
+                                                                      Medicare Status Code - February        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_03        
+                                                                      Medicare Status Code - March        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_04        
+                                                                      Medicare Status Code - April        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_05        
+                                                                      Medicare Status Code - May        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_06        
+                                                                      Medicare Status Code - June        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_07        
+                                                                      Medicare Status Code - July        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_08        
+                                                                      Medicare Status Code - August        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_09        
+                                                                      Medicare Status Code - September        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_10        
+                                                                      Medicare Status Code - October        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_11        
+                                                                      Medicare Status Code - November        
+          
+
+      
+
+                                                                      MDCR_STATUS_CODE_12        
+                                                                      Medicare Status Code - December        
+          
+
+      
+
+                                                                      BENE_PTA_TRMNTN_CD        
+                                                                      Part A Termination Code        
+          
+
+      
+
+                                                                      BENE_PTB_TRMNTN_CD        
+                                                                      Part B Termination Code        
+          
+
+      
+
+                                                                      BENE_HI_CVRAGE_TOT_MONS        
+                                                                      Part A Months Count        
+          
+
+      
+
+                                                                      BENE_SMI_CVRAGE_TOT_MONS        
+                                                                      Part B Months Count        
+          
+
+      
+
+                                                                      BENE_STATE_BUYIN_TOT_MONS        
+                                                                      State Buy-In Coverage Count        
+          
+
+      
+
+                                                                      BENE_HMO_CVRAGE_TOT_MONS        
+                                                                      HMO Coverage Count        
+          
+
+      
+
+                                                                      PTD_PLAN_CVRG_MONS        
+                                                                      Months of Part D Coverage        
+          
+
+      
+
+                                                                      RDS_CVRG_MONS        
+                                                                      Months of Retiree Drug Subsidy Coverage        
+          
+
+      
+
+                                                                      DUAL_ELGBL_MONS        
+                                                                      Months of Dual Eligibility        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_01        
+                                                                      Medicare Entitlement/Buy-In Indicator - January        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_02        
+                                                                      Medicare Entitlement/Buy-In Indicator - February        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_03        
+                                                                      Medicare Entitlement/Buy-In Indicator - March        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_04        
+                                                                      Medicare Entitlement/Buy-In Indicator - April        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_05        
+                                                                      Medicare Entitlement/Buy-In Indicator - May        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_06        
+                                                                      Medicare Entitlement/Buy-In Indicator - June        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_07        
+                                                                      Medicare Entitlement/Buy-In Indicator - July        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_08        
+                                                                      Medicare Entitlement/Buy-In Indicator - August        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_09        
+                                                                      Medicare Entitlement/Buy-In Indicator - September        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_10        
+                                                                      Medicare Entitlement/Buy-In Indicator - October        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_11        
+                                                                      Medicare Entitlement/Buy-In Indicator - November        
+          
+
+      
+
+                                                                      MDCR_ENTLMT_BUYIN_IND_12        
+                                                                      Medicare Entitlement/Buy-In Indicator - December        
+          
+
+      
+
+                                                                      HMO_IND_01        
+                                                                      HMO Indicator - January        
+          
+
+      
+
+                                                                      HMO_IND_02        
+                                                                      HMO Indicator - February        
+          
+
+      
+
+                                                                      HMO_IND_03        
+                                                                      HMO Indicator - March        
+          
+
+      
+
+                                                                      HMO_IND_04        
+                                                                      HMO Indicator - April        
+          
+
+      
+
+                                                                      HMO_IND_05        
+                                                                      HMO Indicator - May        
+          
+
+      
+
+                                                                      HMO_IND_06        
+                                                                      HMO Indicator - June        
+          
+
+      
+
+                                                                      HMO_IND_07        
+                                                                      HMO Indicator - July        
+          
+
+      
+
+                                                                      HMO_IND_08        
+                                                                      HMO Indicator - August        
+          
+
+      
+
+                                                                      HMO_IND_09        
+                                                                      HMO Indicator - September        
+          
+
+      
+
+                                                                      HMO_IND_10        
+                                                                      HMO Indicator - October        
+          
+
+      
+
+                                                                      HMO_IND_11        
+                                                                      HMO Indicator - November        
+          
+
+      
+
+                                                                      HMO_IND_12        
+                                                                      HMO Indicator - December        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Part C
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      PTC_CNTRCT_ID_01        
+                                                                      Part C Contract Number - January        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_03        
+                                                                      Part C Contract Number - March        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_04        
+                                                                      Part C Contract Number - April        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_05        
+                                                                      Part C Contract Number - May        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_06        
+                                                                      Part C Contract Number - June        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_07        
+                                                                      Part C Contract Number - July        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_08        
+                                                                      Part C Contract Number - August        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_09        
+                                                                      Part C Contract Number - September        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_10        
+                                                                      Part C Contract Number - October        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_11        
+                                                                      Part C Contract Number - November        
+          
+
+      
+
+                                                                      PTC_CNTRCT_ID_12        
+                                                                      Part C Contract Number - December        
+          
+
+      
+
+                                                                      PTC_PBP_ID_01        
+                                                                      Part C PBP Number - January        
+          
+
+      
+
+                                                                      PTC_PBP_ID_02        
+                                                                      Part C PBP Number - February        
+          
+
+      
+
+                                                                      PTC_PBP_ID_03        
+                                                                      Part C PBP Number - March        
+          
+
+      
+
+                                                                      PTC_PBP_ID_04        
+                                                                      Part C PBP Number - April        
+          
+
+      
+
+                                                                      PTC_PBP_ID_05        
+                                                                      Part C PBP Number - May        
+          
+
+      
+
+                                                                      PTC_PBP_ID_06        
+                                                                      Part C PBP Number - June        
+          
+
+      
+
+                                                                      PTC_PBP_ID_07        
+                                                                      Part C PBP Number - July        
+          
+
+      
+
+                                                                      PTC_PBP_ID_08        
+                                                                      Part C PBP Number - August        
+          
+
+      
+
+                                                                      PTC_PBP_ID_09        
+                                                                      Part C PBP Number - September        
+          
+
+      
+
+                                                                      PTC_PBP_ID_10        
+                                                                      Part C PBP Number - October        
+          
+
+      
+
+                                                                      PTC_PBP_ID_11        
+                                                                      Part C PBP Number - November        
+          
+
+      
+
+                                                                      PTC_PBP_ID_12        
+                                                                      Part C PBP Number - December        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_01        
+                                                                      Part C Plan Type Code - January        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_02        
+                                                                      Part C Plan Type Code - February        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_03        
+                                                                      Part C Plan Type Code - March        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_04        
+                                                                      Part C Plan Type Code - April        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_05        
+                                                                      Part C Plan Type Code - May        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_06        
+                                                                      Part C Plan Type Code - June        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_07        
+                                                                      Part C Plan Type Code - July        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_08        
+                                                                      Part C Plan Type Code - August        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_09        
+                                                                      Part C Plan Type Code - September        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_10        
+                                                                      Part C Plan Type Code - October        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_11        
+                                                                      Part C Plan Type Code - November        
+          
+
+      
+
+                                                                      PTC_PLAN_TYPE_CD_12        
+                                                                      Part C Plan Type Code - December        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Part D
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      PTD_CNTRCT_ID_01        
+                                                                      Monthly Part D Contract Number - January        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_02        
+                                                                      Monthly Part D Contract Number - February        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_03        
+                                                                      Monthly Part D Contract Number - March        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_04        
+                                                                      Monthly Part D Contract Number - April        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_05        
+                                                                      Monthly Part D Contract Number - May        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_06        
+                                                                      Monthly Part D Contract Number - June        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_07        
+                                                                      Monthly Part D Contract Number - July        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_08        
+                                                                      Monthly Part D Contract Number - August        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_09        
+                                                                      Monthly Part D Contract Number - September        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_10        
+                                                                      Monthly Part D Contract Number - October        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_11        
+                                                                      Monthly Part D Contract Number - November        
+          
+
+      
+
+                                                                      PTD_CNTRCT_ID_12        
+                                                                      Monthly Part D Contract Number - December        
+          
+
+      
+
+                                                                      PTD_PBP_ID_01        
+                                                                      Monthly Part D Plan Benefit Package Number - January        
+          
+
+      
+
+                                                                      PTD_PBP_ID_02        
+                                                                      Monthly Part D Plan Benefit Package Number - February        
+          
+
+      
+
+                                                                      PTD_PBP_ID_03        
+                                                                      Monthly Part D Plan Benefit Package Number - March        
+          
+
+      
+
+                                                                      PTD_PBP_ID_04        
+                                                                      Monthly Part D Plan Benefit Package Number - April        
+          
+
+      
+
+                                                                      PTD_PBP_ID_05        
+                                                                      Monthly Part D Plan Benefit Package Number - May        
+          
+
+      
+
+                                                                      PTD_PBP_ID_06        
+                                                                      Monthly Part D Plan Benefit Package Number - June        
+          
+
+      
+
+                                                                      PTD_PBP_ID_07        
+                                                                      Monthly Part D Plan Benefit Package Number - July        
+          
+
+      
+
+                                                                      PTD_PBP_ID_08        
+                                                                      Monthly Part D Plan Benefit Package Number - August        
+          
+
+      
+
+                                                                      PTD_PBP_ID_09        
+                                                                      Monthly Part D Plan Benefit Package Number - September        
+          
+
+      
+
+                                                                      PTD_PBP_ID_10        
+                                                                      Monthly Part D Plan Benefit Package Number - October        
+          
+
+      
+
+                                                                      PTD_PBP_ID_11        
+                                                                      Monthly Part D Plan Benefit Package Number - November        
+          
+
+      
+
+                                                                      PTD_PBP_ID_12        
+                                                                      Monthly Part D Plan Benefit Package Number - December        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_01        
+                                                                      Monthly Part D Market Segment Identifier - January        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_02        
+                                                                      Monthly Part D Market Segment Identifier - February        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_03        
+                                                                      Monthly Part D Market Segment Identifier - March        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_04        
+                                                                      Monthly Part D Market Segment Identifier - April        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_05        
+                                                                      Monthly Part D Market Segment Identifier - May        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_06        
+                                                                      Monthly Part D Market Segment Identifier - June        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_07        
+                                                                      Monthly Part D Market Segment Identifier - July        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_08        
+                                                                      Monthly Part D Market Segment Identifier - August        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_09        
+                                                                      Monthly Part D Market Segment Identifier - September        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_10        
+                                                                      Monthly Part D Market Segment Identifier - October        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_11        
+                                                                      Monthly Part D Market Segment Identifier - November        
+          
+
+      
+
+                                                                      PTD_SGMT_ID_12        
+                                                                      Monthly Part D Market Segment Identifier - December        
+          
+
+      
+
+                                                                      RDS_IND_01        
+                                                                      Part D Retiree Drug Subsidy Indicator - January        
+          
+
+      
+
+                                                                      RDS_IND_02        
+                                                                      Part D Retiree Drug Subsidy Indicator - February        
+          
+
+      
+
+                                                                      RDS_IND_03        
+                                                                      Part D Retiree Drug Subsidy Indicator - March        
+          
+
+      
+
+                                                                      RDS_IND_04        
+                                                                      Part D Retiree Drug Subsidy Indicator - April        
+          
+
+      
+
+                                                                      RDS_IND_05        
+                                                                      Part D Retiree Drug Subsidy Indicator - May        
+          
+
+      
+
+                                                                      RDS_IND_06        
+                                                                      Part D Retiree Drug Subsidy Indicator - June        
+          
+
+      
+
+                                                                      RDS_IND_07        
+                                                                      Part D Retiree Drug Subsidy Indicator - July        
+          
+
+      
+
+                                                                      RDS_IND_08        
+                                                                      Part D Retiree Drug Subsidy Indicator - August        
+          
+
+      
+
+                                                                      RDS_IND_09        
+                                                                      Part D Retiree Drug Subsidy Indicator - September        
+          
+
+      
+
+                                                                      RDS_IND_10        
+                                                                      Part D Retiree Drug Subsidy Indicator - October        
+          
+
+      
+
+                                                                      RDS_IND_11        
+                                                                      Part D Retiree Drug Subsidy Indicator - November        
+          
+
+      
+
+                                                                      RDS_IND_12        
+                                                                      Part D Retiree Drug Subsidy Indicator - December        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_01        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - January        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_02        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - February        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_03        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - March        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_04        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - April        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_05        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - May        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_06        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - June        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_07        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - July        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_08        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - August        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_09        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - September        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_10        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - October        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_11        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - November        
+          
+
+      
+
+                                                                      DUAL_STUS_CD_12        
+                                                                      Monthly Medicare-Medicaid dual eligibility code - December        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_01        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - January        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_02        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - February        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_03        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - March        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_04        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - April        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_05        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - May        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_06        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - June        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_07        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - July        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_08        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - August        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_09        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - September        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_10        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - October        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_11        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - November        
+          
+
+      
+
+                                                                      CST_SHR_GRP_CD_12        
+                                                                      Monthly cost sharing group under Part D low-income subsidy - December        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

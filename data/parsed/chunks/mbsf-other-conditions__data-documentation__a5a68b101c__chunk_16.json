@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_16",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "- Medicare Only Claims \n\n OUD_ANY_MEDICARE \n Overarching OUD Disorder (Any of the Three Sub-Indicators) - Medicare Only Claims \n\n OUD_ANY_MEDICARE_EVER \n Overarching OUD Disorder (Any of the Three Sub-Indicators) First Ever Occurrence Date- Medicare Only Claims \n\n OUD_DX_MEDICARE \n Diagnosis and Procedure Basis for OUD- Medicare Only Claims \n\n OUD_DX_MEDICARE_EVER \n Diagnosis and Procedure Basis for OUD First Ever Occurrence Date - Medicare Only Claims \n\n OUD_HOSP_MEDICARE \n Opioid-Related",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

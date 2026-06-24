@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p200__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 200,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 180 \n\nNDC_UOM_CD \n\nLABEL: NDC Unit of Measure Code \n\nDESCRIPTION: This field is a code to indicate the basis by which the quantity of the National Drug Code (NDC) is \nexpressed. \n\nSHORT NAME: NDC_UOM_CD \n\nLONG NAME: NDC_UOM_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): All line files \n\nVALUES: EA = Each \nF2 = International Unit \nGM or GR = Gram \nML =",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

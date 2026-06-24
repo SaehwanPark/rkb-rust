@@ -1,0 +1,1309 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Encounter Home Health Agency
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - Medicare Encounter Records
+CCW Record Layout - Medicare Encounter Records
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+Base Claim File
+
+    
+Revenue Center File
+
+    
+Condition Code File
+
+    
+Occurrence Code File
+
+    
+Span Code File
+
+    
+Value Code File
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+      
+              
+Base Claim File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      SAMPLE_GROUP        
+                                                                      CCW Beneficiary Random Sample Group        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      CLM_FROM_DT        
+                                                                      Claim From Date (Encounter)        
+          
+
+      
+
+                                                                      CLM_THRU_DT        
+                                                                      Claim Through Date (Encounter)        
+          
+
+      
+
+                                                                      SRVC_MONTH        
+                                                                      Service Month        
+          
+
+      
+
+                                                                      CLM_CHRT_RVW_SW        
+                                                                      Claim Chart Review Switch        
+          
+
+      
+
+                                                                      CLM_CNTL_NUM        
+                                                                      Claim Control Number        
+          
+
+      
+
+                                                                      CLM_ORIG_CNTL_NUM        
+                                                                      Claim Original Control Number        
+          
+
+      
+
+                                                                      CLM_FINL_ACTN_IND        
+                                                                      Claim Final Action Indicator        
+          
+
+      
+
+                                                                      CLM_LTST_CLM_IND        
+                                                                      Latest Claim Indicator        
+          
+
+      
+
+                                                                      EDPS_CREATE_DT        
+                                                                      Encounter Data Processing System (EDPS) Create Date        
+          
+
+      
+
+                                                                      CLM_RCPT_DT        
+                                                                      Claim Receipt Date        
+          
+
+      
+
+                                                                      CLM_FAC_TYPE_CD        
+                                                                      Claim Facility Type Code (Encounter)        
+          
+
+      
+
+                                                                      CLM_SRVC_CLSFCTN_TYPE_CD        
+                                                                      Claim Service Classification Type Code (Encounter)        
+          
+
+      
+
+                                                                      CLM_FREQ_CD        
+                                                                      Claim Frequency Code (Encounter)        
+          
+
+      
+
+                                                                      CNTRCT_NUM        
+                                                                      Medicare Part C Contract Number        
+          
+
+      
+
+                                                                      CNTRCT_PBP_NUM        
+                                                                      Medicare Part C Plan Benefit Package (PBP) Number        
+          
+
+      
+
+                                                                      CLM_MDCL_REC        
+                                                                      Claim Medical Record Number (Encounter)        
+          
+
+      
+
+                                                                      ORG_NPI         
+                                                                      Organization NPI Number (Encounter)        
+          
+
+      
+
+                                                                      ORG_TXNMY_CD        
+                                                                      Organization Taxonomy Code        
+          
+
+      
+
+                                                                      RNDRNG_PHYSN_NPI        
+                                                                      Rendering Physician NPI (Encounter)        
+          
+
+      
+
+                                                                      RFRG_PHYSN_NPI        
+                                                                      Carrier/DME Referring Physician NPI Number        
+          
+
+      
+
+                                                                      AT_PHYSN_NPI        
+                                                                      Claim Attending Physician NPI Number (Encounter)        
+          
+
+      
+
+                                                                      AT_PHYSN_TXNMY_CD        
+                                                                      Claim Attending Physician Taxonomy Code        
+          
+
+      
+
+                                                                      OP_PHYSN_NPI         
+                                                                      Claim Operating Physician NPI Number (Encounter)        
+          
+
+      
+
+                                                                      OT_PHYSN_NPI         
+                                                                      Claim Other Physician NPI Number (Encounter)        
+          
+
+      
+
+                                                                      CLM_ADMSN_DT        
+                                                                      Claim Admission Date (Encounter)        
+          
+
+      
+
+                                                                      PTNT_DSCHRG_STUS_CD        
+                                                                      Patient Discharge Status Code (Encounter)        
+          
+
+      
+
+                                                                      BENE_DSCHRG_DT        
+                                                                      Beneficiary Discharge Date        
+          
+
+      
+
+                                                                      PRNCPAL_DGNS_CD        
+                                                                      Claim Principal Diagnosis Code (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD1        
+                                                                      Claim Diagnosis Code 1 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD2         
+                                                                      Claim Diagnosis Code 2 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD3        
+                                                                      Claim Diagnosis Code 3 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD4        
+                                                                      Claim Diagnosis Code 4 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD5         
+                                                                      Claim Diagnosis Code 5 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD6        
+                                                                      Claim Diagnosis Code 6 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD7         
+                                                                      Claim Diagnosis Code 7 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD8        
+                                                                      Claim Diagnosis Code 8 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD9         
+                                                                      Claim Diagnosis Code 9 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD10        
+                                                                      Claim Diagnosis Code 10 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD11        
+                                                                      Claim Diagnosis Code 11 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD12        
+                                                                      Claim Diagnosis Code 12 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD13         
+                                                                      Claim Diagnosis Code 13 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD14        
+                                                                      Claim Diagnosis Code 14 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD15        
+                                                                      Claim Diagnosis Code 15 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD16         
+                                                                      Claim Diagnosis Code 16 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD17         
+                                                                      Claim Diagnosis Code 17 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD18         
+                                                                      Claim Diagnosis Code 18 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD19         
+                                                                      Claim Diagnosis Code 19 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD20         
+                                                                      Claim Diagnosis Code 20 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD21        
+                                                                      Claim Diagnosis Code 21 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD22        
+                                                                      Claim Diagnosis Code 22 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD23         
+                                                                      Claim Diagnosis Code 23 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD24        
+                                                                      Claim Diagnosis Code 24 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_CD25         
+                                                                      Claim Diagnosis Code 25 (Encounter)        
+          
+
+      
+
+                                                                      CLM_1ST_DGNS_E_CD        
+                                                                      First Claim Diagnosis E Code (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_E_CD1        
+                                                                      Claim Diagnosis E Code 1 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_E_CD2        
+                                                                      Claim Diagnosis E Code 2 (Encounter)        
+          
+
+      
+
+                                                                      ICD_DGNS_E_CD3        
+                                                                      Claim Diagnosis E Code 3 (Encounter)        
+          
+
+      
+
+                                                                      RSN_VISIT_CD1        
+                                                                      Reason for Visit Diagnosis Code 1 (Encounter)        
+          
+
+      
+
+                                                                      RSN_VISIT_CD2        
+                                                                      Reason for Visit Diagnosis Code 2 (Encounter)        
+          
+
+      
+
+                                                                      RSN_VISIT_CD3        
+                                                                      Reason for Visit Diagnosis Code 3 (Encounter)        
+          
+
+      
+
+                                                                      CLM_OBSLT_DT        
+                                                                      Claim Obsolete Date        
+          
+
+      
+
+                                                                      CLM_BPRVDR_CITY_NAME        
+                                                                      Billing Provider Address - City        
+          
+
+      
+
+                                                                      CLM_BPRVDR_USPS_STATE_CD        
+                                                                      Billing Provider Address - USPS State Code        
+          
+
+      
+
+                                                                      CLM_BPRVDR_ADR_ZIP_CD        
+                                                                      Billing Provider Zip Code        
+          
+
+      
+
+                                                                      CLM_SUBSCR_CITY_NAME        
+                                                                      Medicare Subscriber Address - City        
+          
+
+      
+
+                                                                      CLM_SUBSCR_USPS_STATE_CD        
+                                                                      Medicare Subscriber Address - USPS State Code        
+          
+
+      
+
+                                                                      CLM_SUBSCR_ADR_ZIP_CD        
+                                                                      Medicare Subscriber Address - ZIP Code        
+          
+
+      
+
+                                                                      BENE_CNTY_CD        
+                                                                      Beneficiary County Code from Claim (SSA)        
+          
+
+      
+
+                                                                      BENE_STATE_CD        
+                                                                      Beneficiary Residence (SSA) State Code (Encounter)        
+          
+
+      
+
+                                                                      BENE_MLG_CNTCT_ZIP_CD        
+                                                                      Beneficiary ZIP Code of Residence from Claim        
+          
+
+      
+
+                                                                      BENE_RACE_CD        
+                                                                      Beneficiary Race Code (Encounter)        
+          
+
+      
+
+                                                                      DOB_DT        
+                                                                      Date of Birth from Encounter        
+          
+
+      
+
+                                                                      BENE_MDCR_STUS_CD        
+                                                                      Beneficiary Medicare Status Code        
+          
+
+      
+
+                                                                      TAX_NUM        
+                                                                      Provider Tax Number        
+          
+
+      
+
+                                                                      BENE_STATE        
+                                                                      State of beneficiary (postal abbreviation)        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Revenue Center File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      CLM_LINE_NUM        
+                                                                      Claim Line Number (Encounter)        
+          
+
+      
+
+                                                                      LINE_NUM_ORIG        
+                                                                      Original Claim Line Number        
+          
+
+      
+
+                                                                      CLM_THRU_DT        
+                                                                      Claim Through Date (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR        
+                                                                      Revenue Center Code (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR_FROM_DT        
+                                                                      Revenue Center From Date        
+          
+
+      
+
+                                                                      REV_CNTR_THRU_DT        
+                                                                      Revenue Center Thru Date        
+          
+
+      
+
+                                                                      REV_CNTR_UNIT_CNT        
+                                                                      Revenue Center Unit Count (Encounter)        
+          
+
+      
+
+                                                                      HCPCS_CD        
+                                                                      Healthcare Common Procedure Coding System (HCPCS) Code (Encounter)        
+          
+
+      
+
+                                                                      HCPCS_1ST_MDFR_CD        
+                                                                      HCPCS Initial Modifier Code (Encounter)        
+          
+
+      
+
+                                                                      HCPCS_2ND_MDFR_CD        
+                                                                      HCPCS Second Modifier Code (Encounter)        
+          
+
+      
+
+                                                                      HCPCS_3RD_MDFR_CD        
+                                                                      HCPCS Third Modifier Code (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR_IDE_NDC_UPC_NUM        
+                                                                      Revenue Center IDE, NDC, or UPC Number (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR_NDC_QTY        
+                                                                      Revenue Center National Drug Code (NDC) Quantity (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR_NDC_QTY_QLFR_CD        
+                                                                      Revenue Center NDC Quantity Qualifier Code (Encounter)        
+          
+
+      
+
+                                                                      REV_CNTR_RNDRNG_PHYSN_NPI_NUM        
+                                                                      Revenue Center Rendering Physician NPI        
+          
+
+      
+
+                                                                      LINE_LTST_CLM_IND        
+                                                                      Line Latest Claim Indicator        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Condition Code File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      RLT_COND_CD_SEQ        
+                                                                      Claim Related Condition Code Sequence        
+          
+
+      
+
+                                                                      CLM_RLT_COND_CD        
+                                                                      Claim Related Condition Code (Encounter)        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Occurrence Code File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      RLT_OCRNC_CD_SEQ        
+                                                                      Claim Related Occurrence Code Sequence        
+          
+
+      
+
+                                                                      CLM_RLT_OCRNC_CD        
+                                                                      Claim Related Occurrence Code (Encounter)        
+          
+
+      
+
+                                                                      CLM_RLT_OCRNC_DT        
+                                                                      Claim Related Occurrence Date (Encounter)        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Span Code File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      RLT_SPAN_CD_SEQ        
+                                                                      Claim Related Span Code Sequence        
+          
+
+      
+
+                                                                      CLM_SPAN_CD        
+                                                                      Claim Occurrence Span Code (Encounter)        
+          
+
+      
+
+                                                                      CLM_SPAN_FROM_DT        
+                                                                      Claim Occurrence Span From Date (Encounter)        
+          
+
+      
+
+                                                                      CLM_SPAN_THRU_DT        
+                                                                      Claim Occurrence Span Through Date (Encounter)        
+          
+
+    
+
+
+  
+
+  
+
+
+      
+              
+Value Code File
+
+                
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      ENC_JOIN_KEY        
+                                                                      Unique Encounter Join Key        
+          
+
+      
+
+                                                                      CLM_TYPE_CD        
+                                                                      Claim Type Code        
+          
+
+      
+
+                                                                      RLT_VAL_CD_SEQ        
+                                                                      Claim Related Value Code Sequence        
+          
+
+      
+
+                                                                      CLM_VAL_CD        
+                                                                      Claim Value Code (Encounter)        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

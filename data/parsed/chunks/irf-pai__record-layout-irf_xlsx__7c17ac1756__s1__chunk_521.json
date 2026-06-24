@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_521",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "Hearing CHAR 1 This column documents the patient's ability to hear (with hearing aid or hearing appliances if normally used). 0 = Adequate; no difficulty in normal conversation, social interaction, listening to TV\r\n1 = Minimal difficulty; difficulty in some environments (e.g., when person speaks softly or setting is noisy)\r\n2 = Moderate difficulty; speaker has to increase volume and speak distinctly\r\n3 = Highly impaired, absence of useful hearing\r\n- = Not Assessed/No Information\n456 VSN_CD",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

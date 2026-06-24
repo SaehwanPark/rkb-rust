@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p222__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 222,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 206 \n\nRDLGY_ONCLGY_IND_SW \n\nLABEL: Oncology Indicator \n\nDESCRIPTION: The switch indicating whether the beneficiary received oncology services during the stay. \n\nSHORT NAME: ONCLGYSW \n\nLONG NAME: RDLGY_ONCLGY_IND_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: MedPAR (derived) \n\nVALUES: 0 = No oncology (revenue code not 028x) \n1 = Yes oncology (revenue code 028x) \n\nCOMMENT: This field is derived by checking for",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

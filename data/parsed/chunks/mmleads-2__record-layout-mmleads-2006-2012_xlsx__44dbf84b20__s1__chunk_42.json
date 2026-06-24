@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_42",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "disturbance\r\nN - enrolled in section 1915(C) waiver for technology dependent / medically fragile\r\nO - enrolled in section 1915(C) waiver for unspecified or unknown populations\r\nP - enrolled in section 1915(C) waiver this month for autism/spectrum disorder\r\nNull/Missing – No Medicaid coverage during the month\n E_WAIVER2_1 - 12 Monthly Medicaid Waiver Status (2nd type of waiver) see E_WAIVER1_1-12\n E_WAIVER3_1 - 12 Monthly Medicaid Waiver Status (3rd type of waiver) see E_WAIVER1_1-12",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

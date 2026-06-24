@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__data-documentation__5852cefcaf__chunk_7",
+  "source_document": "data/raw/html/documentation_page/5852cefcaf4dca5dba3392a521caae7b6816e9f1.html",
+  "page": null,
+  "text": "34\n\n CLM_DRG_CD\n\n Claim Diagnosis Related Group Code (or MS-DRG Code) (Encounter)\n\n 35\n\n DRVD_DRG_CD\n\n Derived MS-Diagnosis Related Group Code (MS-DRG)\n\n 36\n\n ADMTG_DGNS_CD\n\n Claim Admitting Diagnosis Code (Encounter)\n\n 37\n\n PRNCPAL_DGNS_CD\n\n Claim Principal Diagnosis Code (Encounter)\n\n 38\n\n ICD_DGNS_CD1\n\n Claim Diagnosis Code 1 (Encounter)\n\n 39\n\n ICD_DGNS_CD2 \n\n Claim Diagnosis Code 2 (Encounter)\n\n 40\n\n ICD_DGNS_CD3\n\n Claim Diagnosis Code 3 (Encounter)\n\n 41\n\n ICD_DGNS_CD4\n\n Claim Diagnosis",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter/data-documentation"
+}

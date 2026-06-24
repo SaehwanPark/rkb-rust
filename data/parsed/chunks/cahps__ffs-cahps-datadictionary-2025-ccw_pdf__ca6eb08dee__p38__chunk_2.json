@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p38__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 38,
+  "text": "you felt you could not afford it? \nPDP Q14 \nFFS Q48 \nMA-PD Q53A \nMA-Only Q48A Has a doctor ever told you that you had any of the following conditions? \ncnd_heartattack PDP Q15A A heart attack? \nFFS Q50A \nMA-PD Q53B \nMA-Only Q48B Has a doctor ever told you that you had any of the following conditions? \ncnd_angina PDP Q15B Angina or coronary heart disease? \nFFS Q50B \nMA-PD Q53C \nMA-Only Q48C Has a doctor ever told you that you had any of the following conditions? \ncnd_hbp PDP Q15C Hypertension or",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

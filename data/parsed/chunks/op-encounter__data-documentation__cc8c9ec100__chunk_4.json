@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_4",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "16\n\n CLM_SRVC_CLSFCTN_TYPE_CD\n\n Claim Service Classification Type Code (Encounter)\n\n 17\n\n CLM_FREQ_CD\n\n Claim Frequency Code (Encounter)\n\n 18\n\n CNTRCT_NUM\n\n Medicare Part C Contract Number\n\n 19\n\n CNTRCT_PBP_NUM\n\n Medicare Part C Plan Benefit Package (PBP) Number\n\n 20\n\n CLM_MDCL_REC\n\n Claim Medical Record Number (Encounter)\n\n 21\n\n ORG_NPI \n\n Organization NPI Number (Encounter)\n\n 22\n\n ORG_TXNMY_CD\n\n Organization Taxonomy Code\n\n 23\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician NPI (Encounter)\n\n 24",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_5",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Patient Status at Ending Date of Service\n\n 23\n\n BIRTH_WT\n\n Birth Weight in Grams\n\n 24\n\n PGM_TYPE_CD\n\n Program Type Code\n\n 25\n\n MC_PLAN_ID\n\n Managed Care Plan Identification Number\n\n 26\n\n WVR_TYPE_CD\n\n Waiver Type Code\n\n 27\n\n WVR_ID\n\n Waiver Identification Number\n\n 28\n\n OTHR_INSRNC_IND\n\n Indicator Insured is Covered by Another Plan (Not Medicare or Medicaid)\n\n 29\n\n SECT_1115A_DEMO_IND\n\n 1115(A) Demonstration Participation Indicator\n\n 30\n\n SRVC_BGN_DT\n\n Claim Beginning Date of Service\n\n 31",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

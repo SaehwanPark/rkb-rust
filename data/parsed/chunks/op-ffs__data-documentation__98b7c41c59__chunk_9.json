@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_9",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "45\n\n ICD_DGNS_CD1\n\n Claim Diagnosis Code I (FFS)\n\n 46\n\n ICD_DGNS_CD2\n\n Claim Diagnosis Code II (FFS)\n\n 47\n\n ICD_DGNS_CD3\n\n Claim Diagnosis Code III (FFS)\n\n 48\n\n ICD_DGNS_CD4\n\n Claim Diagnosis Code IV (FFS)\n\n 49\n\n ICD_DGNS_CD5\n\n Claim Diagnosis Code V (FFS)\n\n 50\n\n ICD_DGNS_CD6\n\n Claim Diagnosis Code VI (FFS)\n\n 51\n\n ICD_DGNS_CD7\n\n Claim Diagnosis Code VII (FFS)\n\n 52\n\n ICD_DGNS_CD8\n\n Claim Diagnosis Code VIII (FFS)\n\n 53\n\n ICD_DGNS_CD9\n\n Claim Diagnosis Code IX (FFS)\n\n 54\n\n ICD_DGNS_CD10\n\n Claim",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p43__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 43,
+  "text": "Q06 Q06 Q06 Q06 Q06 Q06 \nca_visits Q07 Q07 Q07 Q07 Q07 Q07 Q07 Q07 Q07 \nca_emerquex D \nca_emeransr D \nca_emerfup R D \nca_wt15mns* D Q08 Q08 Q08 Q08 Q08 Q08 Q08 Q08 \nrate_care* Q08 Q09 Q09 Q09 Q09 Q09 Q09 Q09 Q09 \nca_equipment \nca_getequip \nca_therapy \nca_gettherapy \nmd_have Q10 Q11 Q11 Q11 Q11 Q11 Q11 Q11 Q11 \nmd_visits Q11 Q12 Q12 Q12 Q12 Q12 Q12 Q12 Q12 \nmd_explain* Q12 Q13 Q13 Q13 Q13 Q13 Q13 Q13 Q13 \nmd_listen* Q13 Q14 Q14 Q14 Q14 Q14 Q14 Q14 Q14 \nmd_respect* Q14 Q15 Q15 Q15 Q15 Q15 Q15 Q15",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_149",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "routinely participated in housekeeping tasks in the past (i.e., prior to this home care admission).\r\n01 = Able to perform only light housekeeping (e.g., dusting, wiping kitchen counters) tasks independently.\r\n02 = Able to perform housekeeping tasks with intermittent assistance or supervision from another person.\r\n03 = Unable to consistently perform any housekeeping tasks unless assisted by another person throughout the process.\r\n04 = Unable to effectively participate in any housekeeping",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

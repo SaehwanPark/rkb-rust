@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_22",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "115\n\n CRNRY_CARE_IND_CD \n\n Coronary Care Unit (CCU) Indicator Code\n\n 116\n\n PHRMCY_IND_CD \n\n Pharmacy Indicator Code\n\n 117\n\n TRNSPLNT_IND_CD \n\n Organ Transplant Indicator Code\n\n 118\n\n RDLGY_ONCLGY_IND_SW\n\n Oncology Indicator\n\n 119\n\n RDLGY_DGNSTC_IND_SW \n\n Diagnostic Radiology Indicator\n\n 120\n\n RDLGY_THRPTC_IND_SW \n\n Therapeutic Radiology Indicator\n\n 121\n\n RDLGY_NUCLR_MDCN_IND_SW \n\n Radiology Nuclear Medicine Indicator\n\n 122\n\n RDLGY_CT_SCAN_IND_SW \n\n Radiology Computed Tomographic (CT) Scan",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p36__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 36,
+  "text": "III. 2025 Question and Variable Key 36 \n\nQuestion \nVariable Survey Number Question Text \nMA-PD \nmd_listen MA-Only Q13 In the last 6 months, how often did your personal doctor listen carefully to you? \nFFS \nMA-PD \nmd_respect MA-Only Q14 In the last 6 months, how often did your personal doctor show respect for what you had to say? \nFFS \nMA-PD \nmd_sptime MA-Only Q15 In the last 6 months, how often did your personal doctor spend enough time with you? \nFFS \nMA-PD Using any number from 0 to 10, where",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

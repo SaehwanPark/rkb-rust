@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_19",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "FUNDNG_CD\n\n Code To Indicate Source of Non-Federal Funding\n\n 109\n\n FUNDNG_SRC_NON_FED_SHR_CD\n\n Funding Source Non-Federal Share Code\n\n 110\n\n DA_RUN_ID\n\n TAF Production Run Identifier (unique for each TAF run)\n\n 111\n\n TMSIS_RUN_ID\n\n TMSIS State Data Processing Run Identifier\n\n 112\n\n LT_VRSN\n\n Long-Term Version Representing the Iteration of the File\n\n 113\n\n LT_FIL_DT\n\n Long-Term File Date - Represents the Year and Month of the Reporting Period\n\n 114\n\n CCW_LD_DT\n\n CCW Load Date (Claims)",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

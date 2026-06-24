@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_6",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "Total Drug Cost (Part D) \n\n RX_ORGN_CD \n Prescription Origination Code \n\n RPTD_GAP_DSCNT_NUM \n Gap Discount Amount \n\n BRND_GNRC_CD \n Brand-Generic Code Reported by Submitting Plan \n\n PHRMCY_SRVC_TYPE_CD \n Pharmacy service type code \n\n PTNT_RSDNC_CD \n Patient Residence Code \n\n SUBMSN_CLR_CD \n Submission clarification code \n\n BENEFIT_PHASE \n Benefit Phase of Part D Event \n\n CCW_PHARM_ID \n CCW Pharmacy Identifier \n\n NCPDP_ID \n NCPDP Pharmacy Identifier \n\n PRSCRBR_ID \n Prescriber Identification",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

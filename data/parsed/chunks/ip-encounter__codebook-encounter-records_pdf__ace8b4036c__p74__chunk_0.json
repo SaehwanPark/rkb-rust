@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p74__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 74,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 64 \n\nEDPS_CREATE_DT \n\nLABEL: Encounter Data Processing System (EDPS) Create Date \n\nDESCRIPTION: The date that an encounter record was created on the CMS Encounter Data Processing System (EDPS) \ndatabase. \n\nSHORT NAME: EDPS_CREATE_DT \n\nLONG NAME: EDPS_CREATE_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: CMS Encounter Data System (EDS) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

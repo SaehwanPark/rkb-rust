@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_276",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "surface dimension (length x width). CHAR 4 x\nM1312_PRSR_ULCR_WDTH M1312 Largest Pressure Ulcer Width This field records the width of the same pressure ulcer; greatest width perpendicular to the length. CHAR 4 x\nM1314_PRSR_ULCR_DEPTH M1314 Largest Pressure Ulcer Depth This field records the depth of the same pressure ulcer; from the visible surface to the deepest area. CHAR 4 x\nM1320_STUS_PRBLM_PRSR_ULCR M1320 Status Of Most Problematic Pressure Ulcer This field indicates the status of the most",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

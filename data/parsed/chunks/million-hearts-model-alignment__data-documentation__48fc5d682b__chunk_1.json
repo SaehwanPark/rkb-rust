@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts-model-alignment__data-documentation__48fc5d682b__chunk_1",
+  "source_document": "data/raw/html/documentation_page/48fc5d682bc1c7af9247fa6777ca8daf93550d55.html",
+  "page": null,
+  "text": "to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Codebook - Million Hearts® Model files\nCCW Record Layout - Million Hearts® Model files\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n PRACTICE_ID \n Model-Assigned Practice ID",
+  "dataset": "million-hearts-model-alignment",
+  "url": "https://resdac.org/cms-data/files/million-hearts-model-alignment/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_11",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Claim Referring Physician NPI Number \n\n CLM_CLNCL_TRIL_NUM \n Clinical Trial Number \n\n DOB_DT \n Date of Birth from Claim \n\n BENE_RACE_CD \n Beneficiary Race Code (FFS) \n\n BENE_CNTY_CD \n County Code from Claim (SSA) \n\n BENE_STATE_CD \n Beneficiary Residence (SSA) State Code (FFS) \n\n BENE_MLG_CNTCT_ZIP_CD \n Zip Code of Residence from Claim \n\n ACO_ID_NUM \n Claim Accountable Care Organization (ACO) Identification Number \n\n CLM_BENE_ID_TYPE_CD \n Claim Beneficiary Identifier Type Code",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_40",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Use (FFS Claim Count) — Part A\n\n 13\n\n MDCR_PTA_TOTAL_FFS_SPEND\n\n Medicare FFS Payment Amount — Part A\n\n 14\n\n MDCR_HOP_TOTAL_FFS_USE\n\n Medicare Use (FFS Claim Count) — Hospital Outpatient\n\n 15\n\n MDCR_HOP_TOTAL_FFS_SPEND\n\n Medicare FFS Payment Amount — Hospital Outpatient\n\n 16\n\n MDCR_PTBNI_TOTAL_FFS_USE\n\n Medicare Use (FFS Claim Count) — Part B Non-Institutional\n\n 17\n\n MDCR_PTBNI_TOTAL_FFS_SPEND\n\n Medicare FFS Payment Amount — Part B Non-Institutional\n\n 18\n\n MDCR_PTD_TOTAL_USE\n\n Medicare Use",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

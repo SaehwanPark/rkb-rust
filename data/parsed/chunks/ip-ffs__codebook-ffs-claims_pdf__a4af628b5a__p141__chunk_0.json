@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p141__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 141,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 123 \n\nCLM_RP_IND_CD \n\nLABEL: Claim Representative Payee (RP) Indicator Code \n\nDESCRIPTION: Claim representative payee (RP) indicator code. \n\nSHORT NAME: CLM_RP_IND_CD \n\nLONG NAME: CLM_RP_IND_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: R = bypass representative payee \nNull/missing = not applicable \n\nCOMMENT: This field is used to designate by-passing of the prior",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

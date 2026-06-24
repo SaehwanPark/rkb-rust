@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_12",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Capitated Payment Billed Amount\n\n 67\n\n CPTATD_PYMT_BILLED_DT\n\n Capitated Payment Billed Date\n\n 68\n\n BILLED_AMT\n\n Total Claim Billed Amount\n\n 69\n\n MDCD_ALOWD_AMT\n\n Total Medicaid Allowed Amount\n\n 70\n\n MDCD_PD_AMT\n\n Total Amount Paid By Medicaid\n\n 71\n\n DAILY_RATE\n\n Daily Rate that a Policy will Pay for a Covered Service\n\n 72\n\n MDCD_COPAY_AMT\n\n Total Copay Amount Paid by Beneficiary\n\n 73\n\n MDCR_DDCTBL_PD_AMT\n\n Total Medicare Deductible Amount\n\n 74\n\n MDCR_COINSRNC_PD_AMT\n\n Total Medicare",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

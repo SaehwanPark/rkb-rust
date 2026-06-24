@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-drug-characteristics__chunk_1",
+  "source_document": "data/raw/html/dataset_page/d44960a0870a15bd37d7fb4526e471753a3ddd98.html",
+  "page": null,
+  "text": "that are appended to the Medicare Part D Event (PDE) file. Researchers need to request the specific variables required for their study and CMS must approve the release.\n\nWhat does this file include? (variable highlights)\nProduct ID (NDC) used to link Drug Characteristics to PDE file\nBrand name\nGeneric name\nStrength\nForm of the drug\nWhy do researchers request this file?\nResearchers who do not have access to a proprietary NDC database use this file to identify specific drugs, strengths and",
+  "dataset": "part-d-drug-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-drug-characteristics?page=1"
+}

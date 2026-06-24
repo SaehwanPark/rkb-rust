@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__data-documentation__5852cefcaf__chunk_9",
+  "source_document": "data/raw/html/documentation_page/5852cefcaf4dca5dba3392a521caae7b6816e9f1.html",
+  "page": null,
+  "text": "Claim Diagnosis Code 9 (Encounter)\n\n 47\n\n ICD_DGNS_CD10\n\n Claim Diagnosis Code 10 (Encounter)\n\n 48\n\n ICD_DGNS_CD11\n\n Claim Diagnosis Code 11 (Encounter)\n\n 49\n\n ICD_DGNS_CD12\n\n Claim Diagnosis Code 12 (Encounter)\n\n 50\n\n ICD_DGNS_CD13 \n\n Claim Diagnosis Code 13 (Encounter)\n\n 51\n\n ICD_DGNS_CD14\n\n Claim Diagnosis Code 14 (Encounter)\n\n 52\n\n ICD_DGNS_CD15\n\n Claim Diagnosis Code 15 (Encounter)\n\n 53\n\n ICD_DGNS_CD16 \n\n Claim Diagnosis Code 16 (Encounter)\n\n 54\n\n ICD_DGNS_CD17 \n\n Claim Diagnosis Code",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter/data-documentation"
+}

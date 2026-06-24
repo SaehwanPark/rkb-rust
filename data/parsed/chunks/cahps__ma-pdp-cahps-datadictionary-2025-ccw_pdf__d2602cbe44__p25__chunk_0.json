@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p25__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 25,
+  "text": "B. 2025 MCAHPS Format Tables 25\n\nrxinspay: RECODE: Have insurance that pays part or all the cost of RX medicines\n\nSAS Format: YNA\n\n1: YES\n\n2: NO\n sa_cvrg_type: Part A-B Coverage Type\n\nSAS Format: $CVT\n\n3: CVP\n\n4: MSA\n\n5: PFFS\n\n6: PACE\n\n7: PCE\n\n8: DEMO\n\n9: FFS\n\n10: CHCCP\n\n12: CCDM\n\n14: MMP\n\nsa_deemd_cpmt: Generic Level for Copay Computation\n\nSAS Format: $GENLEVF\n\n1: HIGH\n\n2: LOW\n\n3: 0\n\n4: 15%\n\n5: UNKNOWN\n\nN: N/A\n\nsa_deemd_lis: Deemed for Low Income Subsidy\n\nSAS Format: $ID_F\n\nN: NO\n\nU:",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

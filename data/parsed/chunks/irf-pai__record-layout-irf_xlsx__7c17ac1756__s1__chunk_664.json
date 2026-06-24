@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_664",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "1 = Yes\n629 A1400D_MDCD_OPYR_SW A1400D_MDCD_OPYR_SW A1400D - Payer: Medicaid (Managed Care) CHAR 1 This column documents whether the resident's payer is Medicaid (Managed Care). 0 = No \r\n1 = Yes\n630 A1400E_WC_PYR_SW A1400E_WC_PYR_SW A1400E - Payer: Workers' Compensation CHAR 1 This column documents whether the resident's payer is Workers' Compensation. 0 = No \r\n1 = Yes\n631 A1400F_TITLE_PGMS_PYR_SW A1400F_TITLE_PGMS_PYR_SW A1400F - Payer: Title programs CHAR 1 This column documents whether the",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

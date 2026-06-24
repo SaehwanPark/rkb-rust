@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_27",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Data\n\n 136\n\n HYPTHY_MEDICARE\n\n Acquired Hypothyroidism Indicator - Medicare-Only Data\n\n 137\n\n IHD_COMBINED\n\n Ischemic Heart Disease Indicator - Combined Data\n\n 138\n\n IHD_MEDICAID\n\n Ischemic Heart Disease Indicator - Medicaid-Only Data\n\n 139\n\n IHD_MEDICARE\n\n Ischemic Heart Disease Indicator - Medicare-Only Data\n\n 140\n\n INTDIS_COMBINED\n\n Intellectual Disabilities Indicator - Combined Data\n\n 141\n\n INTDIS_MEDICAID\n\n Intellectual Disabilities Indicator - Medicaid-Only Data\n\n 142\n\n INTDIS_MEDICARE",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

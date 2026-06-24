@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_8",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "34\n\n AUTISM_MEDICARE\n\n Autism Indicator - Medicare-Only Data\n\n 35\n\n BIPL_COMBINED\n\n Bipolar Disorder Indicator - Combined Data\n\n 36\n\n BIPL_MEDICAID\n\n Bipolar Disorder Indicator - Medicaid-Only Data\n\n 37\n\n BIPL_MEDICARE\n\n Bipolar Disorder Indicator - Medicare-Only Data\n\n 38\n\n BRAINJ_COMBINED\n\n Brain Injury Indicator - Combined Data\n\n 39\n\n BRAINJ_MEDICAID\n\n Brain Injury Indicator - Medicaid Only Data\n\n 40\n\n BRAINJ_MEDICARE\n\n Brain Injury Indicator - Medicare Only Data\n\n 41\n\n BRC_COMBINED\n\n Breast",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

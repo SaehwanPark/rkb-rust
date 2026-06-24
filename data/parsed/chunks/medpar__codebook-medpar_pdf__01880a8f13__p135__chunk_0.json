@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p135__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 135,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 119 \n\nINTRNL_USE_SSI_DATA \n\nLABEL: Internal Use SSI Data \n\nDESCRIPTION: Internal Use SSI Data. \n\nSHORT NAME: INTRNL_USE_SSI_DATA \n\nLONG NAME: INTRNL_USE_SSI_DATA \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: MedPAR (derived) \n\nVALUES: 0 = information not available \n Null/missing \n\nCOMMENT: Limited availability; for internal use only; applicable to inpatient claims only. Where not available, this \nfield is will",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

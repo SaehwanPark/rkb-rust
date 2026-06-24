@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p21__chunk_1",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 21,
+  "text": "8 \n\nFILE(S): APR enrollment \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: Date (numeric, system dependent) e.g., 15FEB1988, or null/missing \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

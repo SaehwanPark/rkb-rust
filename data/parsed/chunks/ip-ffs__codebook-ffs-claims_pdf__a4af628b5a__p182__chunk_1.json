@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p182__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 182,
+  "text": "that will have a payment penalty for not being meaningful users. \n\nSHORT NAME: EHR_PGM_RDCTN_IND_SW \n\nLONG NAME: EHR_PGM_RDCTN_IND_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: Y = hospital is subject to a reduction under the EHR program \n\nBlank = not applicable \n\nCOMMENT: This field is new in October 2014. This field only applies to inpatient claims. \n ^ Back to TOC ^",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

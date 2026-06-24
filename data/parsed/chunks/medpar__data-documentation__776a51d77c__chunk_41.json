@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_41",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "MedPAR Diagnosis Present on Admission Indicator 23\n\n 225\n\n POA_DGNS_24_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 24\n\n 226\n\n POA_DGNS_25_IND_CD\n\n MedPAR Diagnosis Present on Admission Indicator 25\n\n 227\n\n DGNS_E_CD_CNT\n\n Count of Diagnosis E Codes\n\n 228\n\n DGNS_E_VRSN_CD\n\n Diagnosis E Version Code (Earlier Version)\n\n 229\n\n DGNS_E_VRSN_CD_1\n\n Diagnosis E Version Code 1\n\n 230\n\n DGNS_E_VRSN_CD_2\n\n Diagnosis E Version Code 2\n\n 231\n\n DGNS_E_VRSN_CD_3\n\n Diagnosis E Version Code 3\n\n 232",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

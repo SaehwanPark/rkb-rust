@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p255__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 255,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 215 \n\nMRTL_STUS_CD \n\nLABEL: Marital Status Code — Latest in Year \n\nDESCRIPTION: A code to classify eligible beneficiary’s marital/domestic-relationship status; most recent in the \ncalendar and the two prior years. \n\nSHORT NAME: MRTL_STUS_CD \n\nLONG NAME: MRTL_STUS_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-drug-characteristics__chunk_5",
+  "source_document": "data/raw/html/dataset_page/d44960a0870a15bd37d7fb4526e471753a3ddd98.html",
+  "page": null,
+  "text": "Plan Characteristics \n\n The Plan Characteristics file contains Medicare Advantage plan and Prescription Drug Plan information separated into six subfiles.The…\n\n Part D Pharmacy Characteristics \n\n The Part D Pharmacy Characteristics file provides information about the pharmacy identified as the source of the drug for each Part D…\n\n Part D Medication Therapy Management Data \n\n This file includes beneficiary-level information for participants in the Part D Medication Therapy Management (MTM)",
+  "dataset": "part-d-drug-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-drug-characteristics?page=1"
+}

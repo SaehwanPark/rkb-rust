@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p254__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 254,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 214 \n\nTYPE: NUM \n\nLENGTH: 1 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: 0 = No \n1 = Yes \nNull/missing = source value is missing or unknown \n\nCOMMENT: This derived variable is created in the ADE TAF to identify cases in which the beneficiary’s enrollment \nstart and end dates are valid, but the enrollment type is",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

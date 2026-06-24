@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__codebook-taf-annual-plan_pdf__5f77cf7c30__p65__chunk_0",
+  "source_document": "data/raw/assets/pdf/5f77cf7c30acd114cc7f3b826ca63f6650c33876.pdf",
+  "page": 65,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: TAF Annual Managed Care Plan (APL) RIFs │ October 2022 │ V 1.1 57 \n\nOPRTG_AUTHRTY_1115_DEMO_WVR_IND \n\nLABEL: Operating Authority Indicator: 1115 Demo Waiver — Ever in Calendar Year \n\nDESCRIPTION: Indicates when the operating authority is 1115 demonstration for the MC_PLAN_ID; ever in the \ncalendar year. \n\nSHORT NAME: OPRTG_AUTHRTY_1115_DEMO_WVR_IND \n\nLONG NAME: OPRTG_AUTHRTY_1115_DEMO_WVR_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): APL base \n\nSOURCE: T-MSIS",
+  "dataset": "taf-apl",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-plan.pdf"
+}

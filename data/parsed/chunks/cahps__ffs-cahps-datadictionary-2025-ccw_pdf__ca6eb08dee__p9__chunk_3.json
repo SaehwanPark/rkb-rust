@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p9__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 9,
+  "text": "$MCR \nsa_mdcd_stus Sample members who are dual eligible $ID_F \nsa_mbi_id Medicare beneficiary identifier (mbi) \nsa_lis Low income subsidy $ID_F \nsa_incarc_sw Incarceration flag $ID_F \nsa_fpl_pct Federal poverty level percent code $FPL \nsa_fips_state Fips state code \nsa_fips_cnty Fips county code \nsa_dodeath Date of death of beneficiary \nsa_dob Date of birth of beneficiary \nsa_disbld Disabled flag $ID_F \nsa_deemd_lis Deemed for low income subsidy $ID_F \nsa_deemd_cpmt Generic level for copay",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

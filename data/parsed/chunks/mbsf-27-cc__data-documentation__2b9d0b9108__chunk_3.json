@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_3",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "ALZH \n Alzheimer's Disease End-of-Year Indicator \n\n ALZH_MID \n Alzheimer's Disease Mid-Year Indicator \n\n ALZH_EVER \n Date that beneficiary first met claims criteria for the Alzheimer’s disease indicator \n\n ALZH_DEMEN \n Alzheimer's Disease and Related Disorders or Senile Dementia End-of-Year Indicator \n\n ALZH_DEMEN_MID \n Alzheimer's Disease and Related Disorders or Senile Dementia Mid-Year Indicator \n\n ALZH_DEMEN_EVER \n Date that beneficiary first met claims criteria for the Alzheimer's",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p56__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 56,
+  "text": "A. Crosswalk: 2007 to 2025 - Original Medicare Survey 56 \n\nVariable Reverse 2007 \nYear 1 \n\nlim_climb Q31 \nlim_acomls R Q32 \nlim_regact R Q33 \nlim_acomlsem R Q34 \nlim_regactem R Q35 \nlim_painint R Q36 \nsf_calm R Q37 \nsf_energy R Q38 \nsf_downblue Q39 \nlim_socacts Q40 \nds_nointerest R \nds_depressed R \ncnd_seemd2 Q41 \ncnd_last3mo Q42 \ncnd_rxmeds Q43 \ncnd_meds3mo Q44 \nrxmedslist Q45 \nrxezmeds \nrxinspay \nrxdelay Q46 \nrxmailunreq \npdpenroll R \nmtm_enrollprog \nmtm_medansr R \nmtm_meduse R \nmtm_summ R",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

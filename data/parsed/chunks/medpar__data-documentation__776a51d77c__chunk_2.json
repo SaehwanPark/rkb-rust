@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_2",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "BENE_ID\n\n CCW Encrypted Beneficiary ID Number\n\n 2\n\n MEDPAR_ID \n\n MEDPAR ID Number\n\n 3\n\n MEDPAR_YR_NUM \n\n Year of MedPAR Record\n\n 4\n\n NCH_CLM_TYPE_CD \n\n MEDPAR NCH Claim Type Code\n\n 5\n\n BENE_IDENT_CD\n\n BIC reported on first claim included in stay\n\n 6\n\n EQTBL_BIC_CD\n\n Equated BIC\n\n 7\n\n BENE_AGE_CNT \n\n Age as of Date of Admission\n\n 8\n\n BENE_SEX_CD \n\n Sex of Beneficiary\n\n 9\n\n BENE_RACE_CD \n\n Race of Beneficiary\n\n 10\n\n BENE_MDCR_STUS_CD \n\n Reason for entitlement to Medicare benefits as of",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p6__chunk_1",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 6,
+  "text": "BENE_ENROLLMT_REF_YR \n\nLABEL: Reference Year \n\nDESCRIPTION: This field indicates the reference year of the enrollment data. \n\nSHORT NAME: RFRNC_YR \n\nLONG NAME: BENE_ENROLLMT_REF_YR \n\nTYPE: NUM \n\nLENGTH: 4 \n\nSOURCE: CMS Common Medicare Environment (CME)) \n\nVALUES: 1999 forward \n\nCOMMENT: The data files are partitioned into calendar year files. Since the source data originate outside of CMS, \nthe update cycle is not the same as the other MBSF segments and does not occur on any regular \ncadence.",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

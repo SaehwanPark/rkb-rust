@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_2",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Claim File\n\nRevenue Center File\n\nCondition Code File\n\nOccurrence Code File\n\nSpan Code File\n\nValue Code File\n\nBase Claim File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n SAMPLE_GROUP \n CCW Beneficiary Random Sample Group \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n CLM_FROM_DT \n Claim From Date (Encounter) \n\n CLM_THRU_DT \n Claim Through Date (Encounter) \n\n SRVC_MONTH \n Service Month \n\n CLM_CHRT_RVW_SW \n Claim Chart Review Switch",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_18",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "RR_BRD_EXCLSN_IND_SW\n\n Railroad Board Exclusion Indicator Switch\n\n 103\n\n CLM_MODEL_REIMBRSMT_AMT\n\n Claim Model Reimbursement Amount\n\n 104\n\n CLM_ADJUST_GRP_CD\n\n Claim Adjustment Group Code\n\n 105\n\n CLM_ADJUST_RSN_CD\n\n Claim Adjustment Reason Code\n\n 106\n\n CLM_CLNCL_TRIL_NUM\n\n Clinical Trial Number\n\n Revenue Center File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n CLM_THRU_DT\n\n Claim Through Date (FFS)\n\n 4\n\n CLM_LINE_NUM\n\n Claim Line",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

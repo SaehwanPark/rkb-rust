@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p73__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 73,
+  "text": "—– —– —– —– —– —– —– —–\nmd_respect* —– —– —– —– —– —– —– —–\nmd_sptime* —– —– —– —– —– —– —– —–\nrate_md* —– —– —– —– —– —– —– —–\nmd_medrecs* —– —– —– —– —– —– —– —–\nmd_hlthcond\nmd_ezinstr\nmd_descinstr\nmd_test —– —– —– —– —– —– —– —–\nmd_testfup* —– —– —– —– —– —– —– —–\nmd_testasan* —– —– —– —– —– —– —– —–\nmd_rxmeds —– —– —– —– —– —– —– —–\nmd_talkmeds* —– —– —– —– —– —– —– —–\nmd_hhdevice R\nmd_hhdhelp R\nmd_hhdtalk\nmd_morethan1 —– —– —– —– —– —– —– —–\n\n1Note that in 2007-2010, the Prescription Drug",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

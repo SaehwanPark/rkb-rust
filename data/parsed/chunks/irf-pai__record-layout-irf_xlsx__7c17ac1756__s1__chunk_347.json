@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_347",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "the time of admission. 01 = Dependent\r\n02 = Substantial/maximal assistance\r\n03 = Partial/moderate assistance\r\n04 = Supervision or touching assistance\r\n05 = Setup or clean-up assistance\r\n06 = Independent\r\n07 = Patient refused\r\n09 = Not applicable\r\n10 = Not attempted due to environmental limitations\r\n88 = Not attempted due to medical condition or safety concerns\n319 GG0130G2_LWR_DRSNG_GOAL_CD GG0130G2_LWR_DRSNG_GOAL_CD GG0130G2 Discharge Goal Lower Dressing Code - The data in this column",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

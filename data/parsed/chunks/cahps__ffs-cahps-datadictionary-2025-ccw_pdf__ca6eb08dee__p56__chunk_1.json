@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p56__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 56,
+  "text": "rxinspay \nrxdelay Q46 \nrxmailunreq \npdpenroll R \nmtm_enrollprog \nmtm_medansr R \nmtm_meduse R \nmtm_summ R \nmtm_info R \nmtm_prog R \nknowcare R Q47 \nhelpperscare Q48 \nhelproutine Q49 \nlim_physcond Q50 \ncnd_heartattack \ncnd_angina \ncnd_stroke \ncnd_hbp \ncnd_cancer \ncnd_copd \ncnd_diabetes \nprob_walking \nprob_dressing \nprob_errands \nim_flu1last* R Q51 \nim_flu1plan —– \nim_pneum* R Q52 \nsmokenow Q53 \nadvsquit Q54 \nsmokequit \nagecat Q55 \nsex Q56 \neduc Q57 \nrace_hisp Q58",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

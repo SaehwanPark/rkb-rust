@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-ffs__data-documentation__4884fb854a__chunk_3",
+  "source_document": "data/raw/html/documentation_page/4884fb854a6d49f92d07233bdd338c6ca594c7b0.html",
+  "page": null,
+  "text": "NCH Weekly Claim Processing Date\n\n 8\n\n FI_CLM_PROC_DT\n\n FI Claim Process Date\n\n 9\n\n CLAIM_QUERY_CODE\n\n Claim Query Code\n\n 10\n\n PRVDR_NUM\n\n Provider Number\n\n 11\n\n PRVDR_FULL_CCN_NUM\n\n Full CMS Certification Number for Provider\n\n 12\n\n CLM_FAC_TYPE_CD\n\n Claim Facility Type Code (FFS)\n\n 13\n\n CLM_SRVC_CLSFCTN_TYPE_CD\n\n Claim Service Classification Type Code (FFS)\n\n 14\n\n CLM_FREQ_CD\n\n Claim Frequency Code (FFS)\n\n 15\n\n FI_NUM\n\n FI or MAC Number\n\n 16\n\n CLM_MDCR_NON_PMT_RSN_CD\n\n Claim Medicare",
+  "dataset": "snf-ffs",
+  "url": "https://resdac.org/cms-data/files/snf-ffs/data-documentation"
+}

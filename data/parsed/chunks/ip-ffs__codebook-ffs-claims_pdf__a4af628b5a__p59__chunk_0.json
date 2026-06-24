@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p59__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 59,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 41 \n\n47 = REST OF MISSOURI \n48 = MONTANA \n49 = NEBRASKA \n50 = NEVADA \n51 = NEW HAMPSHIRE \n52 = NORTHERN NJ \n53 = REST OF NEW JERSEY \n54 = NEW MEXICO \n55 = MANHATTAN, NY \n56 = NYC SUBURBS/LONG I., NY \n57 = POUGHKPSIE/N NYC SUBURBS, \nNY \n58 = QUEENS, NY \n59 = REST OF NEW YORK \n60 = NORTH CAROLINA \n61 = NORTH DAKOTA \n62 = OHIO \n63 = OKLAHOMA \n64 = PORTLAND, OR \n65 = REST OF",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_12",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "FIPS Code\n\n 5\n\n CLM_ID\n\n CCW Claim Identifier\n\n 6\n\n LINE_NUM\n\n Sequential Claim Line Number\n\n 7\n\n CLM_NUM_ORIG\n\n Original Claim Identifier\n\n 8\n\n LINE_NUM_ORIG\n\n Original Claim Line Number (TAF)\n\n 9\n\n CLM_NUM_ADJ\n\n Adjustment Claim Identifier\n\n 10\n\n LINE_NUM_ADJ\n\n Adjustment Claim Line Number\n\n 11\n\n ADJDCTN_DT\n\n Adjudication Date\n\n 12\n\n LINE_CLAIM_STUS_CD\n\n Claim Line Status Code\n\n 13\n\n LINE_ADJUST_CD\n\n Claim Line Adjustment Code\n\n 14\n\n BNFT_TYPE_CD\n\n Benefit Type Code\n\n 15\n\n TOS_CD\n\n Type of",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

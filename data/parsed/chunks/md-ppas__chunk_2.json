@@ -1,0 +1,8 @@
+{
+  "chunk_id": "md-ppas__chunk_2",
+  "source_document": "data/raw/html/dataset_page/2f231d2e4e57843df94c520b5bad73d382db2e35.html",
+  "page": null,
+  "text": "highlights)\nThe MD-PPAS contain data on specialty, TIN practice assignment, place of service information, provider demographics, geographic location, and summary Medicare utilization measures for over 1.2 million providers.\nThe MD-PPAS has been updated to version 2.4 from version 2.3 to reflect the following changes:\nThe MD-PPAS data include a modified broad specialty variable that provides a more detailed breakdown of non-physician specialties.\nThe data also include two additional variables",
+  "dataset": "md-ppas",
+  "url": "https://resdac.org/cms-data/files/md-ppas"
+}

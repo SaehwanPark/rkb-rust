@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__codebook-ahcah_pdf__27ccfc2740__p16__chunk_0",
+  "source_document": "data/raw/assets/pdf/27ccfc27407a53098d675d692da68eaa1b233dfc.pdf",
+  "page": 16,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nCODEBOOK: Acute Hospital Care at Home Patient and Hospital Data Files │ January 2024 │ V 1.0 11 \n\nPRVDR_ADR \n\nLABEL: Facility Location Address \n\nDESCRIPTION: The facility location’s address. \n\nSHORT NAME: PRVDR_ADR \n\nLONG NAME: PRVDR_ADR \n\nTYPE: CHAR \n\nLENGTH: 510 \n\nFILE(S): Patient and hospital \n\nSOURCE: AHCAH facility-submitted data (verified by CMS) \n\nVALUES: Ex — 12345 Main St \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ahcah-patient",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahcah.pdf"
+}

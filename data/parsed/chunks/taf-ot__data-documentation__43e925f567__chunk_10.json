@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_10",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Taxonomy Code of Provider Directing the Patient's Care\n\n 54\n\n SPRVSNG_PRVDR_NPI\n\n Supervising Provider NPI\n\n 55\n\n SPRVSNG_PRVDR_TXNMY_CD\n\n Supervising Provider Taxonomy Code\n\n 56\n\n HLTH_HOME_PRVDR_IND\n\n Health Home Provider Indicator\n\n 57\n\n HLTH_HOME_PRVDR_NPI\n\n Health Home Provider NPI\n\n 58\n\n HLTH_HOME_ENT_NAME\n\n Health Home Entity Name\n\n 59\n\n PRVDR_LCTN_CD\n\n Provider Location Code\n\n 60\n\n BRDR_STATE_IND\n\n Border State Indicator\n\n 61\n\n IP_MH_TXNMY_IND\n\n Mental Health Provider Taxonomy",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

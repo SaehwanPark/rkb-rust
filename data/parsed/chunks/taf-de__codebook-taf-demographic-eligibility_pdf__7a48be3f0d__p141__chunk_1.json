@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p141__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 141,
+  "text": "years. \n\nSHORT NAME: HSEHLD_SIZE_CD \n\nLONG NAME: HSEHLD_SIZE_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nFILE(S): Annual DE base \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: 01 = 1 person \n02 = 2 people \n03 = 3 people \n04 = 4 people \n05 = 5 people \n06 = 6 people \n07 = 7 people \n08 = 8 or more people \nNull/missing = source value is missing or unknown \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

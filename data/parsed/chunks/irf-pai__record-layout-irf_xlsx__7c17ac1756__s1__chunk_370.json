@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_370",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "Not attempted due to environmental limitations\r\n88 = Not attempted due to medical condition or safety concerns\n331 GG0170C2_STTG_BED_SIDE_GOAL_CD GG0170C2_STTG_BED_SIDE_GOAL_CD GG0170C2 Discharge Goal Lying to Sit Code - The data in this column indicates the patient's discharge goal for being able to safely move from lying on the bed to sitting on the side of the bed with feet flat on the floor and no back support. CHAR 2 The data in this column indicates the patient's discharge goal for being",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

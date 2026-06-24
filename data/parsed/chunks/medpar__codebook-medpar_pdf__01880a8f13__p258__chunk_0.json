@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p258__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 258,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 242 \n\nUTLZTN_DAY_CNT \n\nLABEL: Covered days of care chargeable to Medicare utilization for stay \n\nDESCRIPTION: The count of the number of covered days of care that are chargeable to Medicare utilization for the stay. \n\nSHORT NAME: UTIL_DAY \n\nLONG NAME: UTLZTN_DAY_CNT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the utilization day",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

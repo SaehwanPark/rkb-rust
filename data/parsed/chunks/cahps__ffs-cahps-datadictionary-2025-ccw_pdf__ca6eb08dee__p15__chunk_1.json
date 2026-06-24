@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p15__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 15,
+  "text": "SAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_veteran: RECODE : Other Insurance-Veteran Benefit \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nlang_speak: RECODE : Language mainly speak at home \n\nSAS Format: LANGH \n\n1: ENGLISH \n\n2: SPANISH \n\n3: CHINESE \n\n4: KOREAN \n\n5: TAGALOG \n\n6: VIETNAMESE \n\n7: SOME OTHER LANGUAGE \n\nlim_bathing: RECODE : Physical problem limits: Bathing \n\nSAS Format: DIF \n\n1: YES-UNABLE TO DO \n\n2: YES-HAVE DIFFICULTY \n\n3: NO-NO DIFFICULTY",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

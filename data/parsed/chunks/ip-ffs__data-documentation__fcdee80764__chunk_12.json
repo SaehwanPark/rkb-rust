@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_12",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Claim PPS Capital DRG Weight Number\n\n 58\n\n CLM_UTLZTN_DAY_CNT\n\n Claim Medicare Utilization Day Count\n\n 59\n\n BENE_TOT_COINSRNC_DAYS_CNT\n\n Beneficiary Total Coinsurance Days Count\n\n 60\n\n BENE_LRD_USED_CNT\n\n Beneficiary Medicare Lifetime Reserve Days (LRD) Used Count\n\n 61\n\n CLM_NON_UTLZTN_DAYS_CNT\n\n Claim Medicare Non Utilization Days Count\n\n 62\n\n NCH_BLOOD_PNTS_FRNSHD_QTY\n\n NCH Blood Pints Furnished Quantity\n\n 63\n\n NCH_VRFD_NCVRD_STAY_FROM_DT\n\n NCH Verified Non-covered Stay From Date\n\n 64",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

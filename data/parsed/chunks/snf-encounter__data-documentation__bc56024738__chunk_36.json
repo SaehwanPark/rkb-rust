@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_36",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "6\n\n CLM_SPAN_FROM_DT\n\n Claim Occurrence Span From Date (Encounter)\n\n 7\n\n CLM_SPAN_THRU_DT\n\n Claim Occurrence Span Through Date (Encounter)\n\n Value Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n RLT_VAL_CD_SEQ\n\n Claim Related Value Code Sequence\n\n 5\n\n CLM_VAL_CD\n\n Claim Value Code (Encounter)",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

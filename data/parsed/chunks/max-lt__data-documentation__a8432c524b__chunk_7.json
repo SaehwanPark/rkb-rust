@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-lt__data-documentation__a8432c524b__chunk_7",
+  "source_document": "data/raw/html/documentation_page/a8432c524b85150fc96bbb6683c157ef98a21669.html",
+  "page": null,
+  "text": "(ICD-9 or ICD-10) (Encounter) \n\n DIAG_CD_2 \n Diagnosis codes (2nd diagnosis) \n\n DIAG_CD_3 \n Diagnosis codes (3rd diagnosis) \n\n DIAG_CD_4 \n Diagnosis codes (4th diagnosis) \n\n DIAG_CD_5 \n Diagnosis codes (5th diagnosis) \n\n MDCD_CVRD_MENTL_DAY_CNT \n Mental hospital for the aged days \n\n MDCD_CVRD_PSYCH_DAY_CNT \n Inpatient Psychiatric (age < 21) days \n\n INTRMDT_FAC_MR_DAY_CNT \n ICF-MR days \n\n NRSNG_FAC_DAY_CNT \n Nursing facility days \n\n LT_CARE_LVE_DAY_CNT \n Leave days \n\n PATIENT_STATUS_CD \n Patient",
+  "dataset": "max-lt",
+  "url": "https://resdac.org/cms-data/files/max-lt/data-documentation"
+}

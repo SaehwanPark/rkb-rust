@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p123__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 123,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 113 \n\nRLT_VAL_CD_SEQ \n\nLABEL: Claim Related Value Code Sequence \n\nDESCRIPTION: The sequence number of the related claim value code (variable called CLM_VAL_CD). \n\nSHORT NAME: RLT_VAL_CD_SEQ \n\nLONG NAME: RLT_VAL_CD_SEQ \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: CCW \n\nFILE(S): IP Value Code File \n\nSNF Value Code File \n\nHH Value Code File \n\nOP Value Code File \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

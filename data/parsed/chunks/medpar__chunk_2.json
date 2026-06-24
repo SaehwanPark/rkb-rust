@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__chunk_2",
+  "source_document": "data/raw/html/dataset_page/836dbe353b499896051544d2545edd5f19a6106e.html",
+  "page": null,
+  "text": "(ICD procedure code)\nAdmission, discharge dates or end date of covered benefits\nCharge amounts, total and assigned to specific departments\nFFS reimbursement amount\nHospital provider identification number\nSome dummy records for Medicare managed care coverage of IP stays\n\nProgram: \nMedicare\nCategory: \nMedicare Fee-For-Service Claims\nPrivacy Level: \nResearch Identifiable Files\n\nLearn more about the Limited Data Set version of this file:\nVisit the CMS website\n\nAvailability of this",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar?page=1"
+}

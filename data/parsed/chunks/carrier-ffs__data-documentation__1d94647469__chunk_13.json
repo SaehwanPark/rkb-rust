@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_13",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Zip Code of Residence from Claim \n\n ACO_ID_NUM \n Claim Accountable Care Organization (ACO) Identification Number \n\n CARR_CLM_SOS_NPI_NUM \n Carrier Claim Site of Service NPI Number \n\n CLM_BENE_ID_TYPE_CD \n Claim Beneficiary Identifier Type Code \n\n CLM_RSDL_PYMT_IND_CD \n Claim Residual Payment Indicator Code \n\n PRVDR_VLDTN_TYPE_CD \n Provider Validation Type Code \n\nLine File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID \n\n CLM_LINE_NUM \n Claim Line",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

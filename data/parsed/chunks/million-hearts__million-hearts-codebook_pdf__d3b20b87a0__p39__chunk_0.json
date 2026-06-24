@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p39__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 39,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 34 \n\nPATIENT_SEX \n\nLABEL: Patient's Sex \n\nDESCRIPTION: Patient's sex. \n\nSHORT NAME: PATIENT_SEX \n\nLONG NAME: PATIENT_SEX \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): Demographic \nAlignment (final and EVAA cycle files) \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: M = male \nF = female \nNull/missing \n\nCOMMENT: In 2025, this field was renamed to sex to",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

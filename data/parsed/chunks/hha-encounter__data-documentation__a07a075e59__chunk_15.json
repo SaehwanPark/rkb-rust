@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__data-documentation__a07a075e59__chunk_15",
+  "source_document": "data/raw/html/documentation_page/a07a075e593b19d3ebc8b13f1dd8472d93c66d30.html",
+  "page": null,
+  "text": "Center Unit Count (Encounter) \n\n HCPCS_CD \n Healthcare Common Procedure Coding System (HCPCS) Code (Encounter) \n\n HCPCS_1ST_MDFR_CD \n HCPCS Initial Modifier Code (Encounter) \n\n HCPCS_2ND_MDFR_CD \n HCPCS Second Modifier Code (Encounter) \n\n HCPCS_3RD_MDFR_CD \n HCPCS Third Modifier Code (Encounter) \n\n REV_CNTR_IDE_NDC_UPC_NUM \n Revenue Center IDE, NDC, or UPC Number (Encounter) \n\n REV_CNTR_NDC_QTY \n Revenue Center National Drug Code (NDC) Quantity (Encounter) \n\n REV_CNTR_NDC_QTY_QLFR_CD \n Revenue",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter/data-documentation"
+}

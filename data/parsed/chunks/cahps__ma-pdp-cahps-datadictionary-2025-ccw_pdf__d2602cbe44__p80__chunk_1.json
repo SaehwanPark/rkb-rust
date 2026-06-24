@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p80__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 80,
+  "text": "—– —– —–\nma_discourage —– —– —– —– —– —– —– —– —–\nma_nothing —– —– —– —– —– —– —– —– —–\nma_complaint —– —– —– —– —– D Q31\nma_comphandle Q14 Q14 Q14 Q14 Q14\nma_compresolv R Q15 Q15 Q15 Q15 Q15 D Q32\nma_compsat R Q16 Q16 Q16 Q16 Q16 D Q33\npd_hlthplan Q01 Q01 Q01 Q01 Q01 Q01 Q37 Q33 Q34\npd_hlthplan_txt Q02 Q02 Q02 Q02 Q02 Q02 Q38 Q34 Q35\npd_covrxmeds —– —–\npd_cstryinfo Q03 Q03 Q03 Q03 Q03 Q03 Q39 Q35 Q36\ncs_cstryinfo —– —– —– —– —– D Q25 Q27 Q27\npd_csgetinfo* Q04 Q04 Q04 Q04 Q04 Q04 Q40 Q36",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

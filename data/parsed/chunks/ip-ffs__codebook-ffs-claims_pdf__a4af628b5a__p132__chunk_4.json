@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p132__chunk_4",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 132,
+  "text": "date < provider \neffective start date or discharge \ndate < MSA effective start date \nfor PPS \n\n56 = Invalid length of stay \n\n57 = Provider specific rate zero when \nblended payment requested \n 58 = Total covered charges not numeric \n\n59 = Provider specific record not found \n\n60 = MSA wage index record not found \n\n61 = Lifetime reserve days not numeric or lifetime \nreserve days greater than 60 \n\n62 = Invalid number of covered days or covered \ndays < lifetime reserve days \n\n65 = Operating",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

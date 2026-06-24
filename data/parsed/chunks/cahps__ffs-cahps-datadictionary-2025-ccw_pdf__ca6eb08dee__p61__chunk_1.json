@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p61__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 61,
+  "text": "pd_ezrxmeds —– —– —– —– —– —– —– —– —– \npd_ezrxpharmˆ —– —– —– —– —– —– —– —– —– \npd_ezrxmailˆ —– —– —– —– —– —– —– —– —– \npd_mailpharm \n\npd_cust_svc pd_csgetinfo —– \npd_csrespect —– \n\ndr_comm md_explain Q15 Q15 Q15 Q17 Q14 Q14 Q14 Q16 Q16 \nmd_listen Q16 Q16 Q16 Q18 Q15 Q15 Q15 Q17 Q17 \nmd_respect Q17 Q17 Q17 Q19 Q16 Q16 Q16 Q18 Q18 \nmd_sptime Q18 Q18 Q18 Q20 Q17 Q17 Q17 Q19 Q19 \n\ncare_need sp_getappt Q35 Q35 Q35 Q34 Q34 Q24 Q23 Q22 Q22 \npl_getcare Q44 Q44 Q44 Q39 Q39 Q29 Q27 Q26 Q26",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

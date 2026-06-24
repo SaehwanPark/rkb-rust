@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p25__chunk_4",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 25,
+  "text": "285 = Appeal procedures not followed \n\n286 = Appeal time limits not met \n\n288 = Referral absent \n\n289 = Services considered under the dental and medical plans, benefits not available. Notes: Also refer \nto CARCs 254, 270, and 280 \n\nA0 = Patient refund amount \n\nA1 = Claim/Service denied. At least one remark code must be provided (may be comprised of either \nthe NCPDP reject reason code, or remittance advice remark code that is not an ALERT.) \n\nA2 = Contractual adjustment. (No longer used:",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

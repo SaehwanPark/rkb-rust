@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p38__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 38,
+  "text": "that you had any of the following conditions?\ncnd_hbp PDP Q15C Hypertension or high blood pressure?\nFFS Q50C\nMA-PD Q53D\nMA-Only Q48D Has a doctor ever told you that you had any of the following conditions?\ncnd_cancer PDP Q15D Cancer, other than skin cancer?\nFFS Q50D\nMA-PD Q53E\nMA-Only Q48E Has a doctor ever told you that you had any of the following conditions?\ncnd_copd PDP Q15E Emphysema, asthma or COPD (chronic obstructive pulmonary disease)?\nFFS Q50E\nMA-PD Q53F\nMA-Only Q48F Has a doctor ever",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

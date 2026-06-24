@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_50",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Payment Amount — June\n\n 61\n\n MDCR_TOTAL_SPEND_07\n\n Medicare Payment Amount — July\n\n 62\n\n MDCR_TOTAL_SPEND_08\n\n Medicare Payment Amount — August\n\n 63\n\n MDCR_TOTAL_SPEND_09\n\n Medicare Payment Amount — September\n\n 64\n\n MDCR_TOTAL_SPEND_10\n\n Medicare Payment Amount — October\n\n 65\n\n MDCR_TOTAL_SPEND_11\n\n Medicare Payment Amount — November\n\n 66\n\n MDCR_TOTAL_SPEND_12\n\n Medicare Payment Amount — December\n\n 67\n\n MDCD_TOTAL_USE_01\n\n Medicaid Use (Claim Count) — January\n\n 68\n\n MDCD_TOTAL_SPEND_01",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

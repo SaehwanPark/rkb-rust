@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p47__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 47,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 42 \n\nTIN \n\nLABEL: Practice's Taxpayer Identification Number \n\nDESCRIPTION: Practice's federal Taxpayer Identification Number (TIN). \n\nSHORT NAME: TIN \n\nLONG NAME: TIN \n\nTYPE: CHAR \n\nLENGTH: 9 \n\nFILE(S): Clinical (final and raw) \nVisit \nDemographic \nAlignment (final and EVAA cycle files) \nNPI \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: —",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

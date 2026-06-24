@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p17__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 17,
+  "text": "mental health\n\nSAS Format: RTB\n\n1: EXCELLENT\n\n2: VERY GOOD\n\n3: GOOD\n\n4: FAIR\n\n5: POOR\n\npd_ezrxmail: RECODE : Last 6 mths, easy to use PDP to ﬁll RX by mail\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\npd_ezrxmeds: RECODE : Last 6 mths, easy to use PDP to get RX meds\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES\n\n3: USUALLY\n\n4: ALWAYS\n\npd_ezrxpharm: RECODE : Last 6 mths, easy to use PDP to ﬁll RX at local pharmacy\n\nSAS Format: OFA\n\n1: NEVER\n\n2: SOMETIMES",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

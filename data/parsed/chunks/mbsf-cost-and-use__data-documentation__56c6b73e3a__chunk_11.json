@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_11",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Imaging Events \n\n TEST_BENE_PMT \n Tests Beneficiary Payments \n\n TEST_MDCR_PMT \n Tests Medicare Payments \n\n TEST_PRMRY_PMT \n Tests Primary Payer Amount \n\n TEST_EVENTS \n Tests Events \n\n DME_BENE_PMT \n Durable Medical Equipment Beneficiary Payments \n\n DME_MDCR_PMT \n Durable Medical Equipment Medicare Payments \n\n DME_PRMRY_PMT \n Durable Medical Equipment Primary Payer Amount \n\n DME_MDCR_PMT \n Durable Medical Equipment Events \n\n OTHC_BENE_PMT \n Other Part B Carrier Beneficiary Payments",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_49",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicare Use (FFS Claim Count) — December\n\n 55\n\n MDCR_TOTAL_SPEND_01\n\n Medicare Payment Amount — January\n\n 56\n\n MDCR_TOTAL_SPEND_02\n\n Medicare Payment Amount — February\n\n 57\n\n MDCR_TOTAL_SPEND_03\n\n Medicare Payment Amount — March\n\n 58\n\n MDCR_TOTAL_SPEND_04\n\n Medicare Payment Amount — April\n\n 59\n\n MDCR_TOTAL_SPEND_05\n\n Medicare Payment Amount — May\n\n 60\n\n MDCR_TOTAL_SPEND_06\n\n Medicare Payment Amount — June\n\n 61\n\n MDCR_TOTAL_SPEND_07\n\n Medicare Payment Amount — July\n\n 62\n\n MDCR_TOTAL_SPEND_08",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

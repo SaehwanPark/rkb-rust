@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_12",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Identification Number\n\n 69\n\n RFRG_PRVDR_NPI\n\n Referring Provider NPI\n\n 70\n\n RFRG_PRVDR_TYPE_CD\n\n Referring Provider Type Code\n\n 71\n\n RFRG_PRVDR_SPCLTY_CD\n\n Referring Provider Specialty Code\n\n 72\n\n PRVDR_LCTN_CD\n\n Provider Location Code\n\n 73\n\n BRDR_STATE_IND\n\n Border State Indicator\n\n 74\n\n IP_MH_TXNMY_IND\n\n Mental Health Provider Taxonomy Indicator\n\n 75\n\n IP_SUD_TXNMY_IND\n\n Substance Use Disorder Provider Taxonomy Indicator\n\n 76\n\n NCVRD_DAYS\n\n Medicaid Non-covered Days Count\n\n 77",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p169__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 169,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 153 \n\nOP_SRVC_IND_CD \n\nLABEL: Outpatient services/ambulatory surgical care indicator code \n\nDESCRIPTION: The code indicating whether the beneficiary has received outpatient services, ambulatory surgical care, \nor both. \n\nSHORT NAME: OPSRVCCD \n\nLONG NAME: OP_SRVC_IND_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: MedPAR (derived) \n\nVALUES: 0 = No outpatient services/ambulatory surgical care (revenue code other",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

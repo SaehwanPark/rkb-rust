@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p43__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 43,
+  "text": "A. Crosswalk: 2007 to 2025 - MA-PD Survey 43\n\nA. MA-PD Survey\n\nThe following table shows crosswalk information for the MA-PD survey.\n\nVariable Reverse 2025 2024 2023 2022 2021 2020 2019 2018 2017\nYear 19 Year 18 Year 17 Year 16 Year 15 Year 14 Year 13 Year 12 Year 11\n\nma_hlthplan Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01\nma_hlthplan_txt Q02 Q02 Q02 Q02 Q02 Q02 Q02 Q02\nins_have_oth —– —– —– —– —– —– —– —–\nins_medigap —– —– —– —– —– —– —– —–\nins_employer —– —– —– —– —– —– —– —–\nins_veteran —– —– —– —– —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_102",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "due to distractibility\r\n03 = Requires considerable assistance in routine situations. Is not alert and oriented or is unable to shift attention and recall directions more than half the time, \r\n04 = Totally dependent due to disturbances such as constant disorientation, coma, persistent vegetative state, or delirium. CHAR 2 x x\nM0570_WHEN_CONFUSD (M0570) When Confused When confused (reported or observed). 00 = Never \r\n01 = In new or complex situations only\r\n02 = On awakening or at night only\r\n03 =",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

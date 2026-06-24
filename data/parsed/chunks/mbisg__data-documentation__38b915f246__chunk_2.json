@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbisg__data-documentation__38b915f246__chunk_2",
+  "source_document": "data/raw/html/documentation_page/38b915f246a9143b94c1fce3618ed3d184a9ff07.html",
+  "page": null,
+  "text": "Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n RFRNC_DT \n Data File Reference Date \n\n MBISG_VRSN \n Version of the MBISG algorithm \n\n RE_PRBLTY_AIAN \n R/E probability - American Indian or Alaska Native \n\n RE_PRBLTY_AANHPI \n R/E probability - Asian American and Native Hawaiian or Other Pacific Islander \n\n RE_PRBLTY_BLACK \n R/E probability - Black \n\n RE_PRBLTY_HSPNC \n R/E probability - Hispanic \n\n RE_PRBLTY_MULTIRACIAL \n R/E probability - Multiracial \n\n RE_PRBLTY_WHT \n R/E",
+  "dataset": "mbisg",
+  "url": "https://resdac.org/cms-data/files/mbisg/data-documentation"
+}

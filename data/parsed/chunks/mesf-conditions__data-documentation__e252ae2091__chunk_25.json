@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_25",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "- Combined Data\n\n 126\n\n HYPLIP_MEDICAID\n\n Hyperlipidemia Indicator - Medicaid-Only Data\n\n 127\n\n HYPLIP_MEDICARE\n\n Hyperlipidemia Indicator - Medicare-Only Data\n\n 128\n\n HYPPLA_COMBINED\n\n Benign Prostatic Hyperplasia Indicator - Combined Data\n\n 129\n\n HYPPLA_MEDICAID\n\n Benign Prostatic Hyperplasia Indicator - Medicaid-Only Data\n\n 130\n\n HYPPLA_MEDICARE\n\n Benign Prostatic Hyperplasia Indicator - Medicare-Only Data\n\n 131\n\n HYPTEN_COMBINED\n\n Hypertension Indicator - Combined Data\n\n 132",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

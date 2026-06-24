@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_411",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "M1200Z Skin and Ulcer Treatments: None of Above Code CHAR 1 The data in this column indicates that none of the above skin or ulcer treatments were provided. -=Not assessed/no information\r\n0=Not checked (No)\r\n1=Checked (Yes)\n459 N0300_INJCT_MDCTN_DAY_NUM N0300_INJCT_MDCTN_DAY_NUM N0300 Number of Days Injections of Any Type CHAR 1 The data in this column indicates the number of days that the resident received injections of any type in the past seven days or since admission/entry or reentry if",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

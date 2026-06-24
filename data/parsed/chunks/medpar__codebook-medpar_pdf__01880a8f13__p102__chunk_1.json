@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p102__chunk_1",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 102,
+  "text": "apparent that both are records for the same beneficiary. It validates the BIC and returns a base BIC \nunder which to house the record in the national claims history (NCH) databases. (All records for a \nbeneficiary are stored under a single BIC.) \n\nNOTE: This field comes from the NCH category base BIC that is present on the first claim record included \nin the stay. \n\nSHORT NAME: EQ_BIC \n\nLONG NAME: EQTBL_BIC_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: NCH \n\nVALUES: A = Primary claimant \nB = Aged",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

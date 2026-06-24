@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_28",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "136\n\n CLM_BPRVDR_CITY_NAME\n\n Billing Provider Address - City\n\n 137\n\n CLM_BPRVDR_USPS_STATE_CD\n\n Billing Provider Address - USPS State Code\n\n 138\n\n CLM_BPRVDR_ADR_ZIP_CD\n\n Billing Provider Zip Code\n\n 139\n\n CLM_SUBSCR_CITY_NAME\n\n Medicare Subscriber Address - City\n\n 140\n\n CLM_SUBSCR_USPS_STATE_CD\n\n Medicare Subscriber Address - USPS State Code\n\n 141\n\n CLM_SUBSCR_ADR_ZIP_CD\n\n Medicare Subscriber Address - ZIP Code\n\n 142\n\n BENE_CNTY_CD\n\n Beneficiary County Code from Claim (SSA)\n\n 143",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

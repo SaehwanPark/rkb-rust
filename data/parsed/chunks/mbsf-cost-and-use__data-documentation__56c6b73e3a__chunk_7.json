@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_7",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Ambulatory Surgery Center Medicare Payments \n\n ASC_PRMRY_PMT \n Ambulatory Surgery Center Primary Payer Amount \n\n ASC_EVENTS \n Ambulatory Surgery Center Events \n\n ANES_BENE_PMT \n Anesthesia Beneficiary Payments \n\n ANES_MDCR_PMT \n Anesthesia Medicare Payments \n\n ANES_PRMRY_PMT \n Anesthesia Primary Payer Amount \n\n ANES_EVENTS \n Anesthesia Events \n\n PTB_DRUG_BENE_PMT \n Part B Drug Beneficiary Payments \n\n PTB_DRUG_MDCR_PMT \n Part B Drug Medicare Payments \n\n PTB_DRUG_PRMRY_PMT \n Part B Drug Primary",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

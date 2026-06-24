@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p301__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 301,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 261 \n\nSSI_IND_01 \n\nSSI_IND_02 \n\nSSI_IND_03 \n\nSSI_IND_04 \n\nSSI_IND_05 \n\nSSI_IND_06 \n\nSSI_IND_07 \n\nSSI_IND_08 \n\nSSI_IND_09 \n\nSSI_IND_10 \n\nSSI_IND_11 \n\nSSI_IND_12 \n\nLABEL: Supplemental Security Income (SSI) Indicator ― January–December (01–12) \n\nDESCRIPTION: A monthly flag indicating if the beneficiary receives Supplemental Security Income (SSI) administered \nvia the",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

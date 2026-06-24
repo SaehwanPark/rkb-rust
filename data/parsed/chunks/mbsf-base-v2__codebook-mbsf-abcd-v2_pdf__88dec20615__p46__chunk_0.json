@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p46__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 46,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 39 \n\nPTC_PBP_ID_01 \n\nPTC_PBP_ID_02 \n\nPTC_PBP_ID_03 \n\nPTC_PBP_ID_04 \n\nPTC_PBP_ID_05 \n\nPTC_PBP_ID_06 \n PTC_PBP_ID_07 \n\nPTC_PBP_ID_08 \n\nPTC_PBP_ID_09 \n\nPTC_PBP_ID_10 \n\nPTC_PBP_ID_11 \n\nPTC_PBP_ID_12 \n\nLABEL: Part C PBP Number — January through December \n\nDESCRIPTION: The variable is the Medicare Part C plan benefit package (PBP) for the beneficiary’s Medicare \nAdvantage",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

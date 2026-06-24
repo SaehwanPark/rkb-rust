@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_8",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "D Formulary Tier Identifier \n\n QUANTITY_LIMIT_YN \n Quantity Limit Indicator (Event) \n\n STEP \n Maximum Step Number \n\n FORMULARY_ID \n Formulary Identification Number \n\n FRMLRY_RX_ID \n CCW Formulary Drug Identifier \n\n PTD_MODEL_IND \n Part D Model Indicator \n\n OTHR_TROOP_AMOUNT_IND \n Other True Out-of-Pocket (TrOOP) Amount Indicator",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

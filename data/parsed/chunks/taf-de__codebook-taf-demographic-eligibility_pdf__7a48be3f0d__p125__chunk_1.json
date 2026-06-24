@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p125__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 125,
+  "text": "home Chronic Condition “Technology Dependent/Medically Fragile”; most recent in the \ncalendar year. \n\nSHORT NAME: HCBS_TECH_DPNDNT_MF_CC_IND \n\nLONG NAME: HCBS_TECH_DPNDNT_MF_CC_IND \n\nTYPE: NUM \n\nLENGTH: 3 \n\nFILE(S): Disability and need \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: 0 = No \n1 = Yes \nNull/missing = source value is missing or unknown \n\nCOMMENT: This flag is state reported; it is eligibility-based and not claims-based. \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

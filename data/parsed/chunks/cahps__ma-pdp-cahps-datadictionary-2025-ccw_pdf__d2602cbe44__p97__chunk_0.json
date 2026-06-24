@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p97__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 97,
+  "text": "C. Composites: 2007 to 2025 - PDP Survey 97\n\nComposite Item 2016 2015 2014 2013 2012 2011 2010 2009 2008\nYear 10 Year 9 Year 8 Year 7 Year 6 Year 5 Year 4 Year 3 Year 2\n\npdp_getinfo pd_getcovinf Q07 Q07 Q07 Q07 Q07 Q07 Q43 Q39 Q40\npd_getcostinf Q09 Q09 Q09 Q09 Q09 Q09 Q45 Q41 Q42\npd_infocov D\npd_csgetinfo Q04 Q04 Q04 Q04 Q04 Q04 Q40 Q36 Q37\npd_csrespect Q05 Q05 Q05 Q05 Q05 Q05 Q41 Q37 Q38\n\npdp_getdrug pd_ezrxmeds Q18 Q18 Q18 Q18 Q17 Q14 Q50 Q46 Q46\npd_ezrxpharmˆ Q20 Q20 Q20 Q20 Q19 Q16 Q52 Q48",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

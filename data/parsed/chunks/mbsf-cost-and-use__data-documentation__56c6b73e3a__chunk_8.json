@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_8",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Payments \n\n PTB_DRUG_MDCR_PMT \n Part B Drug Medicare Payments \n\n PTB_DRUG_PRMRY_PMT \n Part B Drug Primary Payer Amount \n\n PTB_DRUG_EVENTS \n Part B Drug Events \n\n EM_BENE_PMT \n Evaluation and Management Beneficiary Payments \n\n EM_MDCR_PMT \n Evaluation and Management Medicare Payments \n\n EM_PRMRY_PMT \n Evaluation and Management Primary Payer Amount \n\n EM_EVENTS \n Evaluation and Management Events \n\n PHYS_BENE_PMT \n Part B Physician Beneficiary Payments \n\n PHYS_MDCR_PMT \n Part B Physician Medicare",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

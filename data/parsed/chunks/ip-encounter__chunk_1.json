@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__chunk_1",
+  "source_document": "data/raw/html/dataset_page/e5f45c1825ba4b2fabf81ff96515fb26076640eb.html",
+  "page": null,
+  "text": "plan records for inpatient hospital stays.\n\nThis file includes (variable highlights):\nAdmission, discharge dates\nDiagnosis (ICD diagnosis) codes\nProcedure (ICD procedure) codes\nDiagnostic related group (DRG) codes\nPatient discharge status code\nOrganization NPI\nPart C/Medicare Advantage benefit package and contract number\nRevenue center codes, dates, unit counts\nNo payment variables are available\nSpecial considerations:\nMany Medicare Advantage Plans offer extra coverage in addition to services",
+  "dataset": "ip-encounter",
+  "url": "https://resdac.org/cms-data/files/ip-encounter?page=1"
+}

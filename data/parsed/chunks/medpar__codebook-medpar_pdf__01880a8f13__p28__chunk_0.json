@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p28__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 28,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 12 \n\nBENE_AGE_CNT \n\nLABEL: Age as of Date of Admission \n\nDESCRIPTION: The beneficiary’s age in years on the date of admission \n\nSHORT NAME: AGE_CNT \n\nLONG NAME: BENE_AGE_CNT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: NCH \n\nVALUES: X–XXX \n\nCOMMENT: This field is derived by subtracting the beneficiary's date of birth from the admission date, using the \nfirst claim record for the stay. \n\nThe only exception to",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

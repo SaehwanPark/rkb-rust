@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_18",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Identifier \n\n NC_NVGTN_CASE_STRT_DT \n Navigation Case Opt In Date \n\n NC_NVGTN_CASE_TRMNTN_DT \n Navigation Case termination date \n\n NC_NVGTN_ACTN_PLAN_CMPLT_SW \n Navigation Case Action Plan Complete Indicator \n\n NN_NVGTD_CORE_FOOD_SW \n Navigated Core HRSN Food Indicator \n\n NN_NVGTD_CORE_HOUSNG_SW \n Navigated Core HRSN Housing Indicator \n\n NN_NVGTD_CORE_SFTY_SW \n Navigated Core HRSN Safety Indicator \n\n NN_NVGTD_CORE_TRNSPRTN_SW \n Navigated Core HRSN Transportation Indicator",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

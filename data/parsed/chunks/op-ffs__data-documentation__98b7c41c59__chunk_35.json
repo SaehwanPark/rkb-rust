@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_35",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Code\n\n 40\n\n RC_PTNT_ADD_ON_PYMT_AMT\n\n Revenue Center Patient/Initial Visit Add-On Payment Amount (for initial wellness visit)\n\n 53\n\n REV_CNTR_CRA_TPNIES_AMT\n\n Revenue Center Capital Related Assets Transitional Add-on Payment Amt New and Innovative Equip\n\n 41\n\n REV_CNTR_NDC_QTY\n\n Revenue Center National Drug Code (NDC) Quantity (FFS)\n\n 42\n\n REV_CNTR_NDC_QTY_QLFR_CD\n\n Revenue Center NDC Quantity Qualifier Code (FFS)\n\n 43\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center Rendering Physician UPIN\n\n 44",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_25",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Code Active Indicator — August\n\n 14\n\n PRVDR_CLSFCTN_ACTV_IND_09\n\n Provider Classification Code Active Indicator — September\n\n 15\n\n PRVDR_CLSFCTN_ACTV_IND_10\n\n Provider Classification Code Active Indicator — October\n\n 16\n\n PRVDR_CLSFCTN_ACTV_IND_11\n\n Provider Classification Code Active Indicator — November\n\n 17\n\n PRVDR_CLSFCTN_ACTV_IND_12\n\n Provider Classification Code Active Indicator — December\n\n 18\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 19",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

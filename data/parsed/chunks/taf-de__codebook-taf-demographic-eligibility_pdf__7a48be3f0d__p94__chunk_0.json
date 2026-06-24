@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p94__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 94,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 54 \n\nDSTR_RLTD_WVR_1115_MOS \n\nLABEL: 1115 Disaster-Related Waiver Months \n\nDESCRIPTION: Number of months the beneficiary was enrolled in a Section 1115 waiver for Hurricane evacuees \n(Disaster-Related demonstration) in the calendar year. \n\nSHORT NAME: DSTR_RLTD_WVR_1115_MOS \n\nLONG NAME: DSTR_RLTD_WVR_1115_MOS \n\nTYPE: NUM \n\nLENGTH: 2 \n\nFILE(S): Waiver \n\nSOURCE: T-MSIS",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

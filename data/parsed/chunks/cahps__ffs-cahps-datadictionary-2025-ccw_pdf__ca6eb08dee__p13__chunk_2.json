@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p13__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 13,
+  "text": "1: <= 8TH GRADE \n\n2: SOME HS \n\n3: HS GRAD/GED \n\n4: SOME COLLEGE/2-YR DEGREE \n\n5: 4-YR COLLEGE GRAD \n\n6: >4-YR COLLEGE DEGREE \n\nghs: RECODE : Rate overall general health \n\nSAS Format: RTB \n\n1: EXCELLENT",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

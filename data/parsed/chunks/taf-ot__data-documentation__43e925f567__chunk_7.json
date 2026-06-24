@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_7",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Code\n\n 34\n\n DGNS_CD_2\n\n Diagnosis Code 2\n\n 35\n\n DGNS_VRSN_CD_2\n\n Diagnosis Version Code 2 (ICD-9 or ICD-10)\n\n 36\n\n DGNS_POA_IND_2\n\n Diagnosis Present on Admission Indicator 2\n\n 37\n\n HAC_IND\n\n Health Care Acquired Condition (HAC) Indicator\n\n 38\n\n IP_MH_DGNS_IND\n\n Mental Health Diagnosis Indicator\n\n 39\n\n IP_SUD_DGNS_IND\n\n Substance Use Disorder Diagnosis Indicator\n\n 40\n\n POS_CD\n\n Place of Service Code\n\n 41\n\n BLG_PRVDR_ID\n\n Billing Provider Identification Number (TAF)\n\n 42\n\n BLG_PRVDR_NPI",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

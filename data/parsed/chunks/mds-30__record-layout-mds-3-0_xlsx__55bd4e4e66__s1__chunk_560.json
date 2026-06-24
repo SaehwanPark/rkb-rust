@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_560",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "(skip pattern) effective10/01/2016\n643 C1310D_LVL_OF_CNSCSNS_IND C1310D_LVL_OF_CNSCSNS_IND C1310D Signs and Symptoms of Delirium: Altered Level of Consciousness CHAR 1 Indicates whether the resident exhibits signs and symptoms of altered level of consciousness. -=Not assessed/no information\r\n 0=Behavior not present\r\n 1=Behavior continuously present, does not fluctuate\r\n 2=Behavior present, fluctuates (comes and goes, changes in severity)\r\n^=Blank (skip pattern) effective10/01/2016\n644",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

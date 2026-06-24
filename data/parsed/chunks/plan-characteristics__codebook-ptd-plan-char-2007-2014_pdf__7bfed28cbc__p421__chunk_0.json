@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p421__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 421,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 408 \n\nREDUCED_OOPT_CS \n\nLABEL: Plan Offers Reduced Post Out-of-Pocket (OOP) Threshold Cost-Sharing Amounts \n\nDESCRIPTION: This variable indicates whether the plan offers reduced cost sharing in the post out-of-pocket \nthreshold (catastrophic) phase of the Part D benefit. \n\nSHORT NAME: — \n\nLONG NAME: REDUCED_OOPT_CS \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: Y = Yes",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

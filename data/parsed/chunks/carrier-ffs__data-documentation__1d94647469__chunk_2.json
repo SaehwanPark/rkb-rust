@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_2",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Fee-For-Service (FFS) Claims\n\nBase Claim File\n\nLine File\n\nDemonstrations/Innovations Code File\n\nBase Claim File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n CLM_ID \n Claim ID \n\n NCH_NEAR_LINE_REC_IDENT_CD \n NCH Near Line Record Identification Code (RIC) \n\n NCH_CLM_TYPE_CD \n NCH Claim Type Code \n\n CLM_FROM_DT \n Claim From Date (FFS) \n\n CLM_THRU_DT \n Claim Through Date (FFS) \n\n NCH_WKLY_PROC_DT \n NCH Weekly Claim Processing Date \n\n CARR_CLM_ENTRY_CD \n Carrier Claim Entry",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

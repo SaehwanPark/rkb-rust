@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p32__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 32,
+  "text": "ENGLISH \n\n2: SPANISH \n\n3: CHINESE \n\n4: VIETNAMESE \n\n5: KOREAN \n\n6: TAGALOG \n\n7: MANDARIN \n\n88: NA \n\n8: CANTONESE \n\nsu_dispositn: Final Disposition Code \n\nSAS Format: $FDISPF \n\n10: COMPLETED SURVEY \n\n11: INSTITUTIONALIZED \n\n20: DECEASED \n\n22: LANGUAGE BARRIER \n\n24: MENT/PHYS UNABLE TO RESPOND \n\n31: PARTIALLY COMPLETE SURVEY \n\n32: REFUSAL \n\n33: NON-RESPONSE \n\n34: BLANK RETURNED \n\n35: BAD ADDRESS/BAD PHONE \n\n37: ANALYTIC COMPLETE \n\n40: EXCLUDED FROM SURVEY",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

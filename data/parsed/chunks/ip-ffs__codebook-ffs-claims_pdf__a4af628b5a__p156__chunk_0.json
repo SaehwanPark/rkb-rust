@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p156__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 156,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 138 \n\nCLM_UNCOMPD_CARE_PMT_AMT \n\nLABEL: Claim Uncompensated Care Payment Amount \n\nDESCRIPTION: This field identifies the payment for disproportionate share hospitals (DSH). It represents the \nuncompensated care amount of the payment. \n\nSHORT NAME: CLM_UNCOMPD_CARE_PMT_AMT \n\nLONG NAME: CLM_UNCOMPD_CARE_PMT_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: XXX.XX \n\nCOMMENT:",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

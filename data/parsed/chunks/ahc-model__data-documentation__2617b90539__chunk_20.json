@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_20",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "HRSN Employment Indicator \n\n NN_NVGTD_SPLMTL_FMLY_CMNTY_SW \n Navigated Supplemental HRSN Family and Community Support Indicator \n\n NN_NVGTD_SPLMTL_FINCL_SW \n Navigated Supplemental HRSN Financial Strain Indicator \n\n NN_NVGTD_SPLMTL_MH_SW \n Navigated Supplemental HRSN Mental Health Indicator \n\n NN_NVGTD_SPLMTL_PHYS_ACTVTY_SW \n Navigated Supplemental HRSN Physical Activity Indicator \n\n NN_NVGTD_SPLMTL_SBSTNC_USE_SW \n Navigated Supplemental HRSN Substance Use Indicator \n\n NE_NVGTR_CNTCT_ATMPT_NUM",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

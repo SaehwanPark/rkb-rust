@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_23",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "Care Plan Record in Supplemental Enrolled Population File\n\n 83\n\n SPLMTL_OPRTG_AUTHRTY\n\n Annual Managed Care Plan Record in Supplemental Operating Authority File\n\n 84\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 85\n\n DA_RUN_ID\n\n TAF Production Run Identifier (unique for each TAF run)\n\n 86\n\n PL_VRSN\n\n Plan File Version Representing the Iteration of the File\n\n 87\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n 88\n\n CCW_LD_DT\n\n CCW Load Date\n\n APL Location \n\nNumberSAS",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

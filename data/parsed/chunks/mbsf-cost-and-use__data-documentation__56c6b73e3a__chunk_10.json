@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_10",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Dialysis Events \n\n OPROC_BENE_PMT \n Other Procedures Beneficiary Payments \n\n OPROC_MDCR_PMT \n Other Procedures Medicare Payments \n\n OPROC_PRMRY_PMT \n Other Procedures Primary Payer Amount \n\n OPROC_EVENTS \n Other Procedures Events \n\n IMG_BENE_PMT \n Imaging Beneficiary Payments \n\n IMG_MDCR_PMT \n Imaging Medicare Payments \n\n IMG_PRMRY_PMT \n Imaging Primary Payer Amount \n\n IMG_EVENTS \n Imaging Events \n\n TEST_BENE_PMT \n Tests Beneficiary Payments \n\n TEST_MDCR_PMT \n Tests Medicare Payments",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

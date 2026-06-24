@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-ndi__data-documentation__856a7e4838__chunk_3",
+  "source_document": "data/raw/html/documentation_page/856a7e4838643c566306030b513d1693d008b4c5.html",
+  "page": null,
+  "text": "NDI State of Death \n\n DEATH_CERT_NUM \n NDI Death Certificate Number \n\n ICD_CODE \n ICD-10 Code \n\n ICD_TITLE \n ICD-10 Code Description \n\n ICD_CODE_358 \n 358 ICD-10 Cause of Death Recodes \n\n ICD_CODE_113 \n 113 ICD-10 Cause of Death Recodes \n\n ICD_CODE_130 \n 130 ICD-10 Cause of Death Recodes \n\n ENTITY_COND_1 (through ENTITY_COND_20) \n NDI Entity Axis Cause of Death - Condition 1 (through Condition 20) \n\n RECORD_COND_1 (through RECORD_COND_20) \n NDI Record Axis Cause of Death - Condition 1",
+  "dataset": "mesf-ndi",
+  "url": "https://resdac.org/cms-data/files/mesf-ndi/data-documentation"
+}

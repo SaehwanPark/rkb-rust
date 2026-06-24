@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_111",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "least once a week: verbal disruption. 0 = No, 1 = Yes CHAR 1 x x\nM0620_BEH_PROB_FRQ (M0620) Frequency of Behavior Problems Frequency of behavior problems. 00 = Never\r\n01 = Less than once a month\r\n02 = Once a month\r\n03 = Several times each month\r\n04 = Several times a week\r\n05 = At least daily. CHAR 2 x x\nM0630_REC_PSYCH (M0630) Psychiatric Nursing Services Is patient receiving psychiatric nursing services at home provided by a qualified psychiatric nurse? 0 = No, 1 = Yes CHAR 1 x",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

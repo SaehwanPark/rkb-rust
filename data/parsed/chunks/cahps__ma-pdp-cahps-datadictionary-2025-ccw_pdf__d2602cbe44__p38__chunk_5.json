@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p38__chunk_5",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 38,
+  "text": "dressing or bathing?\nPDP Q17\nMA-PD Q56\nMA-Only Q51 Because of a physical, mental, or emotional condition, do you have difﬁculty doing errands alone such as visiting a\nprob_errands PDP Q18 doctor’s ofﬁce or shopping?\nFFS Q58\nMA-PD Q57\nim_ﬂu1last MA-Only Q52 Have you had a ﬂu shot since July 1, 2024?\nFFS Q51",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

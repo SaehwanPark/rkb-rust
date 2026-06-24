@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ngaco-beneficiary__chunk_2",
+  "source_document": "data/raw/html/dataset_page/dc78605b880da6acf5413b0e36abcd051fcc22e4.html",
+  "page": null,
+  "text": "Name\n\nMonthly assignment status information\n\nDate of Birth\n\nDate of Death\n\nSpecial considerations\n\nThis file can be linked to any other CMS file that includes the Bene ID\n\nBeneficiaries can be linked to their assigned providers by linking the ACO_ID in the provider file to the ACO_NUM in the beneficiary file\n\nQuestions regarding the Next Generation ACO Model can be directed to [email protected]\n\nProgram: \nMedicare\nCategory: \nSpecial Programs\nPrivacy Level: \nResearch Identifiable",
+  "dataset": "ngaco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ngaco-beneficiary"
+}

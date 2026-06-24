@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbisg__chunk_4",
+  "source_document": "data/raw/html/dataset_page/719d1d0b72f037784384d6658ed2c12e9fe1eaa4.html",
+  "page": null,
+  "text": "of data is a separate snapshot file. In addition, the file contains a variable that represents the probability that a beneficiary prefers Spanish language survey material.\nThe cohort may be linked to claims or Medicare eligibility data using the Beneficiary ID.\nWhat does this file include? (variable highlights)\nBeneficiary ID\nData File Reference Date\nRace/Ethnicity Probabilities (6 variables)\nPredicted Spanish Preference Category\nSpecial Considerations\nThe MBISG dataset is separate from CCW’s",
+  "dataset": "mbisg",
+  "url": "https://resdac.org/cms-data/files/mbisg"
+}

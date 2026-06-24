@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_28",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "dual eligibility code - August \n\n DUAL_STUS_CD_09 \n Monthly Medicare-Medicaid dual eligibility code - September \n\n DUAL_STUS_CD_10 \n Monthly Medicare-Medicaid dual eligibility code - October \n\n DUAL_STUS_CD_11 \n Monthly Medicare-Medicaid dual eligibility code - November \n\n DUAL_STUS_CD_12 \n Monthly Medicare-Medicaid dual eligibility code - December \n\n CST_SHR_GRP_CD_01 \n Monthly cost sharing group under Part D low-income subsidy - January \n\n CST_SHR_GRP_CD_02 \n Monthly cost sharing group under",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p9__chunk_1",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 9,
+  "text": "and calculated as of the end of the calendar year, or, \nfor beneficiaries that died during the year, age as of the date of death. \n\nSHORT NAME: AGE \n\nLONG NAME: AGE_AT_END_REF_YR \n\nTYPE: NUM \n\nLENGTH: 3 \n\nSOURCE: CMS Common Medicare Environment (CME) (derived) \n\nVALUES: X–XXX \n\nCOMMENT: CCW calculates this variable, and sets the maximum value to 115 (years). \n ^ Back to TOC ^",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

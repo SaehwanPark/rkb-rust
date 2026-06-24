@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-30-cc__data-documentation__9e2ca0693b__chunk_10",
+  "source_document": "data/raw/html/documentation_page/9e2ca0693b3dbdcb0520118ea85e4cb91daa6b16.html",
+  "page": null,
+  "text": "GLAUCOMA_EVER \n Date that beneficiary first met claims criteria for the glaucoma indicator \n\n HF \n Heart Failure and Non-Ischemic Heart Disease End-of-Year Indicator \n\n HF_EVER \n Date that beneficiary first met claims criteria for the heart failure and non-ischemic heart disease indicator \n\n HIP_FRACTURE \n Hip/Pelvic Fracture End-of-Year Indicator \n\n HIP_FRACTURE_EVER \n Date that beneficiary first met claims criteria for the hip/pelvic fracture indicator \n\n HLP \n Hyperlipidemia End-of-Year",
+  "dataset": "mbsf-30-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-30-cc/data-documentation"
+}

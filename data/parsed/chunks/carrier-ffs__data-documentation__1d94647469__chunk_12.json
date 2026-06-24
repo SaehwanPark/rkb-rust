@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_12",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Diagnosis Code XII (FFS) \n\n ICD_DGNS_VRSN_CD12 \n Claim Diagnosis Code XII Diagnosis Version Code (ICD-9 or ICD-10) (FFS) \n\n CLM_CLNCL_TRIL_NUM \n Clinical Trial Number \n\n DOB_DT \n Date of Birth from Claim \n\n BENE_RACE_CD \n Beneficiary Race Code (Encounter) \n\n BENE_CNTY_CD \n County Code from Claim (SSA) \n\n BENE_STATE_CD \n Beneficiary Residence (SSA) State Code (FFS) \n\n BENE_MLG_CNTCT_ZIP_CD \n Zip Code of Residence from Claim \n\n ACO_ID_NUM \n Claim Accountable Care Organization (ACO) Identification",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

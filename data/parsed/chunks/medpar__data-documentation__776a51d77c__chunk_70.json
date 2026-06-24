@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_70",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Care Hospital Discharge Payment Percentage Adjustment Amount\n\n 395\n\n VAL_CD_Q1_PYMT_RDCTN_AMT\n\n Value Code Q1 Payment Reduction Amount\n\n 396\n\n CLM_MODEL_REIMBRSMT_AMT\n\n MedPAR Claim Model Reimbursement Amount\n\n 397\n\n RC_MODEL_REIMBRSMT_AMT\n\n MedPAR Revenue Center Model Reimbursement Amount\n\n 398\n\n VAL_CD_QB_OCM_PYMT_ADJSTMT_AMT\n\n Value Code QB OCM + Payment Adjustment Amount\n\n 399\n\n RC_ALLOGENEIC_STEM_CELL_AMT\n\n Revenue Center Allogeneic Stem Cell Acquisition/Donor Services Amount\n\n 400",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

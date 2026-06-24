@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_32",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "to Community Service Provider \n\n NN_SPLMTL_EDCTN_OPTOUT_SW \n Navigated Supplemental HRSN Education Opted Out \n\n NN_SPLMTL_EDCTN_CNTCT_FAIL_SW \n Navigated Supplemental HRSN Education Attempts to Reach Failed \n\n NN_SPLMTL_EDCTN_CSP_UNAVBL_SW \n Navigated Supplemental HRSN Education Community Service Provider Unable to Help \n\n NN_SPLMTL_EDCTN_OUTCM_UNK_SW \n Navigated Supplemental HRSN Education Outcome Unknown \n\n NN_SPLMTL_EMPLYMT_RSLVD_SW \n Navigated Supplemental HRSN Employment Resolved",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

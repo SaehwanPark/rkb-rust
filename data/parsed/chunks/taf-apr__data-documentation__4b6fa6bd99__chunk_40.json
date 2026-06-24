@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_40",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Provider Street Address 2\n\n 9\n\n PRVDR_ADR_LINE_3\n\n Provider Street Address 3\n\n 10\n\n PRVDR_CITY\n\n Provider City\n\n 11\n\n PRVDR_STATE_CD\n\n Provider State (FIPS) Code\n\n 12\n\n PRVDR_ZIP_CD\n\n Provider Zip Code\n\n 13\n\n PRVDR_CNTY_CD\n\n Provider County (FIPS) Code\n\n 14\n\n BRDR_STATE_IND\n\n Border State Indicator\n\n 15\n\n PRVDR_STATE_CD_DFRNT_IND\n\n Provider Location State Differs from Submitting State Indicator\n\n 16\n\n PRVDR_LCTN_ACTV_IND_01\n\n Provider Location Active Indicator — January\n\n 17",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

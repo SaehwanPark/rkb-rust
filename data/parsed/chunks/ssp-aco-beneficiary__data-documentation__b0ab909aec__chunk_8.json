@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ssp-aco-beneficiary__data-documentation__b0ab909aec__chunk_8",
+  "source_document": "data/raw/html/documentation_page/b0ab909aec4ed07a1847132fff6b993368ece81d.html",
+  "page": null,
+  "text": "9 \n\n BENE_RSK_R_SCRE_10 \n Monthly CMS-HCC Risk Score 10 \n\n BENE_RSK_R_SCRE_11 \n Monthly CMS-HCC Risk Score 11 \n\n BENE_RSK_R_SCRE_12 \n Monthly CMS-HCC Risk Score 12",
+  "dataset": "ssp-aco-beneficiary",
+  "url": "https://resdac.org/cms-data/files/ssp-aco-beneficiary/data-documentation"
+}

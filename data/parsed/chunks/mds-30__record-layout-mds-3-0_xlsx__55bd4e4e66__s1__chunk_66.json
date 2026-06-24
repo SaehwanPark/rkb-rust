@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_66",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "identifies how closely the resident knew the current month. -=Not assessed/no information\r\n0=Missed by 1 month or no answer\r\n1=Missed by 6 days to 1 month\r\n2=Accurate within 5 days\r\n^=Blank(skip pattern)\n98 C0300C_RPT_CRCT_DAY_CD C0300C_RPT_CRCT_DAY_CD C0300C BIMS: Temporal Orientation - Able to Report Correct Day of Week CHAR 1 The data in this column identifies whether the resident knew the correct day of the week. -=Not assessed/no information\r\n0=Incorrect or no answer\r\n1=Correct\r\n^=Blank(ski",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

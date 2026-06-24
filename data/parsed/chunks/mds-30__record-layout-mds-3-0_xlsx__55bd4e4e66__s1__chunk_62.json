@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_62",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "impaired-object idnetification in question, but eyes appear to\r\nfollow objects\r\n4=Severly impaired-no vision or sees only light, colors or shapes; eyes do\r\nnot appear to follow objects\r\n^=Blank(skip pattern)\n93 B1200_CRCTV_LENS_CD B1200_CRCTV_LENS_CD B1200 Corrective Lenses Code CHAR 1 The data in this column identifies whether or not the resident utilizes corrective lenses. -=Not assessed/no information\r\n0=No\r\n1=Yes\r\n^=Blank(skip pattern)\n94 C0100_CNDCT_MENTL_STUS_CD C0100_CNDCT_MENTL_STUS_CD",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

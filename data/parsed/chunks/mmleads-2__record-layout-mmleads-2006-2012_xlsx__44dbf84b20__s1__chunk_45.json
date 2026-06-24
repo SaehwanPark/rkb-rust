@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_45",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "(RX) drug only\r\nY - Dual – RX only (QMB/SLMB only)\r\nZ - Dual – RX only \r\nNull/Missing = No Medicaid coverage during the month\nTotal Medicare Spending S_MEDICARE_PMT_1 - 12 Monthly Medicare FFS payments (based on claim through date) Value displayed in dollars and cents\n S_MEDICARE_PMT Annual Medicare FFS payments Value displayed in dollars and cents\n S_MEDICARE_BENE_PMT_1 - 12 Monthly Medicare coinsurance and deductible FFS payments (based on claim through date) Value displayed in dollars and",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

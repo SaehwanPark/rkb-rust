@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_3",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "Switch\n\n 9\n\n CLM_CNTL_NUM\n\n Claim Control Number\n\n 10\n\n CLM_ORIG_CNTL_NUM\n\n Claim Original Control Number\n\n 11\n\n CLM_FINL_ACTN_IND\n\n Claim Final Action Indicator\n\n 12\n\n CLM_LTST_CLM_IND\n\n Latest Claim Indicator\n\n 13\n\n EDPS_CREATE_DT\n\n Encounter Data Processing System (EDPS) Create Date\n\n 14\n\n CLM_RCPT_DT\n\n Claim Receipt Date\n\n 15\n\n CLM_FAC_TYPE_CD\n\n Claim Facility Type Code (Encounter)\n\n 16\n\n CLM_SRVC_CLSFCTN_TYPE_CD\n\n Claim Service Classification Type Code (Encounter)\n\n 17\n\n CLM_FREQ_CD",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

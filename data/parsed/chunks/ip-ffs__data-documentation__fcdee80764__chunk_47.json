@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_47",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "(NG) Accountable Care Organization (ACO) Indicator Code - Capitation\n\n 243\n\n ACO_ID_NUM\n\n Claim Accountable Care Organization (ACO) Identification Number\n\n 244\n\n CLM_BENE_ID_TYPE_CD\n\n Claim Beneficiary Identifier Type Code\n\n 245\n\n CLM_RSDL_PYMT_IND_CD\n\n Claim Residual Payment Indicator Code\n\n 246\n\n CLM_RP_IND_CD\n\n Claim Representative Payee (RP) Indicator Code\n\n 247\n\n PRVDR_VLDTN_TYPE_CD\n\n Provider Validation Type Code\n\n 248\n\n RR_BRD_EXCLSN_IND_SW\n\n Railroad Board Exclusion Indicator Switch",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

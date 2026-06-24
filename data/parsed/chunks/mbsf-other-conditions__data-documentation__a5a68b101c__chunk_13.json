@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_13",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Only Claims \n\n MIGRAINE_MEDICARE \n Migraine and other Chronic Headache End-of-Year Indicator - Medicare Only Claims \n\n MIGRAINE_MEDICARE_EVER \n Migraine and other Chronic Headache First Ever Occurrence Date - Medicare Only Claims \n\n MOBIMP_MEDICARE \n Mobility Impairments End-of-Year Indicator - Medicare Only Claims \n\n MOBIMP_MEDICARE_EVER \n Mobility Impairments First Ever Occurrence Date - Medicare Only Claims \n\n MULSCL_MEDICARE \n Multiple Sclerosis and Transverse Myelitis End-of-Year Indicator",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

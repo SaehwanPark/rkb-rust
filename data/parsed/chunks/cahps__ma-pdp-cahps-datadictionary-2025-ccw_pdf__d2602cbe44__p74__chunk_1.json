@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p74__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 74,
+  "text": "R\nsp_visits —– —– —– —– —– —– —– —–\nrate_spec* —– —– —– —– —– —– —– —–\nsp_mdinformd* —– —– —– —– —– —– —– —–\nmd_change R —– —– —– —– —– —– —– —–\nmd_disagree R —– —– —– —– —– —– —– —–\nmd_leavansr —– —– —– —– —– —– —– —–\nmd_result —– —– —– —– —– —– —– —–\nsp_informed\nsp_cacoord\npp_specvis\npp_specntwk\npp_specrec\npp_specfar R\npp_specfew R\npp_speclist R\npl_needcare\npl_getcare* —– —– —– —– —– —– —– —–\npl_paperwk —– —– —– —– —– —– —– —–\npl_ezpaper* —– —– —– —– —– —– —– —–\nrate_plan* —– —– —– —– —– —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

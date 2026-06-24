@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p62__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 62,
+  "text": "A. Composites: 2007 to 2025 - Original Medicare Survey 62 \n\nComposite Item 2007 \nYear 1 \n\npdp_getinfo pd_getcovinf —– \npd_getcostinf —– \npd_infocov —– \npd_csgetinfo —– \npd_csrespect —– \n\npdp_getdrug pd_ezrxmeds —– \npd_ezrxpharmˆ —– \npd_ezrxmailˆ —– \npd_mailpharm \n\npd_cust_svc pd_csgetinfo —– \npd_csrespect —– \n\ndr_comm md_explain Q11 \nmd_listen Q12 \nmd_respect Q13 \nmd_sptime Q14 \n\ncare_need sp_getappt Q17 \npl_getcare Q21 \n\ncare_quik ca_illasaw Q04 \nca_rtnasaw Q06 \nca_wt15mns \n\ncust_svc",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

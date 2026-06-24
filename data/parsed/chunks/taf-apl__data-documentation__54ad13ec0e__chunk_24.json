@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_24",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "of the File\n\n 87\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n 88\n\n CCW_LD_DT\n\n CCW Load Date\n\n APL Location \n\nNumberSAS NameVariable Name\n\n 89\n\n MC_PLAN_ID\n\n Managed Care Plan Identification Number\n\n 90\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 91\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 92\n\n MC_PLAN_LCTN_ID\n\n Managed Care Plan Location Identifier\n\n 93\n\n MC_PLAN_ADR_LINE_1\n\n Managed Care Plan Location — Street Address 1\n\n 94\n\n MC_PLAN_ADR_LINE_2\n\n Managed Care Plan Location — Street",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

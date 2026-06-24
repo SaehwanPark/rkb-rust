@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p36__chunk_6",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 36,
+  "text": "and other doctors who specialize\nsp_persmd MA-Only Q26 in one area of health care. Is your personal doctor a specialist?\nFFS\nMA-PD\nsp_tryappt MA-Only Q27 In the last 6 months, did you make any appointments with a specialist?\nFFS\nMA-PD\nsp_getappt MA-Only Q28 In the last 6 months, how often did you get an appointment with a specialist as soon as you needed?\nFFS\nMA-PD\nsp_visits MA-Only Q29 How many specialists have you talked to in the last 6 months?\nFFS\nMA-PD We want to know your rating of the",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-ffs__data-documentation__1d94647469__chunk_25",
+  "source_document": "data/raw/html/documentation_page/1d94647469e83d6f113be85ff63b3d64ecbcd28d.html",
+  "page": null,
+  "text": "Line Other Applied Amount for 5th Code \n\n LINE_OTHR_APLD_AMT6 \n Line Other Applied Amount for 6th Code \n\n LINE_OTHR_APLD_AMT7 \n Line Other Applied Amount for 7th Code \n\n THRPY_CAP_IND_CD1 \n Therapy cap Indicator 1 Code \n\n THRPY_CAP_IND_CD2 \n Therapy cap Indicator 2 Code \n\n THRPY_CAP_IND_CD3 \n Therapy cap Indicator 3 Code \n\n THRPY_CAP_IND_CD4 \n Therapy cap Indicator 4 Code \n\n THRPY_CAP_IND_CD5 \n Therapy cap Indicator 5 Code \n\n CLM_NEXT_GNRTN_ACO_IND_CD1 \n Claim Next Generation (NG) Accountable",
+  "dataset": "carrier-ffs",
+  "url": "https://resdac.org/cms-data/files/carrier-ffs/data-documentation"
+}

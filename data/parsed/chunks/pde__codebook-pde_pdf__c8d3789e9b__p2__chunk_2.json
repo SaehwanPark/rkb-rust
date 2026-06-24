@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p2__chunk_2",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 2,
+  "text": "CVRD_D_PLAN_PD_AMT \nNCVRD_PLAN_PD_AMT \nTOT_RX_CST_AMT \nRPTD_GAP_DSCNT_NUM \n 1.8 \n\nMarch 2025 K. Schneider Variable was updated to sex to comply with Executive Order \n14168 1.7 \n\nNovember 2024 S. Pietzsch Added new value of N to CTSTRPHC_CVRG_CD 1.6 \nJanuary 2024 K. Schneider Added new field OTHR_TROOP_AMOUNT_IND 1.5 \nSeptember 2023 K. Schneider • Added new field PTD_MODEL_IND \n• Added new valid value to NSTD_FRMT_CD and TIER_ID \n• Added description to TOT_RX_CST_AMT for additional \ndispensing",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

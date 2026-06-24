@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_630",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "N0450D_GDR_DOCD_CONTRA_SW N0450D_GDR_DOCD_CONTRA_SW N0450D GDR Physician Documented Contraindicated CHAR 1 The data in this column indicates whether a physician has documented a gradual dose reduction (GDR) as\r\nclinically contraindicated. 0=No\r\n1=Yes\r\n^=Blank (Skip Pattern) effective 10/01/2017\n694 N0450E_GRADUAL_PHYSN_DOCD_DT N0450E_GRADUAL_PHYSN_DOCD_DT N0450E Gradual Physician Documented Date CHAR 8 The data in this column indicates the date a physician documented a gradual dose reduction",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

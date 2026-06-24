@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-formulary__data-documentation__8d84b1bd65__chunk_1",
+  "source_document": "data/raw/html/documentation_page/8d84b1bd651eeceaa76b852e04b843dc7e2242ad.html",
+  "page": null,
+  "text": "definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Codebook - Part D Formulary\nCCW Record Layout - Part D Formulary\n\nFormulary\n\nExcluded Drug\n\nOTC Drug\n\nIndication-based Formulary\n\nPDSS Model\n\nFormulary\n\n SAS Name\n Variable Name\n\n FORMULARY_ID \n Formulary Identification",
+  "dataset": "part-d-formulary",
+  "url": "https://resdac.org/cms-data/files/part-d-formulary/data-documentation"
+}

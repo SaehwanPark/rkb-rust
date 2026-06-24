@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_4",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "Type Code (Encounter)\n\n 16\n\n CLM_SRVC_CLSFCTN_TYPE_CD\n\n Claim Service Classification Type Code (Encounter)\n\n 17\n\n CLM_FREQ_CD\n\n Claim Frequency Code (Encounter)\n\n 18\n\n CNTRCT_NUM\n\n Medicare Part C Contract Number\n\n 19\n\n CNTRCT_PBP_NUM\n\n Medicare Part C Plan Benefit Package (PBP) Number\n\n 20\n\n CLM_MDCL_REC\n\n Claim Medical Record Number (Encounter)\n\n 21\n\n ORG_NPI \n\n Organization NPI Number (Encounter)\n\n 22\n\n ORG_TXNMY_CD\n\n Organization Taxonomy Code\n\n 23\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

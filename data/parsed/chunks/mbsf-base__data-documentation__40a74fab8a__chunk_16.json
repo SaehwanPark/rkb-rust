@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_16",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "Part C PBP Number - October \n\n PTC_PBP_ID_11 \n Part C PBP Number - November \n\n PTC_PBP_ID_12 \n Part C PBP Number - December \n\n PTC_PLAN_TYPE_CD_01 \n Part C Plan Type Code - January \n\n PTC_PLAN_TYPE_CD_02 \n Part C Plan Type Code - February \n\n PTC_PLAN_TYPE_CD_03 \n Part C Plan Type Code - March \n\n PTC_PLAN_TYPE_CD_04 \n Part C Plan Type Code - April \n\n PTC_PLAN_TYPE_CD_05 \n Part C Plan Type Code - May \n\n PTC_PLAN_TYPE_CD_06 \n Part C Plan Type Code - June \n\n PTC_PLAN_TYPE_CD_07 \n Part C Plan Type",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

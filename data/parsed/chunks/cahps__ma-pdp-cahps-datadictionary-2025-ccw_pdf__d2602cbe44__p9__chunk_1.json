@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p9__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 9,
+  "text": "plan id\nsa_ptdcntrct Part d health plan id\nsa_ptd_type Part d plan type $PBT\nsa_ptd_snp Part d special needs plan $ID_F\nsa_ptd_prm_c Part d premium range $PRM\nsa_ptabpbp Part a-b plan id\nsa_ptabcntrct Part a-b health plan id\nsa_ptab_type Part a-b plan type $PBT\nsa_plan_name Plan name\nsa_pffs Private fee for service plan\nsa_pbp_type Plan type of surveyed plan $PBT\nsa_pbp_num Plan id of surveyed plan\nsa_partd_stus Part d status $ID_F\nsa_org_entlmt Original reason for entitlement $OEN\nsa_mmp",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

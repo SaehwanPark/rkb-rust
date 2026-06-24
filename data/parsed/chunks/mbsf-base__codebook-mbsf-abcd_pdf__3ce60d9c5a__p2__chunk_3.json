@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p2__chunk_3",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 2,
+  "text": "Added clarity re: valid values for monthly cost share group \n(CST_SHR_GRP_CD_01–12) 1.2 \n\nJanuary 2019 C. Alleman \nK. Schneider Added clarity re: valid values for monthly Medicare status code \n(MDCR_STATUS_CODE_01–12) 1.1 \n\nMay 2017 C. Alleman \nK. Schneider Initial release of codebook for Master Beneficiary Summary File — \nbase; with Medicare Part A/B/C/D 1.0",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

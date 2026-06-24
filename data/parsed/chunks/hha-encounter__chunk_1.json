@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-encounter__chunk_1",
+  "source_document": "data/raw/html/dataset_page/22e3288d3f760638d04abe30249e6d2f960989ad.html",
+  "page": null,
+  "text": "(MA) plan records for home health agency services.\n\nThis file includes (variable highlights):\nPart C Benefit Package and Contract number\nDiagnosis (ICD diagnosis) codes\nHCPCS code\nRevenue center codes, dates, unit counts\nOrganization NPI\nNPI for line rendering physician\nPatient discharge status code\nNo payment variables\nSpecial considerations:\nMany Medicare Advantage Plans offer extra coverage in addition to services covered under traditional fee-for-service Medicare (e.g., vision, hearing,",
+  "dataset": "hha-encounter",
+  "url": "https://resdac.org/cms-data/files/hha-encounter?page=2"
+}

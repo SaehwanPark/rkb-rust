@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p108__chunk_2",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 108,
+  "text": "= Family practice \n09 = Interventional Pain \nManagement (IPM) \n10 = Gastroenterology \n11 = Internal medicine \n12 = Osteopathic manipulative \ntherapy \n13 = Neurology \n14 = Neurosurgery \n15 = Speech / language pathology \n16 = Obstetrics/gynecology \n17 = Hospice and Palliative Care \n18 = Ophthalmology \n19 = Oral surgery (dentists only) \n20 = Orthopedic surgery \n22 = Pathology \n24 = Plastic and reconstructive \nsurgery \n25 = Physical medicine and \nrehabilitation \n 26 = Psychiatry \n27 = General",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

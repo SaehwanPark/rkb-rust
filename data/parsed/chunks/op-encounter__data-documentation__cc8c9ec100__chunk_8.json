@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_8",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "(Encounter)\n\n 41\n\n ICD_DGNS_CD11\n\n Claim Diagnosis Code 11 (Encounter)\n\n 42\n\n ICD_DGNS_CD12\n\n Claim Diagnosis Code 12 (Encounter)\n\n 43\n\n ICD_DGNS_CD13 \n\n Claim Diagnosis Code 13 (Encounter)\n\n 44\n\n ICD_DGNS_CD14\n\n Claim Diagnosis Code 14 (Encounter)\n\n 45\n\n ICD_DGNS_CD15\n\n Claim Diagnosis Code 15 (Encounter)\n\n 46\n\n ICD_DGNS_CD16 \n\n Claim Diagnosis Code 16 (Encounter)\n\n 47\n\n ICD_DGNS_CD17 \n\n Claim Diagnosis Code 17 (Encounter)\n\n 48\n\n ICD_DGNS_CD18 \n\n Claim Diagnosis Code 18 (Encounter)\n\n 49",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

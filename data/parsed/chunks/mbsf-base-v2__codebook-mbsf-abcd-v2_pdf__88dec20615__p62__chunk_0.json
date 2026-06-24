@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base-v2__codebook-mbsf-abcd-v2_pdf__88dec20615__p62__chunk_0",
+  "source_document": "data/raw/assets/pdf/88dec20615b0691efc1812370c27a4f1825aa109.pdf",
+  "page": 62,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D, Version 2 │ May 2026 │ V 1.2 55 \n\nSSA_DIB_JSTFCTN_CD \n\nLABEL: SSA Disability Insurance Benefit Entitlement to Medicare Justification Code \n\nDESCRIPTION: This variable is the disability justification code from the Social Security Administration (SSA). \n\nLONG NAME: SSA_DIB_JSTFCTN_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Common Medicare Environment (CME) \n\nVALUES: 1 = Beneficiary is entitled to",
+  "dataset": "mbsf-base-v2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd-v2.pdf"
+}

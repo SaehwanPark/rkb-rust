@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_14",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "80\n\n CVRD_DAYS_IP_PSYCH_OVER_65\n\n Count of Medicaid Covered Days in an IPF (Beneficiary Over 65 Years)\n\n 81\n\n CVRD_DAYS_IP_PSYCH_UNDER_21\n\n Count of Medicaid Covered Days in an IPF (Beneficiary Under 21 Years)\n\n 82\n\n LEAVE_DAYS\n\n Count of Days During Medicaid Coverage Period Patient was not Residing in LTC\n\n 83\n\n FIXD_PYMT_IND\n\n Fixed Payment Indicator\n\n 84\n\n SRVC_TRKNG_PYMT_AMT\n\n Service Tracking Payment Amount\n\n 85\n\n PYMT_LVL_IND\n\n Payment Level Indicator - Header or Line\n\n 86\n\n BILLED_AMT",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

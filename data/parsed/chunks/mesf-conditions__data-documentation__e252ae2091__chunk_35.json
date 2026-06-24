@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_35",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Delays Indicator - Medicaid-Only Data\n\n 175\n\n OTHDEL_MEDICARE\n\n Other Developmental Delays Indicator - Medicare-Only Data\n\n 176\n\n OUD_ANY_COMBINED\n\n Overarching OUD Disorder (Any of the 3 Sub-Indicators) - Combined Claims\n\n 177\n\n OUD_ANY_MEDICAID\n\n Overarching OUD Disorder (Any of the 3 Sub-Indctrs) - Mdcd-Only Claims\n\n 178\n\n OUD_ANY_MEDICARE\n\n Overarching OUD Disorder (Any of the 3 Sub-Indctrs) - Mdcr-Only Claims\n\n 179\n\n OUD_DX_COMBINED\n\n Diagnosis and Procedure Basis for OUD - Combined",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

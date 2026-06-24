@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__codebook-taf-annual-plan_pdf__5f77cf7c30__p50__chunk_1",
+  "source_document": "data/raw/assets/pdf/5f77cf7c30acd114cc7f3b826ca63f6650c33876.pdf",
+  "page": 50,
+  "text": "TYPE: CHAR \n\nLENGTH: 45 \n\nFILE(S): APL Service Area \n\nSOURCE: T-MSIS Annual Managed Care Plan TAF \n\nVALUES: The field can contain any alphanumeric characters, digits, or symbols (e.g., BROWN COUNTY, ALL MA \nSTATEWIDE, 0234). Null/missing = unknown/missing \n\nCOMMENT: Each managed care service area name is associated with a MC_PLAN_ID. \n\nCMS provides states with guidance for reporting this field: https://www.medicaid.gov/medicaid/data-\nand-systems/macbis/tmsis/tmsis-blog/entry/47542 \n ^ Back to",
+  "dataset": "taf-apl",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-plan.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_9",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "State Buy-In Coverage Count \n\n BENE_HMO_CVRAGE_TOT_MONS \n HMO Coverage Count \n\n PTD_PLAN_CVRG_MONS \n Months of Part D Coverage \n\n RDS_CVRG_MONS \n Months of Retiree Drug Subsidy Coverage \n\n DUAL_ELGBL_MONS \n Months of Dual Eligibility \n\n MDCR_ENTLMT_BUYIN_IND_01 \n Medicare Entitlement/Buy-In Indicator - January \n\n MDCR_ENTLMT_BUYIN_IND_02 \n Medicare Entitlement/Buy-In Indicator - February \n\n MDCR_ENTLMT_BUYIN_IND_03 \n Medicare Entitlement/Buy-In Indicator - March \n\n MDCR_ENTLMT_BUYIN_IND_04",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

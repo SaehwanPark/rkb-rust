@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p13__chunk_0",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 13,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF National Death Index Segment Codebook │ May 2026 │ V 2.6 8 \n\nICD_CODE_113 \n\nLABEL: 113 ICD-10 Cause of Death Recodes \n\nDESCRIPTION: This field groups (or recodes) the NDI ICD-10 code cause of death into 113 categories. The list reflects \n113 selected causes of death and enterocolitis due to Clostridium Difficile. \n\nSHORT NAME: ICD_CODE_113 \n\nLONG NAME: ICD_CODE_113 \n\nTYPE: CHAR \n\nLENGTH: 3 \n\nSOURCE: Centers for Disease Control and",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

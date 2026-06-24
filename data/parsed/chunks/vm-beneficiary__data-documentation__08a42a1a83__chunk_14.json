@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_14",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "for hospice services \n\n CITY_HOSP \n City of hospital at which hospitalization occurred \n\n STATE_HOSP \n State of hospital at which hospitalization occurred \n\n PDGNS_DESC \n Description of principal diagnosis code for MSPB index hospitalization \n\n LEAD_NPI_NAME \n Name of EP with plurality of cost for MSPB \n\n LEAD_NPI \n NPI of EP with plurality of cost for MSPB \n\n LEAD_NPI_SPECIALTY \n Specialty of EP with plurality of cost for MSPB \n\n STD_PMT_ALL_CLM \n Total payment-standardized episode cost",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

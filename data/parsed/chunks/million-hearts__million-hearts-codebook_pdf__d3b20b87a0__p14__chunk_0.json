@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p14__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 14,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 9 \n\nBASELINE_GROUP \n\nLABEL: Patient's Baseline Group (Low, Medium, High) \n\nDESCRIPTION: Patient's baseline group (low, medium, high). \n\nSHORT NAME: BASELINE_GROUP \n\nLONG NAME: BASELINE_GROUP \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nFILE(S): Visit \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: LOW \n MEDIUM \n HIGH \n Null/missing \n\nCOMMENT: This field is the",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

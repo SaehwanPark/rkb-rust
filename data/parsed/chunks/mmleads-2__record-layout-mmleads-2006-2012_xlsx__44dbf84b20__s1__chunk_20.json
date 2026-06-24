@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_20",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "buyin (E_BUYIN_M)is equal to '3' or 'C' and the monthly HMO indicator is '0' or 4' then FFS. If monthly HMO is '1' or '2' then cost based and if monthly HMO is 'A', 'B', or 'C' then 'risk-based' 1 - Fee-for-service (FFS)\r\n2 - Medicare Advantage (MA) Cost-based\r\n3 - MA Risk-based\r\nNull- Other, or no Medicare coverage during the month\n E_MEDICAIDFFS_1 - 12 Monthly Medicaid fee-for-service (FFS) indicator. January through December. A hierarchy is used: If any of the 4 Eligible Pre-Paid Plan (PHP)",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

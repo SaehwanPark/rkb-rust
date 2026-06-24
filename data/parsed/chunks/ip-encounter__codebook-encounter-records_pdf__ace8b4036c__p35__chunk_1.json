@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p35__chunk_1",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 35,
+  "text": "1 = Hospital \n2 = Skilled Nursing Facility (SNF) \n3 = home health Agency (HHA) \n4 = Religious Non-medical (hospital) \n7 = Clinic services or hospital-based renal dialysis facility \n8 = Ambulatory Surgery Center (ASC) or other special facility (e.g. hospice) \n\nCOMMENT: This field, in combination with the service classification type code (variable called \nCLM_SRVC_CLSFCTN_TYPE_CD) indicates the “type of bill” for an institutional claim. Many different \ntypes of services can be billed on a Part A",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

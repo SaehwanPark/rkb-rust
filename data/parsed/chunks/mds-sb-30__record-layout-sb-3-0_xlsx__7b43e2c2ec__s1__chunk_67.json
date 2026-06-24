@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_67",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "knew the correct day of the week. -=Not assessed/no information\r\n0=Incorrect or no answer\r\n1=Correct\r\n^=Blank(skip pattern)\n99 C0400A_RCALL_FIRST_WORD_CD C0400A_RCALL_FIRST_WORD_CD C0400A BIMS: Recall - Able to Recall Sock CHAR 1 The data in this column identifies the resident's ability to recall the first word. -=Not assessed/no information\r\n0=No-could not recall\r\n1=Yes, after cueing (\"something to wear\")\r\n2=Yes, no cue required\r\n^=Blank(skip pattern)\n100 C0400B_RCALL_SCND_WORD_CD",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

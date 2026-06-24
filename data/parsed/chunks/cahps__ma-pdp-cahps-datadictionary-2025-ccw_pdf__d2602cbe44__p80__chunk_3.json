@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p80__chunk_3",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 80,
+  "text": "Q08 Q08 Q44 Q40 Q41\npd_getcostinf* Q09 Q09 Q09 Q09 Q09 Q09 Q45 Q41 Q42\npd_diffrx Q10 Q10 Q10 Q10 Q10 Q10 Q46 Q42 Q43\npd_rxnocov Q11 Q11 Q11 Q11 Q11 Q11 Q47 Q43 Q44\npd_askrxcov Q12 Q12 Q12 Q12 Q12 Q12 Q48 Q44 Q45\npd_appeal Q13A Q13A Q13A Q13A Q13A Q13A Q49A Q45A\npd_forms Q13B Q13B Q13B Q13B Q13B Q13B Q49B Q45B\npd_resolve Q13C Q13C Q13C Q13C Q13C Q13C Q49C Q45C\npd_listen Q13D Q13D Q13D Q13D Q13D Q13D Q49D Q45D\npd_discourage Q13E Q13E Q13E Q13E Q13E Q13E Q49E Q45E\npd_nothing Q13F Q13F Q13F Q13F",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

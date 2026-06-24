@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_16",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "ENDC_MEDICARE\n\n Endometrial Cancer Indicator - Medicare-Only Data\n\n 80\n\n EPLILEP_COMBINED\n\n Epilepsy Indicator - Combined Data\n\n 81\n\n EPLILEP_MEDICAID\n\n Epilepsy Indicator - Medicaid-Only Data\n\n 82\n\n EPLILEP_MEDICARE\n\n Epilepsy Indicator - Medicare-Only Data\n\n 83\n\n FIBRO_COMBINED\n\n Chronic Pain, Fatigue, and Fibromyalgia - Combined Medicare & Medicaid Claims\n\n 84\n\n FIBRO_MEDICAID\n\n Chronic Pain, Fatigue, and Fibromyalgia - Medicaid Only Claims\n\n 85\n\n FIBRO_MEDICARE\n\n Chronic Pain, Fatigue, and",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

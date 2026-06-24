@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_11",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "BLG_PRVDR_ID\n\n Billing Provider Identification Number (TAF)\n\n 63\n\n BLG_PRVDR_NPI\n\n Billing Provider NPI\n\n 64\n\n BLG_PRVDR_TXNMY_CD\n\n Billing Provider Taxonomy Code\n\n 65\n\n BLG_PRVDR_NPPES_TXNMY_CD\n\n Billing Provider NPPES Taxonomy Code\n\n 66\n\n BLG_PRVDR_TYPE_CD\n\n Billing Provider Type Code\n\n 67\n\n BLG_PRVDR_SPCLTY_CD\n\n Billing Provider Specialty Code\n\n 68\n\n RFRG_PRVDR_ID\n\n Referring Provider Identification Number\n\n 69\n\n RFRG_PRVDR_NPI\n\n Referring Provider NPI\n\n 70\n\n RFRG_PRVDR_TYPE_CD\n\n Referring",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

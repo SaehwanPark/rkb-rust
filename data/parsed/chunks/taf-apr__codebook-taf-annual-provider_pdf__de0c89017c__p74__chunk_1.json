@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p74__chunk_1",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 74,
+  "text": "30 \n\nFILE(S): APR Taxonomy \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: Alphanumeric character string (e.g., 70, 103TM1800X, 012), or Null/missing; type of value depends on \nthe PRVDR_CLSFCTN_SYS \n\nCOMMENT: The values in this field depend on the Provider Classification System/Nomenclature used: \n\nIf PRVDR_CLSFCTN_SYS equals ”1” (taxonomy code) or “N” (primary taxonomy code derived from \nNPPES); then this value is described at the following website: \n\nhttps://x12.org/codes/provider-taxonomy-cod",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

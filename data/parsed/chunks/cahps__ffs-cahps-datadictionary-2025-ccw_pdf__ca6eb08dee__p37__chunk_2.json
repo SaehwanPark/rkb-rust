@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p37__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 37,
+  "text": "blood test, or EKG for heart conditions?\nMA-PD Q32 In the last 6 months, did you get information or help from your health plan’s customer service? \ncs_cstryinfo MA-Only Q32 \nFFS Q36 In the last 6 months, did you get information or help from Medicare’s customer service? \nMA-PD Q33 In the last 6 months, how often did your health plan’s customer service give you the information or help you \ncs_csgetinfo MA-Only Q33 needed?\nFFS Q37 In the last 6 months, how often did Medicare’s customer service",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

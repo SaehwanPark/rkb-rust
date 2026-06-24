@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s4__chunk_1",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 4,
+  "text": "MDCR_PTB\r\nMDCR_MC\r\nMDCR_PTD\n SRVC_2 Level 2 service category MDCR_IP\r\nMDCR_IP_OTH\r\nMDCR_PAC_OTH\r\nMDCR_SNF\r\nMDCR_HOSPICE\r\nMDCR_HH\r\nMDCR_OPD\r\nMDCR_ESRD\r\nMDCR_OSNF \r\nMDCR_FQHC\r\nMDCR_RHC\r\nMDCR_THRPY\r\nMDCR_CMHC\r\nMDCR_OTH40\r\nMDCR_ASC\r\nMDCR_PTB_DRUG\r\nMDCR_EM\r\nMDCR_PROC\r\nMDCR_IMG\r\nMDCR_LABTST\r\nMDCR_OTH\r\nMDCR_DME\r\nMDCR_PTA\r\nMDCR_PTB\r\n(also the MDCR_PTD categories)\nBeneficiary User Counts BENE_CNT Unduplicated beneficiary count 1 - single row of data for the person\r\n1/x - person used x distinct level 2",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

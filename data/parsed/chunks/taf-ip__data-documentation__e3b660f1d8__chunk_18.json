@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_18",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "Billing Provider Type Code\n\n 113\n\n BLG_PRVDR_SPCLTY_CD\n\n Billing Provider Specialty Code\n\n 114\n\n RFRG_PRVDR_ID\n\n Referring Provider Identification Number\n\n 115\n\n RFRG_PRVDR_NPI\n\n Referring Provider NPI\n\n 116\n\n RFRG_PRVDR_TYPE_CD\n\n Referring Provider Type Code\n\n 117\n\n RFRG_PRVDR_SPCLTY_CD\n\n Referring Provider Specialty Code\n\n 118\n\n PRVDR_LCTN_CD\n\n Provider Location Code\n\n 119\n\n BRDR_STATE_IND\n\n Border State Indicator\n\n 120\n\n IP_MH_TXNMY_IND\n\n Mental Health Provider Taxonomy Indicator\n\n 121",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

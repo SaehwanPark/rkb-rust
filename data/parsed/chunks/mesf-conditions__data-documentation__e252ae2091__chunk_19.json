@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_19",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "B (Acute or Unspecified) - Combined Medicare & Medicaid Claims\n\n 96\n\n HEPB_ACT_MEDICAID\n\n Hepatitis B (Acute or Unspecified) - Medicaid Only Claims\n\n 97\n\n HEPB_ACT_MEDICARE\n\n Hepatitis B (Acute or Unspecified) - Medicare Only Claims\n\n 98\n\n HEPB_CHR_COMBINED\n\n Hepatitis B (Chronic) - Combined Medicare & Medicaid Claims\n\n 99\n\n HEPB_CHR_MEDICAID\n\n Hepatitis B (Chronic) - Medicaid Only Claims\n\n 100\n\n HEPB_CHR_MEDICARE\n\n Hepatitis B (Chronic) - Medicare Only Claims\n\n 101\n\n HEPC_ACT_COMBINED",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

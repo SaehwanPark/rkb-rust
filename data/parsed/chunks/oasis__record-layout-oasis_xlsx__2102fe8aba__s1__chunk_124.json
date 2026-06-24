@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_124",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "with our without a device\r\n01 = When reminded, assisted, or supervised by another person, able to get to and from the toilet\r\n02 = Unable to get to and from the toilet but is able to use a bedside commode (with our without assistance)\r\n03 = Unable to get to and from the toilet or bedside commode but is able to use a bedpan/urinal independently\r\n04 = Is totally dependent in toileting\r\nUK = Unknown CHAR 2 x x\nM0680_PR_TOILETING (M0680) Prior Toileting Prior ability to get to and from toilet or",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

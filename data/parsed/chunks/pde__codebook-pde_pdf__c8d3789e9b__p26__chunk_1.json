@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p26__chunk_1",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 26,
+  "text": "also \nincorporate the delivery and release mechanism of the drug. \n\nWhen this variable appears in the formulary file, it is the FDB dosage form code for a drug product on \nthe formulary. \n\nSHORT NAME: GCDF \n\nLONG NAME: GCDF \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: First DataBank \n\nVALUES: 2-digit alpha/numeric code (e.g., CA [capsule], PS [adhesive patch, medicated]) \n\nCOMMENT: The narrative description for this code appears in the dosage form code description variable (called \nGCDF_DESC). \n\nIn the",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

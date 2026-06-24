@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p15__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 15,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 10 \n\nBASELINE_SCORE \n\nLABEL: Patient's Baseline ASCVD Score \n\nDESCRIPTION: Patient's baseline atherosclerotic cardiovascular disease (ASCVD) score. \n\nSHORT NAME: BASELINE_SCORE \n\nLONG NAME: BASELINE_SCORE \n\nTYPE: CHAR \n\nLENGTH: 10 \n\nFILE(S): Visit \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: Ex — 21.7000, or null/missing \n\nCOMMENT: This field is",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

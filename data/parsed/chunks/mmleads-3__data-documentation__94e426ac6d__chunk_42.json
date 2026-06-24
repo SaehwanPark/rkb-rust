@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_42",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "23\n\n MDCD_LT_TOTAL_SPEND\n\n Medicaid Payment Amount — Long-Term Care\n\n 24\n\n MDCD_OT_TOTAL_USE\n\n Medicaid Use (Claim Count) — Other Services\n\n 25\n\n MDCD_OT_TOTAL_SPEND\n\n Medicaid Payment Amount — Other Services\n\n 26\n\n MDCD_OT_MC_CAPTD_USE\n\n Medicaid Managed Care Capitated Claim Count — Other Services\n\n 27\n\n MDCD_OT_MC_CAPTD_SPEND\n\n Medicaid Managed Care Capitated Payment Amount— Other Services\n\n 28\n\n MDCD_RX_TOTAL_USE\n\n Medicaid Use (Claim Count) — Rx\n\n 29\n\n MDCD_RX_TOTAL_SPEND\n\n Medicaid Payment",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

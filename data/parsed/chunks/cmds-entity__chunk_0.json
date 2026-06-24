@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cmds-entity__chunk_0",
+  "source_document": "data/raw/html/dataset_page/fe306019948692b5209277e7fd3e0aeb53e463a9.html",
+  "page": null,
+  "text": "Skip to main content\n\nReminder: DUA and VRDC access needs to be extended or renewed annually. Read more.\n\nTop Menu\n\n A-Z Glossary\n\n Contact Us\n\n Navigation Menu\n\n Find CMS Data Files\n\n Request CMS Data Files\n\n Search Data Variables\n\n Learn About CMS Data\n\nCMMI Model Data Sharing Entity\n\n View Data Documentation\n\nThe CCMI Model Data Sharing (CMDS) Entity file is one of a set of three file types (entity, provider, beneficiary) included for each model. An Entity is the Model Participant that has",
+  "dataset": "cmds-entity",
+  "url": "https://resdac.org/cms-data/files/cmds-entity"
+}

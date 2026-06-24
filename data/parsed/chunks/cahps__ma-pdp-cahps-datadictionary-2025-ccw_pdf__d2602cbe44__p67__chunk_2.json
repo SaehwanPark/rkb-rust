@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p67__chunk_2",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 67,
+  "text": "Q63E Q61E\nproxy_othr_txt D Q76_O Q63_O Q61_O\nliving_arr D Q62\nliving_arr_txt D Q62_O\nliving_alone D Q74 Q65 Q77 Q64\nliving_numinhh Q75 Q75 Q75 Q77\nlim_bathing —– —– —– —– —– D Q78A Q65A Q63A\nlim_dressing —– —– —– —– —– D Q78B Q65B Q63B\nlim_eating —– —– —– —– —– D Q78C Q65C Q63C\nlim_chairs —– —– —– —– —– D Q78D Q65D Q63D\nlim_walking —– —– —– —– —– D Q78E Q65E Q63E\nlim_toilet —– —– —– —– —– D Q78F Q65F Q63F\nweb_at_home\nrecontact Q76 Q76 Q76 Q78 Q75 Q66 Q79 Q66 Q64\ndayphone D Q67 Q65\nlang_speak",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

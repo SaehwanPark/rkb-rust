@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p28__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 28,
+  "text": "B. 2025 MCAHPS Format Tables 28\n\nsa_ptab_type: Part A-B Plan Type\n\nSAS Format: $PBT\n\n03: CCOTH\n\n04: LOCAL PPO\n\n05: PSO(STATE LICENSE)\n\n06: PSO(FEDERAL WAIVER OF STATE LICENSE)\n\n07: MSA\n\n08: RFB\n\n09: PFFS\n\n10: SHMO\n\n17: OTHER\n\n18: 1876 COST\n\n19: HCPP-1833 COST\n\n20: NATIONAL PACE\n\n27: CAPITATED DISEASE MANAGEMENT DEMO\n\n28: CHRONIC CARE\n\n29: MEDICARE PDP\n\n30: EMPLOYER-SPONSORED PDP\n\n31: REGIONAL PPO\n\n32: FALLBACK\n\n33: MN DISABILITY HEALTH OPTIONS\n\n34: MN SENIOR HEALTH OPTIONS\n\n35: WI PARTNERSHIP",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

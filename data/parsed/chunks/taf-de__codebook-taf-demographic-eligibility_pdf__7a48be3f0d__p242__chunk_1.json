@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p242__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 242,
+  "text": "LONG NAME: MFP_IND_LTST \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): Money Follows the Person \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: 0 = No \n1 = Yes \n\nCOMMENT: This value is never null/missing. \n ^ Back to TOC ^",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

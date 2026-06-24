@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_19",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "88\n\n MDCR_BUYIN_04\n\n Medicare — Entitlement/Buy-In Indicator — April\n\n 89\n\n MDCR_FFS_MEDICAL_04\n\n Medicare — Fee-for-Service Medical Coverage Indicator — April\n\n 90\n\n MDCR_DUAL_STUS_CD_05\n\n Medicare — Medicaid Dual Eligibility Code — May\n\n 91\n\n MDCR_BUYIN_05\n\n Medicare — Entitlement/Buy-In Indicator — May\n\n 92\n\n MDCR_FFS_MEDICAL_05\n\n Medicare — Fee-for-Service Medical Coverage Indicator — May\n\n 93\n\n MDCR_DUAL_STUS_CD_06\n\n Medicare — Medicaid Dual Eligibility Code — June\n\n 94\n\n MDCR_BUYIN_06",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

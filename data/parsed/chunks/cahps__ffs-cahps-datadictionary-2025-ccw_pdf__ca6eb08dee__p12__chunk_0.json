@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p12__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 12,
+  "text": "B. 2025 MCAHPS Format Tables 12 \n\nca_routine: RECODE : Last 6 mths, make in-person/phone/video appointment for check-up or routine care \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n ca_rtnasaw: RECODE : Last 6 mths, how often get appt for routine care as soon as needed \n\nSAS Format: OFA \n\n1: NEVER \n\n2: SOMETIMES \n\n3: USUALLY \n\n4: ALWAYS \n\nca_visits: RECODE : Last 6 mths, how many in-person/phone/video visits for health care \n\nSAS Format: NMA \n\n0: NONE \n\n1: 1 TIME \n\n2: 2 \n\n3: 3 \n\n4: 4 \n\n5: 5 TO 9 \n\n6: 10",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

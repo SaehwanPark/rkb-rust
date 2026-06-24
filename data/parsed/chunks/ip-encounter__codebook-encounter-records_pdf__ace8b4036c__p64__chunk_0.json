@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p64__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 64,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 54 \n\nCLM_SUBSCR_CITY_NAME \n\nLABEL: Medicare Subscriber Address – City \n\nDESCRIPTION: This variable is the Medicare subscriber’s city name, as submitted on the encounter record. \n\nSHORT NAME: CLM_SUBSCR_CITY_NAME \n\nLONG NAME: CLM_SUBSCR_CITY_NAME \n\nTYPE: CHAR \n\nLENGTH: 30 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base \nDME",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

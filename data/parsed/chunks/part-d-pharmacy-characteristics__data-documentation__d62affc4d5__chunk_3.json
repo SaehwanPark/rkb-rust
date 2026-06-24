@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__data-documentation__d62affc4d5__chunk_3",
+  "source_document": "data/raw/html/documentation_page/d62affc4d53fdc4e8dcb747059a124cbc56c2cd2.html",
+  "page": null,
+  "text": "Physical Location of Pharmacy State Code \n\n DISPENSER_CLASS \n Part D Dispenser Class Code \n\n PRIMARY_DISPENSER_TYPE \n Pharmacy Primary Dispenser Type Code \n\n PRIMARY_TAXONOMY_CD \n Pharmacy Primary Taxonomy Code \n\n SECONDARY_DISPENSER_TYPE \n Pharmacy Secondary Dispenser Type Code \n\n SECONDARY_TAXONOMY_CODE \n Pharmacy Secondary Taxonomy Code \n\n TERTIARY_DISPENSER_TYPE \n Pharmacy Tertiary Dispenser Type Code \n\n TERTIARY_TAXONOMY_CODE \n Pharmacy Tertiary Taxonomy Code \n\n RELATIONSHIP_ID",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_4",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Split Claim Indicator\n\n 16\n\n CLL_CNT\n\n Claim Line Count - Original\n\n 17\n\n CLL_CNT_CALC\n\n Claim Line Count - Calculated\n\n 18\n\n PRSN_CLM_IND\n\n Indicator of a Claim for a Person\n\n 19\n\n SRVC_TRKNG_TYPE_CD\n\n Service Tracking Type Code\n\n 20\n\n FED_SRVC_CTGRY_CD\n\n Federally Assigned Service Category Code Added During TAF Production\n\n 21\n\n BIRTH_DT\n\n Date of Birth\n\n 22\n\n PTNT_DSCHRG_STUS_CD\n\n Patient Status at Ending Date of Service\n\n 23\n\n PGM_TYPE_CD\n\n Program Type Code\n\n 24\n\n MC_PLAN_ID\n\n Managed Care",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

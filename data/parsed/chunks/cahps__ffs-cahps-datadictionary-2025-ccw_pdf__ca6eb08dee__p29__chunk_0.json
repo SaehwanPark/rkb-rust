@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p29__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 29,
+  "text": "B. 2025 MCAHPS Format Tables 29 \n\nsa_ptab_type: Part A-B Plan Type \n\nSAS Format: $PBT \n\n46: POINT-OF-SALE CONTRACTOR \n\n48: MMP HMO \n\nUK: UNKNOWN \n\nsa_ptd_prm_c: Part D Premium Range \n\nSAS Format: $PRM \n\n0: UNKNOWN \n\n1: 00.00 \n\n2: 00.01-9.99 \n\n3: 10.00-19.99 \n\n4: 20.00-29.99 \n\n5: 30.00-39.99 \n\n6: 40.00-49.99 \n\n7: 50.00+ \n\nsa_ptd_snp: Part D Special Needs Plan \n\nSAS Format: $ID_F \n\nN: NO \n\nU: UNKNOWN \n\nY: YES \n\nsa_ptd_type: Part D Plan Type \n\nSAS Format: $PBT \n\n01: HMO \n\n02: HMOPOS \n\n03: CCOTH",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

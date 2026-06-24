@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_34",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "month\n E_PTD_CONTRACT_ID_1 - 12 Monthly Medicare Part D Contract Number. January through December 5-digit alpha numeric\r\nN=\r\nNull/missing (or 0) = Not enrolled in Mediare Part D during the month\n E_PTD_SNP_1 - 12 Monthly Medicare Part D Special Needs Plan (SNP) Indicator. January through December 0 - Part D plan is not a SNP\r\nC - Chronic or disabling condition SNP\r\nD - Dual eligible SNP\r\nI - Institutional SNP\r\nNull/Missing = No Medicare Part D coverage for the month\nEligibility (Medicaid)",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

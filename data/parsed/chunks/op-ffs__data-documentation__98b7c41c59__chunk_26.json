@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_26",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Capitation\n\n 158\n\n ACO_ID_NUM\n\n Claim Accountable Care Organization (ACO) Identification Number\n\n 159\n\n CLM_BENE_ID_TYPE_CD\n\n Claim Beneficiary Identifier Type Code\n\n 160\n\n CLM_RSDL_PYMT_IND_CD\n\n Claim Residual Payment Indicator Code\n\n 161\n\n PRVDR_VLDTN_TYPE_CD\n\n Provider Validation Type Code\n\n 162\n\n RR_BRD_EXCLSN_IND_SW\n\n Railroad Board Exclusion Indicator Switch\n\n 163\n\n CLM_MODEL_REIMBRSMT_AMT\n\n Claim Model",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

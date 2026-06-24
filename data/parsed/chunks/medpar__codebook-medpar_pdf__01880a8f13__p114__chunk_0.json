@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p114__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 114,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 98 \n\nGHO_PD_CD \n\nLABEL: Code indicating whether Group Health Organization (GHO) has paid provider for claim(s) \n\nDESCRIPTION: The code indicating whether a group health organization (GHO; also known as a managed care \norganization) has paid the provider for the claim(s). \n\nSHORT NAME: GHOPDCD \n\nLONG NAME: GHO_PD_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: 1 = Yes, paid by GHO/MCO",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

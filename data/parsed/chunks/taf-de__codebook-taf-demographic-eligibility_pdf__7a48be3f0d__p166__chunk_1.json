@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p166__chunk_1",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 166,
+  "text": "healthcare services to the beneficiary; most recent in the calendar year. \n\nSHORT NAME: LTSS_PRVDR_ID_1 \n LTSS_PRVDR_ID_2 \n LTSS_PRVDR_ID_3 \n\nLONG NAME: LTSS_PRVDR_ID_1 \n LTSS_PRVDR_ID_2 \n LTSS_PRVDR_ID_3 \n\nTYPE: CHAR \n\nLENGTH: 30 \n\nFILE(S): Disability and need \n\nSOURCE: T-MSIS annual demographic and eligibility TAF \n\nVALUES: Identification number, maximum 30 letters and numbers \nNull/missing = source value is missing or unknown \n\nCOMMENT: There are up to three long-term care providers for",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

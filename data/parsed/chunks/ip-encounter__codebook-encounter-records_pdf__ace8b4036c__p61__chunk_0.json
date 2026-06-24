@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p61__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 61,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 51 \n\nCLM_SRVC_CLSFCTN_TYPE_CD \n\nLABEL: Claim Service Classification Type Code \n\nDESCRIPTION: The type of service provided to the beneficiary. \n\nSHORT NAME: CLM_SRVC_CLSFCTN_TYPE_CD \n\nLONG NAME: CLM_SRVC_CLSFCTN_TYPE_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \n\nVALUES: For facility type code 1 thru 6, and",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

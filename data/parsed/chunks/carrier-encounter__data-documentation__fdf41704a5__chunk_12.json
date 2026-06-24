@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_12",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "State Code (Encounter) \n\n BENE_MLG_CNTCT_ZIP_CD \n Beneficiary ZIP Code of Residence from Claim \n\n BENE_RACE_CD \n Beneficiary Race Code (Encounter) \n\n DOB_DT \n Date of Birth from Encounter \n\n BENE_MDCR_STUS_CD \n Beneficiary Medicare Status Code \n\n TAX_NUM \n Provider Tax Number \n\n BENE_STATE \n State of beneficiary (postal abbreviation) \n\nLine File\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

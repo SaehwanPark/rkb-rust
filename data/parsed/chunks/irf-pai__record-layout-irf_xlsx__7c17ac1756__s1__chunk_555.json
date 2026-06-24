@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_555",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "^ = Blank\n488 FEEL_TIRED_ADMSN_CD FEEL_TIRED_ADMSN_CD Mood: Feeling tired or having little energy: P (A) CHAR 1 This column documents whether, at the time of admission, the patient expressed that in the last two weeks they have been feeling tired or having little energy. 0 = No \r\n1 = Yes \r\n9 = No response \r\n- = Not Assessed/No Information\r\n^ = Blank\n489 FEEL_TIRED_DSCHRG_CD FEEL_TIRED_DSCHRG_CD Mood: Feeling tired or having little energy: P (D) CHAR 1 This column documents whether, at the",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

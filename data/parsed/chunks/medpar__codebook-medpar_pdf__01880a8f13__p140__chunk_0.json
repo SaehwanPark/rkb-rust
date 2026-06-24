@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__codebook-medpar_pdf__01880a8f13__p140__chunk_0",
+  "source_document": "data/raw/assets/pdf/01880a8f130acdc0b26ba14dd05f81632589ce24.pdf",
+  "page": 140,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedPAR Codebook │ April 2025 │ V 4.2 124 \n\nIP_DSPRPRTNT_SHR_AMT \n\nLABEL: Inpatient Disproportionate Share (DSH) Amount ($) \n\nDESCRIPTION: The amount paid over the DRG amount (rounded to whole dollars) for the disproportionate share \nhospital (DSH) for the stay. \n\nSHORT NAME: DISP_SHR \n\nLONG NAME: IP_DSPRPRTNT_SHR_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: MedPAR (derived) \n\nVALUES: — \n\nCOMMENT: This field is derived by accumulating the value",
+  "dataset": "medpar",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/Codebook-MedPAR.pdf"
+}

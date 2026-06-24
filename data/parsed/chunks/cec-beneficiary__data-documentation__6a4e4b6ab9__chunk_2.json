@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cec-beneficiary__data-documentation__6a4e4b6ab9__chunk_2",
+  "source_document": "data/raw/html/documentation_page/6a4e4b6ab99daec6c86987e9164315c75ef600dc.html",
+  "page": null,
+  "text": "Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n ESCO_NUMBER \n ESCO Number \n\n ESCO_NAME \n ESCO Name \n\n BENE_BIRTH_DT \n Beneficiary Date of Birth \n\n BENE_DEATH_DT \n Beneficiary Date of Death \n\n BENE_SEX \n Beneficiary Sex \n\n MO1_ALIGN \n Beneficiary Monthly Alignment Status 1 \n\n MO2_ALIGN \n Beneficiary Monthly Alignment Status 2 \n\n MO3_ALIGN \n Beneficiary Monthly Alignment Status 3 \n\n MO4_ALIGN \n Beneficiary Monthly Alignment Status 4 \n\n MO5_ALIGN \n Beneficiary Monthly Alignment Status 5",
+  "dataset": "cec-beneficiary",
+  "url": "https://resdac.org/cms-data/files/cec-beneficiary/data-documentation"
+}

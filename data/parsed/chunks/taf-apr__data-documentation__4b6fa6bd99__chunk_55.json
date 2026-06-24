@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_55",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "for Facility Active Indicator — November\n\n 18\n\n PRVDR_BED_ACTV_IND_12\n\n Provider Bed Type and Count for Facility Active Indicator — December\n\n 19\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n 20\n\n RFRNC_YR\n\n Reference Year (TAF)",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

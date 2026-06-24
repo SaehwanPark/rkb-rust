@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_7",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "37\n\n DSCHRG_DT\n\n Discharge Date\n\n 38\n\n DSCHRG_HR\n\n Discharge Hour\n\n 39\n\n ADMTG_DGNS_CD\n\n Admitting Diagnosis Code\n\n 40\n\n ADMTG_DGNS_VRSN_CD \n\n Admitting Diagnosis Version Code (ICD-9 or ICD-10)\n\n 41\n\n DGNS_CD_1\n\n Primary or Principal Diagnosis Code\n\n 42\n\n DGNS_VRSN_CD_1\n\n Diagnosis Version Code 1 (ICD-9 or ICD-10)\n\n 43\n\n DGNS_POA_IND_1\n\n Diagnosis Present on Admission Indicator 1\n\n 44\n\n DGNS_1_CCSR_CTGRY_CD\n\n AHRQ Clinical Classifications Software Refined (CCSR) Diagnosis 1 Category Code\n\n 45",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__codebook-mmleads_pdf__536286800b__p82__chunk_0",
+  "source_document": "data/raw/assets/pdf/536286800bad660e7af16072eb5a63475d8835f9.pdf",
+  "page": 82,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: MMLEADS │ August 2021 │ V 1.0 71 \n\nMDCR_COUNTY_CD \n\nLABEL: Medicare — County FIPS Code — Latest in Year \n\nDESCRIPTION: This field specifies the county Federal Information Processing Standard (FIPS) code for the Medicare \nbeneficiary. \n\nTYPE: CHAR \n\nLENGTH: 12 \n\nSOURCE: Medicare MBSF \n\nVALUES: 3-digit FIPS county code (e.g., 143) or null/missing (if no Medicare enrollment) \n\nhttps://www.nber.org/research/data/ssa-federal-information-processing-series-fips-s",
+  "dataset": "mmleads-3",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mmleads.pdf"
+}

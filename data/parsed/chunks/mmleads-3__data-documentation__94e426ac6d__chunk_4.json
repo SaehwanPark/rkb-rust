@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_4",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Code — Latest in Year\n\n 15\n\n MDCR_PTA_MOS\n\n Medicare Part A Enrolled Months\n\n 16\n\n MDCR_PTB_MOS\n\n Medicare Part B Enrolled Months\n\n 17\n\n MDCR_PTAPTB_MOS\n\n Medicare Part A and Part B Enrolled Months\n\n 18\n\n MDCR_PTD_MOS\n\n Medicare — Part D Months\n\n 19\n\n FD_MOS\n\n Medicare — Full Dual Months\n\n 20\n\n PD_MOS\n\n Partial Dual Months\n\n 21\n\n MDCR_ONLY_MOS\n\n Medicare Only Months\n\n 22\n\n MDCD_ELGBLTY_GRP_CD_LTST\n\n Medicaid — Eligibility Group Code — Latest in Year\n\n 23\n\n MDCD_ABD_MOS\n\n Medicaid Enrollment —",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

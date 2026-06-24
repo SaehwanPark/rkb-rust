@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p191__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 191,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 173 \n\nFINL_STD_AMT \n\nLABEL: Claim Final Standard Payment Amount \n\nDESCRIPTION: This amount further adjusts the standard Medicare Payment amount (field called \nPPS_STD_VAL_PYMT_AMT) by applying additional standardization requirements (e.g., sequestration). \n\nSHORT NAME: FINL_STD_AMT \n\nLONG NAME: FINL_STD_AMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: NCH \n\nVALUES: XX.XX \n\nCOMMENT: This",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

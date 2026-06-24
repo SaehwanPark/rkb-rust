@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_17",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "Type Code - May \n\n PTC_PLAN_TYPE_CD_06 \n Part C Plan Type Code - June \n\n PTC_PLAN_TYPE_CD_07 \n Part C Plan Type Code - July \n\n PTC_PLAN_TYPE_CD_08 \n Part C Plan Type Code - August \n\n PTC_PLAN_TYPE_CD_09 \n Part C Plan Type Code - September \n\n PTC_PLAN_TYPE_CD_10 \n Part C Plan Type Code - October \n\n PTC_PLAN_TYPE_CD_11 \n Part C Plan Type Code - November \n\n PTC_PLAN_TYPE_CD_12 \n Part C Plan Type Code - December \n\nPart D\n\n SAS Name\n Variable Name\n\n PTD_CNTRCT_ID_01 \n Monthly Part D Contract Number",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

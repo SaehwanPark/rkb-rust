@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__data-documentation__e3b660f1d8__chunk_9",
+  "source_document": "data/raw/html/documentation_page/e3b660f1d8f5e35d44d034a58b65b4225dafc478.html",
+  "page": null,
+  "text": "50\n\n DGNS_POA_IND_3\n\n Diagnosis Present on Admission Indicator 3\n\n 51\n\n DGNS_CD_4\n\n Diagnosis Code 4\n\n 52\n\n DGNS_VRSN_CD_4\n\n Diagnosis Version Code 4 (ICD-9 or ICD-10)\n\n 53\n\n DGNS_POA_IND_4\n\n Diagnosis Present on Admission Indicator 4\n\n 54\n\n DGNS_CD_5\n\n Diagnosis Code 5\n\n 55\n\n DGNS_VRSN_CD_5\n\n Diagnosis Version Code 5 (ICD-9 or ICD-10)\n\n 56\n\n DGNS_POA_IND_5\n\n Diagnosis Present on Admission Indicator 5\n\n 57\n\n DGNS_CD_6\n\n Diagnosis Code 6\n\n 58\n\n DGNS_VRSN_CD_6\n\n Diagnosis Version Code 6 (ICD-9 or",
+  "dataset": "taf-ip",
+  "url": "https://resdac.org/cms-data/files/taf-ip/data-documentation"
+}

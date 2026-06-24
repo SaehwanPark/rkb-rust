@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_24",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "Hip / Pelvic Fracture Indicator - Medicaid-Only Data\n\n 121\n\n HFRAC_MEDICARE\n\n Hip / Pelvic Fracture Indicator - Medicare-Only Data\n\n 122\n\n HIVAIDS_COMBINED\n\n (HIV/AIDS) - Combined Medicare & Medicaid Claims\n\n 123\n\n HIVAIDS_MEDICAID\n\n (HIV/AIDS) - Medicaid Only Claims\n\n 124\n\n HIVAIDS_MEDICARE\n\n (HIV/AIDS) - Medicare Only Claims\n\n 125\n\n HYPLIP_COMBINED\n\n Hyperlipidemia Indicator - Combined Data\n\n 126\n\n HYPLIP_MEDICAID\n\n Hyperlipidemia Indicator - Medicaid-Only Data\n\n 127\n\n HYPLIP_MEDICARE",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_20",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "File Date - Represents the Year and Month of the Reporting Period\n\n 114\n\n CCW_LD_DT\n\n CCW Load Date (Claims)\n\n Occurrence Code File \n\nNumberSAS NameVariable Name\n\n 115\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 116\n\n MSIS_ID\n\n Encrypted State Assigned Beneficiary Unique Identifier\n\n 117\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 118\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 119\n\n CLM_ID\n\n CCW Claim Identifier\n\n 120\n\n OCRNC_CD_SEQ  \n\n Occurrence Code Sequence\n\n 121",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

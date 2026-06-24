@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_15",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Physical Activity Items 1 x 2 Numb of Days/Minutes Moderate Exercise \n\n SR_SPLM_PHYS_ACTV_OVRL_SCRN_IND \n Screened Supplemental HRSN Physical Activity Overall Indicator \n\n SR_SPLMTL_SBSTNC_USE_1_CD \n Supplemental HRSN Substance Use 1: Past 12 Months Alcohol Use \n\n SR_SPLMTL_SBSTNC_USE_2_CD \n Supplemental HRSN Substance Use 2: Past 12 Months Tobacco Use \n\n SR_SPLMTL_SBSTNC_USE_3_CD \n Supplemental HRSN Substance Use 3: Past 12 months Non-Medical Prescription Drug Use \n\n SR_SPLMTL_SBSTNC_USE_4_CD",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_53",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Version Code 25\n\n 294\n\n SRGCL_PRCDR_1_CD\n\n Principal Procedure Code\n\n 295\n\n SRGCL_PRCDR_2_CD\n\n MedPAR Procedure Code 2\n\n 296\n\n SRGCL_PRCDR_3_CD\n\n MedPAR Procedure Code 3\n\n 297\n\n SRGCL_PRCDR_4_CD\n\n MedPAR Procedure Code 4\n\n 298\n\n SRGCL_PRCDR_5_CD\n\n MedPAR Procedure Code 5\n\n 299\n\n SRGCL_PRCDR_6_CD\n\n MedPAR Procedure Code 6\n\n 300\n\n SRGCL_PRCDR_7_CD\n\n MedPAR Procedure Code 7\n\n 301\n\n SRGCL_PRCDR_8_CD\n\n MedPAR Procedure Code 8\n\n 302\n\n SRGCL_PRCDR_9_CD\n\n MedPAR Procedure Code 9\n\n 303",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

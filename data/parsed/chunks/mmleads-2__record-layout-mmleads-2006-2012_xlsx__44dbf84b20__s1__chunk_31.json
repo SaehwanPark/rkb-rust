@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s1__chunk_31",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 1,
+  "text": "Affairs\r\nL- Liability insurance\r\n1 - Potential workers' compensation\r\n2 - Potential black lung\r\n3 - Potential Dept. of Veterans Affairs\r\nNull/Missing - No other primary payer besides Medicare\n E_BUYIN_1 - 12 Monthly Medicare Part A and/or B Entitlement Indicator. January through December 0 - Not Entitled\r\n1 - Part A Only\r\n2 - Part B Only\r\n3 - Part A and Part B\r\nA - Part A, State Buy-in\r\nB - Part B, State buy-in\r\nC - Parts A and B, State Buy-in\n E_MEDICAREMA_1 - 12 Monthly Medicare Managed Care",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

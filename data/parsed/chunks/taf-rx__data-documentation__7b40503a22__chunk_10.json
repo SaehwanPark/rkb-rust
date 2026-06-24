@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-rx__data-documentation__7b40503a22__chunk_10",
+  "source_document": "data/raw/html/documentation_page/7b40503a22503e0a131392a263d2cc9ba0f3e953.html",
+  "page": null,
+  "text": "-Insurance Paid Amount\n\n 56\n\n OTHR_TP_CLCTN_CD\n\n Other Third Party Collection Code\n\n 57\n\n FUNDNG_CD\n\n Code To Indicate Source of Non-Federal Funding\n\n 58\n\n FUNDNG_SRC_NON_FED_SHR_CD\n\n Funding Source Non-Federal Share Code\n\n 59\n\n DA_RUN_ID\n\n TAF Production Run Identifier (unique for each TAF run)\n\n 60\n\n TMSIS_RUN_ID\n\n TMSIS State Data Processing Run Identifier\n\n 61\n\n RX_VRSN\n\n Rx Version Representing the Iteration of the File\n\n 62\n\n RX_FIL_DT\n\n RX File Date - Represents the Year and Month of the",
+  "dataset": "taf-rx",
+  "url": "https://resdac.org/cms-data/files/taf-rx/data-documentation"
+}

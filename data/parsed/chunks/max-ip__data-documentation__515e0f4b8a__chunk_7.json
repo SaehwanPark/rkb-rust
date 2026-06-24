@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ip__data-documentation__515e0f4b8a__chunk_7",
+  "source_document": "data/raw/html/documentation_page/515e0f4b8a82429031028f6befb46024fb536839.html",
+  "page": null,
+  "text": "(ICD-9 or ICD-10) (Encounter) \n\n DIAG_CD_2 \n Diagnosis codes (2nd diagnosis) \n\n DIAG_CD_3 \n Diagnosis codes (3rd diagnosis) \n\n DIAG_CD_4 \n Diagnosis codes (4th diagnosis) \n\n DIAG_CD_5 \n Diagnosis codes (5th diagnosis) \n\n DIAG_CD_6 \n Diagnosis codes (6th diagnosis) \n\n DIAG_CD_7 \n Diagnosis codes (7th diagnosis) \n\n DIAG_CD_8 \n Diagnosis codes (8th diagnosis) \n\n DIAG_CD_9 \n Diagnosis codes (9th diagnosis) \n\n PRNCPL_PRCDR_DT \n Principle procedure date \n\n PRCDR_CD_SYS_1 \n Procedure code system-",
+  "dataset": "max-ip",
+  "url": "https://resdac.org/cms-data/files/max-ip/data-documentation"
+}

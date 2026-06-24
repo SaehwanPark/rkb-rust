@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_22",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "Revenue Center NDC Quantity Qualifier Code (FFS)\n\n 22\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center Rendering Physician UPIN\n\n 23\n\n RNDRNG_PHYSN_NPI\n\n Rendering Physician NPI (FFS)\n\n 24\n\n RNDRNG_PHYSN_SPCLTY_CD\n\n Claim or Revenue Center Rendering Physician Specialty Code\n\n 25\n\n REV_CNTR_IDE_NDC_UPC_NUM\n\n Revenue Center IDE, NDC, or UPC Number (FFS)\n\n 26\n\n REVSTIND\n\n Revenue Center Status Indicator Code\n\n 27\n\n REV_CNTR_PRCNG_IND_CD\n\n Revenue Center Pricing Indicator Code\n\n 28\n\n THRPY_CAP_IND_CD1",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

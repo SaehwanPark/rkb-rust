@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_4",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Inpatient Hospital Pass-thru Per Diem Payments \n\n OIP_PRMRY_PMT \n Other Inpatient Hospital Primary Payer Amount \n\n OIP_STAYS \n Other Inpatient Stays \n\n OIP_COV_DAYS \n Other Inpatient Hospital Covered Days \n\n SNF_BENE_PMT \n Skilled Nursing Facility Beneficiary Payments \n\n SNF_MDCR_PMT \n Skilled Nursing Facility Medicare Payments \n\n SNF_PRMRY_PMT \n Skilled Nursing Facility Primary Payer Amount \n\n SNF_STAYS \n Skilled Nursing Facility Stays \n\n SNF_COV_DAYS \n Skilled Nursing Facility Medicare",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

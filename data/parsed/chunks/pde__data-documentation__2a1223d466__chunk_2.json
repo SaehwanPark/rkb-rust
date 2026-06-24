@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_2",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "(PDE)/Drug Characteristics\n\n SAS Name\n Variable Name\n\n PDE_ID \n CCW Encrypted Part D Event Number \n\n BENE_ID \n CCW Encrypted Beneficiary ID Number \n\n DOB_DT \n Patient Date of Birth (DOB) \n\n SEX_CD \n Patient Sex \n\n SRVC_DT \n RX Service Date \n\n PD_DT \n Paid Date \n\n RX_SRVC_RFRNC_NUM \n RX Service Reference Number \n\n PROD_SRVC_ID \n Product Service ID \n\n PLAN_CNTRCT_REC_ID \n Plan Contract ID \n\n PLAN_PBP_REC_NUM \n Plan Benefit Package ID \n\n CMPND_CD \n Compound Code \n\n DAW_PROD_SLCTN_CD \n Dispense as",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

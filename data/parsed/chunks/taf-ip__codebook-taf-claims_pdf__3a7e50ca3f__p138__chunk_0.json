@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p138__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 138,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 118 \n\nIP_FIL_DT \n\nLABEL: Inpatient File Date — Represents the Year and Month of the Reporting Period \n\nDESCRIPTION: This field represents the year and month of the reporting period. \n\nSHORT NAME: IP_FIL_DT \n\nLONG NAME: IP_FIL_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): IP header \n\nVALUES: YYYYMM (e.g., 201507 is the date for the July 2015 file)",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_150",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "assisted by another person throughout the process.\r\n04 = Unable to effectively participate in any housekeeping tasks.\r\nUK = Unknown CHAR 2 x x\nM0760_CU_SHOPPING (M0760) Current Shopping Current ability to shop. 00 = (a) Able to plan for shopping needs and independently perform shopping tasks, including carrying packages; OR (b) Physically, cognitively, and mentally able to take care of shopping, but has not done shopping in the past (i.e., prior to this home care admission).\r\n01 = Able to go",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

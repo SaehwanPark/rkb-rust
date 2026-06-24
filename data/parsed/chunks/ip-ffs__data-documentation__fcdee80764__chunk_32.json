@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_32",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "155\n\n PRCDR_DT3\n\n Claim Procedure Code III Date (FFS)\n\n 156\n\n ICD_PRCDR_CD4\n\n Claim Procedure Code IV (FFS)\n\n 157\n\n PRCDR_DT4\n\n Claim Procedure Code IV Date (FFS)\n\n 158\n\n ICD_PRCDR_CD5\n\n Claim Procedure Code V (FFS)\n\n 159\n\n PRCDR_DT5\n\n Claim Procedure Code V Date (FFS)\n\n 160\n\n ICD_PRCDR_CD6\n\n Claim Procedure Code VI (FFS)\n\n 161\n\n PRCDR_DT6\n\n Claim Procedure Code VI Date (FFS)\n\n 162\n\n ICD_PRCDR_CD7\n\n Claim Procedure Code VII (FFS)\n\n 163\n\n PRCDR_DT7\n\n Claim Procedure Code VII Date (FFS)\n\n 164",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

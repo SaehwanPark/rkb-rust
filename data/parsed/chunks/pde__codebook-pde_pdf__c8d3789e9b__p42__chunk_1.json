@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p42__chunk_1",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 42,
+  "text": "of the prescriber ID and the \ncombination of alpha and numeric characters. \n\nThis variable was only available 2006–2013. \n\nSHORT NAME: PDE_PRSCRBR_ID_FRMT_CD \n\nLONG NAME: PDE_PRSCRBR_ID_FRMT_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: PDE (derived) \n\nVALUES: N = PDE prescriber ID has an NPI format: 10 numeric characters with the first character a “1” or a “2” \n\nD = PDE prescriber ID has a DEA format: 9 alpha-numeric characters with the first two characters alpha \nand the last seven numeric \n\nU = PDE",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_5",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "CATARACT \n Cataract End-of-Year Indicator \n\n CATARACT_MID \n Cataract Mid-Year Indicator \n\n CATARACT_EVER \n Date that beneficiary first met claims criteria for the cataract indicator \n\n CHRONICKIDNEY \n Chronic Kidney Disease End-of-Year Indicator \n\n CHRONICKIDNEY_MID \n Chronic Kidney Disease Mid-Year Indicator \n\n CHRONICKIDNEY_EVER \n Date that beneficiary first met claims criteria for the chronic kidney disease indicator \n\n COPD \n Chronic Obstructive Pulmonary Disease End-of-Year Indicator",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}

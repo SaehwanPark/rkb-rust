@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-mtm__data-documentation__fdfa84ffe3__chunk_2",
+  "source_document": "data/raw/html/documentation_page/fdfa84ffe34c777e9f235d842396ad707b366f2e.html",
+  "page": null,
+  "text": "Therapy Management\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n RFRNC_YR \n Year of Part D Medication Therapy Management (MTM) File \n\n CONTRACT_ID \n Part D Contract Number \n\n TARG_CRITERIA_MET \n Beneficiary Met Targeting Criteria \n\n COG_IMPAIRED \n Beneficiary Identified as Cognitively Impaired \n\n LTC_CMR \n Beneficiary identified as residing in a LTC facility \n\n LTC_ENROLLMENT \n Long-term care (LTC) facility resident \n\n ENROLLMENT_DT \n Date of MTM program enrollment",
+  "dataset": "part-d-mtm",
+  "url": "https://resdac.org/cms-data/files/part-d-mtm/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p43__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 43,
+  "text": "—– —– —– —– \nins_have_oth Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01 Q01 \nins_medigap Q02A Q02A Q02A Q02A Q02A Q02A Q02A Q02A Q02A \nins_employer Q02B Q02B Q02B Q02B Q02B Q02B Q02B Q02B Q02B \nins_veteran Q02C Q02C Q02C Q02C Q02C Q02C Q02C Q02C Q02C \nins_military Q02D Q02D Q02D Q02D Q02D Q02D Q02D Q02D Q02D \nins_medicaid Q02E Q02E Q02E Q02E Q02E Q02E Q02E Q02E Q02E \nins_ma_pdp Q02F Q02F Q02F Q02F Q02F Q02F Q02F Q02F Q02F \nins_other Q02G Q02G Q02G Q02G Q02G Q02G Q02G Q02G Q02G \nins_other_txt Q02_O Q02_O",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

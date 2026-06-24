@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-rx__data-documentation__245e1542b6__chunk_6",
+  "source_document": "data/raw/html/documentation_page/245e1542b60667a079cb2e389190d43128123fbf.html",
+  "page": null,
+  "text": "Charge amount \n\n PHP_VAL \n Prepaid plan value \n\n MDCR_COINSUR_PYMT_AMT \n Medicare coinsurance payment amount \n\n MDCR_DED_PYMT_AMT \n Medicare deductible payment amount \n\n PRES_PHYSICIAN_ID_NUM \n Prescribing physician id number \n\n PRSC_WRTE_DT \n Prescribed date \n\n PRSCRPTN_FILL_DT \n Prescription fill date (MAX) \n\n NEW_REFILL_IND \n New or refill indicator \n\n NDC \n National Drug Code (NDC) \n\n QTY_SRVC_UNITS \n Quantity of service \n\n DAYS_SUPPLY \n Days Supply (MAX)",
+  "dataset": "max-rx",
+  "url": "https://resdac.org/cms-data/files/max-rx/data-documentation"
+}

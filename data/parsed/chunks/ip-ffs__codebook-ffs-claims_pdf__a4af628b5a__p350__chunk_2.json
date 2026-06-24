@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p350__chunk_2",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 350,
+  "text": "missing, or are \ninvalid \n\n48 = This (these) procedure(s) is(are) \nnot covered \n\n49 = These are non-covered services \nbecause this is a routine exam or \nscreening procedure done in \nconjunction with a routine exam \n\n50 = These are non-covered services \nbecause this is not deemed a \n“medical necessity” by the payer \n\n51 = These are non-covered services \nbecause this a pre-existing \ncondition \n 52 = The referring/prescribing/ \nrendering provider is not eligible to \nrefer/prescribe/order/perform",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

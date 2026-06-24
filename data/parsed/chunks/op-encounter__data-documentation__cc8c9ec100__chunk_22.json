@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_22",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "Center NDC Quantity Qualifier Code (Encounter)\n\n 19\n\n REV_CNTR_RNDRNG_PHYSN_NPI_NUM\n\n Revenue Center Rendering Physician NPI\n\n 20\n\n LINE_LTST_CLM_IND\n\n Line Latest Claim Indicator\n\n Condition Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n ENC_JOIN_KEY\n\n Unique Encounter Join Key\n\n 3\n\n CLM_TYPE_CD\n\n Claim Type Code\n\n 4\n\n RLT_COND_CD_SEQ\n\n Claim Related Condition Code Sequence\n\n 5\n\n CLM_RLT_COND_CD\n\n Claim Related Condition Code (Encounter)\n\n Occurrence",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

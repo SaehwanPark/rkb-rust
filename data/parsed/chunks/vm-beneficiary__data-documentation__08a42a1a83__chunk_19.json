@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_19",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "COST_OP_THERAPY \n MSPB outpatient physical, occupational, or speech and language pathology therapy costs \n\n COST_ER_PROCS \n MSPB procedure costs in an ER setting \n\n COST_SN \n MSPB skilled nursing costs",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

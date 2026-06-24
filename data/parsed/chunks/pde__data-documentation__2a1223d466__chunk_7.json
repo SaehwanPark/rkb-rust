@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_7",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "CCW Pharmacy Identifier \n\n NCPDP_ID \n NCPDP Pharmacy Identifier \n\n PRSCRBR_ID \n Prescriber Identification Number \n\n PRSCRBR_ID_QLFYR_CD \n Prescriber identification number qualifier code \n\n CCW_PRSCRBR_ID \n CCW Prescriber Identifier \n\n PDE_PRSCRBR_ID_FRMT_CD \n PDE Prescriber ID Format Code \n\n PRIOR_AUTHORIZATION_YN \n Prior Authorization Indicator (Event) \n\n TIER_ID \n Medicare Part D Formulary Tier Identifier \n\n QUANTITY_LIMIT_YN \n Quantity Limit Indicator (Event) \n\n STEP \n Maximum Step Number",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

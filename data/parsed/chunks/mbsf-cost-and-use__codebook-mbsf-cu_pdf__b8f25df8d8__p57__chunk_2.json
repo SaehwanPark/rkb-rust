@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__codebook-mbsf-cu_pdf__b8f25df8d8__p57__chunk_2",
+  "source_document": "data/raw/assets/pdf/b8f25df8d81906f5defd1b315d22b81093ed2f5d.pdf",
+  "page": 57,
+  "text": "inpatient rehabilitation \nfacilities, and other types of IP facilities such as children’s hospitals or cancer centers. \n\nSHORT NAME: — \n\nLONG NAME: OIP_PRMRY_PMT \n\nTYPE: NUM \n\nLENGTH: 12 \n\nSOURCE: CCW (derived) \n\nVALUES: — \n\nCOMMENT: This variable was new in 2010; it will always be null/missing in earlier files. \n\nThere are two cost/use categories from the IP data files: Acute and the OIP. \n\nMedicare payments are described in detail in a series of Medicare Payment Advisory Commission \n(MedPAC)",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-cu.pdf"
+}

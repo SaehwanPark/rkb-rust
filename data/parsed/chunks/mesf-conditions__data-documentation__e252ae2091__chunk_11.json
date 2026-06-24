@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_11",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "- Medicaid-Only Data\n\n 52\n\n CHF_MEDICARE\n\n Heart Failure Indicator - Medicare-Only Data\n\n 53\n\n CKD_COMBINED\n\n Chronic Kidney Disease Indicator - Combined Data\n\n 54\n\n CKD_MEDICAID\n\n Chronic Kidney Disease Indicator - Medicaid-Only Data\n\n 55\n\n CKD_MEDICARE\n\n Chronic Kidney Disease Indicator - Medicare-Only Data\n\n 56\n\n COPD_COMBINED\n\n Chronic Obstructive Pulmonary Disease Indicator - Combined Data\n\n 57\n\n COPD_MEDICAID\n\n Chronic Obstructive Pulmonary Disease Indicator - Medicaid-Only Data\n\n 58",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

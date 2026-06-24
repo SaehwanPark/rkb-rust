@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-base__chunk_7",
+  "source_document": "data/raw/html/dataset_page/a908448a73ab3c65dfd95d8626da4db2940148f2.html",
+  "page": null,
+  "text": "characteristics\nSpecial considerations:\nReference the CCW Medicare Risk Score Files User Guide for more information on the operational payment risk score base file and model output files.\nReference the Report to Congress: Risk Adjustment in Medicare Advantage for a discussion of risk adjustment in the Medicare Advantage program.\n\nProgram: \nMedicare\nCategory: \nBeneficiary Enrollment and Summary\nPrivacy Level: \nResearch Identifiable Files\n\nAvailability of this file\n\nAvailability: \n2019-2021\nDate",
+  "dataset": "risk-score-base",
+  "url": "https://resdac.org/cms-data/files/risk-score-base"
+}

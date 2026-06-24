@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_12",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "liability for blood deductible for stay ($)\n\n 56\n\n BENE_PRMRY_PYR_CD\n\n Primary Payer Responsibility Code\n\n 57\n\n BENE_PRMRY_PYR_AMT\n\n Primary Payer Paid Amount\n\n 58\n\n DRG_CD\n\n Diagnosis Related Group Code (or MS-DRG Code)\n\n 59\n\n DRG_OUTLIER_STAY_CD\n\n DRG Cost or Day Outlier code\n\n 60\n\n DRG_OUTLIER_PMT_AMT \n\n DRG Outlier Approved Payment Amount ($)\n\n 61\n\n DRG_PRICE_AMT \n\n DRG Price Amount ($)\n\n 62\n\n DRG_GRPR_VRSN_CD\n\n Medicare-Severity Diagnosis Related Group (MS-DRG) Grouper Version\n\n 63",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

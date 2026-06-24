@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_613",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "CHAR 1 This column documents whether, at the time of discharge, the patient was taking medication from the opioid class and whether there was an indication noted for all medications in the drug class. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\r\n^ = Blank\n553 ANTPLTLT_TKNG_ADMSN_CD ANTPLTLT_TKNG_ADMSN_CD High-Risk Drug (Is taking): Antiplatelet (Adm) CHAR 1 This column documents whether, at the time of admission, the patient was taking any medications by pharmacological classification,",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

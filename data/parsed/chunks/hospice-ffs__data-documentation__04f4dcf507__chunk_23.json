@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_23",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "Indicator Code\n\n 27\n\n REV_CNTR_PRCNG_IND_CD\n\n Revenue Center Pricing Indicator Code\n\n 28\n\n THRPY_CAP_IND_CD1\n\n Therapy cap Indicator 1 Code\n\n 29\n\n THRPY_CAP_IND_CD2\n\n Therapy cap Indicator 2 Code\n\n 30\n\n REV_CNTR_RP_IND_CD\n\n Revenue Center Representative Payee (RP) Indicator Code\n\n 31\n\n RC_MODEL_REIMBRSMT_AMT\n\n Revenue Center Model Reimbursement Amount\n\n 32\n\n RC_VLNTRY_SRVC_IND_CD\n\n Revenue Center Voluntary Service Indicator Code\n\n 33\n\n ORDRG_PHYSN_NPI\n\n Revenue Center Ordering Physician NPI",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

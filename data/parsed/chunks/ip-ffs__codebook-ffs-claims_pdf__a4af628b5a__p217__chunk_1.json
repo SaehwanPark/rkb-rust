@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p217__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 217,
+  "text": "to the line-item service on the \nnon-institutional claim. \n\nThe presence of a primary payer code indicates that some other payer besides Medicare covered at \nleast some portion of the charges. \n\nSHORT NAME: LPRPAYCD \n\nLONG NAME: LINE_BENE_PRMRY_PYR_CD \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH, VA, DOL, SSA \n\nVALUES: A = Working aged bene/spouse with employer group health plan (EGHP) \nB = End-stage renal disease (ESRD) beneficiary in the 18-month coordination period with an employer \ngroup health",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__codebook-ahc_pdf__2ecadb1aec__p122__chunk_0",
+  "source_document": "data/raw/assets/pdf/2ecadb1aec0f9d6e0f07a7cc628ccf35b46ec6c5.pdf",
+  "page": 122,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nAHC Model Data File Codebook │ December 2024 │ V 1.0 121 \n\nNN_SPLMTL_FINCL_CSP_UNAVBL_SW \n\nLABEL: Navigated Supplemental HRSN Financial Strain Community Service Provider Unable to Help \n\nDESCRIPTION: Navigation needs (NN): navigated supplemental health related social need (HRSN) financial strain \ncommunity service provider (CSP) unavailable or unable to help. \n\nLONG NAME: NN_SPLMTL_FINCL_CSP_UNAVBL_SW \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE:",
+  "dataset": "ahc-model",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ahc.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_8",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Discharge Status Code (FFS)\n\n 39\n\n CLM_PPS_IND_CD\n\n Claim PPS Indicator Code\n\n 38\n\n CLM_TOT_CHRG_AMT\n\n Claim Total Charge Amount\n\n 39\n\n CLM_ADMSN_DT\n\n Claim Admission Date (FFS)\n\n 40\n\n CLM_IP_ADMSN_TYPE_CD\n\n Claim Inpatient Admission Type Code (FFS)\n\n 41\n\n CLM_SRC_IP_ADMSN_CD\n\n Claim Source Inpatient Admission Code (FFS)\n\n 42\n\n NCH_PTNT_STUS_IND_CD\n\n NCH Patient Status Indicator Code\n\n 43\n\n CLM_PASS_THRU_PER_DIEM_AMT\n\n Claim Pass Thru Per Diem Amount\n\n 44\n\n NCH_BENE_IP_DDCTBL_AMT\n\n NCH",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p51__chunk_3",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 51,
+  "text": "Q49B Q46B \ncnd_stroke D Q65C Q62C Q51C Q49C Q49C Q46C \ncnd_hbp Q77C Q77C Q77C \ncnd_cancer Q77D Q77D Q77D Q65D Q62D Q51D Q49D Q49D Q46D \ncnd_copd Q77E Q77E Q77E Q65E Q62E Q51E Q49E Q49E Q46E \ncnd_diabetes Q77F Q77F Q77F Q65F Q62F Q51F Q49F Q49F Q46F \nprob_walking \nprob_dressing \nprob_errands \nim_flu1last* R Q78 Q78 Q78 Q66 Q63 Q52 Q50 Q50 Q47 \nim_flu1plan —– —– \nim_pneum* R Q79 Q79 Q79 Q67 Q64 Q53 Q51 Q51 Q48 \nsmokenow Q80 Q80 Q80 Q68 Q65 Q54 Q52 Q52 Q49 \nadvsquit D Q53 Q50 \nsmokequit Q81 Q81",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

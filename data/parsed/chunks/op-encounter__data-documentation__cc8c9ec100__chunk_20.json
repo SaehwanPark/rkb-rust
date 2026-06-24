@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_20",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "Revenue Center Code (Encounter)\n\n 8\n\n REV_CNTR_FROM_DT\n\n Revenue Center From Date\n\n 9\n\n REV_CNTR_THRU_DT\n\n Revenue Center Thru Date\n\n 10\n\n REV_CNTR_UNIT_CNT\n\n Revenue Center Unit Count (Encounter)\n\n 11\n\n HCPCS_CD\n\n Healthcare Common Procedure Coding System (HCPCS) Code (Encounter)\n\n 12\n\n HCPCS_1ST_MDFR_CD\n\n HCPCS Initial Modifier Code (Encounter)\n\n 13\n\n HCPCS_2ND_MDFR_CD\n\n HCPCS Second Modifier Code (Encounter)\n\n 14\n\n HCPCS_3RD_MDFR_CD\n\n HCPCS Third Modifier Code (Encounter)\n\n 15",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

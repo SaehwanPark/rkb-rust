@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pioneer-aco__codebook-aco-pioneer-v2_pdf__e9794fb02d__p12__chunk_0",
+  "source_document": "data/raw/assets/pdf/e9794fb02d175a1909be3f0dea52965ad4524cdd.pdf",
+  "page": 12,
+  "text": "IND_NPI \n\nChronic Conditions Warehouse Virtual Research Data Center \nACO Pioneer V2 Codebook │ May 2025 │ V 1.1 8 \n\nIND_NPI \n\nLABEL: NPI for Practitioner \n\nDESCRIPTION: The National Provider Identifier (NPI) for a participating individual (in the case of a record for a \nprofessional) or organization (in the case of a record for an institution). \n\nSHORT NAME: IND_NPI \n\nLONG NAME: IND_NPI \n\nTYPE: NUM \n\nLENGTH: 10 \n\nSOURCE: CMS Participating Provider Pioneer ACO RIF \n\nVALUES: — \n\nCOMMENT: — \n\n ^",
+  "dataset": "pioneer-aco",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-aco-pioneer-v2.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p10__chunk_0",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 10,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF National Death Index Segment Codebook │ May 2026 │ V 2.6 5 \n\n ENTITY_COND_1 \n\nENTITY_COND_2 \n\nENTITY_COND_3 \n\nENTITY_COND_4 \n\nENTITY_COND_5 \n\nENTITY_COND_6 \n\nENTITY_COND_7 \n\nENTITY_COND_8 \n\nENTITY_COND_9 \n\nENTITY_COND_10 \n ENTITY_COND_11 \n\nENTITY_COND_12 \n\nENTITY_COND_13 \n\nENTITY_COND_14 \n\nENTITY_COND_15 \n\nENTITY_COND_16 \n\nENTITY_COND_17 \n\nENTITY_COND_18 \n\nENTITY_COND_19 \n\nENTITY_COND_20 \n\nLABEL: NDI Entity Axis Cause of Death",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

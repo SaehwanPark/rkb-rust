@@ -1,0 +1,743 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Part D Event
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - Medicare Part D Event (PDE)/Drug Characteristics
+CCW Record Layout - Medicare Part D Event (PDE)/Drug Characteristics
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      PDE_ID        
+                                                                      CCW Encrypted Part D Event Number        
+          
+
+      
+
+                                                                      BENE_ID        
+                                                                      CCW Encrypted Beneficiary ID Number        
+          
+
+      
+
+                                                                      DOB_DT        
+                                                                      Patient Date of Birth (DOB)        
+          
+
+      
+
+                                                                      SEX_CD        
+                                                                      Patient Sex        
+          
+
+      
+
+                                                                      SRVC_DT        
+                                                                      RX Service Date        
+          
+
+      
+
+                                                                      PD_DT        
+                                                                      Paid Date        
+          
+
+      
+
+                                                                      RX_SRVC_RFRNC_NUM        
+                                                                      RX Service Reference Number        
+          
+
+      
+
+                                                                      PROD_SRVC_ID        
+                                                                      Product Service ID        
+          
+
+      
+
+                                                                      PLAN_CNTRCT_REC_ID        
+                                                                      Plan Contract ID        
+          
+
+      
+
+                                                                      PLAN_PBP_REC_NUM        
+                                                                      Plan Benefit Package ID        
+          
+
+      
+
+                                                                      CMPND_CD        
+                                                                      Compound Code        
+          
+
+      
+
+                                                                      DAW_PROD_SLCTN_CD        
+                                                                      Dispense as Written (DAW) Product Selection Code        
+          
+
+      
+
+                                                                      QTY_DSPNSD_NUM        
+                                                                      Quantity Dispensed        
+          
+
+      
+
+                                                                      DAYS_SUPLY_NUM        
+                                                                      Days Supply (Part D)        
+          
+
+      
+
+                                                                      FILL_NUM        
+                                                                      Number of drug fills        
+          
+
+      
+
+                                                                      DSPNSTCD_STUS_CD        
+                                                                      Dispensing Status Code        
+          
+
+      
+
+                                                                      DRUG_CVRG_STUS_CD        
+                                                                      Drug Coverage Status Code        
+          
+
+      
+
+                                                                      ADJSTMT_DLTN_CD        
+                                                                      Adjustment Deletion Code        
+          
+
+      
+
+                                                                      NSTD_FRMT_CD        
+                                                                      Non-Standard Format Code        
+          
+
+      
+
+                                                                      PRCNG_EXCPTN_CD        
+                                                                      Pricing Exception Code        
+          
+
+      
+
+                                                                      CTSTRPHC_CVRG_CD        
+                                                                      Catastrophic Coverage Code        
+          
+
+      
+
+                                                                      GDC_BLW_OOPT_AMT        
+                                                                      Gross Drug Cost Below Part D Out-of-Pocket Threshold (GDCB)        
+          
+
+      
+
+                                                                      GDC_ABV_OOPT_AMT        
+                                                                      Gross Drug Cost Above Part D Out-of-Pocket Threshold (GDCA)        
+          
+
+      
+
+                                                                      PTNT_PAY_AMT        
+                                                                      Amount Paid by Patient        
+          
+
+      
+
+                                                                      OTHR_TROOP_AMT        
+                                                                      Other True Out-of-Pocket (TrOOP) Amount        
+          
+
+      
+
+                                                                      LICS_AMT        
+                                                                      Amount paid for the PDE by Part D low income subsidy        
+          
+
+      
+
+                                                                      PLRO_AMT        
+                                                                      Reduction in patient liability due to payments by other payers (PLRO)        
+          
+
+      
+
+                                                                      CVRD_D_PLAN_PD_AMT        
+                                                                      Amount paid by Part D plan for the PDE (drug is covered by Part D)        
+          
+
+      
+
+                                                                      NCVRD_PLAN_PD_AMT        
+                                                                      Amount paid by Part D plan for the PDE (drug is not covered by Part D)        
+          
+
+      
+
+                                                                      TOT_RX_CST_AMT        
+                                                                      Total Drug Cost (Part D)        
+          
+
+      
+
+                                                                      RX_ORGN_CD        
+                                                                      Prescription Origination Code        
+          
+
+      
+
+                                                                      RPTD_GAP_DSCNT_NUM        
+                                                                      Gap Discount Amount        
+          
+
+      
+
+                                                                      BRND_GNRC_CD        
+                                                                      Brand-Generic Code Reported by Submitting Plan        
+          
+
+      
+
+                                                                      PHRMCY_SRVC_TYPE_CD        
+                                                                      Pharmacy service type code        
+          
+
+      
+
+                                                                      PTNT_RSDNC_CD        
+                                                                      Patient Residence Code        
+          
+
+      
+
+                                                                      SUBMSN_CLR_CD        
+                                                                      Submission clarification code        
+          
+
+      
+
+                                                                      BENEFIT_PHASE        
+                                                                      Benefit Phase of Part D Event        
+          
+
+      
+
+                                                                      CCW_PHARM_ID        
+                                                                      CCW Pharmacy Identifier        
+          
+
+      
+
+                                                                      NCPDP_ID        
+                                                                      NCPDP Pharmacy Identifier        
+          
+
+      
+
+                                                                      PRSCRBR_ID        
+                                                                      Prescriber Identification Number        
+          
+
+      
+
+                                                                      PRSCRBR_ID_QLFYR_CD        
+                                                                      Prescriber identification number qualifier code        
+          
+
+      
+
+                                                                      CCW_PRSCRBR_ID        
+                                                                      CCW Prescriber Identifier        
+          
+
+      
+
+                                                                      PDE_PRSCRBR_ID_FRMT_CD        
+                                                                      PDE Prescriber ID Format Code        
+          
+
+      
+
+                                                                      PRIOR_AUTHORIZATION_YN        
+                                                                      Prior Authorization Indicator (Event)        
+          
+
+      
+
+                                                                      TIER_ID        
+                                                                      Medicare Part D Formulary Tier Identifier        
+          
+
+      
+
+                                                                      QUANTITY_LIMIT_YN        
+                                                                      Quantity Limit Indicator (Event)        
+          
+
+      
+
+                                                                      STEP        
+                                                                      Maximum Step Number        
+          
+
+      
+
+                                                                      FORMULARY_ID         
+                                                                      Formulary Identification Number        
+          
+
+      
+
+                                                                      FRMLRY_RX_ID        
+                                                                      CCW Formulary Drug Identifier        
+          
+
+      
+
+                                                                      PTD_MODEL_IND        
+                                                                      Part D Model Indicator        
+          
+
+      
+
+                                                                      OTHR_TROOP_AMOUNT_IND        
+                                                                      Other True Out-of-Pocket (TrOOP) Amount Indicator        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

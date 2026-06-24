@@ -1,0 +1,8 @@
+{
+  "chunk_id": "risk-score-base__operational-payment-risk-score-user-guide_pdf__d8c366dd0a__p15__chunk_4",
+  "source_document": "data/raw/assets/pdf/d8c366dd0abbcfd26c61b8c4fd0774178fc9ab1b.pdf",
+  "page": 15,
+  "text": "• ESRD status \n• LTI status \n• Dual enrollment status \n• PACE frailty score* \n CMS uses separate risk adjustment models for ESRD \nbeneficiaries, PACE beneficiaries, and non-ESRD and non-\nPACE enrolled beneficiaries. \n\nDisease variables: \n• Disease HCCs \n• Disease/Disabled interactions \n CMS uses diagnoses submitted by plans and FFS providers \nto assign HCCs and interactions. There are relative factors \nassociated with each HCC and interaction. \nSum of factors \n\nDemographic + Disease = Raw risk",
+  "dataset": "risk-score-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19002246/operational-payment-risk-score-user-guide.pdf"
+}

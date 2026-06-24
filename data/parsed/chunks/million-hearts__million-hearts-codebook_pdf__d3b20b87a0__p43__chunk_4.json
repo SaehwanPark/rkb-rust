@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p43__chunk_4",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 43,
+  "text": "Low- or \nMedium-risk patient is not aligned but eligible \nS004 Pending acceptance SC013 The beneficiary is pending acceptance \nS005 Not aligned SC014 Beneficiary status changed to not aligned \nS006 Verify HICN SC017 Verify HICN \nS007 Ineligible SC026 Exclusion: The beneficiary is not enrolled in Medicare \nFee for Service Parts A and B \nS007 Ineligible SC027 Exclusion: The beneficiary is not age 40–79 at time of \nenrollment \nS007 Ineligible SC028 Exclusion: The beneficiary is enrolled in the",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

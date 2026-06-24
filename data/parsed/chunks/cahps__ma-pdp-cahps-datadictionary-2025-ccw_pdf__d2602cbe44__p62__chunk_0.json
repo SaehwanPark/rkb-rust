@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p62__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 62,
+  "text": "B. Crosswalk: 2007 to 2025 - MA-Only Survey 62\n\nVariable Reverse 2025 2024 2023 2022 2021 2020 2019 2018 2017\nYear 19 Year 18 Year 17 Year 16 Year 15 Year 14 Year 13 Year 12 Year 11\n\nagecat\nsex\neduc Q54 Q57 Q56 Q56 Q56 Q56 Q56 Q56\nrace_hisp Q55 Q58 Q57 Q57 Q57 Q57 Q57 Q57\nrace_white Q56E Q59E Q58E Q58A Q58A Q58A Q58A Q58A\nrace_black Q56C Q59C Q58C Q58B Q58B Q58B Q58B Q58B\nrace_asian Q56B Q59B Q58B Q58C Q58C Q58C Q58C Q58C\nrace_paciﬁc Q56D Q59D Q58D Q58D Q58D Q58D Q58D Q58D\nrace_natamer Q56A",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

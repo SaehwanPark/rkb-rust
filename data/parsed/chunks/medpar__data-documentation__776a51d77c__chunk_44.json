@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_44",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "DGNS_E_5_CD \n\n Diagnosis E Code 5\n\n 246\n\n DGNS_E_6_CD \n\n Diagnosis E Code 6\n\n 247\n\n DGNS_E_7_CD\n\n Diagnosis E Code 7\n\n 248\n\n DGNS_E_8_CD\n\n Diagnosis E Code 8\n\n 249\n\n DGNS_E_9_CD \n\n Diagnosis E Code 9\n\n 250\n\n DGNS_E_10_CD\n\n Diagnosis E Code 10\n\n 251\n\n DGNS_E_11_CD\n\n Diagnosis E Code 11\n\n 252\n\n DGNS_E_12_CD\n\n Diagnosis E Code 12\n\n 253\n\n POA_DGNS_E_CD_CNT \n\n Count of Present on Admission (POA) Diagnosis E Codes\n\n 254\n\n POA_DGNS_E_1_IND_CD\n\n Diagnosis E Code Present on Admission Indicator 1\n\n 255",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

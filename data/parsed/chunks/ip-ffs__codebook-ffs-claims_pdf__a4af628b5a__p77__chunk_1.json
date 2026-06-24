@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p77__chunk_1",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 77,
+  "text": "Payments for Care Improvement initiative (BPCI, \nModel 1). \n\nSHORT NAME: CLM_BNDLD_MODEL_1_DSCNT_PCT \n\nLONG NAME: CLM_BNDLD_MODEL_1_DSCNT_PCT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: NCH \n\nVALUES: X.XX \n\nCOMMENT: The hospital must be participating in the Model 1 of the BPCI (refer to \nCLM_CARE_IMPRVMT_MODEL_CD1). The dollar amount of the payment reduction for the service is in \nthe field called CLM_BNDLD_ADJSTMT_PMT_AMT. \n\nThis field was new in 2013 and is null/missing for all previous years. \n ^ Back",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

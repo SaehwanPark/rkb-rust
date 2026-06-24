@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_5",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicaid — Eligibility Group Code — Latest in Year\n\n 23\n\n MDCD_ABD_MOS\n\n Medicaid Enrollment — Aged, Blind, Disabled Months\n\n 24\n\n MDCD_ONLY_MOS\n\n Medicaid Aged, Blind, Disabled Only Months\n\n 25\n\n MDCD_CHIP_NON_ABD_MOS\n\n MDCD or CHIP Enrollment — Non-ABD Months\n\n 26\n\n MDCD_RSTRCTD_BNFTS_CD_LTST\n\n Medicaid — Scope of Medicaid or CHIP Benefits — Latest in Year\n\n 27\n\n MDCR_COVSTART\n\n Medicare — Coverage Start Date\n\n 28\n\n MDCR_OREC\n\n Medicare — Original Reason for Entitlement Code (OREC)\n\n 29",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

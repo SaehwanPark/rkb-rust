@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hha-ffs__data-documentation__7a39b31d66__chunk_15",
+  "source_document": "data/raw/html/documentation_page/7a39b31d66a1e4c8a9496eb67fda7c56df9bca35.html",
+  "page": null,
+  "text": "Claim Medical Record Number (FFS)\n\n 90\n\n CLM_TRTMT_AUTHRZTN_NUM\n\n Claim Treatment Authorization Number\n\n 91\n\n CLM_PRCR_RTRN_CD\n\n Claim Pricer Return Code\n\n 92\n\n CLM_PRCR_VRSN_CD\n\n Claim Pricer Version Code\n\n 93\n\n CLM_SRVC_FAC_ZIP_CD\n\n Claim service facility ZIP code (where service was provided)\n\n 94\n\n CLM_NEXT_GNRTN_ACO_IND_CD1\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP)\n\n 95\n\n CLM_NEXT_GNRTN_ACO_IND_CD2\n\n Claim Next",
+  "dataset": "hha-ffs",
+  "url": "https://resdac.org/cms-data/files/hha-ffs/data-documentation"
+}

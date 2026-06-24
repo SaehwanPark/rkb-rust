@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_2",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n BENE_ENROLLMT_REF_YR \n Reference Year (MBSF) \n\n ENRL_SRC \n Enrollment Source \n\n ACUTE_BENE_PMT \n Acute Inpatient Hospital Beneficiary Payments \n\n ACUTE_MDCR_PMT \n Acute Inpatient Medicare Payments \n\n ACUTE_PERDIEM_PMT \n Acute Inpatient Hospital Pass-thru Per Diem Payments \n\n ACUTE_PRMRY_PMT \n Acute Inpatient Hospital Primary Payer Amount \n\n ACUTE_STAYS \n Acute Inpatient Stays \n\n ACUTE_COV_DAYS \n Acute Inpatient Medicare Covered",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

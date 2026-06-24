@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__data-documentation__2617b90539__chunk_16",
+  "source_document": "data/raw/html/documentation_page/2617b90539062fe66e0d34c18b850febb573183e.html",
+  "page": null,
+  "text": "Supplemental HRSN Substance Use 3: Past 12 months Non-Medical Prescription Drug Use \n\n SR_SPLMTL_SBSTNC_USE_4_CD \n Supplemental HRSN Substance Use 4: Past 12 Months Illegal Drug Use \n\n SR_SPLMT_SBST_USE_OVRL_SCRNG_IND \n Screened Supplemental HRSN Substance Use Overall Indicator \n\n SR_HAS_CORE_HRSN_IND \n Beneficiary Has at Least 1 Core HRSN \n\n SR_ER_VISITS_CD \n Beneficiary Number of ED Visits Last 12 Months \n\n SR_ELGBL_FOR_NVGTN_IND \n Beneficiary Eligibility for Navigation, includes Track 1",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model/data-documentation"
+}

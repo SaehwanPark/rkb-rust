@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_26",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "D Retiree Drug Subsidy Indicator - October \n\n RDS_IND_11 \n Part D Retiree Drug Subsidy Indicator - November \n\n RDS_IND_12 \n Part D Retiree Drug Subsidy Indicator - December \n\n DUAL_STUS_CD_01 \n Monthly Medicare-Medicaid dual eligibility code - January \n\n DUAL_STUS_CD_02 \n Monthly Medicare-Medicaid dual eligibility code - February \n\n DUAL_STUS_CD_03 \n Monthly Medicare-Medicaid dual eligibility code - March \n\n DUAL_STUS_CD_04 \n Monthly Medicare-Medicaid dual eligibility code - April",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

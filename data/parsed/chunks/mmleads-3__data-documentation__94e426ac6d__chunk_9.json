@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_9",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Needs Plan (C-SNP) Months\n\n 42\n\n MDCR_D_SNP_MOS\n\n Medicare-Medicaid Dual Eligible Special Needs Plan (D-SNP) Months\n\n 43\n\n MDCR_I_SNP_MOS\n\n Medicare-Medicaid Institutional Special Needs Plan (I-SNP) Months\n\n 44\n\n MDCD_FFS_MEDICAL_MOS\n\n Medicaid — Fee-for-Service Medical Coverage Months\n\n 45\n\n MDCD_MC_MEDICAL_MOS\n\n Medicaid — Managed Care Medicaid Coverage Months\n\n 46\n\n MDCD_OTHR_MC_MOS\n\n Medicaid — Other (non-Comprehensive) Managed Care Medicaid Coverage Months\n\n 47\n\n MDCD_CMC_COV_MOS",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

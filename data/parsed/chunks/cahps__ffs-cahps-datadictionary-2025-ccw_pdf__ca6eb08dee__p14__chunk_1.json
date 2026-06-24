@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p14__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 14,
+  "text": "YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_have_oth: RECODE : Have health insurance other than Medicare \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n\nins_ma_pdp: RECODE : Other Insurance-Medicare PDP \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_medicaid: RECODE : Other Insurance-Medicaid \n\nSAS Format: YNE \n\n0: NOT CHECKED \n\n1: CHECKED \n\nins_medicare: RECODE : Other Insurance-None other than Medicare \n\nSAS Format: YNE \n\n0: NOT CHECKED",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

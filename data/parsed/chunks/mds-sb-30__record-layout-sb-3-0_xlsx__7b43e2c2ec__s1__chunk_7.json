@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-sb-30__record-layout-sb-3-0_xlsx__7b43e2c2ec__s1__chunk_7",
+  "source_document": "data/raw/assets/xlsx/7b43e2c2ec335c4fd39f2442454c69e22012d928.xlsx",
+  "page": 1,
+  "text": "type of assessment that was submitted. This code is derived from the values submitted in A0310A, A0310B, A0310C, A0310D and A0310F in conjunction with the value submitted in A0200 - type of provider. NC=Nursing Home: Comprehensive\r\nND=Nursing Home: Discharge\r\nNO=Nursing Home: OMRA Other\r\nNOD=Nursing Home: OMRA Other + Discharge\r\nNP=Nursing Home: PPS\r\nNQ=Nursing Home: Quarterly\r\nNS=Nursing Home: OMRA Start of Therapy\r\nNSD=Nursing Home: OMRA Start of Therapy + Discharge\r\nNT=Nursing Home: Tracking",
+  "dataset": "mds-sb-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-sb-3-0.xlsx"
+}

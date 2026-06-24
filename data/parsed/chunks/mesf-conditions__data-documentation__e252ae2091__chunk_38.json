@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_38",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "(MAT) - Medicaid-Only Claims\n\n 187\n\n OUD_MAT_MEDICARE\n\n Use of Medication-Assisted Treatment (MAT) - Medicare-Only Claims (MESF)\n\n 188\n\n PRC_COMBINED\n\n Prostate Cancer Indicator - Combined Data\n\n 189\n\n PRC_MEDICAID\n\n Prostate Cancer Indicator - Medicaid-Only Data\n\n 190\n\n PRC_MEDICARE\n\n Prostate Cancer Indicator - Medicare-Only Data\n\n 191\n\n PSDS_COMBINED\n\n Personality Disorders Indicator - Combined Data\n\n 192\n\n PSDS_MEDICAID\n\n Personality Disorders Indicator - Medicaid Only Data\n\n 193",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-npi-practice__data-documentation__3e45e39656__chunk_1",
+  "source_document": "data/raw/html/documentation_page/3e45e3965694930db13649f2d6cfc67b29348671.html",
+  "page": null,
+  "text": "with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\n\nDocument\n\nrecord-layout-value-modifier-npi-practice-level-rif-perf-year-2016.xlsx18.81 KB\n\n SAS Name\n Variable Name\n\n PRACTICE_ID \n Unique Identifier of Practice \n\n PERF_NPI \n NPI \n\n PRVDR_NAME",
+  "dataset": "vm-npi-practice",
+  "url": "https://resdac.org/cms-data/files/vm-npi-practice/data-documentation"
+}

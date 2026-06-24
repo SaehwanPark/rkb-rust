@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-de__codebook-taf-demographic-eligibility_pdf__7a48be3f0d__p210__chunk_0",
+  "source_document": "data/raw/assets/pdf/7a48be3f0d3c4224b3129bd4e6af2eec1975b637.pdf",
+  "page": 210,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Demographic and Eligibility RIFs Codebook │ December 2025 │ V 1.8 170 \n\nMC_PLAN_TYPE_CD_03_01 \n\nMC_PLAN_TYPE_CD_03_02 \n\nMC_PLAN_TYPE_CD_03_03 \n\nMC_PLAN_TYPE_CD_03_04 \n\nMC_PLAN_TYPE_CD_03_05 \n\nMC_PLAN_TYPE_CD_03_06 \n\nMC_PLAN_TYPE_CD_03_07 \n\nMC_PLAN_TYPE_CD_03_08 \n\nMC_PLAN_TYPE_CD_03_09 \n\nMC_PLAN_TYPE_CD_03_10 \n\nMC_PLAN_TYPE_CD_03_11 \n\nMC_PLAN_TYPE_CD_03_12 \n\nLABEL: Managed Care Plan Type Code (Third Occurrence) ― January–December",
+  "dataset": "taf-de",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-demographic-eligibility.pdf"
+}

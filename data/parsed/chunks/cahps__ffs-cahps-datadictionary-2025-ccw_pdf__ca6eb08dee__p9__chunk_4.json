@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p9__chunk_4",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 9,
+  "text": "Disabled flag $ID_F \nsa_deemd_lis Deemed for low income subsidy $ID_F \nsa_deemd_cpmt Generic level for copay computation $GENLEVF \nsa_cvrg_type Part a-b coverage type $CVT \nsa_cntrct_num Health plan id of surveyed plan \nsa_age Age derived as su_received - sa_dob \nr_mhs REVERSED: Rate mental health RTC \nr_md_getmngca REVERSED: Last 6 mths, got help from personal md to manage care YNC \nr_md_disagree REVERSED: How likely to tell doctor you disagree with him or her LIKER \nr_md_change REVERSED: How",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

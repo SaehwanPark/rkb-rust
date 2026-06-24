@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_49",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "Provider Number Active Indicator — February\n\n 10\n\n PRVDR_NUM_ACTV_IND_03\n\n Provider Number Active Indicator — March\n\n 11\n\n PRVDR_NUM_ACTV_IND_04\n\n Provider Number Active Indicator — April\n\n 12\n\n PRVDR_NUM_ACTV_IND_05\n\n Provider Number Active Indicator — May\n\n 13\n\n PRVDR_NUM_ACTV_IND_06\n\n Provider Number Active Indicator — June\n\n 14\n\n PRVDR_NUM_ACTV_IND_07\n\n Provider Number Active Indicator — July\n\n 15\n\n PRVDR_NUM_ACTV_IND_08\n\n Provider Number Active Indicator — August\n\n 16",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

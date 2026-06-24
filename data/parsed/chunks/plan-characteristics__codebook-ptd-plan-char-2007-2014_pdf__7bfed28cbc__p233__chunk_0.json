@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__codebook-ptd-plan-char-2007-2014_pdf__7bfed28cbc__p233__chunk_0",
+  "source_document": "data/raw/assets/pdf/7bfed28cbc6d638a0319dd5eddbf46ee872d129f.pdf",
+  "page": 233,
+  "text": "Chronic Conditions Warehouse \nCODEBOOK: Medicare Part D Plan Characteristics (2007-2014) │ October 2021 │ V 1.4 220 \n\nPART_B_PREMIUM_REDUCTION_AMT \n\nLABEL: Part B Premium Reduction Amount \n\nDESCRIPTION: This variable is the dollar amount of Part D rebate attributed to Part B premium reduction. \n\nSHORT NAME: — \n\nLONG NAME: PART_B_PREMIUM_REDUCTION_AMT \n\nTYPE: NUM \n\nLENGTH: 8 \n\nSOURCE: CMS (HPMS Files) \n\nVALUES: — \n\nCOMMENT: The width of this value changed from 12 to 8 in 2009. \n\nThe CCW",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-plan-char-2007-2014.pdf"
+}

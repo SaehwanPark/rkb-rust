@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__data-documentation__fcdee80764__chunk_45",
+  "source_document": "data/raw/html/documentation_page/fcdee80764dd59910f6190a9dd2c63ce3d8c2906.html",
+  "page": null,
+  "text": "Neutral Payment Based on Cost Amount\n\n 237\n\n CLM_SITE_NTRL_PYMT_IPPS_AMT\n\n Claim Site Neutral Payment Based on Inpatient Prospective Payment System (IPPS) Amounts\n\n 238\n\n CLM_NEXT_GNRTN_ACO_IND_CD1\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Population-Based Payment (PBP)\n\n 239\n\n CLM_NEXT_GNRTN_ACO_IND_CD2\n\n Claim Next Generation (NG) Accountable Care Organization (ACO) Indicator Code - Telehealth\n\n 240\n\n CLM_NEXT_GNRTN_ACO_IND_CD3\n\n Claim Next Generation",
+  "dataset": "ip-ffs",
+  "url": "https://resdac.org/cms-data/files/ip-ffs/data-documentation"
+}

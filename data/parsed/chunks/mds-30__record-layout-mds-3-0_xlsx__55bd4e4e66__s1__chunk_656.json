@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mds-30__record-layout-mds-3-0_xlsx__55bd4e4e66__s1__chunk_656",
+  "source_document": "data/raw/assets/xlsx/55bd4e4e66fb4eda32461631b671f7a2d6770e14.xlsx",
+  "page": 1,
+  "text": "assistance\r\n 05=Setup or clean-up assistance\r\n 06=Independent\r\n 07=Resident refused\r\n 09=Not applicable\r\n 88=Not attempted due to medical condition or safety concerns\r\n ^=Blank (skip pattern) effective 10/01/2018\n718 GG0130G2_LWR_DRSNG_GOAL_CD GG0130G2_LWR_DRSNG_GOAL_CD GG0130G2 Lower Dressing Goal Indicator CHAR 2 Indicates the resident's goal to dress and undress below the waist; including fasteners, if applicable (excluding footwear) by the end of the SNF PPS Part A stay. -=Not assessed/no",
+  "dataset": "mds-30",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mds-3-0.xlsx"
+}

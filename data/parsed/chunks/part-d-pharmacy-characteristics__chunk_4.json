@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__chunk_4",
+  "source_document": "data/raw/html/dataset_page/426dd5c8209fc57fc3edb46f31c500aa1b07edcd.html",
+  "page": null,
+  "text": "The Medicare Part D Formulary file is a suite of five sub-files: Formulary, Excluded Drug, Over-the-Counter Drug, Indication-based…\n\n Part D Medication Therapy Management Data \n\n This file includes beneficiary-level information for participants in the Part D Medication Therapy Management (MTM) program, required…\n\n Part D Plan Election Type Beneficiary Summary \n\n This Medicare Part D file identifies beneficiaries covered by the Low Income Subsidy (LIS) program for Part D Plan enrollment.",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics?page=1"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ps__chunk_1",
+  "source_document": "data/raw/html/dataset_page/26130b574c5882f8dec0996e1b2406b6c2f7e3b3.html",
+  "page": null,
+  "text": "contains one record for every individual eligible for and enrolled in Medicaid for at least one month or who had a Medicaid-paid service within the file year.\n\nWhat does this file include? (variable highlights)\n\nBene_ID (links to all other CMS Research Identifiable Files (RIF))\n\nState, county, zip code\n\nDate of birth, sex, race\n\nEligibility category\n\nDual Medicare-Medicaid eligibility\n\nMedicaid managed care enrollment\n\nSummary utilization, Medicaid payments\n\nProgram: \nMedicaid\nCategory:",
+  "dataset": "max-ps",
+  "url": "https://resdac.org/cms-data/files/max-ps?page=1"
+}

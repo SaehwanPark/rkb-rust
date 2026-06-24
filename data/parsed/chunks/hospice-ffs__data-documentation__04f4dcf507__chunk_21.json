@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_21",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "16\n\n REV_CNTR_TOT_CHRG_AMT\n\n Revenue Center Total Charge Amount\n\n 17\n\n REV_CNTR_NCVRD_CHRG_AMT\n\n Revenue Center Non-Covered Charge Amount\n\n 18\n\n REV_CNTR_DDCTBL_COINSRNC_CD\n\n Revenue Center Deductible Coinsurance Code\n\n 19\n\n REV_CNTR_BENE_PMT_AMT\n\n Revenue Center Payment Amount to Beneficiary\n\n 20\n\n REV_CNTR_NDC_QTY\n\n Revenue Center National Drug Code (NDC) Quantity (FFS)\n\n 21\n\n REV_CNTR_NDC_QTY_QLFR_CD\n\n Revenue Center NDC Quantity Qualifier Code (FFS)\n\n 22\n\n RNDRNG_PHYSN_UPIN\n\n Revenue Center",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-hospital__data-documentation__4c60fb8567__chunk_3",
+  "source_document": "data/raw/html/documentation_page/4c60fb85674dcfcd2336e84b45f08d6218aa76fa.html",
+  "page": null,
+  "text": "ESCALATIONS \n Count of AHCAH Patients Transferred Back to Inpatient Facility During the Data Submission Period \n\n AHCAH_WVR_SUBMSN_ID \n AHCAH Waiver Submission ID \n\n PRVDR_NAME \n Name of Facility \n\n PRVDR_PHNE_NUM \n Facility Phone Number \n\n PRVDR_ADR \n Facility Location Address \n\n PRVDR_CITY \n Facility Location City \n\n PRVDR_ZIP_CD \n Facility Location Zip Code",
+  "dataset": "ahcah-hospital",
+  "url": "https://resdac.org/cms-data/files/ahcah-hospital/data-documentation"
+}

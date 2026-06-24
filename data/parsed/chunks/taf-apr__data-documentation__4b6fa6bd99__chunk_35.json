@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_35",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "2\n\n STATE_CD\n\n Submitting State Alpha Abbreviation\n\n 3\n\n SUBMTG_STATE_CD\n\n Submitting State FIPS Code\n\n 4\n\n AFLTD_PGM_TYPE_CD\n\n Affiliated Program Type Code\n\n 5\n\n PRVDR_AFLTD_PGM_ID\n\n Provider Affiliated Program Identifier\n\n 6\n\n PRVDR_AFLTD_PGM_ACTV_IND_01\n\n Provider Affiliated Program Active Indicator — January\n\n 7\n\n PRVDR_AFLTD_PGM_ACTV_IND_02\n\n Provider Affiliated Program Active Indicator — February\n\n 8\n\n PRVDR_AFLTD_PGM_ACTV_IND_03\n\n Provider Affiliated Program Active Indicator — March",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

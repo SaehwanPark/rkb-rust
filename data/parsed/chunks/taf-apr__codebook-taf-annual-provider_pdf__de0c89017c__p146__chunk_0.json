@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p146__chunk_0",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 146,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nT-MSIS TAF Annual Provider RIFs Codebook │ December 2025 │ V 1.3 148 \n\nSTATE_CD \n\nLABEL: Submitting State Alpha Abbreviation \n\nDESCRIPTION: Submitting State (postal abbreviation) \n\nSHORT NAME: STATE_CD \n\nLONG NAME: STATE_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nFILE(S): All annual provider files \n\nSOURCE: CCW and CMS/Census Bureau crosswalk (derived) \n\nVALUES: 2-character postal state code \n\nAK = Alaska \nAL = Alabama \nAR = Arkansas \nAZ = Arizona",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

@@ -1,0 +1,935 @@
+ 
+  
+    
+
+      
+          Skip to main content
+      
+    
+
+    
+      
+
+                    
+
+          
+
+      
+
+          
+          
+
+        
+
+          
+
+            
+
+              
+            
+Reminder: DUA and VRDC access needs to be extended or renewed annually. Read more.
+
+
+      
+            
+
+          
+
+        
+
+      
+
+          
+      
+
+
+  
+
+
+      
+
+        
+
+      
+
+        
+          Skip to main content
+        
+
+                
+                
+
+          
+
+              
+
+          
+      
+    
+      
+  
+
+
+                                      
+                Toggle navigation
+                
+                
+                
+              
+                      
+
+
+                      
+
+                
+
+    
+
+  
+    
+
+      
+            
+
+
+      
+  
+
+
+
+  
+
+
+            
+
+          
+                                
+
+              
+
+                
+
+                    
+
+    
+
+          
+      
+      
+
+                        
+
+        Find CMS Data Files
+                  
+
+                        
+
+        Request CMS Data Files
+                  
+
+                        
+
+        Search Data Variables
+                  
+
+                        
+
+        Learn About CMS Data
+                  
+
+        
+
+  
+
+  
+
+
+  
+
+
+                
+
+              
+
+            
+
+                            
+
+      
+
+    
+
+  
+  
+
+    
+
+      
+
+        
+
+            
+
+    
+
+  
+    
+
+        
+
+  
+    
+      
+
+      
+Data Documentation
+
+    
+
+      
+      
+
+          
+Master Beneficiary Summary File Cost and Use
+Back to File Overview
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+        
+
+      
+  
+    
+
+
+        
+    
+
+      
+
+
+                
+                        
+
+
+                                              
+  
+
+    
+
+
+  
+
+
+                      
+                                              
+                      
+                                
+              
+
+        
+
+  
+    
+      
+
+      
+
+  
+    
+      
+      
+
+          
+For most files, a table of variables will display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.
+If you are unable to locate the information you need, please contact ResDAC.
+CCW Codebook - MBSF Cost and Use
+CCW Record Layout - MBSF Cost and Use
+
+
+    
+
+  
+          
+
+
+    
+
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+          
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+      
+
+        
+
+
+        
+
+    
+
+                                      SAS Name
+                                      Variable Name
+          
+
+    
+
+    
+
+      
+
+                                                                      BENE_ID        
+                                                                      Encrypted CCW Beneficiary ID        
+          
+
+      
+
+                                                                      BENE_ENROLLMT_REF_YR        
+                                                                      Reference Year (MBSF)        
+          
+
+      
+
+                                                                      ENRL_SRC        
+                                                                      Enrollment Source        
+          
+
+      
+
+                                                                      ACUTE_BENE_PMT        
+                                                                      Acute Inpatient Hospital Beneficiary Payments        
+          
+
+      
+
+                                                                      ACUTE_MDCR_PMT         
+                                                                      Acute Inpatient Medicare Payments        
+          
+
+      
+
+                                                                      ACUTE_PERDIEM_PMT         
+                                                                      Acute Inpatient Hospital Pass-thru Per Diem Payments        
+          
+
+      
+
+                                                                      ACUTE_PRMRY_PMT        
+                                                                      Acute Inpatient Hospital Primary Payer Amount        
+          
+
+      
+
+                                                                      ACUTE_STAYS         
+                                                                      Acute Inpatient Stays        
+          
+
+      
+
+                                                                      ACUTE_COV_DAYS         
+                                                                      Acute Inpatient Medicare Covered Days        
+          
+
+      
+
+                                                                      READMISSIONS        
+                                                                      Acute Inpatient Hospital Readmissions        
+          
+
+      
+
+                                                                      IP_ER_VISITS         
+                                                                      Inpatient Emergency Room Visits        
+          
+
+      
+
+                                                                      OIP_BENE_PMT         
+                                                                      Other Inpatient Hospital Beneficiary Payments        
+          
+
+      
+
+                                                                      OIP_MDCR_PMT         
+                                                                      Other Inpatient Hospital Medicare Payments        
+          
+
+      
+
+                                                                      OIP_PERDIEM_PMT        
+                                                                      Other Inpatient Hospital Pass-thru Per Diem Payments        
+          
+
+      
+
+                                                                      OIP_PRMRY_PMT         
+                                                                      Other Inpatient Hospital Primary Payer Amount        
+          
+
+      
+
+                                                                      OIP_STAYS         
+                                                                      Other Inpatient Stays        
+          
+
+      
+
+                                                                      OIP_COV_DAYS         
+                                                                      Other Inpatient Hospital Covered Days        
+          
+
+      
+
+                                                                      SNF_BENE_PMT         
+                                                                      Skilled Nursing Facility Beneficiary Payments        
+          
+
+      
+
+                                                                      SNF_MDCR_PMT         
+                                                                      Skilled Nursing Facility Medicare Payments        
+          
+
+      
+
+                                                                      SNF_PRMRY_PMT        
+                                                                      Skilled Nursing Facility Primary Payer Amount        
+          
+
+      
+
+                                                                      SNF_STAYS        
+                                                                      Skilled Nursing Facility Stays        
+          
+
+      
+
+                                                                      SNF_COV_DAYS        
+                                                                      Skilled Nursing Facility Medicare Covered Days        
+          
+
+      
+
+                                                                      HOS_MDCR_PMT         
+                                                                      Hospice Medicare Payments        
+          
+
+      
+
+                                                                      HOS_PRMRY_PMT         
+                                                                      Hospice Primary Payer Amount        
+          
+
+      
+
+                                                                      HOS_STAYS        
+                                                                      Hospice Stays        
+          
+
+      
+
+                                                                      HOS_COV_DAYS         
+                                                                      Hospice Medicare Covered Days        
+          
+
+      
+
+                                                                      HH_MDCR_PMT        
+                                                                      Home Health Medicare Payments        
+          
+
+      
+
+                                                                      HH_PRMRY_PMT        
+                                                                      Home Health Primary Payer Amount        
+          
+
+      
+
+                                                                      HH_VISITS         
+                                                                      Home Health Visits        
+          
+
+      
+
+                                                                      HOP_BENE_PMT         
+                                                                      Hospital Outpatient Beneficiary Payments        
+          
+
+      
+
+                                                                      HOP_MDCR_PMT        
+                                                                      Hospital Outpatient Medicare Payments        
+          
+
+      
+
+                                                                      HOP_PRMRY_PMT         
+                                                                      Hospital Outpatient Primary Payer Amount        
+          
+
+      
+
+                                                                      HOP_VISITS        
+                                                                      Hospital Outpatient Visits        
+          
+
+      
+
+                                                                      HOP_ER_VISITS         
+                                                                      Hospital Outpatient Emergency Room Visits        
+          
+
+      
+
+                                                                      ASC_BENE_PMT         
+                                                                      Ambulatory Surgery Center Beneficiary Payments        
+          
+
+      
+
+                                                                      ASC_MDCR_PMT         
+                                                                      Ambulatory Surgery Center Medicare Payments        
+          
+
+      
+
+                                                                      ASC_PRMRY_PMT         
+                                                                      Ambulatory Surgery Center Primary Payer Amount        
+          
+
+      
+
+                                                                      ASC_EVENTS         
+                                                                      Ambulatory Surgery Center Events        
+          
+
+      
+
+                                                                      ANES_BENE_PMT         
+                                                                      Anesthesia Beneficiary Payments        
+          
+
+      
+
+                                                                      ANES_MDCR_PMT        
+                                                                      Anesthesia Medicare Payments        
+          
+
+      
+
+                                                                      ANES_PRMRY_PMT         
+                                                                      Anesthesia Primary Payer Amount        
+          
+
+      
+
+                                                                      ANES_EVENTS         
+                                                                      Anesthesia Events        
+          
+
+      
+
+                                                                      PTB_DRUG_BENE_PMT         
+                                                                      Part B Drug Beneficiary Payments        
+          
+
+      
+
+                                                                      PTB_DRUG_MDCR_PMT         
+                                                                      Part B Drug Medicare Payments        
+          
+
+      
+
+                                                                      PTB_DRUG_PRMRY_PMT         
+                                                                      Part B Drug Primary Payer Amount        
+          
+
+      
+
+                                                                      PTB_DRUG_EVENTS        
+                                                                      Part B Drug Events        
+          
+
+      
+
+                                                                      EM_BENE_PMT        
+                                                                      Evaluation and Management Beneficiary Payments        
+          
+
+      
+
+                                                                      EM_MDCR_PMT        
+                                                                      Evaluation and Management Medicare Payments        
+          
+
+      
+
+                                                                      EM_PRMRY_PMT        
+                                                                      Evaluation and Management Primary Payer Amount        
+          
+
+      
+
+                                                                      EM_EVENTS         
+                                                                      Evaluation and Management Events        
+          
+
+      
+
+                                                                      PHYS_BENE_PMT        
+                                                                      Part B Physician Beneficiary Payments        
+          
+
+      
+
+                                                                      PHYS_MDCR_PMT        
+                                                                      Part B Physician Medicare Payments        
+          
+
+      
+
+                                                                      PHYS_PRMRY_PMT        
+                                                                      Part B Physician Primary Payer Amount        
+          
+
+      
+
+                                                                      PHYS_EVENTS        
+                                                                      Part B Physician Events        
+          
+
+      
+
+                                                                      DIALYS_BENE_PMT         
+                                                                      Dialysis Beneficiary Payments        
+          
+
+      
+
+                                                                      DIALYS_MDCR_PMT         
+                                                                      Dialysis Medicare Payments        
+          
+
+      
+
+                                                                      DIALYS_PRMRY_PMT        
+                                                                      Dialysis Primary Payer Amount        
+          
+
+      
+
+                                                                      DIALYS_EVENTS        
+                                                                      Dialysis Events        
+          
+
+      
+
+                                                                      OPROC_BENE_PMT        
+                                                                      Other Procedures Beneficiary Payments        
+          
+
+      
+
+                                                                      OPROC_MDCR_PMT        
+                                                                      Other Procedures Medicare Payments        
+          
+
+      
+
+                                                                      OPROC_PRMRY_PMT         
+                                                                      Other Procedures Primary Payer Amount        
+          
+
+      
+
+                                                                      OPROC_EVENTS         
+                                                                      Other Procedures Events        
+          
+
+      
+
+                                                                      IMG_BENE_PMT        
+                                                                      Imaging Beneficiary Payments        
+          
+
+      
+
+                                                                      IMG_MDCR_PMT         
+                                                                      Imaging Medicare Payments        
+          
+
+      
+
+                                                                      IMG_PRMRY_PMT        
+                                                                      Imaging Primary Payer Amount        
+          
+
+      
+
+                                                                      IMG_EVENTS        
+                                                                      Imaging Events        
+          
+
+      
+
+                                                                      TEST_BENE_PMT         
+                                                                      Tests Beneficiary Payments        
+          
+
+      
+
+                                                                      TEST_MDCR_PMT         
+                                                                      Tests Medicare Payments        
+          
+
+      
+
+                                                                      TEST_PRMRY_PMT        
+                                                                      Tests Primary Payer Amount        
+          
+
+      
+
+                                                                      TEST_EVENTS        
+                                                                      Tests Events        
+          
+
+      
+
+                                                                      DME_BENE_PMT         
+                                                                      Durable Medical Equipment Beneficiary Payments        
+          
+
+      
+
+                                                                      DME_MDCR_PMT        
+                                                                      Durable Medical Equipment Medicare Payments        
+          
+
+      
+
+                                                                      DME_PRMRY_PMT         
+                                                                      Durable Medical Equipment Primary Payer Amount        
+          
+
+      
+
+                                                                      DME_MDCR_PMT         
+                                                                      Durable Medical Equipment Events        
+          
+
+      
+
+                                                                      OTHC_BENE_PMT         
+                                                                      Other Part B Carrier Beneficiary Payments        
+          
+
+      
+
+                                                                      OTHC_MDCR_PMT         
+                                                                      Other Part B Carrier Medicare Payments        
+          
+
+      
+
+                                                                      OTHC_PRMRY_PMT         
+                                                                      Other Part B Carrier Primary Payer Amount        
+          
+
+      
+
+                                                                      OTHC_EVENTS        
+                                                                      Other Part B Carrier Events        
+          
+
+      
+
+                                                                      PTD_BENE_PMT         
+                                                                      Part D Beneficiary Payments        
+          
+
+      
+
+                                                                      PTD_MDCR_PMT         
+                                                                      Part D Medicare Payments        
+          
+
+      
+
+                                                                      PTD_EVENTS         
+                                                                      Part D Event Count        
+          
+
+      
+
+                                                                      PTD_FILL_CNT         
+                                                                      Part D Standardized Fill Count        
+          
+
+      
+
+                                                                      PTD_TOTAL_RX_CST         
+                                                                      Part D Total Prescription Costs        
+          
+
+    
+
+
+  
+
+
+    
+
+  
+          
+
+
+ 
+  
+
+
+
+  
+    
+
+        
+
+  
+    
+      
+  
+          
+
+
+ 
+  
+
+
+
+  
+
+
+                  
+
+
+                      
+
+    
+
+
+    
+  
+
+
+
+
+  
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

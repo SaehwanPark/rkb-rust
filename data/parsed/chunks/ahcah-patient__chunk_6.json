@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahcah-patient__chunk_6",
+  "source_document": "data/raw/html/dataset_page/e4e7d441e332e7ddf0868ff151091dc1906c9165.html",
+  "page": null,
+  "text": "Location Information\nSpecial Considerations\nAHCAH data may need to be requested in conjunction with Part A claims, beneficiary demographic and eligibility data to fully understand the information in the AHCAH dataset.\n\nProgram: \nMedicare, Medicaid\nCategory: \nSpecial Programs\nPrivacy Level: \nResearch Identifiable Files\n\nAvailability of this file\n\nAvailability: \nRelease 1: November 2020-March 2023\nRelease 2: April 2023-September 2025\nDate Requests Can Be Accepted for Upcoming Releases: \nTBD\n\n See",
+  "dataset": "ahcah-patient",
+  "url": "https://resdac.org/cms-data/files/ahcah-patient"
+}

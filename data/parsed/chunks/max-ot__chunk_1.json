@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__chunk_1",
+  "source_document": "data/raw/html/dataset_page/ac50f3d0b395926f11debae52a1bb6bf53dc607c.html",
+  "page": null,
+  "text": "file contains claim records for a variety of Medicaid services, including physician services, outpatient hospital institutional utilization, lab/X-ray, clinic services, home health, hospice and premium payments.\n\nWhat does this file include? (variable highlights)\nAs appropriate for the type of service on the record:\n2 diagnosis codes\n1 procedure code\nBroadly defined Type of Service codes\nCharges and payments (FFS only)\nProvider identifier\nSpecial considerations\nEncounter record reporting may",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot?page=1"
+}

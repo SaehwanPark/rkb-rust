@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_26",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Taxonomy Code\n\n 33\n\n SRVC_PRVDR_TYPE_CD\n\n Servicing Provider Type Code\n\n 34\n\n SRVC_PRVDR_SPCLTY_CD\n\n Servicing Provider Specialty Code (TAF)\n\n 35\n\n REV_CNTR_CHRG_AMT\n\n Revenue Center Charge Amount\n\n 36\n\n LINE_MDCD_ALOWD_AMT\n\n Line Medicaid Allowed Amount\n\n 37\n\n LINE_MDCD_PD_AMT\n\n Line Medicaid Paid Amount\n\n 38\n\n LINE_MDCD_FFS_EQUIV_AMT\n\n Line Medicaid Fee For Service Equivalent Amount\n\n 39\n\n LINE_TP_PD_AMT\n\n Line Third Party Liability Paid Amount\n\n 40\n\n LINE_OTHR_INSRNC_PD_AMT\n\n Line Other Than",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

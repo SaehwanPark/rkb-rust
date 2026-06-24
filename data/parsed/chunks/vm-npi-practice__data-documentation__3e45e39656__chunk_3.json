@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-npi-practice__data-documentation__3e45e39656__chunk_3",
+  "source_document": "data/raw/html/documentation_page/3e45e3965694930db13649f2d6cfc67b29348671.html",
+  "page": null,
+  "text": "Designation \n\n LAST_CLM_DATE \n Date of last Medicare Part B claim billed under practice \n\n BILL_UND_PRAC \n Identified via billings \n\n LST_IN_PECOS \n Identified via PECOS \n\n EP_AVOIDED_PAY_ADJ \n Avoided 2018 PQRS payment adjustment",
+  "dataset": "vm-npi-practice",
+  "url": "https://resdac.org/cms-data/files/vm-npi-practice/data-documentation"
+}

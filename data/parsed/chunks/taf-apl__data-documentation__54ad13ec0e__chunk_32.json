@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_32",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "Service Area Active Indicator — September\n\n 14\n\n MC_PLAN_SAREA_ACTV_IND_10\n\n Managed Care Plan Service Area Active Indicator — October\n\n 15\n\n MC_PLAN_SAREA_ACTV_IND_11\n\n Managed Care Plan Service Area Active Indicator — November\n\n 16\n\n MC_PLAN_SAREA_ACTV_IND_12\n\n Managed Care Plan Service Area Active Indicator — December\n\n 17\n\n RFRNC_YR\n\n Reference Year (TAF)\n\n 18\n\n CCW_APL_LINK_KEY\n\n CCW Key to Link APL base Record to Related Supplement Records\n\n APL Population Enrolled \n\nNumberSAS",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

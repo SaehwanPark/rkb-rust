@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_632",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "therapy. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n578 OXGN_INTRMTNT_DSCHRG_CD OXGN_INTRMTNT_DSCHRG_CD Therapies: Oxygen - Intermittent (Discharge) CHAR 1 This column documents whether, at the time of discharge, the patient was receiving intermittent oxygen therapy. 0 = No \r\n1 = Yes\r\n- = Not Assessed/No Information\n579 OXGN_HIGH_CNCNTRTN_ADMSN_CD OXGN_HIGH_CNCNTRTN_ADMSN_CD Therapies: Oxygen - High-concentration (Admission) CHAR 1 This column documents whether, at the time of admission,",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

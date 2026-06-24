@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-ndi__codebook-mbsf-ndi_pdf__ce6bdf20b0__p30__chunk_2",
+  "source_document": "data/raw/assets/pdf/ce6bdf20b0b93d7392f33d70b2137cdee1ec7e21.pdf",
+  "page": 30,
+  "text": "pulmonary heart disease \nand diseases of pulmonary \ncirculation (I27–I28) \n\n22000 = Other non-pulmonary forms of \nheart disease (I30–I51) \n\n22100 = Acute and subacute \nendocarditis (I33) \n\n22200 = Diseases of pericardium and \nacute myocarditis (I30–I31, I40) \n\n22300 = Other diseases of endocardium \n(I34–I38) \n\n22400 = Nonrheumatic mitral valve \ndisorders (I34) \n 22500 = Nonrheumatic aortic valve disorders \n(I35) \n\n22600 = All other diseases of \nendocardium (I36–I38) \n\n22700 = Cardiomyopathy",
+  "dataset": "mbsf-ndi",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-ndi.pdf"
+}

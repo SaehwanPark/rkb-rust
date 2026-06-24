@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-lt__data-documentation__68204238c2__chunk_6",
+  "source_document": "data/raw/html/documentation_page/68204238c286253d5e458f05aef7dfde120d87fd.html",
+  "page": null,
+  "text": "Indicator\n\n 29\n\n SRVC_BGN_DT\n\n Claim Beginning Date of Service\n\n 30\n\n SRVC_END_DT\n\n Claim Ending Date of Service\n\n 31\n\n SRVC_END_DT_CD\n\n Identifies the Date Field Used to Populate SRVC_END_DT\n\n 32\n\n ADMSM_DT\n\n Admission Date (TAF)\n\n 33\n\n ADMSN_HR\n\n Admission Hour\n\n 34\n\n DSCHRG_DT\n\n Discharge Date\n\n 35\n\n DSCHRG_HR\n\n Discharge Hour\n\n 36\n\n ADMTG_DGNS_CD\n\n Admitting Diagnosis Code\n\n 37\n\n ADMTG_DGNS_VRSN_CD \n\n Admitting Diagnosis Version Code (ICD-9 or ICD-10)\n\n 38\n\n DGNS_CD_1\n\n Primary or Principal",
+  "dataset": "taf-lt",
+  "url": "https://resdac.org/cms-data/files/taf-lt/data-documentation"
+}

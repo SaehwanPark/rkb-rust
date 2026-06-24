@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-formulary__codebook-ptd-formulary_pdf__d1317c4e80__p10__chunk_2",
+  "source_document": "data/raw/assets/pdf/d1317c4e806f94e2c200d2c99be272ebc6fc299c.pdf",
+  "page": 10,
+  "text": "FRMLRY_RX_ID \n\nLONG NAME: FRMLRY_RX_ID \n\nTYPE: CHAR \n\nLENGTH: 8 \n\nSOURCE: PDE and CMS HPMS (derived) \n\n VALUES: 8-digit number \nThe value: 99999999 indicates diabetic supplies. \n\nCOMMENT: This variable was new in 2010. The Formulary Characteristics files are built from the CMS Approved \nFormulary Data found in the CMS’ Health Plan Management System (HPMS) where a proxy NDC is \nassigned to each RXCUI. The proxy NDC for each drug product is mapped to a unique First DataBank \n(FDB) brand name and",
+  "dataset": "part-d-formulary",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ptd-formulary.pdf"
+}

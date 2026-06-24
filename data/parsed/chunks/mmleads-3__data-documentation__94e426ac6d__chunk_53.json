@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_53",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicaid Non-Capitated Payment Amount — March\n\n 78\n\n MDCD_MC_CAPTD_SPEND_03\n\n Medicaid Managed Care Capitated Payment Amount — March\n\n 79\n\n MDCD_TOTAL_USE_04\n\n Medicaid Use (Claim Count) — April\n\n 80\n\n MDCD_TOTAL_SPEND_04\n\n Medicaid Payment Amount — April\n\n 81\n\n MDCD_NON_CAPTD_SPEND_04\n\n Medicaid Non-Capitated Payment Amount — April\n\n 82\n\n MDCD_MC_CAPTD_SPEND_04\n\n Medicaid Managed Care Capitated Payment Amount — April\n\n 83\n\n MDCD_TOTAL_USE_05\n\n Medicaid Use (Claim Count) — May\n\n 84",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

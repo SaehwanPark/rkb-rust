@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_2",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "C\n\nPart D\n\nBase\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted CCW Beneficiary ID \n\n BENE_ENROLLMT_REF_YR \n Reference Year (Base) \n\n ENRL_SRC \n Enrollment Source \n\n SAMPLE_GROUP \n Medicare Sample Group Indicator \n\n ENHANCED_FIVE_PERCENT_FLAG \n Enhanced Medicare 5% Sample Indicator \n\n CRNT_BIC_CD \n Current Beneficiary Identification Code \n\n STATE_CODE \n State code for beneficiary (SSA code) \n\n COUNTY_CD \n County code for beneficiary (SSA code) \n\n ZIP_CD \n Zip code for beneficiary",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

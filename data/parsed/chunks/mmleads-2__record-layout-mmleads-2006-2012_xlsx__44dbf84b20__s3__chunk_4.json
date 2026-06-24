@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-2__record-layout-mmleads-2006-2012_xlsx__44dbf84b20__s3__chunk_4",
+  "source_document": "data/raw/assets/xlsx/44dbf84b2079bde113ba3342dc52d79adaaab07f.xlsx",
+  "page": 3,
+  "text": "D_FFS_LTN_HH_NW\r\nMDCD_FFS_LTN_HOS_W\r\nMDCD_FFS_LTN_HOS_NW\r\nMDCD_FFS_LTN_DME_W\r\nMDCD_FFS_LTN_DME_NW\r\nMDCD_FFS_LTN_PCS_W\r\nMDCD_FFS_LTN_PCS_NW\r\nMDCD_FFS_LTN_RC_W\r\nMDCD_FFS_LTN_RC_NW\r\nMDCD_FFS_LTN_ADC_W\r\nMDCD_FFS_LTN_ADC_NW\n MDCD_FFS_LTN_TS_W\r\nMDCD_FFS_LTN_TS_NW\r\nMDCD_FFS_LTN_TCM_W\r\nMDCD_FFS_LTN_TCM_NW\r\nMDCD_FFS_LTN_PDN_W\r\nMDCD_FFS_LTN_PDN_NW\r\nMDCD_MC_HMO\r\nMDCD_MC_PHP\r\nMDCD_MC_PCCM\r\n(also the MDCD_DRUG categories)\nBeneficiary User Counts BENE_CNT Unduplicated beneficiary count 1 - single row of data",
+  "dataset": "mmleads-2",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-mmleads-2006-2012.xlsx"
+}

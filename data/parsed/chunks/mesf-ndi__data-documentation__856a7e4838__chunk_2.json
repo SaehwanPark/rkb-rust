@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-ndi__data-documentation__856a7e4838__chunk_2",
+  "source_document": "data/raw/html/documentation_page/856a7e4838643c566306030b513d1693d008b4c5.html",
+  "page": null,
+  "text": "National Death Index (NDI)\n\n SAS Name\n Variable Name\n\n BENE_ID \n Encrypted 723 Beneficiary ID (Unique Key) \n\n STATE_CD \n State Code (MESF) \n\n MSIS_ID \n Encrypted Medicaid State ID Number \n\n REF_YR \n Record Reference Year \n\n DM_SOURCE \n Dual or Medicaid only enrollee \n\n DEATH_DT \n Date of Death \n\n NDI_DOD \n NDI Date of Death \n\n NDI_MATCH \n Death confirmed through NDI match \n\n NDI_STATE_DEATH_CD \n NDI State of Death \n\n DEATH_CERT_NUM \n NDI Death Certificate Number \n\n ICD_CODE \n ICD-10 Code",
+  "dataset": "mesf-ndi",
+  "url": "https://resdac.org/cms-data/files/mesf-ndi/data-documentation"
+}

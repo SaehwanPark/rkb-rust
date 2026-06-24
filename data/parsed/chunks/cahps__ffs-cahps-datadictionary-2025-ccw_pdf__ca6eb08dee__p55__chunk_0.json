@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p55__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 55,
+  "text": "A. Crosswalk: 2007 to 2025 - Original Medicare Survey 55 \n\nVariable Reverse 2007 \nYear 1 \n\nma_nocare —– \nma_reconsid —– \nma_appeal —– \nma_forms —– \nma_resolve —– \nma_listen —– \nma_discourage —– \nma_nothing —– \nma_complaint \nma_comphandle \nma_compresolv R \nma_compsat R \npd_hlthplan \npd_hlthplan_txt \npd_covrxmeds \npd_cstryinfo —– \ncs_cstryinfo Q22 \npd_csgetinfo* —– \ncs_csgetinfo* Q23 \npd_csrespect* —– \ncs_csrespect* Q24 \npd_covinfo —– \npd_getcovinf* —– \npd_costinfo —– \npd_getcostinf* —–",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

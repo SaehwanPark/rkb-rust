@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__data-documentation__56c6b73e3a__chunk_9",
+  "source_document": "data/raw/html/documentation_page/56c6b73e3a16f39742a040f570ae1101a0db5d4a.html",
+  "page": null,
+  "text": "Events \n\n PHYS_BENE_PMT \n Part B Physician Beneficiary Payments \n\n PHYS_MDCR_PMT \n Part B Physician Medicare Payments \n\n PHYS_PRMRY_PMT \n Part B Physician Primary Payer Amount \n\n PHYS_EVENTS \n Part B Physician Events \n\n DIALYS_BENE_PMT \n Dialysis Beneficiary Payments \n\n DIALYS_MDCR_PMT \n Dialysis Medicare Payments \n\n DIALYS_PRMRY_PMT \n Dialysis Primary Payer Amount \n\n DIALYS_EVENTS \n Dialysis Events \n\n OPROC_BENE_PMT \n Other Procedures Beneficiary Payments \n\n OPROC_MDCR_PMT \n Other Procedures",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use/data-documentation"
+}

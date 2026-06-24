@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-encounter__data-documentation__cc8c9ec100__chunk_12",
+  "source_document": "data/raw/html/documentation_page/cc8c9ec10085c1e35a3492144e3ee40013ca2d48.html",
+  "page": null,
+  "text": "Claim Diagnosis E Code 10 (Encounter)\n\n 67\n\n RSN_VISIT_CD1\n\n Reason for Visit Diagnosis Code 1 (Encounter)\n\n 68\n\n RSN_VISIT_CD2\n\n Reason for Visit Diagnosis Code 2 (Encounter)\n\n 69\n\n RSN_VISIT_CD3\n\n Reason for Visit Diagnosis Code 3 (Encounter)\n\n 70\n\n ICD_PRCDR_CD1\n\n Claim Procedure Code 1 (Encounter)\n\n 71\n\n ICD_PRCDR_CD2\n\n Claim Procedure Code 2 (Encounter)\n\n 72\n\n ICD_PRCDR_CD3\n\n Claim Procedure Code 3 (Encounter)\n\n 73\n\n ICD_PRCDR_CD4\n\n Claim Procedure Code 4 (Encounter)\n\n 74\n\n ICD_PRCDR_CD5",
+  "dataset": "op-encounter",
+  "url": "https://resdac.org/cms-data/files/op-encounter/data-documentation"
+}

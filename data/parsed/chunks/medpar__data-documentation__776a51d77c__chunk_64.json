@@ -1,0 +1,8 @@
+{
+  "chunk_id": "medpar__data-documentation__776a51d77c__chunk_64",
+  "source_document": "data/raw/html/documentation_page/776a51d77c856d4766b5eb9e5457d692139041ce.html",
+  "page": null,
+  "text": "Adjustment Amount\n\n 367\n\n VBP_ADJSTMT_AMT\n\n Hospital Value Based Purchasing (VBP) Amount\n\n 368\n\n HRR_ADJSTMT_AMT\n\n Hospital Readmission Reduction (HRR) Adjustment Amount\n\n 369\n\n EHR_PYMT_ADJSTMT_AMT\n\n Electronic Health Record (EHR) Payment Adjustment Amount\n\n 370\n\n PPS_STD_VAL_PYMT_AMT\n\n Standard Payment Amount\n\n 371\n\n FINL_STD_AMT\n\n Final Standard Payment Amount\n\n 372\n\n IPPS_FLEX_PYMT_6_AMT\n\n Flexible Payment Amount (6th) - renamed to Hospital Acquired Conditions (HAC) Reduction Payment",
+  "dataset": "medpar",
+  "url": "https://resdac.org/cms-data/files/medpar/data-documentation"
+}

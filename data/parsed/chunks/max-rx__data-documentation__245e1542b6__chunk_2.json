@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-rx__data-documentation__245e1542b6__chunk_2",
+  "source_document": "data/raw/html/documentation_page/245e1542b60667a079cb2e389190d43128123fbf.html",
+  "page": null,
+  "text": "CCW Beneficiary ID \n\n MSIS_ID \n Encrypted MSIS Identification Number \n\n STATE_CD \n State \n\n YR_NUM \n Year of MAX Record \n\n EL_DOB \n Birth date \n\n EL_SEX_CD \n Sex (MAX) \n\n EL_RACE_ETHNCY_CD \n Race/ethnicity (from MSIS) \n\n RACE_CODE_1 \n Race - White (from MSIS) \n\n RACE_CODE_2 \n Race - Black (from MSIS) \n\n RACE_CODE_3 \n Race - Am Indian/Alaskan (from MSIS) \n\n RACE_CODE_4 \n Race - Asian (from MSIS) \n\n RACE_CODE_5 \n Race - Hawaiian/Pac Islands (from MSIS) \n\n ETHNICITY_CODE \n Ethnicity - Hispanic",
+  "dataset": "max-rx",
+  "url": "https://resdac.org/cms-data/files/max-rx/data-documentation"
+}

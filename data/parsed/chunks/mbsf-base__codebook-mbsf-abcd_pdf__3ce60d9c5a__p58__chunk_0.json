@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p58__chunk_0",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 58,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D Codebook │ May 2026 │ V 1.9 50 \n\nRDS_IND_01 \n\nRDS_IND_02 \n\nRDS_IND_03 \n\nRDS_IND_04 \n\nRDS_IND_05 \n\nRDS_IND_06 \n RDS_IND_07 \n\nRDS_IND_08 \n\nRDS_IND_09 \n\nRDS_IND_10 \n\nRDS_IND_11 \n\nRDS_IND_12 \n\nLABEL: Monthly Part D Retiree Drug Subsidy Indicator – January through December \n\nDESCRIPTION: This variable indicates if the beneficiary was enrolled in an employer-sponsored prescription drug plan \nthat",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

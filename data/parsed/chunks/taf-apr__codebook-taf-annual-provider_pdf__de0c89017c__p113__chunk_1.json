@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__codebook-taf-annual-provider_pdf__de0c89017c__p113__chunk_1",
+  "source_document": "data/raw/assets/pdf/de0c89017c1d3e10d2c3fa782cf1871880f29b65.pdf",
+  "page": 113,
+  "text": "FILE(S): APR base \n\nSOURCE: T-MSIS annual provider TAF \n\nVALUES: https://www.cms.gov/Regulations-and-Guidance/Administrative-\nSimplification/NationalProvIdentStand/ \n\nNull/missing = source value is missing or unknown \n\nCOMMENT: The NPI is a unique number assigned to identify providers. NPIs are the standard provider identifiers \nbeginning in 2007. Values and websites referenced may change over time. \n\nTo search CMS’s NPI registry, you may use the following link: https://npiregistry.cms.hhs.gov",
+  "dataset": "taf-apr",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-annual-provider.pdf"
+}

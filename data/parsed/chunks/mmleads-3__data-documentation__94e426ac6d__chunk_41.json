@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_41",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Medicare FFS Payment Amount — Part B Non-Institutional\n\n 18\n\n MDCR_PTD_TOTAL_USE\n\n Medicare Use (Claim Count) — PDE\n\n 19\n\n MDCR_PTD_TOTAL_SPEND\n\n Medicare Payment Amount — PDE\n\n 20\n\n MDCD_IP_TOTAL_USE\n\n Medicaid Use (Claim Count) — Inpatient\n\n 21\n\n MDCD_IP_TOTAL_SPEND\n\n Medicaid Payment Amount — Inpatient\n\n 22\n\n MDCD_LT_TOTAL_USE\n\n Medicaid Use (Claim Count) — Long-Term Care\n\n 23\n\n MDCD_LT_TOTAL_SPEND\n\n Medicaid Payment Amount — Long-Term Care\n\n 24\n\n MDCD_OT_TOTAL_USE\n\n Medicaid Use (Claim",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

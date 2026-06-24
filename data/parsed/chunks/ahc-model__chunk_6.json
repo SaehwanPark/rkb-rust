@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ahc-model__chunk_6",
+  "source_document": "data/raw/html/dataset_page/1c35797b5493f4e27d3fcca1632661f8063b4618.html",
+  "page": null,
+  "text": "file include? (variable highlights)\nPerson level identifiers (i.e., BENE_ID, MSIS_ID) that researchers can use to link to other CMS research files\nSociodemographic variables (e.g., date of birth, race and ethnicity, education, income)\nHRSN screening results (e.g., HRSNs reported, number of ED visits in the 12 months prior to screening)\nNavigation case information for those who were eligible and opted in to receive navigation (e.g., navigation case start and end dates)\nContacts between navigator",
+  "dataset": "ahc-model",
+  "url": "https://resdac.org/cms-data/files/ahc-model"
+}

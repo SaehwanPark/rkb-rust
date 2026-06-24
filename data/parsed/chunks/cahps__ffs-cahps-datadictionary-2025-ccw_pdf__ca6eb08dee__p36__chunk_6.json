@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p36__chunk_6",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 36,
+  "text": "allergy doctors, skin doctors, and other doctors who specialize \nsp_persmd MA-Only Q26 in one area of health care. Is your personal doctor a specialist? \nFFS \nMA-PD \nsp_tryappt MA-Only Q27 In the last 6 months, did you make any appointments with a specialist? \nFFS \nMA-PD \nsp_getappt MA-Only Q28 In the last 6 months, how often did you get an appointment with a specialist as soon as you needed? \nFFS \nMA-PD \nsp_visits MA-Only Q29 How many specialists have you talked to in the last 6 months? \nFFS",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

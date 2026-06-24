@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p117__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 117,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 107 \n\nREV_CNTR_THRU_DT \n\nLABEL: Revenue Center Thru Date \n\nDESCRIPTION: This is the ending date of service for the line item \n\nSHORT NAME: REV_CNTR_THRU_DT \n\nLONG NAME: REV_CNTR_THRU_DT \n\nTYPE: DATE \n\nLENGTH: 8 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP revenue \nSNF revenue \nHH revenue \nOP revenue \n\nVALUES: — \n\nCOMMENT: — \n ^ Back to TOC ^",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

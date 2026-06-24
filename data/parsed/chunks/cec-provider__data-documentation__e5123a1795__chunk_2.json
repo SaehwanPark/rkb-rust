@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cec-provider__data-documentation__e5123a1795__chunk_2",
+  "source_document": "data/raw/html/documentation_page/e5123a1795316feb41120271adc8af7000686d48.html",
+  "page": null,
+  "text": "ESCO_NUMBER \n ESCO Number \n\n ESCO_NAME \n ESCO Name \n\n PERFORMANCE_PERIOD \n Period of Performance \n\n TIN_NUMBER \n Tax ID Number of the practice/facility associated with the Individual NPI \n\n PRNT_PRTCPNT_NPI_NUM \n Parent Participant NPI Number \n\n ORGANIZATION_NAME \n Organization Name \n\n NPI_NUMBER \n Individual NPI Number \n\n PROVIDER_TYPE_DESC \n Provider Type Description \n\n CCN \n CMS Certification Number (CCN; formerly OSCAR number) \n\n CONTACT_FIRST_NAME \n Practitioner First Name",
+  "dataset": "cec-provider",
+  "url": "https://resdac.org/cms-data/files/cec-provider/data-documentation"
+}

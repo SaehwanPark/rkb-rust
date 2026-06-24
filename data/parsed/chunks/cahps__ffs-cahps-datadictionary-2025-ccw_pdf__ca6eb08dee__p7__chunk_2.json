@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p7__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 7,
+  "text": "insurance-employer, union YNE \nins_veteran RECODE : Other insurance-veteran benefit YNE \nins_military RECODE : Other insurance-military tricare YNE \nins_medicaid RECODE : Other insurance-medicaid YNE \nins_ma_pdp RECODE : Other insurance-medicare pdp YNE \nins_other RECODE : Other insurance-other YNE \nins_other_txt RECODE : Other insurance-other, specify \nins_medicare RECODE : Other insurance-none other than medicare YNE \nca_illness RECODE : Last 6 mths, illness or injury requiring immediate care",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

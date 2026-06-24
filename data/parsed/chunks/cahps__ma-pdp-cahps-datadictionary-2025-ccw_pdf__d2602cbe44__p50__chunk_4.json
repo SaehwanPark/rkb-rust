@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p50__chunk_4",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 50,
+  "text": "Q67A Q66A Q63A Q54A Q60A Q46A\npd_forms Q67B Q67B Q67B Q66B Q63B Q54B Q60B Q46B\npd_resolve Q67C Q67C Q67C Q66C Q63C Q54C Q60C Q46C\npd_listen Q67D Q67D Q67D Q66D Q63D Q54D Q60D Q46D\npd_discourage Q67E Q67E Q67E Q66E Q63E Q54E Q60E Q46E\npd_nothing Q67F Q67F Q67F Q66F Q63F Q54F Q60F Q46F\npd_rxcovered Q67G Q67G Q67G Q66G Q63G Q54G Q60G Q46G\npd_ﬁllrx* R Q68A Q68A Q68A Q67A\npd_takemeds* R Q68B Q68B Q68B Q67B\npd_ezrxmeds* Q69 Q69 Q69 Q68 Q64 Q55 Q61 Q47 Q47\npd_rxpharm Q70 Q70 Q70 Q69 Q65 Q56 Q62 Q48",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

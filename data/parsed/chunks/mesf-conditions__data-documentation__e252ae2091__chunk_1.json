@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mesf-conditions__data-documentation__e252ae2091__chunk_1",
+  "source_document": "data/raw/html/documentation_page/e252ae2091db2798540dec6536db5aca3f78d6b2.html",
+  "page": null,
+  "text": "display below, with links to the variable definitions. If no table displays, or if you need additional information for a specific variable, please see the CCW website. Data documentation is available for all files and codebooks for many.\nIf you are unable to locate the information you need, please contact ResDAC.\nCCW Record Layout - MESF Conditions\n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted 723 Beneficiary ID (Unique Key)\n\n 2\n\n STATE_CD\n\n State Code (MESF)\n\n 3\n\n MSIS_ID\n\n Encrypted",
+  "dataset": "mesf-conditions",
+  "url": "https://resdac.org/cms-data/files/mesf-conditions/data-documentation"
+}

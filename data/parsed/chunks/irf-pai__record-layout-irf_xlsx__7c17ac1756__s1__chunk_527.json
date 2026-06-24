@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_527",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "Three Words (Dsch) CHAR 1 This column documents whether, at the time of discharge, the patient was able to repeat three words just spoken to them. 3 = Three \r\n2 = Two \r\n1 = One \r\n0 = None \r\n- = Not Assessed/No Information \r\n^ = Blank\n461 RPT_CRCT_YR_DSCHRG_CD RPT_CRCT_YR_DSCHRG_CD BIMS - Temporal Orientation - Year (Dsch) CHAR 1 This column documents whether, at the time of discharge, the patient was able to identify the current year. 3 = Correct \r\n2 = Missed by 1 year \r\n1 = Missed by 2-5 years",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

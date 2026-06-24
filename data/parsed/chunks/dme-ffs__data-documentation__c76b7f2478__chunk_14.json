@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_14",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "LINE_LAST_EXPNS_DT \n Line Last Expense Date (FFS) \n\n HCPCS_CD \n Healthcare Common Procedure Coding System (HCPCS) Code (FFS) \n\n HCPCS_1ST_MDFR_CD \n HCPCS Initial Modifier Code (FFS) \n\n HCPCS_2ND_MDFR_CD \n HCPCS Second Modifier Code (FFS) \n\n HCPCS_3RD_MDFR_CD \n HCPCS Third Modifier Code (FFS) \n\n HCPCS_4TH_MDFR_CD \n HCPCS Fourth Modifier Code (FFS) \n\n BETOS_CD \n Line Berenson-Eggers Type of Service (BETOS) Code \n\n LINE_NCH_PMT_AMT \n Line NCH Medicare Payment Amount \n\n LINE_BENE_PMT_AMT \n Line",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p13__chunk_0",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 13,
+  "text": "B. 2025 MCAHPS Format Tables 13 \n\ncnd_hbp: RECODE : Dr ever said had: Hypertension or high blood pressure \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n cnd_heartattack: RECODE : Dr ever said had: Heart attack \n\nSAS Format: YNA \n\n1: YES \n\n2: NO \n\ncs_csgetinfo: RECODE : Last 6 mths, how often health plan customer service give info \n\nSAS Format: OFA \n\n1: NEVER \n\n2: SOMETIMES \n\n3: USUALLY \n\n4: ALWAYS \n\ncs_csrespect: RECODE : Last 6 mths, how often health plan customer service treat w/respect and courtesy",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

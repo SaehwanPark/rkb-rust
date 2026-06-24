@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p51__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 51,
+  "text": "R Q70 Q70 Q70 \nmtm_enrollprog Q71 Q71 Q71 \nmtm_medansr R Q72 Q72 Q72 \nmtm_meduse R Q73 Q73 Q73 \nmtm_summ R Q74 Q74 Q74 \nmtm_info R Q75 Q75 Q75 \nmtm_prog R Q76 Q76 Q76 \nknowcare R D Q45 Q45 Q42 \nhelpperscare D Q46 Q46 Q43 \nhelproutine D Q47 Q47 Q44 \nlim_physcond D Q48 Q48 Q45 \ncnd_heartattack Q77A Q77A Q77A Q65A Q62A Q51A Q49A Q49A Q46A \ncnd_angina Q77B Q77B Q77B Q65B Q62B Q51B Q49B Q49B Q46B \ncnd_stroke D Q65C Q62C Q51C Q49C Q49C Q46C \ncnd_hbp Q77C Q77C Q77C \ncnd_cancer Q77D Q77D Q77D Q65D Q62D",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

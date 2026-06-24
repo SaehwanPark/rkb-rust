@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ip__codebook-taf-claims_pdf__3a7e50ca3f__p288__chunk_0",
+  "source_document": "data/raw/assets/pdf/3a7e50ca3fea9874a59b75c2b53d874e249d4e08.pdf",
+  "page": 288,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nTAF Claims RIFs Codebook │ December 2025 │ V 1.8 268 \n\nTOOTH_ORAL_CVTY_AREA_DSGNTD_CD \n\nLABEL: Tooth Oral Cavity Area Designated Code \n\nDESCRIPTION: The area of the oral cavity on which the service was performed. \n\nSHORT NAME: TOOTH_ORAL_CVTY_AREA_DSGNTD_CD \n\nLONG NAME: TOOTH_ORAL_CVTY_AREA_DSGNTD_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: T-MSIS Analytic File (TAF) claims \n\nFILE(S): OT line \n\nVALUES: 00 = Entire Oral Cavity \n01 = Maxillary",
+  "dataset": "taf-ip",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-taf-claims.pdf"
+}

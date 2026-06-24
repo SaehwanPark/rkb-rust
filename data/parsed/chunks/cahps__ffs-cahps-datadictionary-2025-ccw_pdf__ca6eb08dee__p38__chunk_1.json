@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p38__chunk_1",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 38,
+  "text": "more nights in a hospital? \nPDP Q13 \nFFS Q45 \nMA-Only Q44 \nrxezmeds In the last 6 months, how often was it easy to get the medicines your doctor prescribed? \nFFS Q46 \nMA-Only Q45 \nrxinspay Do you have insurance that pays part or all of the cost of your prescription medicines? \nFFS Q47 \nMA-PD Q51 \nMA-Only Q46 \nrxdelay In the last 6 months, did you delay or not fill a prescription because you felt you could not afford it? \nPDP Q14 \nFFS Q48 \nMA-PD Q53A \nMA-Only Q48A Has a doctor ever told you that",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

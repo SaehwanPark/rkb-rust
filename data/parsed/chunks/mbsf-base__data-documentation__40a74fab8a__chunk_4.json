@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__data-documentation__40a74fab8a__chunk_4",
+  "source_document": "data/raw/html/documentation_page/40a74fab8ae8f274c1bc32c721391677d6a40df2.html",
+  "page": null,
+  "text": "State and county FIPS code - May \n\n STATE_CNTY_FIPS_CD_06 \n State and county FIPS code - June \n\n STATE_CNTY_FIPS_CD_07 \n State and county FIPS code - July \n\n STATE_CNTY_FIPS_CD_08 \n State and county FIPS code - August \n\n STATE_CNTY_FIPS_CD_09 \n State and county FIPS code - September \n\n STATE_CNTY_FIPS_CD_10 \n State and county FIPS code - October \n\n STATE_CNTY_FIPS_CD_11 \n State and county FIPS code - November \n\n STATE_CNTY_FIPS_CD_12 \n State and county FIPS code - December",
+  "dataset": "mbsf-base",
+  "url": "https://resdac.org/cms-data/files/mbsf-base/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p224__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 224,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 206 \n\n LINE_HCT_HGB_RSLT_NUM \n\nLABEL: Hematocrit/Hemoglobin Test Results \n\nDESCRIPTION: This is the laboratory value for the most recent hematocrit or hemoglobin reading on the non-\ninstitutional claim. \n\nSHORT NAME: HCTHGBRS \n\nLONG NAME: LINE_HCT_HGB_RSLT_NUM \n\nTYPE: NUM \n\nLENGTH: 4 \n\nSOURCE: NCH \n\nVALUES: — \n\nCOMMENT: This variable became effective 9/2008 to comply with CR#",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

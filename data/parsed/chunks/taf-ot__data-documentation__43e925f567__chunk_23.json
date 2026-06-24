@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_23",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Software Refined (CCSR) Category Cd\n\n 33\n\n NDC\n\n National Drug Code\n\n 34\n\n NDC_UOM_CD\n\n NDC Unit of Measure Code\n\n 35\n\n NDC_QTY\n\n NDC Quantity Dispensed\n\n 36\n\n IMNZTN_TYPE_CD\n\n Immunization Type Code\n\n 37\n\n SELF_DRCTN_TYPE_CD\n\n Beneficiary Service Self-Direction Type Code\n\n 38\n\n PRE_AUTHRZTN_NUM\n\n Pre-Authorization Number\n\n 39\n\n HCBS_SRVC_CD\n\n Home- and Community-Based Services Service Code\n\n 40\n\n HCBS_TXNMY_CD\n\n Home- and Community-Based Services Taxonomy Code\n\n 41\n\n TOOTH_DSGNTN_SYS\n\n Tooth",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

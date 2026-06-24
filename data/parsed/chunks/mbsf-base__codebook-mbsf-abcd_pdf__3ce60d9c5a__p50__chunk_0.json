@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-base__codebook-mbsf-abcd_pdf__3ce60d9c5a__p50__chunk_0",
+  "source_document": "data/raw/assets/pdf/3ce60d9c5a3b97f691686c5fdd76b1f633f07612.pdf",
+  "page": 50,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMBSF with Medicare Part A, B, C, and D Codebook │ May 2026 │ V 1.9 42 \n\nPTD_CNTRCT_ID_01 \n\nPTD_CNTRCT_ID_02 \n\nPTD_CNTRCT_ID_03 \n\nPTD_CNTRCT_ID_04 \n\nPTD_CNTRCT_ID_05 \n\nPTD_CNTRCT_ID_06 \n PTD_CNTRCT_ID_07 \n\nPTD_CNTRCT_ID_08 \n\nPTD_CNTRCT_ID_09 \n\nPTD_CNTRCT_ID_10 \n\nPTD_CNTRCT_ID_11 \n\nPTD_CNTRCT_ID_12 \n\nLABEL: Monthly Part D Contract Number – January through December \n\nDESCRIPTION: This variable is the Part D contract number for the",
+  "dataset": "mbsf-base",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-mbsf-abcd.pdf"
+}

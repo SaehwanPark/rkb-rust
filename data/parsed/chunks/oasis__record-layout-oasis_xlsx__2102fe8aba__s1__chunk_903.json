@@ -1,0 +1,8 @@
+{
+  "chunk_id": "oasis__record-layout-oasis_xlsx__2102fe8aba__s1__chunk_903",
+  "source_document": "data/raw/assets/xlsx/2102fe8aba60550816b99a0ae8ceb566105ee9b5.xlsx",
+  "page": 1,
+  "text": "rehabilitation therapy in the past 5 days \r\n1. Rarely or not at all \r\n2. Occasionally \r\n3. Frequently \r\n4. Almost constantly \r\n8. Unable to answe CHAR 1 x\nJ0530_PAIN_DAY_DAY_CD Pain interference with day-to-day activities Indicates how much of the time, over the past 5 days, the patient has limited their day-to-day activities (excluding rehabilitation therapy\r\nsessions) because of pain. 1. Rarely or not at all \r\n2. Occasionally \r\n3. Frequently \r\n4. Almost constantly \r\n8. Unable to answer CHAR 1",
+  "dataset": "oasis",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-oasis.xlsx"
+}

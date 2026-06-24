@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_9",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "ICD_DGNS_CD10 \n Claim Diagnosis Code 10 (Encounter) \n\n ICD_DGNS_VRSN_CD10 \n Claim Diagnosis Code 10 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD11 \n Claim Diagnosis Code 11 (Encounter) \n\n ICD_DGNS_VRSN_CD11 \n Claim Diagnosis Code 11 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD12 \n Claim Diagnosis Code 12 (Encounter) \n\n ICD_DGNS_VRSN_CD12 \n Claim Diagnosis Code 12 Diagnosis Version Code (ICD-9 or ICD-10) (Encounter) \n\n ICD_DGNS_CD13 \n Claim",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

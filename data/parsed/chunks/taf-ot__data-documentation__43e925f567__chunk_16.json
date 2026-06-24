@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_16",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Remittance Number\n\n 92\n\n DA_RUN_ID\n\n TAF Production Run Identifier (unique for each TAF run)\n\n 93\n\n TMSIS_RUN_ID\n\n TMSIS State Data Processing Run Identifier\n\n 94\n\n OT_VRSN\n\n Other Services Version Representing the Iteration of the File\n\n 95\n\n OT_FIL_DT\n\n Other Services File Date - Represents the Year and Month of the Reporting Period\n\n 96\n\n CCW_LD_DT\n\n CCW Load Date (Claims)\n\n Occurrence Code File \n\nNumberSAS NameVariable Name\n\n 97\n\n BENE_ID\n\n Encrypted CCW Beneficiary Identifier\n\n 98",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

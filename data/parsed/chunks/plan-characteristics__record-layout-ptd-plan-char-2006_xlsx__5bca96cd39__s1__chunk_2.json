@@ -1,0 +1,8 @@
+{
+  "chunk_id": "plan-characteristics__record-layout-ptd-plan-char-2006_xlsx__5bca96cd39__s1__chunk_2",
+  "source_document": "data/raw/assets/xlsx/5bca96cd39cc16c427cfa140c37b408838ef51df.xlsx",
+  "page": 1,
+  "text": "within a contract.\n6 organization_marketing_name Organization Marketing Name Char 150 Name used for marketing the Medicare Part D organization.\n7 effective_date Effective Date Char 10 The effective date of the contract.\n8 organization_type Organization Type Char 2 Type of organization for the contract. 1 Local CCP\n 4 PFFS\n 5 Demo\n 6 1876 Cost\n 8 National PACE\n 10 PDP\n 11 Regional CCP\n9 plan_type Plan Type Char 2 Type of Part D plan. 01 HMO\n 02 HMOPOS\n 04 PPO\n 05 PSO (State License)\n 06 PSO",
+  "dataset": "plan-characteristics",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-ptd-plan-char-2006.xlsx"
+}

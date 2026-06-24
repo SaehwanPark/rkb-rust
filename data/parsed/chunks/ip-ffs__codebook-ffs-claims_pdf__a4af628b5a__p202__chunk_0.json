@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p202__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 202,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 184 \n\nICD_DGNS_CD1 \n\nICD_DGNS_CD2 \n\nICD_DGNS_CD3 \n\nICD_DGNS_CD4 \n\nICD_DGNS_CD5 \n\nICD_DGNS_CD6 \n\nICD_DGNS_CD7 \n\nICD_DGNS_CD8 \n\nICD_DGNS_CD9 \n\nICD_DGNS_CD10 \n\nICD_DGNS_CD11 \n\nICD_DGNS_CD12 \n\nICD_DGNS_CD13 \n ICD_DGNS_CD14 \n\nICD_DGNS_CD15 \n\nICD_DGNS_CD16 \n\nICD_DGNS_CD17 \n\nICD_DGNS_CD18 \n\nICD_DGNS_CD19 \n\nICD_DGNS_CD20 \n\nICD_DGNS_CD21 \n\nICD_DGNS_CD22 \n\nICD_DGNS_CD23 \n\nICD_DGNS_CD24",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

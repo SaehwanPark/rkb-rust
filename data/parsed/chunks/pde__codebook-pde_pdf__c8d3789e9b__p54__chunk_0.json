@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__codebook-pde_pdf__c8d3789e9b__p54__chunk_0",
+  "source_document": "data/raw/assets/pdf/c8d3789e9b9a3e36ec93e4d39d180a1ab4ef52ce.pdf",
+  "page": 54,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare Part D Event (PDE)/Drug Characteristics Codebook │ July 2025 │ V 1.8 49 \n\nPTNT_RSDNC_CD \n\nLABEL: Patient Residence Code \n\nDESCRIPTION: This variable indicates where the beneficiary lived when the prescription was filled, as reported on the \nPDE record. \n\nSHORT NAME: — \n\nLONG NAME: PTNT_RSDNC_CD \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: PDE \n\nVALUES: 00 = Not specified, other patient residence not identified below \n01 = Home \n03 =",
+  "dataset": "pde",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-pde.pdf"
+}

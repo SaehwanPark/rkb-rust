@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-cost-and-use__chunk_4",
+  "source_document": "data/raw/html/dataset_page/7552ff2238b2b2e9031180b3717bf5761986387c.html",
+  "page": null,
+  "text": "(MBSF) Base A/B/C/D file includes beneficiary enrollment information, (A/B/C/D). Medicare…\n\n Master Beneficiary Summary File 27 CCW Chronic Conditions \n\n The 27 CCW Chronic Conditions segment of the Master Beneficiary Summary File (MBSF) flags each Medicare beneficiary for the presence…\n\n Master Beneficiary Summary File Other Chronic or Potentially Disabling Conditions \n\n The Master Beneficiary Summary File (MBSF) Other Chronic or Potentially Disabling Conditions segment flags beneficiary",
+  "dataset": "mbsf-cost-and-use",
+  "url": "https://resdac.org/cms-data/files/mbsf-cost-and-use"
+}

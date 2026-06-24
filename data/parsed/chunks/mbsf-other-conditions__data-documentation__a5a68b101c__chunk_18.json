@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-other-conditions__data-documentation__a5a68b101c__chunk_18",
+  "source_document": "data/raw/html/documentation_page/a5a68b101c9149eb5f1459b2813c233bfc0b09cc.html",
+  "page": null,
+  "text": "Use of Medication-Assisted Treatment (MAT) First Ever Occurrence Date- Medicare Only Claims \n\n PSDS_MEDICARE \n Personality Disorders End-of-Year Indicator - Medicare Only Claims \n\n PSDS_MEDICARE_EVER \n Personality Disorders First Ever Occurrence Date - Medicare Only Claims \n\n PTRA_MEDICARE \n Post-Traumatic Stress Disorder End-of-Year Indicator - Medicare Only Claims \n\n PTRA_MEDICARE_EVER \n Post-Traumatic Stress Disorder First Ever Occurrence Date - Medicare Only Claims \n\n PVD_MEDICARE",
+  "dataset": "mbsf-other-conditions",
+  "url": "https://resdac.org/cms-data/files/mbsf-other-conditions/data-documentation"
+}

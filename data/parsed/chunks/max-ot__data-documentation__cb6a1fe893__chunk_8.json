@@ -1,0 +1,8 @@
+{
+  "chunk_id": "max-ot__data-documentation__cb6a1fe893__chunk_8",
+  "source_document": "data/raw/html/documentation_page/cb6a1fe893be87f24ba21899636e73ef0ee381c1.html",
+  "page": null,
+  "text": "Servicing provider identification number (MAX) \n\n SRVC_PRVDR_SPEC_CD \n Servicing provider specialty code (MAX) \n\n PLC_OF_SRVC_CD \n Place of service \n\n UB_92_REV_CD \n UB-92 revenue code",
+  "dataset": "max-ot",
+  "url": "https://resdac.org/cms-data/files/max-ot/data-documentation"
+}

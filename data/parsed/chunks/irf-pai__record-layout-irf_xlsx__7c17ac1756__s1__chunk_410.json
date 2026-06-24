@@ -1,0 +1,8 @@
+{
+  "chunk_id": "irf-pai__record-layout-irf_xlsx__7c17ac1756__s1__chunk_410",
+  "source_document": "data/raw/assets/xlsx/7c17ac17564c08a550183914917ae962de8f3862.xlsx",
+  "page": 1,
+  "text": "assistance\r\n06 = Independent\r\n07 = Patient refused\r\n09 = Not applicable\r\n10 = Not attempted due to environmental limitations\r\n88 = Not attempted due to medical condition or safety concerns\n352 GG0170J3_WLK_50_2_TURN_END_CD GG0170J3_WLK_50_2_TURN_END_CD GG0170J3 Discharge Performance Walk 50 Feet Code - The data in this column indicates the patient's ability to walk at least 50 feet and make two turns at the time of discharge. CHAR 2 The data in this column indicates the patient's ability to",
+  "dataset": "irf-pai",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/record-layout-irf.xlsx"
+}

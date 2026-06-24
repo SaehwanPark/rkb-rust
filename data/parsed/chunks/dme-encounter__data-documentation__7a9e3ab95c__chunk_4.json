@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-encounter__data-documentation__7a9e3ab95c__chunk_4",
+  "source_document": "data/raw/html/documentation_page/7a9e3ab95c81408f2ef1644024e5ac09aae2fff6.html",
+  "page": null,
+  "text": "Medicare Part C Contract Number \n\n CNTRCT_PBP_NUM \n Medicare Part C Plan Benefit Package (PBP) Number \n\n CLM_MDCL_REC \n Claim Medical Record Number (Encounter) \n\n ORG_NPI \n Organization NPI Number (Encounter) \n\n ORG_TXNMY_CD \n Organization Taxonomy Code \n\n CLM_PLACE_OF_SRVC_CD \n Claim Place of Service Code \n\n CLM_RNDRNG_PHYSN_NPI_NUM \n Claim Rendering Physician NPI Number \n\n RFR_PHYSN_NPI \n Claim Referring Physician NPI Number \n\n PRNCPAL_DGNS_CD \n Claim Principal Diagnosis Code (Encounter)",
+  "dataset": "dme-encounter",
+  "url": "https://resdac.org/cms-data/files/dme-encounter/data-documentation"
+}

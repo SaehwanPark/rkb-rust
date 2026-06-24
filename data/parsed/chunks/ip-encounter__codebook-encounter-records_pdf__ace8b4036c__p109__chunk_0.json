@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p109__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 109,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 99 \n\n66 = Rheumatology \n67 = Occupational therapist (private \npractice) \n68 = Clinical psychologist \n72 = Pain Management \n76 = Peripheral vascular disease \n77 = Vascular surgery \n78 = Cardiac surgery \n79 = Addiction medicine \n80 = Licensed clinical social worker \n81 = Critical care (intensivists) \n82 = Hematology \n83 = Hematology/oncology \n 84 = Preventive medicine \n85 = Maxillofacial",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

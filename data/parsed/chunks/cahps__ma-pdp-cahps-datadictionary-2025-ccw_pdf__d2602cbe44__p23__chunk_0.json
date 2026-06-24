@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p23__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 23,
+  "text": "B. 2025 MCAHPS Format Tables 23\n\nrate_care: RECODE : Last 6 mths, rate health care\n\nSAS Format: RTA\n\n4: 4\n\n5: 5\n\n6: 6\n\n7: 7\n\n8: 8\n\n9: 9\n\n10: BEST POSSIBLE\n\nrate_md: RECODE : Rate personal MD\n\nSAS Format: RTA\n\n0: WORST POSSIBLE\n\n1: 1\n\n2: 2\n\n3: 3\n\n4: 4\n\n5: 5\n\n6: 6\n\n7: 7\n\n8: 8\n\n9: 9\n\n10: BEST POSSIBLE\n\nrate_pdp: RECODE : Rate prescription drug plan\n\nSAS Format: RTA\n\n0: WORST POSSIBLE\n\n1: 1\n\n2: 2\n\n3: 3\n\n4: 4\n\n5: 5\n\n6: 6\n\n7: 7\n\n8: 8\n\n9: 9\n\n10: BEST POSSIBLE\n\nrate_plan: RECODE : Rate health plan\n\nSAS",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

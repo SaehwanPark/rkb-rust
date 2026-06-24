@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p28__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 28,
+  "text": "REGIONAL PPO\n\n32: FALLBACK\n\n33: MN DISABILITY HEALTH OPTIONS\n\n34: MN SENIOR HEALTH OPTIONS\n\n35: WI PARTNERSHIP PROGRAM\n\n36: MA HEALTH SENIOR CARE OPTIONS\n\n37: CONTINUING CARE RETIREMENT COMMUNITY\n\n38: ESRD I\n\n39: ESRD II\n\n40: EMPLOYER-SPONSORED PFFS\n\n46: POINT-OF-SALE CONTRACTOR\n\n48: MMP HMO\n\nUK: UNKNOWN\n\nsa_ptd_prm_c: Part D Premium Range\n\nSAS Format: $PRM\n\n0: UNKNOWN\n\n1: 00.00\n\n2: 00.01-9.99\n\n3: 10.00-19.99\n\n4: 20.00-29.99\n\n5: 30.00-39.99\n\n6: 40.00-49.99\n\n7: 50.00+",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

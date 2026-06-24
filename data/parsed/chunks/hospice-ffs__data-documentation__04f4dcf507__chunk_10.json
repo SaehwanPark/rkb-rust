@@ -1,0 +1,8 @@
+{
+  "chunk_id": "hospice-ffs__data-documentation__04f4dcf507__chunk_10",
+  "source_document": "data/raw/html/documentation_page/04f4dcf5076501e9f5760cd735190c8954eeabeb.html",
+  "page": null,
+  "text": "(FFS)\n\n 54\n\n ICD_DGNS_CD14\n\n Claim Diagnosis Code XIV (FFS)\n\n 55\n\n ICD_DGNS_CD15\n\n Claim Diagnosis Code XV (FFS)\n\n 56\n\n ICD_DGNS_CD16\n\n Claim Diagnosis Code XVI (FFS)\n\n 57\n\n ICD_DGNS_CD17\n\n Claim Diagnosis Code XVII (FFS)\n\n 58\n\n ICD_DGNS_CD18\n\n Claim Diagnosis Code XVIII (FFS)\n\n 59\n\n ICD_DGNS_CD19\n\n Claim Diagnosis Code XIX (FFS)\n\n 60\n\n ICD_DGNS_CD20\n\n Claim Diagnosis Code XX (FFS)\n\n 61\n\n ICD_DGNS_CD21\n\n Claim Diagnosis Code XXI (FFS)\n\n 62\n\n ICD_DGNS_CD22\n\n Claim Diagnosis Code XXII (FFS)",
+  "dataset": "hospice-ffs",
+  "url": "https://resdac.org/cms-data/files/hospice-ffs/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_8",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "Patient Discharge Status Code (FFS)\n\n 40\n\n CLM_TOT_CHRG_AMT\n\n Claim Total Charge Amount\n\n 41\n\n NCH_BENE_BLOOD_DDCTBL_LBLTY_AM\n\n NCH Beneficiary Blood Deductible Liability Amount\n\n 42\n\n NCH_PROFNL_CMPNT_CHRG_AMT\n\n Professional Component Charge Amount\n\n 43\n\n NCH_BLOOD_PNTS_FRNSHD_QTY\n\n NCH Blood Pints Furnished Quantity\n\n 44\n\n PRNCPAL_DGNS_CD\n\n Claim Principal Diagnosis Code (FFS)\n\n 45\n\n ICD_DGNS_CD1\n\n Claim Diagnosis Code I (FFS)\n\n 46\n\n ICD_DGNS_CD2\n\n Claim Diagnosis Code II (FFS)\n\n 47",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

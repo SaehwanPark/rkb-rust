@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-ffs__codebook-ffs-claims_pdf__a4af628b5a__p69__chunk_0",
+  "source_document": "data/raw/assets/pdf/a4af628b5ad494c93baa8921ab4d55ef29217d67.pdf",
+  "page": 69,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMedicare FFS Claims (version L) Codebook │ May 2026 │ V 1.15 51 \n\nCLAIM_QUERY_CODE \n\nLABEL: Claim Query Code \n\nDESCRIPTION: Code indicating the type of claim record being processed with respect to payment (debit/credit \nindicator; interim/final indicator). \n\nSHORT NAME: QUERY_CD \n\nLONG NAME: CLAIM_QUERY_CODE \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: NCH \n\nVALUES: 1 = Interim bill \n3 = Final bill \n5 = Debit adjustment \n\nCOMMENT: — \n ^ Back to",
+  "dataset": "ip-ffs",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-ffs-claims.pdf"
+}

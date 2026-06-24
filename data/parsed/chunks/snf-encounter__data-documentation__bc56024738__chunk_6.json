@@ -1,0 +1,8 @@
+{
+  "chunk_id": "snf-encounter__data-documentation__bc56024738__chunk_6",
+  "source_document": "data/raw/html/documentation_page/bc56024738729e306e5ee3f1b54282a875b74624.html",
+  "page": null,
+  "text": "NPI Number (Encounter)\n\n 28\n\n CLM_ADMSN_DT\n\n Claim Admission Date (Encounter)\n\n 29\n\n CLM_IP_ADMSN_TYPE_CD\n\n Claim Inpatient Admission Type Code (Encounter)\n\n 30\n\n CLM_SRC_IP_ADMSN_CD \n\n Claim Source Inpatient Admission Code (Encounter)\n\n 31\n\n PTNT_DSCHRG_STUS_CD\n\n Patient Discharge Status Code (Encounter)\n\n 32\n\n CLM_DAY_CNT\n\n Day Count (Length of Stay)\n\n 33\n\n BENE_DSCHRG_DT\n\n Beneficiary Discharge Date\n\n 34\n\n CLM_DRG_CD\n\n Claim Diagnosis Related Group Code (or MS-DRG Code) (Encounter)\n\n 35",
+  "dataset": "snf-encounter",
+  "url": "https://resdac.org/cms-data/files/snf-encounter/data-documentation"
+}

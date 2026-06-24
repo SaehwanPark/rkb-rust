@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apr__data-documentation__4b6fa6bd99__chunk_7",
+  "source_document": "data/raw/html/documentation_page/4b6fa6bd99a6df68962fe05bc883c5d7a0aa4c70.html",
+  "page": null,
+  "text": "First Name — Individual\n\n 27\n\n PRVDR_MDL_INITL_NAME\n\n Provider Middle Initial — Individual\n\n 28\n\n PRVDR_SEX_CD\n\n Provider Sex Code\n\n 29\n\n PRVDR_BIRTH_DT\n\n Provider Date of Birth\n\n 30\n\n PRVDR_DEATH_DT\n\n Provider Date of Death\n\n 31\n\n PRVDR_AGE\n\n Provider Age (in Years)\n\n 32\n\n TCHNG_IND\n\n Provider Organization Teaching Facility Indicator — Ever in Calendar Year\n\n 33\n\n OWNRSHP_CD\n\n Provider Ownership Code — Latest in Year\n\n 34\n\n OWNRSHP_CTGRY_CD\n\n Provider Ownership Category Code — Latest in Year",
+  "dataset": "taf-apr",
+  "url": "https://resdac.org/cms-data/files/taf-apr/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "op-ffs__data-documentation__98b7c41c59__chunk_39",
+  "source_document": "data/raw/html/documentation_page/98b7c41c59324a19534b3a875a60fe0f7a82596e.html",
+  "page": null,
+  "text": "ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n RLT_COND_CD_SEQ\n\n Claim Related Condition Code Sequence\n\n 5\n\n CLM_RLT_COND_CD\n\n Claim Related Condition Code (FFS)\n\n Occurence Code File \n\nNumberSAS NameVariable Name\n\n 1\n\n BENE_ID\n\n Encrypted CCW Beneficiary ID\n\n 2\n\n CLM_ID\n\n Claim ID\n\n 3\n\n NCH_CLM_TYPE_CD\n\n NCH Claim Type Code\n\n 4\n\n RLT_OCRNC_CD_SEQ\n\n Claim Related Occurrence Code Sequence\n\n 5\n\n CLM_RLT_OCRNC_CD\n\n Claim Related Occurrence Code (FFS)\n\n 6\n\n CLM_RLT_OCRNC_DT\n\n Claim Related",
+  "dataset": "op-ffs",
+  "url": "https://resdac.org/cms-data/files/op-ffs/data-documentation"
+}

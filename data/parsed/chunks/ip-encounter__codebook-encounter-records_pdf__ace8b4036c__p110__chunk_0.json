@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p110__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 110,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 100 \n\nPTNT_DSCHRG_STUS_CD \n\nLABEL: Patient Discharge Status Code \n\nDESCRIPTION: The code used to identify the status of the patient as of the CLM_THRU_DT. \n\nSHORT NAME: \n\nLONG NAME: \n\nTYPE: CHAR \n\nLENGTH: 2 \n\nSOURCE: Medicare Advantage Organizations (MAOs) \n\nFILE(S): IP base \nSNF base \n\nVALUES: This code set is an external code set maintained by the National Uniform Billing Committee",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

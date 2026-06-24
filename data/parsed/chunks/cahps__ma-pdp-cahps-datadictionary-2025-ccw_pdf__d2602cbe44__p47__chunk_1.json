@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p47__chunk_1",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 47,
+  "text": "Q61B Q64B Q63B Q63C Q63C Q63C Q63C Q63C\nrace_paciﬁc Q61D Q64D Q63D Q63D Q63D Q63D Q63D Q63D\nrace_natamer Q61A Q64A Q63A Q63E Q63E Q63E Q63E Q63E\nproxy Q65 Q68 Q67 Q67 Q67 Q67 Q67 Q67\nproxy_read Q66A Q69A Q68A Q68A Q68A Q68A Q68A Q68A\nproxy_writ Q66B Q69B Q68B Q68B Q68B Q68B Q68B Q68B\nproxy_answ Q66C Q69C Q68C Q68C Q68C Q68C Q68C Q68C\nproxy_tran Q66D Q69D Q68D Q68D Q68D Q68D Q68D Q68D\nproxy_othr Q66E Q69E Q68E Q68E Q68E Q68E Q68E Q68E\nproxy_othr_txt\nliving_arr\nliving_arr_txt\nliving_alone\nliving_n",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p63__chunk_4",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 63,
+  "text": "Q21 Q20 Q20\nmd_medrecs* Q20 Q20 Q20 Q22 Q22\nmd_hlthcond —– —– —–\nmd_ezinstr —– —– —–\nmd_descinstr —– —– —–\nmd_test Q21 Q21 Q21 Q23 Q23 Q22 Q22\nmd_testfup* Q22 Q22 Q22 Q24 Q24 Q23 Q23\nmd_testasan* Q23 Q23 Q23 Q25 Q25\nmd_rxmeds Q24 Q24 Q24 Q26 Q26\nmd_talkmeds* Q25 Q25 Q25 Q27 Q27\nmd_hhdevice R Q26 Q26 Q26\nmd_hhdhelp R Q27 Q27 Q27\nmd_hhdtalk Q28 Q28 Q28\nmd_morethan1 Q29 Q29 Q29 Q28 Q28\nmd_needmngca Q30 Q30 Q30 Q29 Q29\nmd_getmngca* R Q31 Q31 Q31 Q30 Q30\nmd_cacoord D Q31 Q24\nmd_visnotes R Q32 Q32",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

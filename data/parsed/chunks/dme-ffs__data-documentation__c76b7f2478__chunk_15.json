@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_15",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Type of Service (BETOS) Code \n\n LINE_NCH_PMT_AMT \n Line NCH Medicare Payment Amount \n\n LINE_BENE_PMT_AMT \n Line Payment Amount to Beneficiary \n\n LINE_PRVDR_PMT_AMT \n Line Provider Payment Amount \n\n LINE_BENE_PTB_DDCTBL_AMT \n Line Beneficiary Part B Deductible Amount \n\n LINE_BENE_PRMRY_PYR_CD \n Line Primary Payer Code (if not Medicare) \n\n LINE_BENE_PRMRY_PYR_PD_AMT \n Line Primary Payer (if not Medicare) Paid Amount \n\n LINE_COINSRNC_AMT \n Line Beneficiary Coinsurance Amount",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

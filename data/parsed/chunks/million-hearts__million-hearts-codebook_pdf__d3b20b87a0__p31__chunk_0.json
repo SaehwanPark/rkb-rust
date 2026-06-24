@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p31__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 31,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 26 \n\nIS_MEDICARE_PARTB \n\nLABEL: Identify if the Patient is Enrolled in Medicare Part B \n\nDESCRIPTION: Identify if the patient is enrolled in Medicare Part B at the time of enrollment in the project. \n\nSHORT NAME: IS_MEDICARE_PARTB \n\nLONG NAME: IS_MEDICARE_PARTB \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nFILE(S): Demographic \n\nSOURCE: Million Hearts Data Registry",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

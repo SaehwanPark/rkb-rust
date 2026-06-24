@@ -1,0 +1,8 @@
+{
+  "chunk_id": "ip-encounter__codebook-encounter-records_pdf__ace8b4036c__p42__chunk_0",
+  "source_document": "data/raw/assets/pdf/ace8b4036c73edd88167f0ea9a3d49439a3af313.pdf",
+  "page": 42,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nEncounter Records RIFs Codebook │ May 2025 │ V 1.7 32 \n\nCLM_LTST_CLM_IND \n\nLABEL: Latest Claim Indicator \n\nDESCRIPTION: This variable indicates if the record is the latest action. \n\nSHORT NAME: CLM_LTST_CLM_IND \n\nLONG NAME: CLM_LTST_CLM_IND \n\nTYPE: CHAR \n\nLENGTH: 1 \n\nSOURCE: CMS Integrated Data Repository (IDR) \n\nFILE(S): IP base \nSNF base \nHH base \nOP base \nCarrier base \nDME base \n\nVALUES: Y = Latest action and the record could be a",
+  "dataset": "ip-encounter",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/codebook-encounter-records.pdf"
+}

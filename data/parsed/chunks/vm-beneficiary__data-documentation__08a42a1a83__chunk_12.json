@@ -1,0 +1,8 @@
+{
+  "chunk_id": "vm-beneficiary__data-documentation__08a42a1a83__chunk_12",
+  "source_document": "data/raw/html/documentation_page/08a42a1a832c28d51a4cfa60f82a32b414fa3946.html",
+  "page": null,
+  "text": "MAJOR_PROCS_INGRP \n Total costs for major procedures billed by EPs in practice \n\n TOTAL_PA \n Total costs for other post-acute care services (excluding hospice) \n\n OP_THERAPY \n Total costs for outpatient physical therapy, occupational therapy, or speech and language pathology therapy \n\n CCN \n CCN of hospital at which hospitalization occurred \n\n RADM30 \n Hospital readmission within 30 days \n\n DGNSCD01 \n Primary diagnosis code for hospital admission \n\n SHORT_DESCRIPTION \n Description of",
+  "dataset": "vm-beneficiary",
+  "url": "https://resdac.org/cms-data/files/vm-beneficiary/data-documentation"
+}

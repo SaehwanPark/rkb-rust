@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ma-pdp-cahps-datadictionary-2025-ccw_pdf__d2602cbe44__p56__chunk_0",
+  "source_document": "data/raw/assets/pdf/d2602cbe44c673c77cf8472b3ff5f084d5a5c3aa.pdf",
+  "page": 56,
+  "text": "A. Crosswalk: 2007 to 2025 - MA-PD Survey 56\n\nVariable Reverse 2007\nYear 1\n\nlim_climb Q49\nlim_acomls R Q50\nlim_regact R Q51\nlim_acomlsem R Q52\nlim_regactem R Q53\nlim_painint R Q54\nsf_calm R Q55\nsf_energy R Q56\nsf_downblue Q57\nlim_socacts Q58\nds_nointerest R\nds_depressed R\ncnd_seemd2 Q59\ncnd_last3mo Q60\ncnd_rxmeds Q61\ncnd_meds3mo Q62\nrxmedslist Q63\nrxezmeds\nrxinspay\nrxdelay Q64\nrxmailunreq\npdpenroll R\nmtm_enrollprog\nmtm_medansr R\nmtm_meduse R\nmtm_summ R\nmtm_info R\nmtm_prog R\nknowcare R",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/MA_PDP_CAHPS_DataDictionary_2025_CCW.pdf"
+}

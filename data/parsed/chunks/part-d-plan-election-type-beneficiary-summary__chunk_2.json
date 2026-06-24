@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-plan-election-type-beneficiary-summary__chunk_2",
+  "source_document": "data/raw/html/dataset_page/000224f3381ebc39db622e3eee762a28c41e05ec.html",
+  "page": null,
+  "text": "Medicare or Medicaid data files\nContract ID and Plan ID: linkage to the Part D Plan Characteristics file\nWhy do researchers request this file?\nConduct research that identifies LIS beneficiaries and studies the effects of Part D auto-assignment, and reassignment policies.\nSpecial considerations\nThere is at least one record for every beneficiary enrolled in Part D during the year; there may be multiple records if more than one plan was elected during the year.\nThis file consists of two sub-files,",
+  "dataset": "part-d-plan-election-type-beneficiary-summary",
+  "url": "https://resdac.org/cms-data/files/part-d-plan-election-type-beneficiary-summary?page=1"
+}

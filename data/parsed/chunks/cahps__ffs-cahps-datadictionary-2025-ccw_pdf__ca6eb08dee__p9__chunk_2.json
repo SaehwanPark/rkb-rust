@@ -1,0 +1,8 @@
+{
+  "chunk_id": "cahps__ffs-cahps-datadictionary-2025-ccw_pdf__ca6eb08dee__p9__chunk_2",
+  "source_document": "data/raw/assets/pdf/ca6eb08deec69a2ca0c053e0e47dab882908b143.pdf",
+  "page": 9,
+  "text": "id \nsa_ptabcntrct Part a-b health plan id \nsa_ptab_type Part a-b plan type $PBT \nsa_plan_name Plan name \nsa_pffs Private fee for service plan \nsa_pbp_type Plan type of surveyed plan $PBT \nsa_pbp_num Plan id of surveyed plan \nsa_partd_stus Part d status $ID_F \nsa_org_entlmt Original reason for entitlement $OEN \nsa_mmp WESTAT: Mmp plan \nsa_mdcr_stus Reason for beneficiary entitlement $MCR \nsa_mdcd_stus Sample members who are dual eligible $ID_F \nsa_mbi_id Medicare beneficiary identifier (mbi)",
+  "dataset": "cahps",
+  "url": "https://resdac.org/sites/datadocumentation.resdac.org/files/2026-05/FFS_CAHPS_DataDictionary_2025_CCW.pdf"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "dme-ffs__data-documentation__c76b7f2478__chunk_17",
+  "source_document": "data/raw/html/documentation_page/c76b7f2478f9acd0d6b5bd4f4b0d553884a4a16d.html",
+  "page": null,
+  "text": "Code \n\n LINE_SERVICE_DEDUCTIBLE \n Line Service Deductible Indicator Switch \n\n LINE_ICD_DGNS_CD \n Line Diagnosis Code \n\n LINE_ICD_DGNS_VRSN_CD \n Line Diagnosis Code Diagnosis Version Code (ICD-9 or ICD-10) \n\n LINE_DME_PRCHS_PRICE_AMT \n Line DME Purchase Price Amount \n\n PRVDR_NUM \n DMERC Line Supplier Provider Number \n\n PRVDR_NPI \n DMERC Line-Item Supplier NPI Number \n\n DMERC_LINE_PRCNG_STATE_CD \n DMERC Line Pricing State Code (SSA) \n\n PRVDR_STATE_CD \n NCH Provider SSA State Code",
+  "dataset": "dme-ffs",
+  "url": "https://resdac.org/cms-data/files/dme-ffs/data-documentation"
+}

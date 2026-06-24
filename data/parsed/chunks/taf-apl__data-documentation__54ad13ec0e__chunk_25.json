@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-apl__data-documentation__54ad13ec0e__chunk_25",
+  "source_document": "data/raw/html/documentation_page/54ad13ec0ec7f6d311da24252620d5ade6c49360.html",
+  "page": null,
+  "text": "Managed Care Plan Location — Street Address 1\n\n 94\n\n MC_PLAN_ADR_LINE_2\n\n Managed Care Plan Location — Street Address 2\n\n 95\n\n MC_PLAN_ADR_LINE_3\n\n Managed Care Plan Location — Street Address 3\n\n 98\n\n MC_PLAN_CITY\n\n Managed Care Plan Location — City\n\n 99\n\n MC_PLAN_STATE_CD\n\n Managed Care Plan Location - State (ANSI Code)\n\n 100\n\n MC_PLAN_ZIP_CD\n\n Managed Care Plan Location — Zip Code\n\n 101\n\n MC_PLAN_CNTY_CD\n\n Managed Care Plan Location — County (FIPS) Code\n\n 102\n\n MC_PLAN_LCTN_ACTV_IND_01",
+  "dataset": "taf-apl",
+  "url": "https://resdac.org/cms-data/files/taf-apl/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "carrier-encounter__data-documentation__fdf41704a5__chunk_13",
+  "source_document": "data/raw/html/documentation_page/fdf41704a5479014ec2f0e238069edc3892c6599.html",
+  "page": null,
+  "text": "Encrypted CCW Beneficiary ID \n\n ENC_JOIN_KEY \n Unique Encounter Join Key \n\n CLM_TYPE_CD \n Claim Type Code \n\n CLM_LINE_NUM \n Claim Line Number (Encounter) \n\n LINE_NUM_ORIG \n Original Claim Line Number \n\n CLM_THRU_DT \n Claim Through Date (Encounter) \n\n PRVDR_NPI \n Line Rendering Physician NPI \n\n PRVDR_SPCLTY \n Line CMS Provider Specialty Code \n\n LINE_SRVC_CNT \n Line Service Count (Encounter) \n\n LINE_PLACE_OF_SRVC_CD \n Line Place of Service Code (Encounter) \n\n LINE_1ST_EXPNS_DT \n Line First",
+  "dataset": "carrier-encounter",
+  "url": "https://resdac.org/cms-data/files/carrier-encounter/data-documentation"
+}

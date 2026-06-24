@@ -1,0 +1,8 @@
+{
+  "chunk_id": "pde__data-documentation__2a1223d466__chunk_5",
+  "source_document": "data/raw/html/documentation_page/2a1223d466fb5dbda86f26f54710b8ccf2e5e797.html",
+  "page": null,
+  "text": "Other True Out-of-Pocket (TrOOP) Amount \n\n LICS_AMT \n Amount paid for the PDE by Part D low income subsidy \n\n PLRO_AMT \n Reduction in patient liability due to payments by other payers (PLRO) \n\n CVRD_D_PLAN_PD_AMT \n Amount paid by Part D plan for the PDE (drug is covered by Part D) \n\n NCVRD_PLAN_PD_AMT \n Amount paid by Part D plan for the PDE (drug is not covered by Part D) \n\n TOT_RX_CST_AMT \n Total Drug Cost (Part D) \n\n RX_ORGN_CD \n Prescription Origination Code \n\n RPTD_GAP_DSCNT_NUM \n Gap",
+  "dataset": "pde",
+  "url": "https://resdac.org/cms-data/files/pde/data-documentation"
+}

@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mmleads-3__data-documentation__94e426ac6d__chunk_8",
+  "source_document": "data/raw/html/documentation_page/94e426ac6df090203083bffc9a6b039975585c37.html",
+  "page": null,
+  "text": "Months\n\n 37\n\n MDCR_MC_PACE_MOS\n\n Medicare — Program of All-Inclusive Care for the Elderly (PACE) Months\n\n 38\n\n MDCR_MC_MMP_MOS\n\n Medicare-Medicaid Plan (MMP) Coverage Months\n\n 39\n\n MDCR_MC_OTHER_MOS\n\n Medicare — Other Managed Care Months\n\n 40\n\n MDCR_MC_UNKNOWN_MOS\n\n Medicare — Unknown Plan Type Manage Care Months\n\n 41\n\n MDCR_C_SNP_MOS\n\n Medicare-Medicaid Chronic Conditions Special Needs Plan (C-SNP) Months\n\n 42\n\n MDCR_D_SNP_MOS\n\n Medicare-Medicaid Dual Eligible Special Needs Plan (D-SNP)",
+  "dataset": "mmleads-3",
+  "url": "https://resdac.org/cms-data/files/mmleads-3/data-documentation"
+}

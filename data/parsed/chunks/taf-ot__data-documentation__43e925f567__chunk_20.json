@@ -1,0 +1,8 @@
+{
+  "chunk_id": "taf-ot__data-documentation__43e925f567__chunk_20",
+  "source_document": "data/raw/html/documentation_page/43e925f567178e0e1b4c955e5ed797571edb8c13.html",
+  "page": null,
+  "text": "Adjustment Code\n\n 14\n\n LINE_ADJUST_RSN_CD\n\n Claim Line Adjustment Reason Code\n\n 15\n\n LINE_SRVC_BGN_DT\n\n Claim Line Beginning Date of Service\n\n 16\n\n LINE_SRVC_END_DT\n\n Claim Line Ending Date of Service\n\n 17\n\n BNFT_TYPE_CD\n\n Benefit Type Code\n\n 18\n\n TOS_CD\n\n Type of Service Code\n\n 19\n\n XIX_SRVC_CTGRY_CD\n\n CMS-64 Form Category of Service for the Paid Claim\n\n 20\n\n XXI_SRVC_CTGRY_CD\n\n CMS-21 Form Category of Service for the Paid Claim\n\n 21\n\n CMS_64_FED_CTGRY_CD\n\n CMS-64 Form Code for Federal",
+  "dataset": "taf-ot",
+  "url": "https://resdac.org/cms-data/files/taf-ot/data-documentation"
+}

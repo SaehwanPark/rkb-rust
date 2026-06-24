@@ -1,0 +1,8 @@
+{
+  "chunk_id": "part-d-pharmacy-characteristics__data-documentation__d62affc4d5__chunk_5",
+  "source_document": "data/raw/html/documentation_page/d62affc4d53fdc4e8dcb747059a124cbc56c2cd2.html",
+  "page": null,
+  "text": "(encrypted) \n\n EPRSCRB_SRVC_IND \n E-Prescribing Services Indicator \n\n EPRSCRB_SRVC_CD \n Code Indicating the E-Prescribing Services Offered \n\n DME_SRVC_IND \n DME Services Indicator \n\n DME_SRVC_CD \n Code Indicating the DME Services Offered \n\n WALKIN_CLINIC_IND \n Walk-in Clinic Services Indicator \n\n WALKIN_CLINIC_CD \n Code Indicating the Level of Walk-in Clinic Services Offered \n\n IMMUNIZATIONS_IND \n Immunization Services Indicator \n\n IMMUNIZATIONS_CD \n Code Indicating the Level of Immunization",
+  "dataset": "part-d-pharmacy-characteristics",
+  "url": "https://resdac.org/cms-data/files/part-d-pharmacy-characteristics/data-documentation"
+}

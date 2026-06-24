@@ -1,0 +1,8 @@
+{
+  "chunk_id": "million-hearts__million-hearts-codebook_pdf__d3b20b87a0__p48__chunk_0",
+  "source_document": "data/raw/assets/pdf/d3b20b87a00316ac2738fff4fc36d32eecf35bb7.pdf",
+  "page": 48,
+  "text": "Chronic Conditions Warehouse Virtual Research Data Center \nMillion Hearts® CVD Risk Reduction Model Medicare Data Files Codebook │ May 2025 │ V 1.1 43 \n\nTINS \n\nLABEL: List of Taxpayer Identification Numbers for the Practice \n\nDESCRIPTION: List of federal Taxpayer Identification Numbers (TINs) for the practice. \n\nSHORT NAME: TINS \n\nLONG NAME: TINS \n\nTYPE: CHAR \n\nLENGTH: 4000 \n\nFILE(S): Practice \n\nSOURCE: Million Hearts Data Registry \n\nVALUES: — \n\nCOMMENT: This field is a list of one or more TINs",
+  "dataset": "million-hearts",
+  "url": "https://www2.ccwdata.org/documents/10280/19022436/million-hearts-codebook.pdf"
+}

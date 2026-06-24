@@ -1,0 +1,8 @@
+{
+  "chunk_id": "mbsf-27-cc__data-documentation__2b9d0b9108__chunk_12",
+  "source_document": "data/raw/html/documentation_page/2b9d0b9108c1a0a1122d15cc0b7b6b54dbdb5472.html",
+  "page": null,
+  "text": "Breast Cancer Mid-Year Indicator \n\n CANCER_BREAST_EVER \n Date that beneficiary first met claims criteria for female/male breast cancer indicator \n\n CNCRCLRC \n Colorectal Cancer End-of-Year Indicator \n\n CANCER_COLORECTAL_MID \n Colorectal Cancer Mid-Year Indicator \n\n CANCER_COLORECTAL_EVER \n Date that beneficiary first met claims criteria for the colorectal cancer indicator \n\n CANCER_PROSTATE \n Prostate Cancer End-of-Year Indicator \n\n CANCER_PROSTATE_MID \n Prostate Cancer Mid-Year Indicator",
+  "dataset": "mbsf-27-cc",
+  "url": "https://resdac.org/cms-data/files/mbsf-27-cc/data-documentation"
+}
