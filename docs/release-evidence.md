@@ -16,10 +16,9 @@ public release. It is not a release announcement.
 ## Verification Commands
 
 ```bash
-cargo fmt --all --check
-cargo clippy --all-targets --all-features -- -D warnings
-cargo test --all-targets --all-features
-cargo doc --no-deps
+scripts/release-check
+scripts/release-package
+scripts/release-plan
 ```
 
 Focused evidence should include:
@@ -29,6 +28,8 @@ Focused evidence should include:
 - `cargo test --test integration`
 - `cargo test --test hybrid_retrieval`
 - `cargo test --test cli_contract`
+- `cargo package --locked --list`
+- `cargo publish --dry-run --locked`
 
 ## Performance And Release Caveats
 
@@ -39,3 +40,5 @@ Focused evidence should include:
   foreground stdio server is the verified serving path.
 - Packaging, release tagging, and publication are intentionally not performed by
   this evidence document.
+- Release scripts read `release.toml` so future packaging updates can reuse the
+  same validation path instead of copying commands from this document.

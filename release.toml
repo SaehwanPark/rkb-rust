@@ -1,0 +1,37 @@
+[project]
+package = "rkb-rust"
+binary = "rkb"
+github_owner = "SaehwanPark"
+github_repo = "rkb-rust"
+repository = "https://github.com/SaehwanPark/rkb-rust"
+tag_prefix = "v"
+
+[crates_io]
+install = "cargo install rkb-rust"
+publish_command = "cargo publish --locked"
+
+[homebrew]
+tap = "SaehwanPark/homebrew-tap"
+formula = "rkb-rust"
+install = "brew install SaehwanPark/tap/rkb-rust"
+
+[package]
+deny_prefixes = [
+  "data/",
+  "manifests/",
+  "_workspace/",
+  ".agents/",
+  ".cursor/",
+  "target/",
+]
+
+[checks]
+commands = [
+  "cargo fmt --all --check",
+  "cargo clippy --all-targets --all-features -- -D warnings",
+  "cargo test --all-targets --all-features",
+  "cargo doc --no-deps",
+]
+
+[smoke]
+command = "rkb --version"

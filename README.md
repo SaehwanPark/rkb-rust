@@ -9,15 +9,23 @@ metadata extraction, parsing, variables, QA, lexical and hybrid retrieval,
 agent-context formatting, MCP serving/setup, retrieval evaluation, progress
 summaries, and downstream integration helpers.
 
+## Install
+
+```bash
+cargo install rkb-rust
+brew install SaehwanPark/tap/rkb-rust
+```
+
+For a new-user overview with package-page-safe links, see
+[docs/PROJECT_DESCRIPTION.md](docs/PROJECT_DESCRIPTION.md). For release
+operations, see [docs/RELEASE.md](docs/RELEASE.md).
+
 ## Development
 
 The Rust toolchain is pinned by `rust-toolchain.toml`.
 
 ```bash
-cargo fmt --all --check
-cargo clippy --all-targets --all-features -- -D warnings
-cargo test --all-targets --all-features
-cargo doc --no-deps
+scripts/release-check
 ```
 
 Inspect the CLI contract with:

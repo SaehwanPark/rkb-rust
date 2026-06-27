@@ -172,10 +172,27 @@ Verification:
 
 ## Present
 
-All listed rewrite development slices are implemented locally and awaiting final review/PR handoff.
+### Release Packaging and Distribution
+
+Status: Active
+
+Prepare crates.io and Homebrew distribution for the `rkb-rust` package and `rkb`
+binary with package-page documentation, reusable release scripts, and tag-driven
+automation.
+
+Verification:
+
+- crates.io metadata points at a new user-friendly project description with
+  absolute GitHub links.
+- Cargo package contents exclude archived runtime data and local harness state.
+- Reusable release scripts run local checks, package dry-runs, and dist planning
+  from `release.toml`.
+- GitHub Actions release workflow publishes only through explicit tags or manual
+  release dispatch with required secrets.
 
 ## Future
 
 - Replace deterministic local embedding vectors with a model-backed semantic runtime only
   after a separate dependency and performance review.
-- Publish release artifacts only after compatibility and performance evidence is reviewed.
+- Publish release artifacts only after release script evidence, compatibility
+  evidence, and maintainer approval are reviewed.

@@ -18,6 +18,9 @@ All notable changes are recorded here using a simplified Keep a Changelog format
 
 ### Added
 
+- crates.io/Homebrew release preparation with package metadata, a package-page
+  project description, a release runbook, reusable `release.toml`-driven
+  scripts, and tag-driven GitHub release automation.
 - CLI subcommand `rkb mcp` for read-only stdio JSON-RPC tool calls, plus deterministic `start`, `status`, and `stop` state tracking.
 - CLI subcommand `rkb mcp-setup` for JSON/TOML MCP client configuration updates with dry-run support.
 - CLI subcommand `rkb integration` with availability, variable crosswalk, cohort dictionary, context formatting, and caveat scanning helpers.

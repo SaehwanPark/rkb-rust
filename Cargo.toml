@@ -6,6 +6,26 @@ rust-version = "1.96"
 description = "Rust rewrite of the ResDAC/CMS documentation knowledge base"
 license = "MIT"
 repository = "https://github.com/SaehwanPark/rkb-rust"
+homepage = "https://github.com/SaehwanPark/rkb-rust"
+documentation = "https://github.com/SaehwanPark/rkb-rust/blob/main/docs/USER_MANUAL.md"
+readme = "docs/PROJECT_DESCRIPTION.md"
+keywords = ["cms", "resdac", "retrieval", "archive", "cli"]
+categories = ["command-line-utilities", "science"]
+include = [
+  "/src/**/*.rs",
+  "/tests/**/*.rs",
+  "/tests/fixtures/python-baseline/**",
+  "/docs/PROJECT_DESCRIPTION.md",
+  "/docs/USER_MANUAL.md",
+  "/docs/RELEASE.md",
+  "/docs/release-evidence.md",
+  "/README.md",
+  "/LICENSE",
+  "/Cargo.toml",
+  "/Cargo.lock",
+  "/rust-toolchain.toml",
+  "/rustfmt.toml",
+]
 
 [lib]
 name = "rkb"
@@ -39,3 +59,23 @@ unsafe_code = "forbid"
 [lints.clippy]
 all = "deny"
 pedantic = "deny"
+
+[workspace]
+members = ["."]
+resolver = "3"
+
+[workspace.metadata.dist]
+cargo-dist-version = "0.32.0"
+ci = "github"
+installers = ["shell", "powershell", "homebrew"]
+tap = "SaehwanPark/homebrew-tap"
+publish-jobs = ["homebrew"]
+targets = [
+  "aarch64-apple-darwin",
+  "x86_64-apple-darwin",
+  "x86_64-unknown-linux-gnu",
+]
+
+[profile.dist]
+inherits = "release"
+lto = "thin"
